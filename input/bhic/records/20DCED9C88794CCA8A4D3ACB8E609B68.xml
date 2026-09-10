@@ -1,0 +1,2557 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>20DCED9C88794CCA8A4D3ACB8E609B68</identifier>
+    <datestamp>2026-09-08</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HtBHIC">248</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Klooster Mariëngraf in Grave, 1360 - 1850</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+        <date calendar="gregorian" era="ce" normal="2020">2020</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF899742">
+      <unittitle>Klooster Mariëngraf in Grave, 1360 - 1850</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-HtBHIC">248</unitid>
+      <note label="#guid">
+        <p>20DCED9C88794CCA8A4D3ACB8E609B68</p>
+      </note>
+      <unitdate calendar="gregorian" era="ce" normal="1360/1850"/>
+      <note label="Vindplaats origineel">
+        <p>BHIC 's-Hertogenbosch</p>
+      </note>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Religie en Levensbeschouwing</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Historisch overzicht</emph>
+        </head>
+        <p>Het begijnenklooster 'Mariëngraf'is voortgekomen uit een gewoon begijnhof. Naar alle waarschijnlijkheid bestond het begijnhof reeds tenminste 100 jaren, toen in 1436 Hertog Arnold van Gelder nieuwe statuten aan het begijnhof gaf.
+          <note>
+            <p>Zie inventarisnummer 1, pag. 1-13.</p>
+          </note>
+        </p>
+        <p>In 1459 nam een deel van de zusters de 3e regel van St. Franciscus aan. Men vindt dit feit nog bevestigd in een oorkonde van Adolf van Gelder uit het jaar 1469, waaruit tevens de bedoeling blijkt, dat het oude begijnhof naast het nieuwe instituut moest uitsterven.
+          <note>
+            <p>Zie inventarisnummer 1, pag. 14-17.</p>
+          </note>
+        </p>
+        <p>Aan de privilegiën, van oudsher door de landsheren verleend, worden in 1463 nieuwe toegevoegd door Lodewijk van Bourbon, bisschop van Luik, waarbij onder meer toestemming gegeven werd om in het klooster een kapel te stichten, die dan ook in 1526 ingewijd werd.
+          <note>
+            <p>Zie inventarisnummer 1, pag. 53 en inventarisnummer 35.</p>
+          </note> In deze tijd nemen de inkomsten en bezittingen van het klooster door de talrijke schenkingen belangrijk toe. Vooral Jonker Willem van Egmond en zijn vrouw Margriet dragen hiertoe bij, wanneer zij in 1480 al hun goederen in het gericht van Neer en in 1484 het grote huis in Grave aan het klooster schenken.
+          <note>
+            <p>Zie regesten nummers 34 en 37.</p>
+          </note>
+        </p>
+        <p>Daar het aantal zusters door Arnold van Gelder tot een maximum van 16 beperkt was en in de loop der volgende eeuwen steeds kleiner werd, moeten de woonruimte en de inkomsten dan ook altijd ruim voldoende geweest zijn. Deze gunstige factoren bleven ook bestaan, toen in 1602 na de wisselvallige oorlogsomstandigheden van het begin van de tachtigjarige oorlog de stad Grave definitief door Maurits veroverd werd. Willem van Oranje had Grave reeds van 1559 onder de titel van pandheer in leen gehad en als zodanig trad ook Maurits op: de uitoefening van de katholieke godsdienst werd er door hem geheel verboden. In 1611 werd hij door een schenking eigenaar van Grave en verklaarde alle geestelijke goederen voor verbeurd. Desondanks bleef het gebruik der landrenten aan het klooster toegestaan, terwijl ook op het gebruik van de gebouwen nimmer belangrijke inbreuk is gemaakt.
+          <note>
+            <p>Zie de regesten van ná het jaar 1611.</p>
+          </note>
+        </p>
+        <p>Ongunstig was alleen de bepaling, dat geen nieuwe zusters meer mochten worden aangenomen, maar ook hieraan werd niet streng de hand gehouden. Herhaaldelijk gaven de Prinsen van Oranje weer verlof novices op te nemen.
+          <note>
+            <p>Vergelijk de lijsten onder inventarisnummer 1, pag. 103 e.v. en inventarisnummer 7.</p>
+          </note>
+        </p>
+        <p>In 1672 bezette Turenne de stad en gaf de grote kerk en de kloosterkerk aan de katholieken terug. In 1674 bij uitdrijving van de Fransen was het klooster zwaar beschadigd, doch het werd hersteld en in het klooster werd een lokaal tot kerk verbouwd, toen de grote kerk op de markt weer aan de Protestanten was gekomen en de kloosterkerk aan de Franse Hervormden (refugiés) in gebruik gegeven was.</p>
+        <p>In 1729 waren de zuster, die met officiële vergunning in het klooster woonden, uitgestorven en werden de goederen prijs verklaard voor het domein. Maar ook in dit geval schijnt het bij een bedreiging gebleven te zijn, want na enige jaren blijkt de oude stand van zaken nog te bestaan: de zusters zonder 'vergunning' zetten op de oude voet hun kloosterbestaan voort. In 1760 waren er nog maar 3 zusters-alle boven 70 jaar oud-doch Willem V gaf vergunning nieuwelingen op te nemen. Toen in 1800 de storm het hoofdgebouw vernielde, werd het klooster door de 2 overgebleven nonnen verlaten en in 1802 werd de ruïne tot staatsdomein verklaard. De papieren en eigendomstitels werden mede aan de staat overgedragen, maar het is niet geheel duidelijk waar deze gebleven zijn.
+          <lb/>
+          <lb/>Rijksarchief in Noord-Brabant, 1997
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Aanwijzingen voor de gebruiker</emph>
+        </head>
+        <p>Verwijzing naar archiefstukken uit dit archief geschiedt door
+          <lb/>(volledig): 
+          <emph render="italic">Brabants Historisch Informatie Centrum, toegangsnummer 248 Klooster Mariëngraf in Grave, 1360-1850</emph>, inv.nr. ...
+          <lb/>(verkort): 
+          <emph render="italic">BHIC, 248 Mariëngraf Grave</emph>, inv.nr. ...
+        </p>
+      </odd>
+    </odd>
+    <dsc type="combined">
+      <c01 level="series">
+        <did id="MF899743">
+          <unitid type="guid">17A2C786C46845A0811BEA0203FC445B</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Klooster Mariëngraf in Grave, 1360 - 19e eeuw</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1360/1850"/>
+        </did>
+        <c02 level="file">
+          <did id="MF899744">
+            <unitid type="guid">B13D664D2B8B4C419FF3F76144821496</unitid>
+            <unitid>1</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B13D664D2B8B4C419FF3F76144821496</unitid>
+            <unittitle>Cartularium, met privileges, eigendomsbewijzen, rente-akten en aantekeningen, 1360 - 1676&lt;br/&gt;Kopieën uit 18e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1360/1676"/>
+          </did>
+          <scopecontent>
+            <p>Regestnrs 4 - 11, 13 - 64, 66 - 67, 69 - 70 en 79 - 87. Cartularium =  kopie-akten, aangelegd door degene die deze akten als bewijsstukken voor zijn rechten of gedenkstukken van zijn geschiedenis beschouwde.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1956-10-05</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899745">
+            <unitid type="guid">2F8AF26E83E24C6FB5193D67AEDB3692</unitid>
+            <unitid>2</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2F8AF26E83E24C6FB5193D67AEDB3692</unitid>
+            <unittitle>Cartularium, met privileges, eigendomsbewijzen en rente-akten, 1422 - 1664&lt;br/&gt;Kopieën uit 1684</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1422/1664"/>
+          </did>
+          <scopecontent>
+            <p>Regestnrs 5 - 7, 11, 14, 19, 22, 30, 33, 35, 39 - 40, 45, 49, 58 - 59, 61 en 79. Cartularium =  kopie-akten, aangelegd door degene die deze akten als bewijsstukken voor zijn rechten of gedenkstukken van zijn geschiedenis beschouwde.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1956-10-12</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899746">
+            <unitid type="guid">F1B7FE33C61D49C5BF897AE8C0AF1ABC</unitid>
+            <unitid>3</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F1B7FE33C61D49C5BF897AE8C0AF1ABC</unitid>
+            <unittitle>Artikelen van verzoening, van Grave met pandheer Maurits van Nassau, dat begijnen in hun rechten zullen worden gelaten, behalve afstand van kerk, gelijktijdige kopie, 1602</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1602">1602</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Incompleet.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899747">
+            <unitid type="guid">59D32EE0C90A49119F5FB0C3FBF6FE6C</unitid>
+            <unitid>4</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/59D32EE0C90A49119F5FB0C3FBF6FE6C</unitid>
+            <unittitle>Brieven van Reginald Cools en Johan F. Dispa, bisschoppen van Roermond,, 1677 - 1743</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1677/1743">1677 - 1743</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899748">
+            <unitid type="guid">5B19901736E3479198B31A2D2091B206</unitid>
+            <unitid>5</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5B19901736E3479198B31A2D2091B206</unitid>
+            <unittitle>Akte van vrijgeleide, van Louis de Bourbon, prins van Condé, voor klooster, 1673&lt;br/&gt;Akte van vrijgeleide, van koning van Spanje, voor klooster en zusters, 1703&lt;br/&gt;Authentieke kopie van 1706</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1673/1703"/>
+            <physdesc>2 stukken</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 93.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899749">
+            <unitid type="guid">DB44B7CF2F444D909BC172F387AFB183</unitid>
+            <unitid>6</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DB44B7CF2F444D909BC172F387AFB183</unitid>
+            <unittitle>Verhandeling over inroepen, door bisschop Roermond, van hulp van Rodricque Homonie, biechtvader gezant Portugal, bij verzoeken om bevestiging van privileges klooster, door prins van Oranje, 18e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1700/1800">18e eeuw</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899750">
+            <unitid type="guid">A7F61B460A3E4E0CBBF4C03AEC16BF79</unitid>
+            <unitid>7</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A7F61B460A3E4E0CBBF4C03AEC16BF79</unitid>
+            <unittitle>Lijsten van zusters, die in klooster woonden, 1719 en 1751</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1719/1751">1719 en 1751</unitdate>
+            <physdesc>2 stukken</physdesc>
+          </did>
+          <scopecontent>
+            <p>Lijst van overleden zusters, weldoeners en anderen bevindt zich in inventarisnr 1, pagina 103 en volgende.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1956-11-16</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899751">
+            <unitid type="guid">BC66DFB4DFCD46E89B956CA2765F1EC7</unitid>
+            <unitid>8</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BC66DFB4DFCD46E89B956CA2765F1EC7</unitid>
+            <unittitle>Akten van overeenkomst, over inbreng van intredende zusters, 1664 - 1706</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1664/1706">1664 - 1706</unitdate>
+          </did>
+          <scopecontent>
+            <p>Regestnrs 78, 89 en 94.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899752">
+            <unitid type="guid">D01365FAC0AD4A94879F15626CB874D6</unitid>
+            <unitid>9</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D01365FAC0AD4A94879F15626CB874D6</unitid>
+            <unittitle>Specificatie van hetgeen intredende zuster behoort in te brengen, 18e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1700/1800">18e eeuw</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1956-11-30</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899753">
+            <unitid type="guid">6406162FAAA64A7B8587B77F09117A08</unitid>
+            <unitid>10</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6406162FAAA64A7B8587B77F09117A08</unitid>
+            <unittitle>Gebruik van huis begijnen, door rector van school in Grave, 1614 - 1617</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1614/1617">1614 - 1617</unitdate>
+            <physdesc>2 stukken</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnrs 71 - 72.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899754">
+            <unitid type="guid">C85DF5A81B524938B2A10CC9B60A09D9</unitid>
+            <unitid>11</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C85DF5A81B524938B2A10CC9B60A09D9</unitid>
+            <unittitle>Akte van overeenkomst, over nalatenschap Guerhard Kerstens, 1619</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1619">1619</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 73,</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899755">
+            <unitid type="guid">EE7732ADA2E44E75888349AACD75DE25</unitid>
+            <unitid>12</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EE7732ADA2E44E75888349AACD75DE25</unitid>
+            <unittitle>Akte van overeenkomst, over erfgoederen van Jordan Kerstens, waarbij ook klooster betrokken is, 1638</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1638">1638</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 74.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899756">
+            <unitid type="guid">86BA474F704342A8A7786C140FB2D6EE</unitid>
+            <unitid>13</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/86BA474F704342A8A7786C140FB2D6EE</unitid>
+            <unittitle>Geschil met Wolter Janszn, over grond van klooster, 1642</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1642">1642</unitdate>
+          </did>
+          <scopecontent>
+            <p>Regestnrs 3, 12 en 75 - 77.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899757">
+            <unitid type="guid">E7366615B7BE4599B5F7CB1197403C27</unitid>
+            <unitid>14</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E7366615B7BE4599B5F7CB1197403C27</unitid>
+            <unittitle>Lijst van machtigingen, over gemene gronden in land van Cuijk, 1652 - 1664</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1652/1664">1652 - 1664</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899758">
+            <unitid type="guid">5C1C85C72215428D948B91F891F34998</unitid>
+            <unitid>15</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5C1C85C72215428D948B91F891F34998</unitid>
+            <unittitle>Verhandeling over grootte perceel land van klooster, 17e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1600/1700">17e eeuw</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1957-01-11</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899759">
+            <unitid type="guid">0A8D0709111744ABBD908A8E39732A98</unitid>
+            <unitid>16</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0A8D0709111744ABBD908A8E39732A98</unitid>
+            <unittitle>Schets of plattegrond van plaats, waarop voormalig klooster Mariëngraf in Grave gestaan heeft, 1807</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1807">1807</unitdate>
+            <physdesc>1 tekening</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1957-01-18</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899760">
+            <unitid type="guid">222A776A7EEE4751926E4EFB18B18097</unitid>
+            <unitid>17</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/222A776A7EEE4751926E4EFB18B18097</unitid>
+            <unittitle>Twee kwitanties, van Koert Bischop en zijn schoonzoon, wegens verkoop percelen land aan klooster Mariëngraf in Grave, 1552</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1552">1552</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 65.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899761">
+            <unitid type="guid">A5B4CD11EB044D39923AA1A295A9199A</unitid>
+            <unitid>18</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A5B4CD11EB044D39923AA1A295A9199A</unitid>
+            <unittitle>Akte van overdracht, van boerenhof, huis en schuur in Schaijk, 1676</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1676">1676</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 85.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1957-02-01</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899762">
+            <unitid type="guid">EA2B4E53A1C6489393E429CAC0F0BB3D</unitid>
+            <unitid>19</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EA2B4E53A1C6489393E429CAC0F0BB3D</unitid>
+            <unittitle>Akte van overdracht, van huis achter het gasthuis in Grave, 1686</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1686">1686</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 88.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1957-02-08</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899763">
+            <unitid type="guid">0DBCF80A0FA84A05B472853530F47E6C</unitid>
+            <unitid>20</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0DBCF80A0FA84A05B472853530F47E6C</unitid>
+            <unittitle>Akte van overdracht, van huis en erf aan Hooftsestraat in Grave, 1701</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1701">1701</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 91.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899764">
+            <unitid type="guid">6F90FCCD745C4302B0FFE7950B1BD2DA</unitid>
+            <unitid>21</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6F90FCCD745C4302B0FFE7950B1BD2DA</unitid>
+            <unittitle>Akte van overdracht, van huis en erf aan Hooftsestraat in Grave, 1704</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1704">1704</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 92.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899765">
+            <unitid type="guid">78A0386DC44D4DF1A181943EAD439DF1</unitid>
+            <unitid>22</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/78A0386DC44D4DF1A181943EAD439DF1</unitid>
+            <unittitle>Akte van overdracht, van huis met schuur en perceel bouwland Keppenveld, 1729</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1729">1729</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 96.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899766">
+            <unitid type="guid">E0F7A9A2CBB64094814E3692A36B9EE6</unitid>
+            <unitid>23</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E0F7A9A2CBB64094814E3692A36B9EE6</unitid>
+            <unittitle>Akte van overdracht, van huis achter het gasthuis in Grave, 1734</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1734">1734</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 99.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1957-03-08</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899767">
+            <unitid type="guid">DF2E4552894E47E98058AE1FF7604663</unitid>
+            <unitid>24</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DF2E4552894E47E98058AE1FF7604663</unitid>
+            <unittitle>Akte van overdracht, van perceel land op Couwenoort in Escharen, 1750</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1750">1750</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnrs 101.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1957-03-15</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899768">
+            <unitid type="guid">AFE69D09929C46C6A052468E11FA7FC7</unitid>
+            <unitid>25</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/AFE69D09929C46C6A052468E11FA7FC7</unitid>
+            <unittitle>Akte van vestiging, voor begijnhof in Grave, van jaarlijkse levering van malder rogge uit hofstad in Escharen, 1516</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1516">1516</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Hofstad = bouwkavel. Regestnr 58.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1957-03-22</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899769">
+            <unitid type="guid">5899BD3C723443DABCD6F79B2E9D26E9</unitid>
+            <unitid>26</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5899BD3C723443DABCD6F79B2E9D26E9</unitid>
+            <unittitle>Akte van vestiging, voor weeskinderen van Grave, van jaarlijkse rente van 10 guldens, uit huis en erf in Grote Rogstraat aldaar, 1733</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1733">1733</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 98.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1957-03-29</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899770">
+            <unitid type="guid">6DA14CD66874429C98BDEF4746A2F609</unitid>
+            <unitid>27</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6DA14CD66874429C98BDEF4746A2F609</unitid>
+            <unittitle>Akte van vestiging, van jaarlijkse rente op huis in Rogstraat in Grave, 1741</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1741">1741</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 100.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1957-04-05</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899771">
+            <unitid type="guid">C0845CAA58124A0E8C98B10085A5853D</unitid>
+            <unitid>28</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C0845CAA58124A0E8C98B10085A5853D</unitid>
+            <unittitle>Akte van schuldvordering, van 23 Brabantse guldens, op Anna Pirok in Grave?, 1570</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1570">1570</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 68.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899772">
+            <unitid type="guid">4CF2BF5BF86845D5AE543B525E8FE84E</unitid>
+            <unitid>29</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4CF2BF5BF86845D5AE543B525E8FE84E</unitid>
+            <unittitle>Lijst van giften, aan klooster Mariëngraf, op voorwaarde van gebeden en uitdelingen aan armen, circa 1650 - 1700</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1650/1700">circa 1650 - 1700</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1957-04-19</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899773">
+            <unitid type="guid">CBEAE14CDD714E32BFBF75693A124244</unitid>
+            <unitid>30</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CBEAE14CDD714E32BFBF75693A124244</unitid>
+            <unittitle>Lijst van bezittingen van klooster, ingevolge gerechtelijke aanzegging van 13 oktober 1722 opgemaakt voor Johan Ruyl, rentmeester domeinen, circa 1722 - 1813</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1722/1813">circa 1722 - 1813</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Zie ook lijsten op pagina 97 en 132 cartularium inventarisnr 1.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1957-04-26</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899774">
+            <unitid type="guid">049D07477ED04840930CA7E91A45FE3F</unitid>
+            <unitid>31</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/049D07477ED04840930CA7E91A45FE3F</unitid>
+            <unittitle>Verzoekschrift, door klooster Mariëngraf in Grave, aan Raad van State, om vrijstelling van verponding voor 2 huizen, met goedkeuring, 1698</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1698">1698</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 90. Verponding = belasting op vaste goederen.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899775">
+            <unitid type="guid">C40DA01072F14CA2849DF2418DEA8E91</unitid>
+            <unitid>32</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C40DA01072F14CA2849DF2418DEA8E91</unitid>
+            <unittitle>Akte van schuld, wegens voor klooster opgenomen 600 carolusguldens, 1727</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1727">1727</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 95.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899776">
+            <unitid type="guid">71ADFF01BE7248F3B33FC289C6CB10D3</unitid>
+            <unitid>33</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/71ADFF01BE7248F3B33FC289C6CB10D3</unitid>
+            <unittitle>Verzoekschrift, door Vincent Maas in Deursen, aan ambtman van Grave en Land van Cuijk, om onderzoek naar geld, in bewaring gegeven aan procuratesse klooster Mariëngraf, en nu gedeeltelijk verdwenen, 1707</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1707">1707</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899777">
+            <unitid type="guid">36B533956495477DB5D85AE72FB278A4</unitid>
+            <unitid>34</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/36B533956495477DB5D85AE72FB278A4</unitid>
+            <unittitle>Beschikking van domeinraad, over terugbetaling rente, ten onrechte betaald aan klooster, gelijktijdige kopie, 1732</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1732">1732</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 97.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899778">
+            <unitid type="guid">3CA677D06A784AA8909DE4E0CC3596ED</unitid>
+            <unitid>35</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3CA677D06A784AA8909DE4E0CC3596ED</unitid>
+            <unittitle>'Kerkelijke historie van Gelderland', van Johannes Knippenberch (Brussel 1719) voor zover geschiedenis klooster aangaat, kopie, 18e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1700/1800">18e eeuw</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF899779">
+            <unitid type="guid">38B2500BB91C4D7DADE8D4F290B68418</unitid>
+            <unitid>36</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/38B2500BB91C4D7DADE8D4F290B68418</unitid>
+            <unittitle>Historische schets 'Het Begijnen-klooster te Grave en zijne Dichteresse', door Pauwels Foreestier, circa 1850</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1840/1860">circa 1850</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Udensche Courant, 1957-06-14</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF1143717">
+          <unitid type="guid">7490A9677DEC495B8155A3515AF1C218</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Regesten</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1360/1850"/>
+        </did>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142083">
+            <unitid type="guid">AC0E369FF82746C98AE6394637AB58C7</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">1</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1360-12-07.&lt;br/&gt; 1360 december 7 (Avond-Conceptio Mariae)&lt;br/&gt;Schepenen in Velp (Noord-Brabant) oorkonden, dat voor hen, door Mette Romers en haar dochter en zonen, werd overgedragen, voor Jan Wrede: hoeve aan Gemenestraat in Reek&lt;br/&gt;Kopie inventarisnr 1, pagina 70</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1360" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1360-12-07.&lt;br/&gt; 1360 december 7 (Avond-Conceptio Mariae)&lt;br/&gt;Schepenen in Velp (Noord-Brabant) oorkonden, dat voor hen, door Mette Romers en haar dochter en zonen, werd overgedragen, voor Jan Wrede: hoeve aan Gemenestraat in Reek&lt;br/&gt;Kopie inventarisnr 1, pagina 70</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/AC0E369FF82746C98AE6394637AB58C7" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142084">
+            <unitid type="guid">AE9892F2930A40BCACD6CD12694A99F5</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1361-02-07.&lt;br/&gt; 1361 februari 7 (Zondag Grote Vastenavond)&lt;br/&gt;Schepenen in Velp (Noord-Brabant) oorkonden, dat voor hen, door Jan Wrede overgedragen werden, voor Gelis Hillensz:&lt;br/&gt;hoeve aan Gemenestraat in Reek en alle goederen in landen van Herpen, die volgens schepenakte door Mette Romers en haar kinderen aan hem waren overgedragen&lt;br/&gt;Kopie inventarisnr 1, pagina 70 - 72</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1361" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1361-02-07.&lt;br/&gt; 1361 februari 7 (Zondag Grote Vastenavond)&lt;br/&gt;Schepenen in Velp (Noord-Brabant) oorkonden, dat voor hen, door Jan Wrede overgedragen werden, voor Gelis Hillensz:&lt;br/&gt;hoeve aan Gemenestraat in Reek en alle goederen in landen van Herpen, die volgens schepenakte door Mette Romers en haar kinderen aan hem waren overgedragen&lt;br/&gt;Kopie inventarisnr 1, pagina 70 - 72</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/AE9892F2930A40BCACD6CD12694A99F5" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142085">
+            <unitid type="guid">7210553500C84334B478B5A117742225</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">3</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1395-02-22.&lt;br/&gt; 1395 februari 22 (Sint-Petersdag ad Cathedram)&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Derik van Vosche / Jacob van Bruggen / Jan Spronk / Jan Gelenberg enerzijds, en Gerrit Gooswijnsz / Jan Snorre anderzijds, verdeling werd overeengekomen over exploitatie van perceel land in de Mars bij Grave&lt;br/&gt;Kopie inventarisnr 13 (Collectie Ragay nr 134)</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1395" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142086">
+            <unitid type="guid">EE04B2C9954B4AC9A16D14FF065C37C0</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">4</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1409-06-26.&lt;br/&gt; 1409 juni 26 (Donderdag na Joannis Baptiste)&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Dirk van Mameren, voor Hermen Gelisz overgedragen werd:&lt;br/&gt;hoeve land aan Gemenestraat, later genaamd Kopkensveld&lt;br/&gt;Uittreksel inventarisnr 1, pagina 79</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1409" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142087">
+            <unitid type="guid">E40D7340C62347B1AF458D84AFB29FFD</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">5</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1422-05-13.&lt;br/&gt; 1422 mei 13 (Sint-Servaasdag)&lt;br/&gt;Schepenen van Escharen oorkonden, dat voor hen, door Jan Melisz en zijn vrouw, gevestigd werd, voor Henrik Woutersz:&lt;br/&gt;jaarlijkse rente van 6 vat rogge uit perceel land bij Escharen&lt;br/&gt;Kopie inventarisnr 1, pagina 28 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1422" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142088">
+            <unitid type="guid">6825E50AA7334DBE89DB7E690FDF4D45</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">6</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1425-06-26.&lt;br/&gt; 1425 juni 26&lt;br/&gt;Schepenen van Escharen oorkonden, dat voor hen, door Jan Melisz en zijn vrouw Gierborg, overgedragen werd, voor Heinen van der Hage:&lt;br/&gt;jaarlijkse rente van 11/2 malder rogge, te leveren in Grave uit 2 percelen land en erf aldaar&lt;br/&gt;Kopie inventarisnr 1, pagina 31-33 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1425" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142089">
+            <unitid type="guid">FABD64E002F1477ABFDF7E339232146A</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">7</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1430-10-23.&lt;br/&gt; 1430 oktober 23 (Sint-Severijnsdag)&lt;br/&gt;Schepenen van Cuijk oorkonden, dat voor hen, door Arnt Bloem en zijn vrouw Agnes, overgedragen werd, voor Liesbeth van der Berge en het Begijnhof in Grave:&lt;br/&gt;rente van 1 malder rogge, jaarlijks te leveren uit hoeve de Steenakker in Haps&lt;br/&gt;Kopie inventarisnr 1, pagina 38 en inventarisnr 2.</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1430" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1430-10-23.&lt;br/&gt; 1430 oktober 23 (Sint-Severijnsdag)&lt;br/&gt;Schepenen van Cuijk oorkonden, dat voor hen, door Arnt Bloem en zijn vrouw Agnes, overgedragen werd, voor Liesbeth van der Berge en het Begijnhof in Grave:&lt;br/&gt;rente van 1 malder rogge, jaarlijks te leveren uit hoeve de Steenakker in Haps&lt;br/&gt;Kopie inventarisnr 1, pagina 38 en inventarisnr 2.</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/FABD64E002F1477ABFDF7E339232146A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142090">
+            <unitid type="guid">79EEC87220624B3B93E24AF69B38E9A9</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">8</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1436-01-26.&lt;br/&gt; 1436 januari 26 (andere daags na Convers. Pauli)&lt;br/&gt;Schepenen in Grave (?) oorkonden, dat voor hen overgedragen werd, door Gyb Warderbergs en Jan Gyben, voor Henrik Schermer van Uden: perceel land, later bekend als kamp de Lykt&lt;br/&gt;Uittreksel inventarisnr 1, pagina 80</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1436" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142091">
+            <unitid type="guid">559640B994BF4F9CB6C9AA6A042CA740</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">9</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1436-12-27.&lt;br/&gt; 1436 december 27 (Donderdag na Kerstmis)&lt;br/&gt;Arnold, hertog van Gelre en Gulik, graaf van Zutphen en heer van Cuijk, oorkondt in Grave bevestiging van de privileges, die zijn voorvader, heer van Cuijk, verleend heeft aan begijnhof in Grave en geeft meerdere regels voor leven zusters&lt;br/&gt;Kopie inventarisnr 1, pagina 1-13</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1436" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1436-12-27.&lt;br/&gt; 1436 december 27 (Donderdag na Kerstmis)&lt;br/&gt;Arnold, hertog van Gelre en Gulik, graaf van Zutphen en heer van Cuijk, oorkondt in Grave bevestiging van de privileges, die zijn voorvader, heer van Cuijk, verleend heeft aan begijnhof in Grave en geeft meerdere regels voor leven zusters&lt;br/&gt;Kopie inventarisnr 1, pagina 1-13</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/559640B994BF4F9CB6C9AA6A042CA740" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142092">
+            <unitid type="guid">07BCD4A940EF4469A47A9AC1B38C27D1</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">10</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1440-02-20.&lt;br/&gt; 1440 mei 20&lt;br/&gt;Schepenen in Velp (Noord-Brabant) oorkonden, dat voor hen, door begijnenklooster in Grave, overgedragen werd, voor Jacob Spaanrebeen: jaarlijkse levering van 6 malder rogge uit Sluiskamp van klooster&lt;br/&gt;Uittreksel inventarisnr 1, pagina 66</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1440" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142093">
+            <unitid type="guid">56B09582CE714F5AB16913ADFA96EF1C</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">11</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1441-03-27.&lt;br/&gt; 1441 maart 27&lt;br/&gt;Schepenen van Escharen oorkonden, dat voor hen, door Arnt van der Hage en zijn vrouw Luijtgart, overgedragen werd, voor Gerrit Badens: rente van 11/2 malder rogge, jaarlijks in Grave te leveren uit percelen land aldaar&lt;br/&gt;Kopie van transfix (door oorkonde, beschreven in regestnr 6) inventarisnr 1, pagina 33 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1441" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142094">
+            <unitid type="guid">636ADAC4309245ECA5BB71FE1B9E44EF</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">12</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1441-12-17.&lt;br/&gt; 1441 december 17&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen overgedragen werd, door Hendrik van Have, voor Wouter van Wamel: perceel land in de Mars bij Grave&lt;br/&gt;Kopie inventarisnr 13</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1441" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142095">
+            <unitid type="guid">AE372E53C33244369E1F09D923EA1CD2</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">13</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1443-09-17.&lt;br/&gt; 1443 september 17 (Sint-Lambert)&lt;br/&gt;Schepenen in Velp (Noord-Brabant) oorkonden, dat voor hen, door Jan van den Broek, overgedragen werd, voor Wolter van Wamel: perceel land, later Sluiskamp genoemd&lt;br/&gt;Uittreksel inventarisnr 1, pagina 67</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1443" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142096">
+            <unitid type="guid">7B890AAC515F4E50B5F00BBD59670C0C</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">14</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1445-10-15.&lt;br/&gt; 1445 oktober 15&lt;br/&gt;Schepenen in Grave oorkonden dat, voor hen, door Ruth Kans de Brouwer en zijn vrouw Hebba, overgedragen werd, voor Begijnhof aldaar: 1 malder rogge jaarlijks uit huis en erf in Grave&lt;br/&gt;Kopie inventarisnr 1, pagina 47 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1445" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142097">
+            <unitid type="guid">DB077E4957BC455B85426F218570CBC3</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">15</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1447-05-24.&lt;br/&gt; 1447 mei 24&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Jacob Emondsz en burgemeester Jan van Bers overgedragen werd, voor Jan Naperinch: perceel land in de Mars, later genaamd Streepkamp&lt;br/&gt;Kopie inventarisnr 1, pagina 62</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1447" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1447-05-24.&lt;br/&gt; 1447 mei 24&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Jacob Emondsz en burgemeester Jan van Bers overgedragen werd, voor Jan Naperinch: perceel land in de Mars, later genaamd Streepkamp&lt;br/&gt;Kopie inventarisnr 1, pagina 62</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DB077E4957BC455B85426F218570CBC3" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142098">
+            <unitid type="guid">D518579CFC3441F2838865F0CC3D6AE4</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">16</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1449-02-01.&lt;br/&gt; 1449 februari 1 (Avond-Pur. Maria)&lt;br/&gt;Schepenen in Velp (Noord-Brabant) oorkonden, dat voor hen, door Liesbeth van Uden, overgedragen werd, voor Grem Woltersz:&lt;br/&gt;1/2 hoeve aan de Reek / 1/2 ander perceel land / 1 morgen land uit middelhoeven&lt;br/&gt;Kopie inventarisnr 1, pagina 73 - 74</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1449" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1449-02-01.&lt;br/&gt; 1449 februari 1 (Avond-Pur. Maria)&lt;br/&gt;Schepenen in Velp (Noord-Brabant) oorkonden, dat voor hen, door Liesbeth van Uden, overgedragen werd, voor Grem Woltersz:&lt;br/&gt;1/2 hoeve aan de Reek / 1/2 ander perceel land / 1 morgen land uit middelhoeven&lt;br/&gt;Kopie inventarisnr 1, pagina 73 - 74</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D518579CFC3441F2838865F0CC3D6AE4" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142099">
+            <unitid type="guid">9EA1B1E0633A489BB2A7B85A473F8F9B</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">17</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1449-02-02.&lt;br/&gt; 1449 februari 2 (Purifications)&lt;br/&gt;Schepenen (in Grave?) oorkonden, dat voor hen overgedragen werden: 5 morgen land voor Grem Wolters&lt;br/&gt;Uittreksel uit transfix, inventarisnr 1, pagina 80</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1449" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142100">
+            <unitid type="guid">D78C0BFF3072494B9C491D9BE6B7984E</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">18</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1449-06-04.&lt;br/&gt; 1449 juni 4&lt;br/&gt;Schepenen in Velp (Brabant) oorkonden, dat voor hen, door Henrik Caldoenen en zijn vrouw, voor Grem Wolters overgedragen werd: 1/2 hoeve aan de Reek / 1/2 ander perceel land / 1 morgen land uit Middelhoeven&lt;br/&gt;Uittreksel inventarisnr 1, pagina 74</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1449" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1449-06-04.&lt;br/&gt; 1449 juni 4&lt;br/&gt;Schepenen in Velp (Brabant) oorkonden, dat voor hen, door Henrik Caldoenen en zijn vrouw, voor Grem Wolters overgedragen werd: 1/2 hoeve aan de Reek / 1/2 ander perceel land / 1 morgen land uit Middelhoeven&lt;br/&gt;Uittreksel inventarisnr 1, pagina 74</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D78C0BFF3072494B9C491D9BE6B7984E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142101">
+            <unitid type="guid">64CDCEF37B39429E8EADF2EDA28C9378</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">19</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1450-06-28.&lt;br/&gt; 1450 juni 28 (Petrus- en Paulus-avond)&lt;br/&gt;Schepenen van Escharen oorkonden, dat voor hen, door Henrik Woutersz en zijn vrouw overgedragen werd, voor Jan van Niftrik en zijn vrouw: jaarlijkse rente van 6 vat rogge uit perceel land bij Escharen&lt;br/&gt;Kopie van een transfix (door de oorkonde beschreven in regestnr 5), inventarisnr 1, pagina 29 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1450" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1450-06-28.&lt;br/&gt; 1450 juni 28 (Petrus- en Paulus-avond)&lt;br/&gt;Schepenen van Escharen oorkonden, dat voor hen, door Henrik Woutersz en zijn vrouw overgedragen werd, voor Jan van Niftrik en zijn vrouw: jaarlijkse rente van 6 vat rogge uit perceel land bij Escharen&lt;br/&gt;Kopie van een transfix (door de oorkonde beschreven in regestnr 5), inventarisnr 1, pagina 29 en inventarisnr 2</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/64CDCEF37B39429E8EADF2EDA28C9378" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142102">
+            <unitid type="guid">0ACDDA532F374015A89C22CBFF428C07</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">20</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1452-12-04.&lt;br/&gt; 1452 december 4 (Sint-Barbarisdag)&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen overgedragen werd, door Jacob, Bartholt en Dirk van Driel, voor Jan Naperinks: koekamp tegen stadkamp&lt;br/&gt;Uittreksel inventarisnr 1, pagina 60</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1452" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142103">
+            <unitid type="guid">12EE60BB8A4743A89983DE95896F4D9F</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">21</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1455-06-20.&lt;br/&gt; 1455 juni 20&lt;br/&gt;Schepenen in Velp (Noord-Brabant) oorkonden, dat voor hen overgedragen werd, door kerkmeesters van Reek: perceel land, te voegen bij terrein van Grem Wolters&lt;br/&gt;Uittreksel inventarisnr 1, pagina 75</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1455" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142104">
+            <unitid type="guid">5D9052873F774543A3A2F0293EDE81F7</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">22</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1456-07-10.&lt;br/&gt; 1456 juli 10&lt;br/&gt;Schepenen van Escharen oorkonden, dat voor hen, door Neesken van Lent overgedragen werd, voor Derk Badensz: rente van 11/2 malder rogge, jaarlijks in Grave te leveren uit percelen land aldaar&lt;br/&gt;Kopie van transfix (door oorkonden, beschreven in regesten nrs 6 en 11) inventarisnr 1, pagina 34 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1456" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142105">
+            <unitid type="guid">F1391EF2846648D4B9CBCB35702E06E7</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">23</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1459-12-07.&lt;br/&gt; 1459 december 7 (in profeste Conc. Mariae)&lt;br/&gt; Heemraden van (?) regelen de afwatering terrein van Grem Wolters&lt;br/&gt;Uittreksel inventarisnr 1, pagina 75</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1459" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1459-12-07.&lt;br/&gt; 1459 december 7 (in profeste Conc. Mariae)&lt;br/&gt; Heemraden van (?) regelen de afwatering terrein van Grem Wolters&lt;br/&gt;Uittreksel inventarisnr 1, pagina 75</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F1391EF2846648D4B9CBCB35702E06E7" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142106">
+            <unitid type="guid">5B015A89466A460A856571088F16B1E3</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">24</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1463-05-16.&lt;br/&gt; 1463 mei 16&lt;br/&gt;Lucas, pauselijk legaat, bevestigt toestemming van Lodewijk van Bourbon, bisschop van Luik (1456 - 1479) om kapel te stichten in klooser Mariëngraf in Grave&lt;br/&gt;Kopie inventarisnr 1, pagina 53&lt;br/&gt;Zie ook inventarisnr 35 voor nadere bijzonderheden</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1463" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1463-05-16.&lt;br/&gt; 1463 mei 16&lt;br/&gt;Lucas, pauselijk legaat, bevestigt toestemming van Lodewijk van Bourbon, bisschop van Luik (1456 - 1479) om kapel te stichten in klooser Mariëngraf in Grave&lt;br/&gt;Kopie inventarisnr 1, pagina 53&lt;br/&gt;Zie ook inventarisnr 35 voor nadere bijzonderheden</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5B015A89466A460A856571088F16B1E3" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142107">
+            <unitid type="guid">6656C1E51D3A42CCB1B7A2ABF2FCECA0</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">25</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1468-09-05.&lt;br/&gt; 1468 september 5 (maandag na Antonius)&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Gaart van Elzen en zijn vrouw overgedragen werd, voor Hendrik Moerken: deel kamp in Nederwetten&lt;br/&gt;Kopie inventarisnr 1, pagina 14-17</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1468" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1468-09-05.&lt;br/&gt; 1468 september 5 (maandag na Antonius)&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Gaart van Elzen en zijn vrouw overgedragen werd, voor Hendrik Moerken: deel kamp in Nederwetten&lt;br/&gt;Kopie inventarisnr 1, pagina 14-17</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6656C1E51D3A42CCB1B7A2ABF2FCECA0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142108">
+            <unitid type="guid">363AD18D1EB9451A957A87E1A8CC1DDA</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">27</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1469-07-28.&lt;br/&gt; 1469 juli 28&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Jacob Vennensz en zijn vrouw overgedragen werd, voor Henrik Moerkens: wetering in een Wiel&lt;br/&gt;Uittreksel inventarisnr 1, pagina 64</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1469" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1469-07-28.&lt;br/&gt; 1469 juli 28&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Jacob Vennensz en zijn vrouw overgedragen werd, voor Henrik Moerkens: wetering in een Wiel&lt;br/&gt;Uittreksel inventarisnr 1, pagina 64</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/363AD18D1EB9451A957A87E1A8CC1DDA" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142109">
+            <unitid type="guid">37361C3B98D6449499A13189579C13AC</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">28</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1476-09-28.&lt;br/&gt; 1476 september 28 (Sint-Michiels-avond)&lt;br/&gt;Schepenen in Velp (Brabant) oorkonden, dat voor hen, door Willem van Goch en Jan Coeberg overgedragen werd, voor klooster Mariëngraf in Grave: 1/2 hoeve in Velp aan de Reek&lt;br/&gt;Kopie inventarisnr 1, pagina 77</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1476" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142110">
+            <unitid type="guid">0E3C0352D783449AADCCEDF914C815CB</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">29</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1477-04-14.&lt;br/&gt; 1477 april 14&lt;br/&gt;Schepenen (in Grave?) oorkonden, dat voor hen, door Jan van Nijenhuis overgedragen werd, voor klooster Mariëngraf: perceel land in Loentse Hoef nabij klooster&lt;br/&gt;Uittreksel inventarisnr 1, pagina 82</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1477" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1477-04-14.&lt;br/&gt; 1477 april 14&lt;br/&gt;Schepenen (in Grave?) oorkonden, dat voor hen, door Jan van Nijenhuis overgedragen werd, voor klooster Mariëngraf: perceel land in Loentse Hoef nabij klooster&lt;br/&gt;Uittreksel inventarisnr 1, pagina 82</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0E3C0352D783449AADCCEDF914C815CB" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142111">
+            <unitid type="guid">883CA14DAE974B34959286F923CD3AD7</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">30</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1477-05-12.&lt;br/&gt; 1477 mei 12 (Sint-Servaasavond)&lt;br/&gt;Schepenen van Escharen oorkonden, dat voor hen, door Derik Badensz en zijn vrouw overgedragen werd, voor 2 begijnen en begijnhof zelf in Grave: jaarlijkse rente van 11/2 malder rogge uit percelen land aldaar&lt;br/&gt;Kopie van transfix (door oorkonden, beschreven in de regesten nrs 6, 11 en 22), inventarisnr 1, pagina 35 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1477" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1477-05-12.&lt;br/&gt; 1477 mei 12 (Sint-Servaasavond)&lt;br/&gt;Schepenen van Escharen oorkonden, dat voor hen, door Derik Badensz en zijn vrouw overgedragen werd, voor 2 begijnen en begijnhof zelf in Grave: jaarlijkse rente van 11/2 malder rogge uit percelen land aldaar&lt;br/&gt;Kopie van transfix (door oorkonden, beschreven in de regesten nrs 6, 11 en 22), inventarisnr 1, pagina 35 en inventarisnr 2</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/883CA14DAE974B34959286F923CD3AD7" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142112">
+            <unitid type="guid">FE948B1C74584E90800DFC22D446D86A</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">31</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1478-05-05.&lt;br/&gt; 1478 mei 5&lt;br/&gt;Schepenen van Grave oorkonden, dat voor hen, door Hermen Groot Deriksz overgedragen werd, voor klooster Mariëngraf: perceel land in Loentse Hoef nabij klooster&lt;br/&gt;Uittreksel inventarisnr 1, pagina 82</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1478" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142113">
+            <unitid type="guid">8D4478587C78484E98539709DDBF6562</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">32</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1478.&lt;br/&gt; 1478 zonder dagtekening&lt;br/&gt;Kinderen van Grem Wolters wijzen bij erfdeling 11 malder rogge per jaar toe aan zusters van Mariëngraf in Grave&lt;br/&gt;Uittreksel inventarisnr 1, pagina 78</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1478" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142114">
+            <unitid type="guid">6430A5C6594B4894BCCE0F211BBA21D7</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">33</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1479-05-12.&lt;br/&gt; 1479 mei 12 (Sint-Servaas-avond)&lt;br/&gt;Schepenen van Escharen oorkonden, dat voor hen, door Rutger van Teselen en zijn vrouw Agnes overgedragen werd, voor 2 begijnen uit klooster Mariëngraf in Grave: jaarlijkse rente van 6 vat rogge uit perceel land bij Escharen&lt;br/&gt;Kopie van transfix (door oorkonden beschreven in regesten nr 5 en 19), inventarisnr 1, pagina 30-31 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1479" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142115">
+            <unitid type="guid">3D7F7B41529E49F0AE4FC1A6A9186523</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">34</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1480-08-24.&lt;br/&gt; 1480 augustus 24&lt;br/&gt;Schepenen in Boxmeer oorkonden, dat voor hen, door Willem van Egmond en zijn vrouw Margriet overgedragen werden, voor klooster Mariëngraf in Grave: hun goederen in Neer&lt;br/&gt;Uittreksel inventarisnr 1, pagina 57</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1480" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142116">
+            <unitid type="guid">C285BCCA57CB4A06AD30F84F641189A0</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">35</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1482-12-20.&lt;br/&gt; 1482 december 20 (Sint-Thomas-avond)&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Henrik van Assel en zijn vrouw Gertrud overgedragen werd, voor Neefe van Rijswijk: jaarlijkse rente van 1 malder rogge uit huis en erf aan de Gemenestraat in Grave&lt;br/&gt;Kopie inventarisnr 1, pagina 51 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1482" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142117">
+            <unitid type="guid">18D2C0511D034BC6AAD59DE899855CBD</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">36</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1482-12-24.&lt;br/&gt; 1482 december 24 (Kerstavond)&lt;br/&gt;Schepenen in Herpen oorkonden, dat voor hen overgedragen werd, door Hermen Klaas Hermensz, Jan Klaasz, zijn zoon en dochter, voor klooster Mariëngraf in Grave: perceel land, groot 3 morgen, in Schedonk aan gemene straat&lt;br/&gt;Uittreksel inventarisnr 1, pagina 81</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1482" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1482-12-24.&lt;br/&gt; 1482 december 24 (Kerstavond)&lt;br/&gt;Schepenen in Herpen oorkonden, dat voor hen overgedragen werd, door Hermen Klaas Hermensz, Jan Klaasz, zijn zoon en dochter, voor klooster Mariëngraf in Grave: perceel land, groot 3 morgen, in Schedonk aan gemene straat&lt;br/&gt;Uittreksel inventarisnr 1, pagina 81</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/18D2C0511D034BC6AAD59DE899855CBD" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142118">
+            <unitid type="guid">07F475BF1D2A484393EA110F8959D627</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">37</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1484-08-20.&lt;br/&gt; 1484 augustus 20 (Vrijdag na Assumptionis Mariae)&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Willem van Egmond en wijlen Margriet, overgedragen werd, voor convent Mariëngraf: grote huis van dit klooster&lt;br/&gt;Uittreksel inventarisnr 1, pagina 57</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1484" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142119">
+            <unitid type="guid">B154C88E4B8A407686BEA2D624A9C9CE</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">38</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1485-02-15.&lt;br/&gt; 1485 februari 15 (Dag na Valentinus)&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Jan Heisen Henrik Otsz overgedragen werd, voor klooster Mariëngraf: perceel land in de Mars, later genaamd "Vader Heiskenkamp&lt;br/&gt;Uittreksel inventarisnr 1, pagina 63</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1485" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142120">
+            <unitid type="guid">C5B96E24CAE3400F865C3C02CD162926</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">39</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1487-04-19.&lt;br/&gt; 1487 april 19&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Peter Roelofsz en zijn vrouw Neefe, overgedragen werd voor Goert Orrensz: jaarlijkse rente van 1 malder rogge uit huis en erf aan Gemenestraat in Grave&lt;br/&gt;Kopie van transfix (gestoken door de in regest nr 35 beschreven oorkonde), inventarisnr 1, pagina 52 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1487" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142121">
+            <unitid type="guid">812B689C81454AE9BC5C222ACEBBEBFE</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">40</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1489-08-01.&lt;br/&gt; 1489 augustus 1 (Sint-Petersdag ad Vincula)&lt;br/&gt;Heemraden in Hollanderbroek oorkonden, dat voor hen, door Jans van der Hoven (?) en haar zoon Wigger, overgedragen werd, voor Metten van Triest: rente van 1 malder rogge, jaarlijks te leveren uit 2 percelen land&lt;br/&gt;Kopie inventarisnr 1, pagina 40 - 41 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1489" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142122">
+            <unitid type="guid">1F5BBFDB5EAD4A57BE409CC8990FBD3B</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">41</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1492-07-05.&lt;br/&gt; 1492 juli 5&lt;br/&gt;Heemraden van Herpen? oorkonden, dat voor hen, door Klaas Stewech overgedragen werd, voor klooster Mariëngraf in Grave: perceel land van circa 3 morgen in Schedonk&lt;br/&gt;Uittreksel inventarisnr 1, pagina 81</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1492" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142123">
+            <unitid type="guid">4333B54DB25D40A2B974C1DC2DCF3002</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">42</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1495-02-28.&lt;br/&gt; 1495 februari 28&lt;br/&gt;Schepenen van Grave? oorkonden, dat voor hen, door Jan van Lith overgedragen werd, voor klooster Mariëngraf: 1/2 graaf in Loense Hoef&lt;br/&gt;Uittreksel inventarisnr 1, pagina 62</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1495" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142124">
+            <unitid type="guid">EEFBAD9AB99E449A9ADC3796730A4D0F</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">43</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1495-05-18.&lt;br/&gt; 1495 mei 18&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Frans van Triest, priester, werd overgedragen, voor begijnhof aldaar: perceel land in de Mars, later genaamd Streepkamp&lt;br/&gt;Uittreksel inventarisnr 1, pagina 62</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1495" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142125">
+            <unitid type="guid">05EB0B8409014480B581C98B8AA28169</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">44</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1495-07-20.&lt;br/&gt; 1495 juli 20&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen overgedragen werd, voor zuster Aleid Hermens Maasdr, wonende in begijnhof aldaar: kamp bij stadskamp&lt;br/&gt;Uittreksel transfix (gestoken door de oorkonde in regest nr 20), inventarisnr 1, pagina 60</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1495" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142126">
+            <unitid type="guid">6E724D45928E4F4E8999ABAB713E6160</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">45</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1497-07-06.&lt;br/&gt; 1497 juli 6&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Henrik Schoenmaker / Willem Gertensen en zijn vrouw / Hilleke Alberts, overgedragen werd, voor Moeder van het Begijnhof:&lt;br/&gt;jaarlijkse rente van 1 malder rogge uit huis en erf aan de Gemenestraat&lt;br/&gt;Kopie van transfix (gestoken door de in regesten nrs 35 en 39 beschreven oorkonden), inventarisnr 1, pagina 53-54 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1497" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142127">
+            <unitid type="guid">A20DBC45B6104F79A9D0B2BA42EB65D6</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">46</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1498-02-10.&lt;br/&gt; 1498 februari 10&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Jan van der Schilde en zijn vrouw Gees, overgedragen werd voor klooster Mariëngraf: perceel land de Sittard&lt;br/&gt;Uittreksel inventarisnr 1, pagina 69</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1498" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142128">
+            <unitid type="guid">3ED4A22CC47A4B60BEA175E39C14C8E3</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">47</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1499-09-02.&lt;br/&gt; 1499 september 2&lt;br/&gt;Heemraden van Herpen? oorkonden, dat zusters van Mariëngraf niet gehouden zijn bij te dragen in kosten herstel heemdijk in Overlangel&lt;br/&gt;Uittreksel inventarisnr 1, pagina 83</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1499" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142129">
+            <unitid type="guid">A0EC2D283C0847348EAE02F7EDF6E9A3</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">48</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1505-02-22.&lt;br/&gt; 1505 februari 22 (Sint-Peter ad Cathedram)&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen door zuster Aleid Hermens Maasdr, uit begijnhof aldaar, werd overgedragen, voor Hennike van Triest: kamp van 4 morgen bij stadskamp&lt;br/&gt;Uittreksel inventarisnr 1, pagina 61</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1505" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142130">
+            <unitid type="guid">17DA2AD2895946E7B032DC65A33C24E8</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">49</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1505-02-24.&lt;br/&gt; 1505 februari 24 (Sint-Mathijs in de winter)&lt;br/&gt;Heemraden in Hollanderbroek oorkonden, dat voor hen, door Jacob Peters Gaarts overgedragen werd, voor Peter Jans, zijn vrouw en zijn dienstmaagd gezamenlijk: rente van 1 malder rogge, jaarlijks te leveren uit 2 nader omschreven percelen land&lt;br/&gt;Kopie van transfix (gestoken door oorkonde, beschreven in regest nr 40), inventarisnr 1, pagina 42 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1505" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142131">
+            <unitid type="guid">B7EAEB52FA5448DCB208FE8B82FE1BBA</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">50</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1505-07-20.&lt;br/&gt; 1505 juli 20&lt;br/&gt;Schepenen in Velp (Brabant) oorkonden, dat voor hen, door Willem Willems en zijn vrouw Aleid overgedragen werd, voor Jan Roelofs van Holland en Wouter Jansen van Wamel: 1/2 van 2 percelen land in Velp aan dijk&lt;br/&gt;Uittreksel inventarisnr 1, pagina 67</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1505" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142156">
+            <unitid type="guid">E0461EA7E898468BAEB3750A71E583F0</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">51</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1507-04-20.&lt;br/&gt; 1507 april 20&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Jan Borgmeker en zijn vrouw overgedragen werd, voor Henrik Stolz: koolhof buiten Hampoort aldaar&lt;br/&gt;Uittreksel inventarisnr 1, pagina 63</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1507" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142157">
+            <unitid type="guid">9B5DD13B42074AC9809744458BD8280D</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">52</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1507-06-12.&lt;br/&gt; 1507 juni 12&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Dirk Vink en de kosten Jan Jansz, voor klooster Mariëngraf, overgedragen werd: deel Treskenhuisje, aan erf van genoemd klooster&lt;br/&gt;Uittreksel inventarisnr 1, pagina 59</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1507" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142158">
+            <unitid type="guid">9879AEE1E12C47E493032B73D371880F</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">53</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1508-02-15.&lt;br/&gt; 1508 februari 15 (Altera Valentini)&lt;br/&gt;Gijsbert van Wamel en Pieter Heijsen verdelen bij boedelscheiding de Nederste Kamp / Jan van Holland en Wolter van Wamel, de Overste Kamp van de Sluiskamp&lt;br/&gt;Uittreksel inventarisnr 1, pagina 67</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1508" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142159">
+            <unitid type="guid">748A86CBC2B54AC98AC88FF8A46551B5</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">54</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1509-01-29.&lt;br/&gt; 1509 januari 29 (Feria secunda na conv Pauli)&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Jan Koenen en zijn vrouw, voor klooster Mariëngraf, overgedragen werd: perceel land in de Witten, later genaamd Moerkenskamp&lt;br/&gt;Uittreksel inventarisnr 1, pagina 65</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1509" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142160">
+            <unitid type="guid">5812D417E23A4C5280DE3554A311CFBD</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">55</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1510-09-17.&lt;br/&gt; 1510 september 17 (Sint-Lambertdag)&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen door Jan van Erp Loenisse en zijn vrouw, voor klooster Mariëngraf, overgedragen werden: huis en hof bij Rosmolen&lt;br/&gt;Kopie inventarisnr 1, pagina 58-59</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1510" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142132">
+            <unitid type="guid">B5B9707DA2DA412AA2F8B2BD007F7AAA</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">56</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1515-11-25.&lt;br/&gt; 1515 november 25 (Catharinadag)&lt;br/&gt;Schepenen in Wamel oorkonden, dat voor hen, door Wolter van Wamel en zijn vrouw, voor klooster Mariëngraf, overgedragen werd:&lt;br/&gt;kamp bij sluizen in Velp (Brabant)&lt;br/&gt;Uittreksel inventarisnr 1, pagina 68</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1515" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142133">
+            <unitid type="guid">4D259DE17FEE4DA4BD6979A6CE3E427E</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">57</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1515.&lt;br/&gt; 1515&lt;br/&gt;Antonis van Hoek, deken in Grave, legateert bij testament aan klooster Mariëngraf: beneficiën, belast met lezen van 2 missen op zon- en heiligendagen&lt;br/&gt;Kopie inventarisnr 1, pagina 26 en 27</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1515" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142134">
+            <unitid type="guid">283DBBAA5C064B38863B40A4AE76C63D</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">58</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1516-02-21.&lt;br/&gt; 1516 februari 21 (Sint-Peters Avond Cathedram)&lt;br/&gt;Schepenen van Escharen oorkonden, dat voor hen, door Aleid van de Bolt, gevestigd werd voor begijnhof in Grave: jaarlijkse levering van 1 malder rogge uit boerderij in Escharen&lt;br/&gt;Metschepenzegel&lt;br/&gt;Origineel inventarisnr 25&lt;br/&gt;Kopie inventarisnr 1, pagina 37 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1516" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142135">
+            <unitid type="guid">8FA2F38CD6BA4DF7BA9C316E1D5C8918</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">59</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1521-06-30.&lt;br/&gt; 1521 juni 30&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Heil Heimans, vrouw van Simon van Erp, overgedragen werd, voor Begijnenklooster aldaar: jaarlijkse rente van 1 gouden Philipsgulden of equivalent uit huis en erf in Grave&lt;br/&gt;Kopie inventarisnr 1, pagina 48 - 50 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1521" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142136">
+            <unitid type="guid">8DE24DFB7E054AB5A249E8F083ED9B31</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">60</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1522-07-24.&lt;br/&gt; 1522 juli 24 (Sint-Jacobs Avond)&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, Jan de Gruyter en zijn zuster Elizabeth, voor klooster Mariëngraf, al hun goederen hebben overgedragen&lt;br/&gt;Uittreksel inventarisnr 1, pagina 58</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1522" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142137">
+            <unitid type="guid">13D5F7D732EE42128E21B312F93B30F4</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">61</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1523-07-31.&lt;br/&gt; 1523 juli 31 (Sint-Peters Avond ad vincula)&lt;br/&gt;Heemraden in 't Hollanderbroek oorkonden, dat voor hen overgedragen werd door Peter Jans en zijn vrouw, voor zusters van Begijnenklooster in Grave: jaarlijkse rente van 1 malder rogge, te leveren uit 2 naburige percelen land&lt;br/&gt;Kopie van transfix (gestoken door de in de regesten nr 40 en 49 beschreven oorkonden), inventarisnr 1, pagina 43 - 44 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1523" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142138">
+            <unitid type="guid">4F55DB645EB3423BBA18A0649418B15C</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">62</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1524-05-18.&lt;br/&gt; 1524 mei 18&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Aleid van Vlodrop en haar 2 zonen, overgedragen werd voor klooster Mariëngraf: perceel land aan Gemenestraat, de Hiephap&lt;br/&gt;Aantekening inventarisnr 1, pagina 59</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1524" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142139">
+            <unitid type="guid">D72EE08B29B041A4B64157C25661694F</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">63</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1533-04-21.&lt;br/&gt; 1533 april 21&lt;br/&gt;Schepenen (in Grave?) oorkonden, dat voor hen, door Pauwels Arntsz en zijn vrouw, overgedragen werd, voor Anthonis van Hoek: perceel land, grenzende aan Kopkensveld aldaar&lt;br/&gt;Uittreksel inventarisnr 1, pagina 79</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1533" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142140">
+            <unitid type="guid">947091AFFE0F421086795C7F699066D0</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">64</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1549-09-07.&lt;br/&gt; 1549 september 7&lt;br/&gt;Gaarts van Aken, priester en kanunnik, legateert bij testament onder meer aan zijn dienstmaagden Hilleken en Marie, dochters van Hendrik Velkens:&lt;br/&gt;zijn huis, alsmede 21/2 malder rogge jaarlijks, welke laatste na dood der genoemde zusters zullen toekomen aan de begijnen van Mariëngraf in Grave, op voorwaarde van geregelde zielemissen&lt;br/&gt;Kopie van authentieke kopie inventarisnr 1, pagina 18 - 20</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1549" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142141">
+            <unitid type="guid">268B719DB0224BE0B5841D6BF872490E</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">65</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1552-05-18.&lt;br/&gt; 1552 mei 18&lt;br/&gt;Koert Bisschop en zijn schoonzoon Jan Goossens Hilgens oorkonden, dat zij van klooster Mariëngraf in Grave, volledige kwijting ontvangen hebben wegens verkoop van 3 percelen land door eerstgenoemde en zijn familieleden aan klooster&lt;br/&gt;Grosse inventarisnr 17</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1552" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142142">
+            <unitid type="guid">FB97C12D49F3416A821CB99E8F4A0198</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">66</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1554-09-20.&lt;br/&gt; 1554 september 20&lt;br/&gt;Schepenen van Grave? oorkonden, dat voor hen overgedragen werd door Cornelis van Hoek en andere erfgenamen, voor klooster Mariëngraf aldaar: perceel land, grenzende aan Kopkensveld&lt;br/&gt;Uittreksel inventarisnr 1, pagina 80</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1554" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142143">
+            <unitid type="guid">51B59C5D12A54FF6AE9D2673BD46DB00</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">67</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1570-11-26.&lt;br/&gt; 1570 november 26&lt;br/&gt;Johan Nennius, notaris in Grave, oorkondt, dat voor hem gevestigd werd, door 3 gezusters Heimeriks:&lt;br/&gt;erfelijke pacht van 10 philipsguldens en 25 stuivers jaarlijks op perceel land Robijnskamp, voor memorie van Jacob Heimeriks en jaarlijkse gift van 1 philipsgulden aan klooster Mariëngraf&lt;br/&gt;Kopie inventarisnr 1, pagina 21 - 23</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1570" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142144">
+            <unitid type="guid">A3745853F1EA491FA69FDF8ED640769B</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">68</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1570-11-26.&lt;br/&gt; 1570 november 26&lt;br/&gt;Anna Pyrck in (Grave?) oorkondt, dat zij klooster van Mariëngraf in Grave 23 Brabantse guldens schuldig is, binnen 11/2 jaar terug in betalen, waarbij Marie van Hochwalt als borge mede-ondertekend&lt;br/&gt;Grosse inventarisnr 28</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1570" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142145">
+            <unitid type="guid">2425A0C23D254FC79FF64FEBFC7DAFD2</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">69</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1572-11-07.&lt;br/&gt; 1572 november 7&lt;br/&gt;Johan Nennius, notaris in Grave, oorkondt, dat voor hem gevestigd werd, door gezusters Maria en Hilliken Kuilkens, op huis en erf aldaar: jaarlijkse rente van 1 malder rogge, voor klooster Mariëngraf&lt;br/&gt;Kopie inventarisnr 1, pagina 24 en 25</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1572" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142146">
+            <unitid type="guid">6F6D7BEB2B6043D2B53D4812245EDA9D</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">70</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1580-12-12.&lt;br/&gt; 1580 december 12&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Cornelis van Daart en Catharijn Bersacques overgedragen werd, voor Aalken van Tombelen: huis en erf in Hooftsestraat&lt;br/&gt;Kopie inventarisnr 1, pagina 83-85</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1580" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142147">
+            <unitid type="guid">BC8656D3CF3F46CC97FAFFEA41271FCD</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">71</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1614-04-27.&lt;br/&gt; 1614 april 27&lt;br/&gt;Maurits, Prins van Oranje, oorkondt, dat hij rector school in Grave opnieuw voor de tijd van 2 jaar vergunning verleent / huis van de begijnen achter begijnhof, te bewonen zonder huur te betalen, op voorwaarde van goed onderhoud door magistraat van Grave&lt;br/&gt;Grosse inventarisnr 10</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1614" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142148">
+            <unitid type="guid">1C773614D41341448A2A609AA8A7E611</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">72</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1617-01-18.&lt;br/&gt; 1617 januari 18&lt;br/&gt;Maurits, Prins van Oranje, oorkondt, dat hij rector van de school opnieuw vergunning verleent, huis van de begijnen achter begijnhof in Grave, voor de tijd van 3 jaar te bewonen zonder betaling van huur, op voorwaarde van goed onderhoud door magistraat van Grave&lt;br/&gt;Grosse inventarisnr 10</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1617" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142149">
+            <unitid type="guid">3CDC8388D9884C38BDEAE76ADCA589B8</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">73</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1619-05-18.&lt;br/&gt; 1619 mei 18&lt;br/&gt;Jordan Mertens en Lucas Rougraaf, gewezen hopman, oorkonden in Grave, dat zij akkoord gesloten hebben over nalatenschap van wijlen hun broer en zwager Gerhard Kerstens&lt;br/&gt;Kopie inventarisnr 11</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1619" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142150">
+            <unitid type="guid">60C158B9CA844CD5A5AE3256EC17FB85</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">74</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1638-07-16.&lt;br/&gt; 1638 juli 16&lt;br/&gt;Ernest 't Serclaas, Seigneur Despongarie, en zijn vrouw Anna Maria Rougraaf enerzijds, en Guillaume van Os en Johan van der Geert anderzijds, oorkonden: akkoord, dat beide partijen gesloten hebben in aanspraken van eerstgenoemden op erfgoederen van wijlen Jordan Kerstens, waarbij tevens klooster Mariëngraf in Grave betrokken wordt&lt;br/&gt;Kopie inventarisnr 12</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1638" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142151">
+            <unitid type="guid">B37A2CBA9FA64639B6F91FA5E2DB2ECF</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">75</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1641-11-18.&lt;br/&gt; 1641 november 18&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen getuigen Merie Hagens / Cleesz Verbruggen / Joris Jans Snijer, in geschil tussen zusters van klooster Mariëngraf en Wolter Jansz, over de heg tussen kampen van beide partijen&lt;br/&gt;Grosse, inventarisnr 13</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1641" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142152">
+            <unitid type="guid">07EEAD2C102B4CCEA44ACD7E74FF831E</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">76</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1641-11-20.&lt;br/&gt; 1641 november 20&lt;br/&gt;Schuldbekentenis van levering van 1 vat tarwe, 4 vaten gerst en 5 vaten haver, door zusters van Mariëngraf in Grave uit kamp naast het Geesthuiskamp, als jaarlijkse pacht te voldoen&lt;br/&gt;Grosse, inventarisnr 13</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1641" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142153">
+            <unitid type="guid">38B2A864C69642ED841D9D96B7A601E0</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">77</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1641-11-22.&lt;br/&gt; 1641 november 22&lt;br/&gt;Schout en schepenen in Grave oorkonden, dat voor hen Aart van Diest / Wolter van Best / Jan Thonissen, verklaringen hebben afgelegd over geschil tussen zusters van klooster Mariëngraf en Wolter Jansz over grens tussen kampen van beide partijen&lt;br/&gt;Grosse, inventarisnr 13</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1641" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142154">
+            <unitid type="guid">412FA9D7637D401B876BFB9FE9AD4552</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">78</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1664-05-31.&lt;br/&gt; 1664 mei 31&lt;br/&gt;Margaretha de Bakker, weduwe kapitein Willem de Bie, en haar 4 kinderen oorkonden in 's-Gravenhage, dat zij aan haar zuster en tante Anna de Bie, jaarlijks 50 carolus guldens zullen uitbetalen, zolang deze zal wonen in klooster Mariëngraf in Grave&lt;br/&gt;Grosse, inventarisnr 8</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1664" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142155">
+            <unitid type="guid">7EBB3BB640E44FFD8811E804580DFB4B</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">79</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1664-11-22.&lt;br/&gt; 1664 november 22&lt;br/&gt;Provisoren Sint-Catharina-ziekenhuis in Grave en Moeder begijnenklooster aldaar oorkonden: overeenkomst om geschillen over wederzijdse leveringen van malders rogge jaarlijks en geschil over kleine rente te beslechten&lt;br/&gt;Kopie inventarisnr 1, pagina 45-46 en inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1664" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142161">
+            <unitid type="guid">229E0C25CDAD4D468C1C51C51DADFE2E</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">80</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1671-06-08.&lt;br/&gt; 1671 juni 8&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Willem Ariens en Reintjes van Beers overgedragen werd, voor François Bloemers: 11/2 morgen land in de Mars bij Grave&lt;br/&gt;Kopie inventarisnr 1, pagina 94</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1671" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142162">
+            <unitid type="guid">AAA1D49D3B37496FA83771743AC7680E</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">81</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1673-06-30.&lt;br/&gt; 1673 juni 30&lt;br/&gt;François Bloemarts en zijn oudste zoon oorkonden in Grave, dat zij voor klooster Mariëngraf, afstand doen van: 11/2 morgen land in de Mars, die in 1671 van Willem Ariens gekocht werden&lt;br/&gt;Kopie inventarisnr 1, pagina 95</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1673" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142163">
+            <unitid type="guid">BA91942E08DB4619839BD1FF6DBA8DDF</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">82</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1675-08-30.&lt;br/&gt; 1675 augustus 30&lt;br/&gt;Magistraat van Grave besluit aan klooster Mariëngraf toebehorend huis aan Hoofsestraat, te laten repareren, tegen door klooster te betalen vergoeding en voortaan vrij te stellen van garnizoenslegering&lt;br/&gt;Kopie inventarisnr 1, pagina 96</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1675" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142164">
+            <unitid type="guid">A3B3E33140134015A645E33356F3E654</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">83</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1675-10-08.&lt;br/&gt; 1675 oktober 8&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen overgedragen werd, door Elizabeth van der Geest, voor Jan Jacobs, koopman in Gennep: hoeve Graafse Hof in Schaijk, voor 4700 hollandse guldens&lt;br/&gt;Kopie inventarisnr 1, pagina 89</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1675" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142165">
+            <unitid type="guid">26F4990F56704BA5865398F82C6571D7</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">84</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1676-03-06.&lt;br/&gt; 1676 maart 6&lt;br/&gt;Menrik van Darth en Margaretha Gold oorkonden in Venlo, dat zij voor klooster Mariëngraf in Grave overgedragen hebben: huis en erf in de Hooftsestraat&lt;br/&gt;Kopie inventarisnr 1, pagina 85</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1676" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142166">
+            <unitid type="guid">F9D969C4893B4025AF3D0DC9A194285A</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">85</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1676-03-26.&lt;br/&gt; 1676 maart 26&lt;br/&gt;Schepenen van Schaijk oorkonden, dat Johan Hendrik Kramer, voogd voor 3 onmondige kinderen wijlen Johan Kramer, rentmeester van Ravenstein, voor hen overgedragen heeft aan Jan Jacobs, koopman in Gennep: boerenhof, huis en schuur in Schaijk&lt;br/&gt;Origineel inventarisnr 18&lt;br/&gt;Kopie inventarisnr 1, pagina 86 - 88&lt;br/&gt;Schepenzegel</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1676" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142167">
+            <unitid type="guid">87F17029B6F04AF2BC31203877161F03</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">86</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1676-04-06.&lt;br/&gt; 1676 april 6&lt;br/&gt;Johan van Meier in Grave, voogd van Elizabeth van der Geest, verklaart, dat Jan Jacobs de verschuldigde kooppenningen voor Graafse Hof in Schaijk van 4700 guldens, voldaan heeft&lt;br/&gt;Kopie inventarisnr 1, pagina 91</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1676" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142168">
+            <unitid type="guid">5EEE5462E7A54B008A8B8CDE79CD2397</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">87</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1676-09-24.&lt;br/&gt; 1676 september 24&lt;br/&gt;Jan Jacobs en zijn vrouw Maria Kriefs in Gennep oorkonden, dat zij Graafse Hof in Schaijk op 8 oktober 1675, voor klooster Mariëngraf in Grave gekocht hadden en dat zij van hun rechten daarop volledig afstand doen&lt;br/&gt;Kopie inventarisnr 1, pagina 92 en 93</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1676" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142169">
+            <unitid type="guid">CF8239D9EFE34EAEA3F8579ECA4E9C17</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">88</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1686-05-07.&lt;br/&gt; 1686 mei 7&lt;br/&gt;Schepenen van Grave oorkonden, dat Johan van Boekhelt voor hen overgedragen heeft aan Gielis Ariensz: Derk van Boekhelt Huis achter gasthuis in Grave&lt;br/&gt;Schepenzegel&lt;br/&gt;Origineel inventarisnr 19</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1686" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142170">
+            <unitid type="guid">974AE8AFE53E48C387938B8E8BF91B9E</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">89</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1692-10.&lt;br/&gt; 1692 oktober&lt;br/&gt;Christiaan Rijken en zijn vrouw Wouterke Berentsz enerzijds, en materse van klooster Mariëngraf in Grave anderzijds, oorkonden de voorwaarden, waarop Hendrina Berentsz als zuster in klooster zal worden aangenomen&lt;br/&gt;Grosse inventarisnr 8</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1692" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142171">
+            <unitid type="guid">5D7FE2329E2644A189D75877D2849722</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">90</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1698-04-24.&lt;br/&gt; 1698 april 24&lt;br/&gt;Gedeputeerden van Raad van State in Grave, verlenen, op verzoek van klooster Mariëngraf in Grave, vrijstelling van verponding voor 2 huizen aldaar&lt;br/&gt;Origineel inventarisnr 31</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1698" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142172">
+            <unitid type="guid">F4A333E94214464E85072BEC199C5DF3</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">91</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1701-01-29.&lt;br/&gt; 1701 januari 29&lt;br/&gt;Procureur Johan Kantersblom, gemachtigde van de weduwe Hendrik van Darts in Venlo en Michiel Chenard Chevallier, oorkonden in Grave, dat eerstgenoemde aan de ander overgedragen heeft: huis en erf aan Hooftsestraat voor 800 gulden&lt;br/&gt;Grosse inventarisnr 20</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1701" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142173">
+            <unitid type="guid">142FABDA21514436A1DEC724888F8127</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">92</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1704-02-07.&lt;br/&gt; 1704 februari 7&lt;br/&gt;Michiel Chenard Chevalié en zijn vrouw Lucia van Hesterenen in Grave, oorkonden aan klooster Mariëngraf aldaar, overgedragen te hebben: huis en erf aan Hooftsestraat, voor 800 guldens&lt;br/&gt;Grosse, inventarisnr 21</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1704" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142174">
+            <unitid type="guid">6340F68C28754636A74EDAA6042C35D2</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">93</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1706-06-01.&lt;br/&gt; 1706 juni 1&lt;br/&gt;Ange, graaf van Ognies, bisschop van Roermond, schenkt klooster Mariëngraf in Grave:&lt;br/&gt;authentieke kopie-oorkonde van markies van Bedmar, Spaans opperbevelhebber, waarbij deze 19 oktober 1703 in Brussel namens koning van Spanje vrijgeleide verleent voor alle kerken en kloosters in bisdom Roermond&lt;br/&gt;Origineel inventarisnr 5&lt;br/&gt;Opgedrukt zegel</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1706" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142175">
+            <unitid type="guid">DCD4F32F4449476C83BAF58BC40ABD64</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">94</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1706-10-16.&lt;br/&gt; 1706 oktober 16&lt;br/&gt;Marten Hermans en zijn vrouw Hennekens van Dijk enerzijds, en materse van klooster Mariëngraf in Grave anderzijds, oorkonden, te zijn overeengekomen de voorwaarden, waarop dochter Maria van eerstgenoemden in klooster als zuster zal worden opgenomen&lt;br/&gt;Grosse, inventarisnr 8</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1706" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142176">
+            <unitid type="guid">8BD274526736476E866E63731A7871F4</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">95</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1727-06-13.&lt;br/&gt; 1727 juni 13&lt;br/&gt;Maria Anna Hermans, moeder klooster Mariëngraf in Grave, en Agatha van der Gronde, procuratesse, oorkonden, dat zij wegens opgenomen gelden voor genoemd klooster, 600 carolus guldens schuldig zijn aan Paulus Ponshaar en zijn vrouw, Anna van Gulik&lt;br/&gt;Grosse, inventarisnr 32</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1727" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142177">
+            <unitid type="guid">FA9E13C765634FC7B23C8F8CC54AEAD4</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">96</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1729-03-09.&lt;br/&gt; 1729 maart 9&lt;br/&gt;Maria Anna Hermans, procuratesse in klooster Mariëngraf in Grave, en Jan Swellens, oorkonden in Reek, dat eerstgenoemde aan de ander overgedragen heeft: huis met schuur en perceel bouwland Keppenveld, voor 1100 gulden&lt;br/&gt;Grosse inventarisnr 22</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1729" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142178">
+            <unitid type="guid">964D07E1998F41BA9BF8886A13D402A7</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">97</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1732-10-08.&lt;br/&gt; 1732 oktober 8&lt;br/&gt;Raad der Domeinen van wijlen koning van Groot-Brittannië oorkondt in 's-Gravenhage, dat terugbetaling van een ten onrechte aan klooster Mariëngraf in Grave gedane renteaflossing dient te geschieden middels de regenten van Grave en vervolgens, dat de materse van genoemd klooster de door haar ingezonden lijst van revenuen onder eed dient te bekrachtigen&lt;br/&gt;Kopie inventarisnr 34</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1732" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142179">
+            <unitid type="guid">4822EEEEF51E45F49E65A691EA322A77</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">98</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1733-04-15.&lt;br/&gt; 1733 april 15&lt;br/&gt;Schepenen in Grave oorkonden, dat Agnes Antoni Cornelia Coeberge / Maria Huibers / Cornelia Coeberge, allen erfgenamen van Cornelis Coeberge, voor hen gevestigd hebben, voor weeskinderen van Grave:&lt;br/&gt;jaarlijkse rente van 10 guldens, losbaar met kapitaal van 250 guldens, op huis en erf in de Grote Rogstraat&lt;br/&gt;Origineel inventarisnr 26&lt;br/&gt;Gecancelleerd 16 april 1745</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1733" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142180">
+            <unitid type="guid">5FFFA9C9975B45E4B9E96AADADF6CE2B</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">99</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1734-12-28.&lt;br/&gt; 1734 december 28&lt;br/&gt;Schepenen van Grave oorkonden, dat de erfgenamen van Beeltje Gerrits, weduwe Jelis Ariensz, voor hen hebben overgedragen aan Berent van Middagten: huisje achter gasthuis in Grave voor 105 gulden, 15 verhogingen en 1/2 ton bier&lt;br/&gt;Fragment-schepenzegels&lt;br/&gt;Origineel inventarisnr 23</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1734" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142181">
+            <unitid type="guid">AD60415FF65C4E0397D880DE4109FAEE</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">100</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1741-11-22.&lt;br/&gt; 1741 november 22&lt;br/&gt;Schepenen in Grave oorkonden, dat Berent van Middagten op zijn huis in de Rogstraat aldaar voor hen gevestigd heeft: jaarlijkse rente van 24 guldens, losbaar met kapitaal van 600 carolus guldens, voor Gerard Verhorst, controleur&lt;br/&gt;Origineel inventarisnr 27&lt;br/&gt;Schepenzegel</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1741" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142182">
+            <unitid type="guid">525859B339EC42238415D81A8833C540</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">101</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1750-04-18.&lt;br/&gt; 1750 april 18&lt;br/&gt;Schepenen van Escharen oorkonden, dat Elizabeth Bühtlee, weduwe Johan Michiel Coeberg, voor hen heeft overgedragen aan Gerard Clemans en Berent van Middagten: perceel bouwland, groot 3 hollandse morgen op Kouwenoort onder Escharen, voor 520 gulden&lt;br/&gt;Origineel inventarisnr 24&lt;br/&gt;Opgedrukt schepenzegel onder papieren ruit</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1750" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_248/20DCED9C88794CCA8A4D3ACB8E609B68_oai_ead.xml-->
+</record>

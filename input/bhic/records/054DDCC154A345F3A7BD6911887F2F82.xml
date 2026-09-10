@@ -1,0 +1,1356 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>054DDCC154A345F3A7BD6911887F2F82</identifier>
+    <datestamp>2026-09-02</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HtBHIC">7071</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Kapittel St. Elisabeth te Grave, 1308-1575 (1656)</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+        <date calendar="gregorian" era="ce" normal="2022">2022</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF2099486">
+      <unittitle>Kapittel St. Elisabeth te Grave, 1308-1575 (1656)</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-HtBHIC">7071</unitid>
+      <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/054DDCC154A345F3A7BD6911887F2F82</unitid>
+      <unitdate calendar="gregorian" era="ce" normal="1308/1656"/>
+      <note label="Vindplaats origineel">
+        <p>BHIC 's-Hertogenbosch</p>
+      </note>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Religie en Levensbeschouwing</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd>
+      <odd>
+        <head>Beknopte historie</head>
+        <p>Een kapittelkerk of collegiale kerk is een rooms-katholieke kerk waaraan een kapittel van seculiere kanunniken is verbonden. Een seculiere kanunnik is verbonden aan het kapittel van een kathedraal of een andere belangrijke kerk. De kerk die het kapittel herbergt, wordt een kapittelkerk of een collegiale kerk genoemd. In Nederland en België hebben tegenwoordig alleen nog enkele kathedralen een kapittel. Bouwkundig verschilt een kapittelkerk van een niet-collegiale parochiekerk doordat er zitplaatsen voor de kanunniken in het priesterkoor van de kerk gereserveerd moeten zijn, bij grotere kapittels wel 60 of 70. In de omgeving van de kapittelkerk kunnen kanunnikenhuizen, een proosdijgebouw, een laathof, een gasthuis, een brouwerij, voorraadschuren en stallen van het kapittel worden aangetroffen. De kanunniken die tegenwoordig verbonden zijn aan een kathedraal kapittel zijn altijd geestelijken, maar tijdens het ancien régime was het niet altijd nodig om de hogere priesterwijdingen te hebben ontvangen. Een kapittel was destijds een machtige instelling en bestuurde naast de kapittelkerk vaak ook andere kerkgebouwen en landerijen, soms complete dorpen. De meeste kapittels werden in de 16e eeuw, tijdens de Reformatie, of tegen het einde van de 18e eeuw, met de komst van de Franse revolutionaire legers, opgeheven. Sommige kapittelkerken werden afgebroken, maar de meeste gingen na een periode van leegstand of profanisering, verder als protestants kerkgebouw, parochiekerk of kathedraal. In enkele gevallen werd het kapittel na het vertrek van de Fransen heropgericht. [bron: wikipedia]
+          <lb/>
+        </p>
+        <p>De parochiekerk van Grave is toegewijd aan de H. Elizabeth van Thüringen (1207-1231).  
+          <lb/>Enige tijd na de bouw van de oude parochiekerk van Grave is het kapittel opgericht (1308) door heer Jan, graaf van Cuijk (Schutjes, deel III, p. 782).
+          <lb/>Daarmee werd de kerk verheven tot kapittelkerk waaraan een college van kanunniken was verbonden dat de bisschop assisteerde bij het bestuur van het bisdom.
+          <lb/> 
+          <lb/>Deze oude St. Elizabethkerk is bij de grote stadsbrand van 1415 verwoest, maar is daarna opnieuw en groter herbouwd. Liefst zeventien altaren herbergt de St. Elisabethkerk in de zestiende eeuw onder haar bogen, bestemd als gilde-altaren voor ambachts- en schuttersgilden en kerkelijke broederschappen. Het kapittel bestond aanvankelijk uit 6 kanunniken met een deken, aan wie verscheidene giften werden geschonken om in hun bestaan te voorzien.
+          <lb/> Bijvoorbeeld 58 morgen bouwland bij Tiel, inkomsten uit de goederen Schoonenberg onder Overasselt, uit gruit en gemaal te Grave, de tiende bij de Teersdijk, 11 morgen in de Bankhoek onder Wijchen, twee morgen in de Klingelskamp onder Mill, de helft van de novale tienden van Escharen en Gassel, de korentiende op Hal en aan den Langenboom etc. zodat de
+          <lb/> kapittelgoederen in 1823 nog ruim 2000 gulden opbrachten.
+          <lb/>
+        </p>
+        <p>In latere tijden zijn nog andere kerkgiften ingelijfd bij de kanunniken van de Elizabethkerk, o.m. de kerk van Beuningen, de kapel van Niftrik (1451), de parochiekerk H. Lambertus te
+          <lb/> Escharen(1456), het pastoraat en de plebanie van de parochiekerk Grave (1487).
+          <lb/>De kanunniken zelf bezaten het recht om hun deken te kiezen.
+          <lb/>Tijdens de eerste periode van de 80-jarige oorlog, tussen 1570 en 1602, als Grave door de
+          <lb/> Staatsen wordt veroverd, is dit kapittel opgehouden te bestaan omdat de kerk toen voor de
+          <lb/> katholieken verloren ging en voortaan gebruikt werd door de protestanten.
+          <lb/>  
+          <lb/>De goederen en inkomsten vervielen aan de prins van Oranje (Nassause domeinen), die
+          <lb/> daaruit o.m. het onderhoud aan de pastorie en het salaris van de predikant van Grave betaalde. 
+          <lb/>De hierna volgende archivalia zijn dan ook oorspronkelijk afkomstig uit de Nassause
+          <lb/> domeinarchieven.
+          <lb/>
+          <lb/>Zie voor meer stukken over Grave in de Nassause domeinarchieven:
+          <lb/>website BHIC, inventaris blok 77 Nassause Domeinen, 1545 - 1810,
+          <lb/> 
+          <lb/>onderdeel 3. Rentmeesterschap (ambtman) Grave en Land van Cuijk, 1608-1811.
+          <lb/>
+          <lb/>
+        </p>
+        <p>Het onderhavig archief is via de familie Walter te Grave bij het BHIC terechtgekomen. 
+          <lb/>Dit archief heeft de vermaarde dr. Jan Wap ook ter inzage gehad en hij heeft de stukken op zijn manier in chronologische volgorde beschreven. De streekarchivaris van het Land van Ravenstein en de Graafschap Megen (H.B.M. Essink) heeft op jeugdige leeftijd - hij was ongeveer 16 jaar oud - met zijn grootvader, dr. J.B.M. Coebergh uit Amsterdam, de stukken bestudeerd.
+          <lb/>Als streekarchivaris van het Land van Cuijk heeft de heer Essink begin jaren zestig een
+          <lb/> archiefinventaris vervaardigd, die de basis vormde voor dit archiefblokbestand.
+          <lb/>
+          <lb/>
+        </p>
+        <p>Literatuur:
+          <lb/>
+          <lb/>1) Het archief van deken en kapittel van de kerk van Sint Elisabeth te Grave, in: Inventarissen van archieven der kerkelijke instellingen te Beers, Boxmeer en Grave / A.L.G. van Agt, 1963
+          <lb/> 
+          <lb/>2) Een overzicht van rechten, plichten en bezittingen van het kapittel van Sint Elisabeth te Grave uit 1577. / Leny van Lieshout , 2012, in : Merlet 2012
+          <lb/>
+          <lb/>3) Wikipedia
+          <lb/>
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>Regesten</head>
+        <p>Regestenlijst</p>
+        <odd type="regest">
+          <head>1308 mei 15.
+            <lb/> Johannes, heer van Kuyck, oorkondt:
+            <lb/>ten eerste aan deken en kapittel van de kerk in Gravia de volgende goederen geschonken te hebben:
+            <lb/>a) 58 roeden bouwland, gelegen bij Tyele;
+            <lb/>b) een rente van 21 pond en 35 hoenders binnen de stad Tyele;
+            <lb/>c) een rente van 3 malder rogge en 3 malder haver bij Oeverassel uit de goederen van Schoneberge, die eertijds geweest waren van heer Theodricus, gezegd Pansyer;
+            <lb/>d) een rente van 40 pond payment, gaande uit zijn molen en uit de gruit in Gravia;
+            <lb/>ten tweede, dat zijn zoon Johannes, proost der kerken van Trajectum en Lovanium, en zijn kleinzoon Johannes de Kuyck deze brief medebezegeld hebben.
+            <lb/>Datum anno Domini millesimo CCCo octavo feria quarta post festum sancti Servatij Episcopi.
+            <lb/>Afschrift van notaris Johannes de Monte de Asten van 15-11-1469  op perkament.
+            <lb/>
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1308 mei 23.
+            <lb/> Johannes, heer van Kuyc, ridder, schenkt met toestemming van zijn gemalin en zijn zonen - in verband met de verheffing van de parochiekerk in Gravia tot een kapittelkerk - verschillende goederen, die onder andere gelegen zijn bij Tile, in Tile, in Overasselt en in Gravia (zie regest 1).
+            <lb/>Ter bekrachtiging wordt deze schenkingsakte medebezegeld door het kapittel van Leodium, door Arnoldus, deken van het concilium Kukense, door Henricus, investiet van de kerk van Gravia, door zijn gemalin Jutta, door zijn zonen Johannes, proost, en Otto de Kuyc, ridder, en door zijn kleinzoon Johannes de Kuyc.
+            <lb/>Datum anno Domini Mo CCCo octavo feria quinta post Dominicam Vocem.
+            <lb/>De zegels van Johannes, heer van Kuyc, en andere zegelaars in min of meer beschadigde staat aanwezig.
+            <lb/>Oorspronkelijk op perkament.
+            <lb/>Gedrukt: Jan J.F. Wap. Geschiedenis van het Land en de Heeren van Cuyk, p. 255 e.v.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1312 jan 25.
+            <lb/> Jutta de Nassau, weduwe van heer Jan, in leven heer van Kuyc, maakt haar testament, waarin vervat een legaat voor de kanunniken van de kerk van sancta Elyzabeth in Gravia, bestaande uit al haar goederen van de Doedenberch en van de Loevert en een rente van 20 pond uit een pacht van Boeghen.
+            <lb/>Dit testament wordt ter bekrachtiging medebezegeld door Johannes, proost van de kerken van Sint Petrus en Sint Servatius in Lovanium en in Trajectum, haar zoon, door Otto de Kuyc, ridder, haar zoon, en door Johannes, heer van Kuyc, haar kleinzoon.
+            <lb/>Datum anno millesimo triscentesimo duodecimo jn die Conversionis beati Pauli Apostoli.
+            <lb/>De zegels van Jutta van Nassau en andere zegelaars verloren.
+            <lb/>Oorspronkelijk op perkament.
+            <lb/>Gedrukt: Jan J.F. Wap. Geschiedenis van het Land en de Heeren van Cuyk, p. 257.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1320 jan 25.
+            <lb/> Otto, heer van Kuyc, oorkondt aan deken en kapittel van de kerk van Gravia een rente van 5 pond payment, gaande uit zijn molen te Boghen, gegeven te hebben.
+            <lb/>Datum anno Domini Mo CCCo vicesimo die Coversionis sancti Pauli Apostoli.
+            <lb/>Met beschadigd zegel van heer Otto van Cuyk.
+            <lb/>Oorspronkelijk op perkament.
+            <lb/>Afschrift op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1328 apr 30.
+            <lb/> Giselbertus, gezegd Gruter, en Gheldulfus Sartor, schepenen in Gravia, oorkonden, dat Hermannus, gezegd vander Heiden, aan deken en kapittel van de kerk van Gravia voor een jaargetijde van zijn ouders heeft opgedragen een rente van 10 schellingen, gaande uit zijn hofstad.
+            <lb/>Datum anno Domini Mo CCCo octavo vigilia sanctorum Philippi et Jacobi Apostoli.
+            <lb/>De zegels van Giselbertus Gruter en van Gheldulfus Sartor beschadigd.
+            <lb/>Oorspronkelijk op perkament
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1331 nov 25.
+            <lb/> Johannes, zoon van Lidekine, en Lambertus Alberti, schepenen te Gravia, oorkonden, dat Juwanus, de zoon van Wernerus, aan deken en kapittel in Gravia heeft opgedragen een rente van 30 schellingen, gaande uit het huis en hofstad van wijlen Hermannus vander Heiden.
+            <lb/>Datum anno Domini Mo CCCo XXXo primo die sancte Katherine Virginis.
+            <lb/>De zegels van Johannes, de zoon van Lidekine, en van Lambertus Alberti verloren.
+            <lb/>Oorspronkelijk op perkament
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1347 nov 5.
+            <lb/> Juwanus Werner en Johannes de Loen, schepenen in Gravia, oorkonden, dat ten overstaan van de richter Theodoricus de Os en van hen, Arnoldus de Uden en Hermannus Laneus, de schoonzoon van Heinricus, gezegd Baenrids, verklaard hebben schuldig te zijn aan Johannes de Tonghelaer een rente van 4 pond, gaande uit een huis en erf.
+            <lb/>Datarum anno Domini Mo XoLseptimo mensis Novembris die quinta.
+            <lb/>De zegels van Juwanus Werner en Johannes de Loen beschadigd.
+            <lb/>Oorspronkelijk op perkament
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1355 dec 2.
+            <lb/> Petrus Monachus en Johannes, gezegd Ridder, schepenen in Gravia, oorkonden, dat ten overstaan van de richter en van hen, Everardus, gezegd die Olislegher, en Bela e.l. aan heer Fredericus, kanunnik in Gravia, ten behoeve van deken en kapittel aldaar, hebben opgedragen een rente van 10 schellingen, gaande uit een huis en erf, als jaargetijde voor Juwanus Werner.
+            <lb/>Datum anno Domini Mo CCCo quinquagesimo quinto mensis Decembris die secunda.
+            <lb/>De zegels van Petrus Monachus en van Johannes, gezegd Ridder, zeer zwaar beschadigd.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1367 okt 9.
+            <lb/> Jan die Ridder en Arnt Goeswynszoen, schepenen te Grave, oorkonden, dat Jan van Tongelaer aan Gielis Hillenzoen heeft opgedragen een schepenbrief, die melding maakt van een rente van 4 pond (regest 7).
+            <lb/>Gegeven int iaer ons heren dusent driehondert seven ende tsestich op snte Dionysdach Martelleers.
+            <lb/>De zegels van Jan die Ridder en van Arnt Goeswynszoen vrij gaaf.
+            <lb/>Oorspronkelijk op perkament
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1392 sep 15.
+            <lb/> Willem van Gulik, hertog van Gelre, oorkondt ter ere van Sint Victor een kapel in Nijfteric aan der Masen te stichten ter gedachtenis aan de strijd tegen de Brabanders.
+            <lb/>Gegeven int jair onss Heren dusent driehondert tweennegentich des Sonnendags na des heiligen Cruixdaghs Exaltation.
+            <lb/>2  19e eeuwse afschriften op papier
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1409 aug 18.
+            <lb/> Deken en kapittel van de kerk van Sint Elizabeth in Gravia oorkonden opnieuw enige bepalingen vastgesteld te hebben ten aanzien van de renten en prebenden van een kanunnik, gestorven zijnde in zijn benoemingsjaar.
+            <lb/>Datum anno a Nativitate Domini millesimo quadringentesimonono die vero decimaoctava mensis Augusti.
+            <lb/>Het zegel van het kapittel licht beschadigd.
+            <lb/>Oorspronkelijk op perkament
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1425 okt 22.
+            <lb/> Goessen vanden Lampeler en Herit Hermanssoen vander Heyden, heemraden in het Hollanderbroeck, verklaren dat ten overstaan van de richter en van hen, Henric Baynrits en Lysbet e.l. aan Gerit van Diepenbeeck Geritssoen die Jonge hebben opgedragen een rente van 5 pond vlaams en 14 schellingen, gaande uit de tijns van de landsheer.
+            <lb/>Gegeven jnt jaer onss Heren dusent vierhondert ende vyff en twintich opten twe ende twintichsten dach in Octobrj.
+            <lb/>Oorspronkelijk op perkament
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1427 jan 16.
+            <lb/> Arnt die Haen en Gerit van Diepenbeeck, schepenen te Grave oorkonden, dat ten overstaan van de richter en van hen, Jan Willemsoen van Loen en Yde e.l. aan Jan Roeff hebben opgedragen een rente van 1 mauder rogge, gaande uit een huis en erf, grenzende aan de stadsmuur.
+            <lb/>Gegeven int jaer onss Heren dusent vierhondert ende soeven en twintich opten sestienden dach in Januario.
+            <lb/>De zegels van Arnt die Haen en van Gerit Diepenbeeck beschadigd.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1427 feb 5.
+            <lb/> Goeswyn vanden Lampelaer en Lambrecht Dericssoen, heemraden int Hollanderbroeck, verklaren, dat ten overstaan van de richter en van hen, Gerit van Diepenbeeck die Jonge Geritssoen en Aleyt e.l. aan Herman Roesinck, kanunnik van de kerk van Sint Elisabet te Grave ten behoeve van het kapittel aldaar, hebben opgedragen een heemradenbrief, die melding maakt van een rente van 5 pond vlaams en 14 schellingen (regest 12).
+            <lb/>Gegeven int jaer onss Heren dusent vierhondert seven ende twyntich opten vyften dach inden Sporkel Maent.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1434 mei 19.
+            <lb/> Arnolt, hertog van Gelre en Gulich, graaf van Zutphen, oorkondt:
+            <lb/>ten eerste verkocht te hebben aan zijn dienaar Johan van Lent, ten behoeve van Jan Taelholtz Udensoen, diens oudste neef, zijn hopaccijns then Grave voor een bedrag van 1300 rijnsguldens;
+            <lb/>ten tweede zijn rentmeester, scholtis, burgemeesteren, schepenen en raad van zijn stad Grave opdracht gegeven te hebben Johan Taelholt die accijns vredig en rustig te laten gebruiken;
+            <lb/>ten derde Baedeken Vaecht en Johan van Olmen, schepenen te Grave, verzocht te hebben deze brief mede te bezegelen.
+            <lb/>Jnden jaer onss Heren dusent vyerhondert vyerendedertich des Goedenssdag naden heiligen Pinxstdach.
+            <lb/>De zegels van Arnold van Gelre, van Baudeken Vaecht en van Johan van Olmen vrij gaaf.
+            <lb/>Oorspronkelijk op perkament
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1434 nov 10.
+            <lb/> Arnoldus, hertog van Gelria, enz., oorkondt zijn scretaris Johannes de Wytenhorst, kanunnik in Zutphania en rector van zijn kapel in Nyfterik, verlof gegeven te hebben dit rectoraat te resigneren of te verwisselen.
+            <lb/>Datum anno Domini millesimo quadringentesimo tricesimoquarto feria quinta in profesto beati Martini episcopi et confessoris.
+            <lb/>Het zegel van hertog Arnold van Gelre beschadigd.
+            <lb/>Oorspronkelijk op perkament
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1438 feb 16.
+            <lb/> Johan Monic en Jacob Spaenrebeen, schepenen te Grave, oorkonden, dat ten overstaan van de richter en van hen, Jan Roeff, Coen Cruysberch en Met e.l., Jan van Triest en Jacob van Triest, kinderen van voornoemde Jan Roeff, aan Jacob Dupper die Jonge een schepenbrief hebben opgedragen, die melding maakt van een rente van 1 mauder rogge (regest 13).
+            <lb/>Gegeven jnt jair ons Heren dusent vierhondert acht ende dertich opten sestienden dach in Februario.
+            <lb/>De zegels van Johan Monic en van Jacon Spaenrebeen beschadigd.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1438 mrt 11.
+            <lb/> Arnoldus, hertog van Gelria, enz., heer van de heerlijkheid Cuik, oorkondt:
+            <lb/>a) toestemming verleend te hebben tot incorporatie van de parochiekerk van Boninghen en de kapel van Nyftrick in het kapittel van Gravia;
+            <lb/>b) zijn notaris Johannes opdracht gegeven te hebben deze brief te publiceren.
+            <lb/>Datum et ratificatum per nos in opido nostro Graviensi anno a nativitate Domini millesimo quadringentesimo tricesimo octavo jndictione decimaquinta mensis Martij die undecima.
+            <lb/>Notaris Johannes de Templouz alias Coulle instrumenteert deze brief in een publieke vorm gegoten te hebben.
+            <lb/>Het zegel van hertog Arnold van Gelre zwaar beschadigd.
+            <lb/>Met merk van notaris Johannes de Templouz.
+            <lb/>Oorspronkelijk getransfigeerd stuk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1451 feb 3.
+            <lb/> Paus Nicolaus bericht aan de proost van de kerk van Xancten in het diocees van Colonia, dat hij - naar aanleiding van een verzoek van deken en kapittel van de kerk van sancta Elizabeth in Gravia - zijn toestemming verleent tot het incorpereren bij voornoemd kapittel van de parochiekerk van Sint Cosmas en Damianus in Boninghen en van de kapel van de H. Maagd Maria en van Sint Johannes en Paulus en van Sint Victor in Nieftrick, gelegen in het diocees van Colonia.
+            <lb/>Datum Rome apud Sanctumpetrum anno jncarnationis Dominice millesimoquadringentesimoquinquagesimo tertio kalendas Februarij pontificatus nostri anno quarto.
+            <lb/>Met loden zegel van Paus Nicolaas V.
+            <lb/>Oorspronkelijk op perkament.
+            <lb/>
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1452 apr 6.
+            <lb/> Henricus de Beaumon, doctor decretorum en proost van de collegiale kerk van Xancten in het diocees van Colonia, vidimeert - op gezag van de H. Apostolische Stoel - de bulle van paus Nicolaus van 3 februari 1451 (regest 19).
+            <lb/>Datum et actum in ecclesia Morinensi (Terwaan) anno Domini millesimo quadringentesimo quinquagesimo primo more scribendi in hoc regno Francie indictione decimaquinta.
+            <lb/>Het zegel van de proost beschadigd.
+            <lb/>Notaros Johannes Folpe, clericus diocesis Morinensis, instrumenteert dit vidimus in een publieke vorm gegoten te hebben.
+            <lb/>Met merk van notaris Johannes Folpe.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1455 sep 30.
+            <lb/> Willem van Stramproede en Dirc vander Voert, schepenen in Velp, oorkonden, dat Ude Taelhout en Ghebe e.l. aan Dirc van Os betaald hebben een rente van 45 rijnsgls., die Ianus Uden Taelhoutsoen aan Dirc van Os had opgedragen en die gaat uit de bieraccijns te Grave.
+            <lb/>Vervolgens oorkonden zij, dat Ude Taelhout en Ghebe hun hof, die Bolt genaamd, tot onderpand gesteld hebben.
+            <lb/>Ghegeven int jaer ons Heren dusent vierhondert vive ende vijftich op sunte Iherominusdach.
+            <lb/>De zegels van Willem van Stramproede en van Dirc vander Voert vrij gaaf.
+            <lb/>Oorsponkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1455 okt 2.
+            <lb/> Henrick van Steenhuys en Derick van Beerze, schepenen te Grave, oorkonden, dat Henrick van Oss verklaard heeft, dan Jan Tailhout met 600 rijnsguldens mag lossen een rente van 45 rijnsguldens, die gaat uit de hopaccijns te Grave.
+            <lb/>Gegeven jnt jair onss Heren dusent vyerhondert vyffendevijftich dess anderen dages post festum Remigij.
+            <lb/>Het zegel van Henrick van Steenhuys beschadigd; dat van Derick van Beerze vrij gaaf.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1455 okt 3.
+            <lb/> Henrick van Steenhuys en Derick van Beerse, schepenen te Grave, oorkonden, dat ten overstaan van de richter en van hen, Jan Tailhout aan Deric van Oss heeft opgedragen een rente van 45 rijnsguldens, gaande uit de hopaccijns te Graeff.
+            <lb/>Gegeven jnt jair onss Heren dusent vyffendenvyftich dess dages mensis Octobris.
+            <lb/>De zegels van Henrick van Steenhuys en van Derick van Beerse vrij gaaf.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1458 mei 30.
+            <lb/> De officiaal van de kerk van Sint Victor in Xancten in het diocees Colonia oorkondt:
+            <lb/>ten eerste, dat aan hem door de heer Arnoldus, hertog van Gelria, heer Gerardus Wolteruszoon, gezegd Koenen, kanunnik van de kerk van Sint Elisabeth in Gravia en priester van het diocees van Leodium, tot rector van de kapel in Nyfftrich, gelegen in het diocees van Colonia, gepresenteerd is na de afstand van heer Gerardus Vaick, kanunnik van de kerk van Sint Walburgis en priester van het diocees van Trajectum;
+            <lb/>ten tweede, dat hij voornoemde Gerardus Wolteruszoon, gezegd Koenen, toelaat als rector van de kapel in Nyfftrich.
+            <lb/>Ad feriam tertiam proximam post festum octave Penthecostes qui fuit penultima mensis Maij anno Domini millesimo quadringentesimo quinquagesimo octavo.
+            <lb/>Het zegel van de officiaal zeer zwaar beschadigd.
+            <lb/>Oorspronkelijk op perkament
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1462 mei 12.
+            <lb/> Henrick van Steenhuys en Jacop van Tegelen, schepenen te Grave, oorkonden, dat ten overstaan van de richter en van hen, Jacop van Teglen, genaamd Doepper, en Henrick e.l. aan Volpart Henricxsoen hebben opgedragen een rente van 1 malder rogge met 2 schepenbrieven (regesten 13 en 17).
+            <lb/>Gegeven jnt jair onss Heeren dusent vyerhondert twee endetsestich duodecima die mensis May.
+            <lb/>De zegels van Henrick van Steenhuys en van Jacop van Tegelen beschadigd.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1463 jul 12.
+            <lb/> Henrick van Steenhuis en Peter vanden Holte Derixsoen, schepenen te Grave, oorkonden, dat ten overstaan van de  richter en van hen,  heer Herman van Uden, priester, aan deken en kapittel van de Sint Elisabethskerk te Grave heeft opgedragen een rente van 1 malder rogge en 7 pond payment.
+            <lb/>Gegeven jnt jaer onss  Heeren dusent vierhondert drije ende tsestich duodecima mensis Julij.
+            <lb/>Afschrift op papier.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1467 sep 7.
+            <lb/> Henrick van Steenhuys en Johan van Cranenvelt, schepenen te Grave, oorkonden, dat ten overstaan van de richter en van hen, Volpart Henricxsoen en Aleyt e.l. aan Henrick den Haen hebben opgedragen een rente van 1 malder rogge met 3 schepenbrieven (regesten 13, 17, 25).
+            <lb/>Gegeven jnt jair onss Heeren dusent vyerhondert soevenendetsestich septima die mensis Septembris.
+            <lb/>De zegels van Henrick van Steenhuys en van Johan van Cranenvelt beschadigd.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1469 aug 23.
+            <lb/> Notaris Johannes de Monte de Asten, clericus van het diocees van Leodium, instrumenteert, dat heer Jacobus de Gelria, deken, Henricus de Haen, Johannes de Olmen, Jaspardus Hertevelt en Symon de Palude, kanunniken van de collegiale kerk van Sint Elisabeth in Gravia, ten overstaan van hem, als notaris, en van Aelbertus de Beerse en van Johannes de Bruxellis, priesters, als getuigen, in de kapittelzaal een overzicht gegeven hebben van de bezittingen van het kapittel, wijl Ludovicus de Bourbon, bisschop van Leodium, het kapittel belastingen wilde opleggen.
+            <lb/>Anno a nativitate eiusdem Domini millesimo quadringentesimo sexagesimonono jndictione secunda mensis Augusti die vicesimatercia.
+            <lb/>Met merk van notaris Johannes de Monte de Asten.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1470 feb 12.
+            <lb/> Dekens, vice-dekens en kapittels der secundaire kerken van Leodium oorkonden, dat ten overstaan van hen bij Sint Petrus in Leodium de heren Jacobus de Gelre, deken, Symon de Palude, kanunnik van de collegiale kerk van Sint Elizabeth in Gravia, voor zichzelven, als namens hun kapittel, verklaard hebben, dat heer Ludovicus de Borbon, bisschop van Leodium, een belasting van 30 rijnsguldens gevorderd heeft, maar dat het kapittel niet in staat is, tengevolge van de door overstromingen en oorlog verwoeste goederen, deze belasting te voldoen, maar dat het kapittel wel bereid is een belasting van 15 rijnsguldens te betalen.
+            <lb/>Anno Domini millesimo quadringentesimoseptuagesimo mensis Februarij die duodecima.
+            <lb/>Het zegel van de collegiale kerk van Sint Petrus in Luik verloren.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1473 apr 1.
+            <lb/> Goessen van den Griende en Derick vanden Cluten, schepenen te Grave, oorkonden, dat Derick Baden, namens Beelken van Oss, Willem Robyns, Willem, de zoon van Henrick van Oss, en Kersten Kerstenssoen gezamenlijk onder toezicht van de kerkmeesters Derick Rolofs en Derick vanden Clueten, in een met 4 sloten voorziene kist, aanwezig in de kerk te Grave, een brief van de hopaccijns te Grave hebben gelegd.
+            <lb/>Gegeven int jair ons Heren dusent vierhondert drie endezoeventich den irsten dach mensis Aprilis.
+            <lb/>De zegels van Goessen vanden Griende en van Derick vanden Cluten zwaar beschadigd.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1475 apr 5.
+            <lb/> De officiaal en proost van de kerk van Sint Victor in Xancten in het diocees van Colonia oorkondt:
+            <lb/>ten eerste, dat hertog Karolus van Burgundia, hertog van Gelria, als collator, na de dood van Hubertus de Zandwijck, pastoor van de parochiekerk in Bonyngen, en door aanwijzing van heer Harmannus de Wijtenhorst, heer Symon Godefridi tot pastoor van de parochiekerk van Bonyngen heeft voorgedragen, waartegen heer Adolphus de Gelria, als patroon van voornoemde kerk geprotesteeerd heeft, en naar aanleiding van dit protest Everhardus de Heringhen heeft voorgedragen;
+            <lb/>ten tweede, dat hij (de officiaal) heer Henricus Theoderici, deken in Gravia, opdracht gegeven heeft heer Symon Godefridi, namens hem, de investituur te verlenen.
+            <lb/>Sub anno a Nativitate Domini millesimoquadringentesimo septuagesimoquinto jndictione octava die vero Mercurij quinta mensis Aprilis.
+            <lb/>Het zegel van de officiaal zeer zwaar beschadigd.
+            <lb/>Notaris Gerardus Aeffertz de Xanctis, clericus van het diocees van Colonia, instrumenteert deze brief in een publieke vorm gegoten te hebben.
+            <lb/>Met merk van notaris Gerardus Aeffertz.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1475 okt 1.
+            <lb/> Jacop Bennensoen en Derick vanden Cluten, schepenen te Grave, oorkonden, dat ten overstaan van de richter en van hen, Beelken van Os aan Derick Baden die Kersemeker heeft opgedragen een rente van 22  1/2 rijnsgulden, gaande uit de hopaccijns te Grave.
+            <lb/>Gegeven jnt jaer ons Heren dusent vierhondert vyffendetzoventich den irsten dach van October.
+            <lb/>De zegels van Jacop Bennensoen en Derick vanden Cluten vrij gaaf.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1480 jun 26.
+            <lb/> Jan Monnick en Gysbert Otten, schepenen te Grave, vidimeren een akte van 19 mei 1434 (regest 15).
+            <lb/>Gegeven jnt jair ons Heren dusent vierhondert tachtentich des Manendages nae sent Johansdach Baptist te Midsomer.
+            <lb/>De zegels van Jan Monnick en Gijsbert Otten licht beschadigd.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1484 mei 17.
+            <lb/> Henrick Ottensoen en Arnt van Lomme, schepenen te Grave, oorkonden, dat Willem van Oss Henrixsoen aan zijn oom Willem Robyns het tijdelijke genot heeft geschonken van al zijn in vrijheid van den Grave gelegen goederen.
+            <lb/>Gegeven jnt jair ons Heren dusent vierhondert vierendetachtentich des Manendages post Servacii Episcopi.
+            <lb/>De zegels van Henrick Ottensoen en Arnt van Lomme vrij gaaf.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1484 jun 10.
+            <lb/> Gerardus de Beest, deken van het concilium Cuyckense, oorkondt, dat de vorsten Maximilianus en Philippus, aartshertogen van Austria, hertogen van Brabantia, enz., Petrus Moyness, gezegd vanden Moeten, gepresenteerd hebben als opvolger van heet Philippus vanden Beecke als rector van de parochiekerk van Gravia, en dat hij deze Petrus Moyness, gezegd vanden Moeten, als rector toelaat en institueert.
+            <lb/>Anno a Nativitate Domini millesimoquadringentesimo octuagesimoquarto mensis Junij die decima.
+            <lb/>Het zegel van de deken verloren.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1484 juni 10.
+            <lb/> Notaris Wilhelmus Spierinck instrumenteert, dat Gerardus de Beest, deken van het concilium Cuyckense, ten overstaan van hem, in Buscoducis, verklaard heeft, dat heer Petrus Moyness, gezegd vander Moeten, is voorgedragen tot de parochiekerk van de stad Gravia.
+            <lb/>Feria quinta post festum Penthecostes anno a Nativitate Domini millesimoquadringentesimo octuagesimoquarto.
+            <lb/>Met handtekening van  Wilhelmus Spierinck.
+            <lb/>Oorspronkelijk op perkament.
+            <lb/>
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1485 mei 18.
+            <lb/> Peeter vanden Wercken en Jan Coeberch, schepenen te Grave, oorkonden, dat ten overstaan van de richter en van hen, Willem van Oss Henrixssoen aan zijn oom Willem Robyns heeft opgedragen een rente van 16  1/2 rijnsgulden, gaande uit de hopaccijns te Grave.
+            <lb/>Gegeven jnt jair ons Heren dusent vierhondert vyff ende tachtentich des achttienden dages mensis Maij.
+            <lb/>Het zegel van Peeter vanden Wercken vrij gaaf; dat van Jan Coeberch beschadigd.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1486 nov 27.
+            <lb/> Johannes de Hoerne, bisschop van Leodium, incorporeert de plebanie van de kerk van Sint Elizabeth in Gravia, gelegen in het diocees van Leodium, bij het kapittel van voornoemde kerk.
+            <lb/>Anno a Nativitate Domini millesimoquadringentesimooctuagesimosexto mensis Novembris die vicesimaseptima.
+            <lb/>Het zegel van Johannes van Hoerne, bisschop van Luik zeer zwaar beschadigd.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1487 jul 21.
+            <lb/> Gherardus de Beest, deken van het concilium Cuykense in het diocees Leodium, ratificeert de door Johannes de Hoerne, bisschop van Leodium, gedane incorporatie van de plebanie der kerk van Sint Elyzabeth in Gravia bij het kapittel van voornoemde kerk.
+            <lb/>Datum Anno a Nativitate Domini millesimoquadringentesimooctuagesimo septimo die vicesimaprima Julij.
+            <lb/>Het zegel van de deken zeer zwaar beschadigd.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1488 nov 19.
+            <lb/> Notaris Gherardus die Kael, clericus van het diocees van Leodium, instrumenteert, dat ten overstaan van hem, als notaris, en van Simon de Palude en van Ghysbertus de Wamel, kanunniken van de kapel van Sint Georgius te Gravia, als getuigen, Johannes de Olmen, vicedecanus, Simon Bottelier, Johannes de Weze, Henricus Haen, Walterus de Heze, Franciscus de Triest en Jacobus de Reno, Kanunniken van de collegiale en parochiekerk van Sint Elizabeth in de  stad Gravia, verklaard hebben, dat een nieuwe kapitteldeken voortaan zijn residentie moet onderhouden.
+            <lb/>Anno a Nativitate Domini millesimo quadringentesimo octuagesimooctavo jndictione sexta mensis Novembris die decimanona.
+            <lb/>Met merk van notaris Gherardus die Kael.
+            <lb/>Oorspronkelijk op perkament.
+            <lb/>
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1490 apr 7.
+            <lb/> Notaris Symon de Palude, clericus van het diocees van leodium, instrumenteert, dat ten overstaan van hem, als notaris, en van Ruthgherus de Doernen en Petrus Raymeker, burgers van de stad Gravia, en van Henricus de Paradiso, clericus van het diocees van Colonia, als getuigen, heer Gerardus Coenen, rector van de kapel van Sint Johannes en Sint Paulus in de parochie van Nijfterick, verklaard heeft, dat:
+            <lb/>a) wijlen heer Arnoldus, hertog van Gelria, de collegiale kerk van Sint Elisabeth in de stad begunstigd heeft en dat voornoemde hertog, als patroon van voornoemde kapel in Nijfterick, deze kapel geïncorporeerd heeft bij het kapittel van de kerk van de stad Gravia;
+            <lb/>b) dat wijlen hertog Arnoldus hem (Gerardus Coenen), na de afstand van de rector Johannes de Wijtenhorst, aan de proost van Xancten gepresenteerd heeft;
+            <lb/>c) dat hij (Gerardus Coenen) voornoemde incorporatie erkent.
+            <lb/>Anno a Nativitate Domini millesimo quadringentesimo nonagesimo jndictione octavo mensis Aprilis die 
+            <lb/>septima.
+            <lb/>Met merk van notaris Symon de Palude.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1490 dec 20.
+            <lb/> Notaris Symon de Palude, priester van het diocees van Leodium, instrumenteert, dat ten overstaan van hem, als notaris, en van Theodericus Kuper, Henricus Sartoris en Arnoldus Henrici, als getuigen, Jacobus de Reno, deken van de kerk van Sint Elyzabeth in Gravia, - in de kapittelzaal in tegenwoordigheid van Gerardus Konen, pastoor in Escharen bij Gravia en kanunnik van de kapel van Sint Georgius in Gravia, en van Gosuinus Scoenjans, vicaris van de kerk van Sint Elyzabeth - geklaagd heeft, dat aan hem als kapitteldeken de nodige gelden niet worden uitbetaald en dat naar aanleiding daarvan een overeenkomst gesloten moet worden tussen de kapitteldeken en het kapittel.
+            <lb/>Anno a Nativitate Domini millesimo quadringentesimo nonagesimo jndictione octava mensis vero Decembris die vicesima.
+            <lb/>Met merk van notaris Symon de Palude.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1492 mei 21.
+            <lb/> Rolof Getagen en Rut van Doernen, schepenen te Grave, oorkonden, dat ten overstaan van de richter en van hen, Derick van Haeps, rentmeester der kanunniken van de Sint Elysabethskerk te Grave, gepand heeft 's herengemaal te Grave, waar ten behoeve van de kanunniken een rente van 80 rijnsgls. uitgaat.
+            <lb/>Gegeven jnt jair ons Heren dusent vierhondert tweentnegentich eenendetwintich dage in Mayo.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1493 maart 16.
+            <lb/> Deken en kapittel van de kerk van Sint Elysabeth in Gravia in het diocees van Leodium oorkonden, dat het, door deken en kapittel van voornoemde kerk op 21 juni 1346 vastgestelde statuut, betreffende de inkomsten der prebenden gewijzigd te hebben.
+            <lb/>Datum anno a Nativitate Domini millesimo quadringentesimo nonagesimotercio die vero mensis Marcij decimasexta. 
+            <lb/>Het zegel van het kapittel verloren.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1494 juli 1.
+            <lb/> De aartsdiaken van Campinia in de kerk van Leodius ratificeert de door heer Johannes de Horne, bisschop van Leodium, gedane incorporatie van de plebanie van de kerk van Gravia bij het kapittel van die kerk, mits door deken en kapittel jaarlijks aan de aartsdiaken 2 pond payment betaald wordt.
+            <lb/>Datum anno a Nativitate Domini millesimo quadringentesimo nonagesimoquarto mensis Julij die 
+            <lb/>prima.
+            <lb/>Het zegel van de aartsdiaken van Kempenland zeer zwaar beschadigd.
+            <lb/>Oorspronkelijk op perkament.
+          </head>
+          <p/>
+        </odd>
+      </odd>
+    </odd>
+    <dsc type="combined">
+      <c01 level="series">
+        <did id="MF9803417">
+          <unitid type="guid">BD9928EC75CE4C3A9D8FB168FA41BAAF</unitid>
+          <unitid type="series_code"/>
+          <unittitle>A. Stukken betreffende de kapitteldeken en pastoor van de kerk van Sint Elisabeth te Grave</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1308/1656"/>
+        </did>
+        <scopecontent>
+          <p>In toegang 7054 Parochie St. Elisabeth te Grave wordt een archiefstuk bewaard - onder inventarisnummer 395 - dat eigenlijk onderdeel is van het archief van het kapittel. Het is een register met aantekeningen van deken Herman Coenen en is aangelegd vanaf 1577. Het bevat &lt;br/&gt;aantekeningen betreffende de onroerende onlichamelijke zaken van:&lt;br/&gt;a) de dekanie van het kapittel van de kerk van Sint Elisabeth te Grave;&lt;br/&gt;b) het pastoors-, diakonaats- en subdiakonaatsofficie in voornoemde kerk;&lt;br/&gt;c) de kosterij in voornoemde kerk;&lt;br/&gt;d) de altaren in voornoemde kerk;&lt;br/&gt;e) de kapel van Sint Joost op de Ham;&lt;br/&gt;f) de kerk van Escharen met de kapel van Gassel.&lt;br/&gt;&lt;br/&gt;</p>
+        </scopecontent>
+        <c02 level="file">
+          <did id="MF2099487">
+            <unitid type="guid">BEFAA4C4323249D89BA596BC5B082939</unitid>
+            <unitid>1</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BEFAA4C4323249D89BA596BC5B082939</unitid>
+            <unittitle>Akte, waarbij het kapittel der Sint Elisabethkerk bepaalt, dat de deken in Grave moet resideren, 1488</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1488">1488</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">Wap E.20</unitid>
+          </did>
+          <scopecontent>
+            <p>Zie regest nr.40</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte, waarbij het kapittel der Sint Elisabethkerk bepaalt, dat de deken in Grave moet resideren, 1488</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/BEFAA4C4323249D89BA596BC5B082939" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF2099488">
+            <unitid type="guid">15AC10C79C7C43268218C13DC7E859A6</unitid>
+            <unitid>2</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/15AC10C79C7C43268218C13DC7E859A6</unitid>
+            <unittitle>Stukken betreffende de aanstelling van Petrus Moyness, gezegd vander Moeten, tot rector van de Sint Elisabethkerk te Grave, 1484</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1484">1484</unitdate>
+            <physdesc>2 charters</physdesc>
+            <unitid type="obsolete">Wap E.17</unitid>
+          </did>
+          <scopecontent>
+            <p>Zie regesten nrs. 35 en 36</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Stukken betreffende de aanstelling van Petrus Moyness, gezegd vander Moeten, tot rector van de Sint Elisabethkerk te Grave, 1484</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/15AC10C79C7C43268218C13DC7E859A6" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF9803418">
+          <unitid type="guid">19D94F68A6984113AAF6B723DF911D4B</unitid>
+          <unitid type="series_code"/>
+          <unittitle>B. Stukken betreffende de incorporaties</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1308/1656"/>
+        </did>
+        <c02 level="file">
+          <did id="MF2099489">
+            <unitid type="guid">53F57A729D7C415AB117A073B3C2516A</unitid>
+            <unitid>3</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/53F57A729D7C415AB117A073B3C2516A</unitid>
+            <unittitle>Stukken betreffende de incorporatie der plebanie van de Sint Elisabethkerk te Grave bij het kapittel, 1486, 1487 (transfix), 1494</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1486/1494">1486, 1487 (transfix), 1494</unitdate>
+            <physdesc>3 charters</physdesc>
+            <unitid type="obsolete">Wap E.19, E.24</unitid>
+          </did>
+          <scopecontent>
+            <p>Zie regesten nrs. 38, 39 en 45</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Stukken betreffende de incorporatie der plebanie van de Sint Elisabethkerk te Grave bij het kapittel, 1486, 1487 (transfix), 1494</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/53F57A729D7C415AB117A073B3C2516A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF2099490">
+            <unitid type="guid">DFAEEDF468BB4526A9475E96123AD3CD</unitid>
+            <unitid>4</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DFAEEDF468BB4526A9475E96123AD3CD</unitid>
+            <unittitle>Stukken betreffende de incorporatie van de parochiekerk van Sint Lambertus te Escharen bij het kapittel, 1505</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1505">1505</unitdate>
+            <physdesc>3 charters</physdesc>
+            <unitid type="obsolete">WAP E.25, E.26, E.27</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF2099491">
+            <unitid type="guid">94A5F208AEF14154A506BC55513B4FAE</unitid>
+            <unitid>5</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/94A5F208AEF14154A506BC55513B4FAE</unitid>
+            <unittitle>Stukken betreffende de incorporatie van de parochiekerk te Beuningen en van de kapel te Niftrik bij het kapittel. 1438,1451, 1452, 1505. Met op die kerk en kapel betrekking hebbende stukken. 1392 (afschriften), 1434, 1458, 1475, 1490. NB: 1 charter is in groot formaat en opgeborgen onder lexaan, 1438,1451, 1452, 1505, 1392 , 1434, 1458, 1475, 1490</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1392/1505">1438,1451, 1452, 1505, 1392 , 1434, 1458, 1475, 1490</unitdate>
+            <physdesc>8 charters ,  2 stukken</physdesc>
+            <unitid type="obsolete">WAP, D.3, D.4, E.8, E.9, E.10, E.11, E.12, E.16, E. 21</unitid>
+          </did>
+          <scopecontent>
+            <p>Zie regesten nrs. 10, 16, 18, 19, 20, 24, 31, 41.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <odd type="OPMERKING SCANS">
+            <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Stukken betreffende de incorporatie van de parochiekerk te Beuningen en van de kapel te Niftrik bij het kapittel. 1438,1451, 1452, 1505. Met op die kerk en kapel betrekking hebbende stukken. 1392 (afschriften), 1434, 1458, 1475, 1490. NB: 1 charter is in groot formaat en opgeborgen onder lexaan, 1438,1451, 1452, 1505, 1392 , 1434, 1458, 1475, 1490</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/94A5F208AEF14154A506BC55513B4FAE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF9803419">
+          <unitid type="guid">9A9EF1B125DC4705B8EDDF7E2FC0195C</unitid>
+          <unitid type="series_code"/>
+          <unittitle>C. Stukken betreffende het beheer der inkomsten en uitgaven</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1308/1656"/>
+        </did>
+        <c02 level="subseries">
+          <did id="MF9803420">
+            <unitid type="guid">40D167597A57453F8D118CCB3D37CBA0</unitid>
+            <unitid type="series_code"/>
+            <unittitle>1) Algemeen</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1308/1656"/>
+          </did>
+          <c03 level="file">
+            <did id="MF2099492">
+              <unitid type="guid">D88615D3AC4C4B38BCFF7F13884BD882</unitid>
+              <unitid>6</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D88615D3AC4C4B38BCFF7F13884BD882</unitid>
+              <unittitle>Akte, waarbij het kapittel der Sint Elisabethkerk enige bepalingen vaststelt ten aanzien van de renten en prebenden, 1409</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1409">1409</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">WAP, E. 7</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regest nr. 11</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte, waarbij het kapittel der Sint Elisabethkerk enige bepalingen vaststelt ten aanzien van de renten en prebenden, 1409</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/D88615D3AC4C4B38BCFF7F13884BD882" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099493">
+              <unitid type="guid">43EAD4A6826D448E9D0B9337D0811F2A</unitid>
+              <unitid>28</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/43EAD4A6826D448E9D0B9337D0811F2A</unitid>
+              <unittitle>Aantekeningen van de inkomsten der aan het kapittel van de Sint Elisabethkerk te Grave behorende renten. Aangelegd door Roleff van Daell, 1565</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1565">1565</unitdate>
+              <physdesc>1 deel</physdesc>
+              <unitid type="obsolete">6a</unitid>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099494">
+              <unitid type="guid">62967BE1BC4E4838A9779C62577B2DF5</unitid>
+              <unitid>7</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/62967BE1BC4E4838A9779C62577B2DF5</unitid>
+              <unittitle>Akte, waarbij het kapittel der Sint Elisabethkerk het statuut betreffende de inkomsten der prebenden wijzigt, 1493</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1493">1493</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">WAP, E.23</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regest nr. 44</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte, waarbij het kapittel der Sint Elisabethkerk het statuut betreffende de inkomsten der prebenden wijzigt, 1493</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/62967BE1BC4E4838A9779C62577B2DF5" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099495">
+              <unitid type="guid">2F624769EEAD46CCA6E4AF353773BDED</unitid>
+              <unitid>29</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2F624769EEAD46CCA6E4AF353773BDED</unitid>
+              <unittitle>Akte van overeenkomst tussen Mr. Frans Celissoen, kanunnik van de Sint Joriskapel op het Slot te Grave, ener- en deken en kapittel der kerk van Grave anderzijds inzake de viering van het feest der Zeven Smarten van de H. Maagd Maria, waarvoor Mr. Frans Celissoen een bedrag van 100 phil.gls. doteert, 1517</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1517">1517</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">7a</unitid>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van overeenkomst tussen Mr. Frans Celissoen, kanunnik van de Sint Joriskapel op het Slot te Grave, ener- en deken en kapittel der kerk van Grave anderzijds inzake de viering van het feest der Zeven Smarten van de H. Maagd Maria, waarvoor Mr. Frans Celissoen een bedrag van 100 phil.gls. doteert, 1517</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/2F624769EEAD46CCA6E4AF353773BDED" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099496">
+              <unitid type="guid">FDCFBB9D601F421B8DC33A99ED06B3B4</unitid>
+              <unitid>8</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FDCFBB9D601F421B8DC33A99ED06B3B4</unitid>
+              <unittitle>Akte, waarbij het kapittel der Sint Elisabethkerk een statuut vaststelt voor de aan de Graafse kapelaans en altaristen uit te keren stipendia. (c.1569). Met bijbehorend stuk. 1569, (c. 1569), 1569</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1569">(c. 1569), 1569</unitdate>
+              <physdesc>2 charter met stuk</physdesc>
+              <unitid type="obsolete">WAP, E. 30</unitid>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte, waarbij het kapittel der Sint Elisabethkerk een statuut vaststelt voor de aan de Graafse kapelaans en altaristen uit te keren stipendia. (c.1569). Met bijbehorend stuk. 1569, (c. 1569), 1569</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/FDCFBB9D601F421B8DC33A99ED06B3B4" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099497">
+              <unitid type="guid">5B1DD5F9249A450298413600190DABE1</unitid>
+              <unitid>9</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5B1DD5F9249A450298413600190DABE1</unitid>
+              <unittitle>Stuk betreffende het geschil tussen het kapittel der Sint Elisabethkerk en de kapitteldeken Jacobus van Rijn inzake de inkomsten der kapitteldeken, 1490</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1490">1490</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">WAP, E.22</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regest nr. 42</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Stuk betreffende het geschil tussen het kapittel der Sint Elisabethkerk en de kapitteldeken Jacobus van Rijn inzake de inkomsten der kapitteldeken, 1490</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/5B1DD5F9249A450298413600190DABE1" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099498">
+              <unitid type="guid">5A9A19B8040B436CBC12320B746B5CF7</unitid>
+              <unitid>10</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5A9A19B8040B436CBC12320B746B5CF7</unitid>
+              <unittitle>Akte, waarbij het kapittel der Sint Elisabethkerk verklaart 15 rijnsguldens in plaats van 30 rijnsguldens aan de bisschop van Luik als belasting te zullen betalen. 1470. Met bijbehorend stuk. 1469, 1470, 1469</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1469/1470">1470, 1469</unitdate>
+              <physdesc>2 charters</physdesc>
+              <unitid type="obsolete">WAP, E.13 , E.15</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regesten nrs. 28 en 29</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte, waarbij het kapittel der Sint Elisabethkerk verklaart 15 rijnsguldens in plaats van 30 rijnsguldens aan de bisschop van Luik als belasting te zullen betalen. 1470. Met bijbehorend stuk. 1469, 1470, 1469</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/5A9A19B8040B436CBC12320B746B5CF7" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF9803421">
+            <unitid type="guid">47626A92EE0D43B9B676978B71089801</unitid>
+            <unitid type="series_code"/>
+            <unittitle>2) Onroerende en roerende goederen</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1308/1656"/>
+          </did>
+          <c03 level="file">
+            <did id="MF2099499">
+              <unitid type="guid">0FE524E6686749CC8A9460EBC8976E72</unitid>
+              <unitid>11</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0FE524E6686749CC8A9460EBC8976E72</unitid>
+              <unittitle>Akte van schenking door Heer Jan van Cuyk aan het kapittel der Sint Elisabethkerk te Grave van bij Tiel, In Tiel, in Overasselt en in Grave gelegen goederen. 1308. Afschrift. 1469. Met akte van schenking in samenwerking met de verwanten van heer Jan van Cuyk. 1308, 1308, 1469</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1308/1469">1308, 1469</unitdate>
+              <physdesc>2 charters</physdesc>
+              <unitid type="obsolete">WAP, E. 14</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regest nrs. 1, 2</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van schenking door Heer Jan van Cuyk aan het kapittel der Sint Elisabethkerk te Grave van bij Tiel, In Tiel, in Overasselt en in Grave gelegen goederen. 1308. Afschrift. 1469. Met akte van schenking in samenwerking met de verwanten van heer Jan van Cuyk. 1308, 1308, 1469</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/0FE524E6686749CC8A9460EBC8976E72" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099500">
+              <unitid type="guid">99820625978E46AC9F44F7C358467D59</unitid>
+              <unitid>12</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/99820625978E46AC9F44F7C358467D59</unitid>
+              <unittitle>Testament van vrouwe Jutta van Nassau, weduwe van heer Jan van Cuyk, waarin vervat een legaat voor de kanunniken van de kerk van Grave, bestaande uit goederen onder Cuyk en Beugen, 1312</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1312">1312</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <scopecontent>
+              <p>Zie regest nr. 3</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Testament van vrouwe Jutta van Nassau, weduwe van heer Jan van Cuyk, waarin vervat een legaat voor de kanunniken van de kerk van Grave, bestaande uit goederen onder Cuyk en Beugen, 1312</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/99820625978E46AC9F44F7C358467D59" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099501">
+              <unitid type="guid">DFCA7BA165404EA6B279EAE9EA8AE923</unitid>
+              <unitid>13</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DFCA7BA165404EA6B279EAE9EA8AE923</unitid>
+              <unittitle>Akte van schenking door Otto, heer van Cuyk, aan het kapittel te Grave van een rente van 5 pond payment, gaande uit zijn molen in Beugen. Met 15e eeuws handschrift, met kopie, 1320</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1320">1320</unitdate>
+              <physdesc>2 charters</physdesc>
+              <unitid type="obsolete">WAP, E.1</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regest nr. 4</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van schenking door Otto, heer van Cuyk, aan het kapittel te Grave van een rente van 5 pond payment, gaande uit zijn molen in Beugen. Met 15e eeuws handschrift, met kopie, 1320</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/DFCA7BA165404EA6B279EAE9EA8AE923" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099502">
+              <unitid type="guid">EA939ECF8BA5415190B2260E847D49D8</unitid>
+              <unitid>14</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EA939ECF8BA5415190B2260E847D49D8</unitid>
+              <unittitle>Akte van opdracht door Hermanus vander Heiden aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 10 schellingen, gaande uit een hofstad in Grave, 1328</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1328">1328</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">WAP, E.2</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regest nr. 5</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van opdracht door Hermanus vander Heiden aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 10 schellingen, gaande uit een hofstad in Grave, 1328</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/EA939ECF8BA5415190B2260E847D49D8" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099503">
+              <unitid type="guid">C75C3ED8DCC74B9CBA1E2464EB3D43C2</unitid>
+              <unitid>15</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C75C3ED8DCC74B9CBA1E2464EB3D43C2</unitid>
+              <unittitle>Akte van opdracht door Juwanus, de zoon van Wernerus, aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 30 schellingen, gaande uit onder Grave gelegen goederen, 1331</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1331">1331</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">WAP, E.3</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regest nr. 6</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van opdracht door Juwanus, de zoon van Wernerus, aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 30 schellingen, gaande uit onder Grave gelegen goederen, 1331</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/C75C3ED8DCC74B9CBA1E2464EB3D43C2" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099504">
+              <unitid type="guid">D71F542C28524F2EBA7FCED324E96866</unitid>
+              <unitid>16</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D71F542C28524F2EBA7FCED324E96866</unitid>
+              <unittitle>Akte van opdracht door Everardus Olislegher en Bela e.l. aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 10 schellingen, gaande uit een huis en erf in Grave, 1355</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1355">1355</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">WAP, E. 4</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regest nr. 8</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van opdracht door Everardus Olislegher en Bela e.l. aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 10 schellingen, gaande uit een huis en erf in Grave, 1355</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/D71F542C28524F2EBA7FCED324E96866" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099505">
+              <unitid type="guid">B918AF396BFA4B23A0446800F351CE0E</unitid>
+              <unitid>17</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B918AF396BFA4B23A0446800F351CE0E</unitid>
+              <unittitle>Akte van opdracht door Gerit van Diepenbeeck en Aleyt e.l. aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 5 pond vlaams en 14 schellingen, gaande uit de tijns van de landheer in het Hollanderbroek.1427. Transfix. Met getransfigeerd stuk. 1425, 1427, 1425</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1425/1427">1427, 1425</unitdate>
+              <physdesc>2 charters</physdesc>
+              <unitid type="obsolete">WAP, B.1</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regest nrs. 12 en 14</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van opdracht door Gerit van Diepenbeeck en Aleyt e.l. aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 5 pond vlaams en 14 schellingen, gaande uit de tijns van de landheer in het Hollanderbroek.1427. Transfix. Met getransfigeerd stuk. 1425, 1427, 1425</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/B918AF396BFA4B23A0446800F351CE0E" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099506">
+              <unitid type="guid">C45AC4E2584C4CD5AF0490C4F2FD56F4</unitid>
+              <unitid>18</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C45AC4E2584C4CD5AF0490C4F2FD56F4</unitid>
+              <unittitle>Akte van opdracht door Herman van Uden, priester, aan het kapittel te Grave van een rente van 1 malder rogge en 7 pond payment. 1463. Afschrift. Met bijbehorende stukken. 1347, 1367. Transfix, 1463, 1347, 1367</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1347/1463">1463, 1347, 1367</unitdate>
+              <physdesc>2 charters en 1 stuk</physdesc>
+              <unitid type="obsolete">WAP, D.1</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regest nrs. 7,9 en 26</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van opdracht door Herman van Uden, priester, aan het kapittel te Grave van een rente van 1 malder rogge en 7 pond payment. 1463. Afschrift. Met bijbehorende stukken. 1347, 1367. Transfix, 1463, 1347, 1367</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/C45AC4E2584C4CD5AF0490C4F2FD56F4" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099507">
+              <unitid type="guid">2EF9500F9E674D65BDE81F3D37144B55</unitid>
+              <unitid>19</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2EF9500F9E674D65BDE81F3D37144B55</unitid>
+              <unittitle>Akte van panding door Derick van Haeps, rentmeester van het kapittel van de Sint Elisabethkerk te Grave, van het 's heren gemaal te Grave, waar ten behoeve van het kapittel een rente van 80 rijnsgls. uit gaat, 1492</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1492">1492</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">WAP, D.13</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regest nr. 43</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van panding door Derick van Haeps, rentmeester van het kapittel van de Sint Elisabethkerk te Grave, van het 's heren gemaal te Grave, waar ten behoeve van het kapittel een rente van 80 rijnsgls. uit gaat, 1492</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/2EF9500F9E674D65BDE81F3D37144B55" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099508">
+              <unitid type="guid">F205E71250404F6FA2E9568BC251CCFE</unitid>
+              <unitid>20</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F205E71250404F6FA2E9568BC251CCFE</unitid>
+              <unittitle>Akte, waarbij Floris, graaf van Buren, enz., als gouverneur van de stad Grave, aan deken en  kapittel van de Sint Elisabethkerk te Grave toestemming verleent de hopaccijns te Grave te lossen, voor welke concessie het kapittel jaarlijks 3 jaargetijden dient te houden voor de zielerust van hertog Arnold van Gelre, heer Willem van Egmond en graaf Fredrik van Buren. 1525. Met 2 akten van vidimus. 1480, 1502. Met akte van lossing door het kapittel te Grave van de hopaccijns voor 319 rijnsgls. 1525. Met bijbehorend transfix. 1525. Met andere op die accijns betrekking hebbende stukken, 1434, 1455, 1473, 1475, 1480, 1485, 1502, 1516, 1525</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1434/1525">1434, 1455, 1473, 1475, 1480, 1485, 1502, 1516, 1525</unitdate>
+              <physdesc>9 17 charters en 9 (?) stukken (in oude inventaris 18 stukken)</physdesc>
+              <unitid type="obsolete">WAP, A.4, A.5, A.6, A.8, A. 10, A.13, A.17, A.19, A.20, A. 21, B.6, B.7, B.9, D.8, D.11, D.18</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regest nrs. 15, 21, 22, 23, 30, 32, 33, 34, 37</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte, waarbij Floris, graaf van Buren, enz., als gouverneur van de stad Grave, aan deken en  kapittel van de Sint Elisabethkerk te Grave toestemming verleent de hopaccijns te Grave te lossen, voor welke concessie het kapittel jaarlijks 3 jaargetijden dient te houden voor de zielerust van hertog Arnold van Gelre, heer Willem van Egmond en graaf Fredrik van Buren. 1525. Met 2 akten van vidimus. 1480, 1502. Met akte van lossing door het kapittel te Grave van de hopaccijns voor 319 rijnsgls. 1525. Met bijbehorend transfix. 1525. Met andere op die accijns betrekking hebbende stukken, 1434, 1455, 1473, 1475, 1480, 1485, 1502, 1516, 1525</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/F205E71250404F6FA2E9568BC251CCFE" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099509">
+              <unitid type="guid">0C5C774F6A0B4A15B15D7BABAE6D18DD</unitid>
+              <unitid>21</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0C5C774F6A0B4A15B15D7BABAE6D18DD</unitid>
+              <unittitle>Akte, waarbij Goert van Aken, priester en kanunnik op het Huis te Grave, verklaart, dat het kapittel te Grave een rente van 6 rijnsguldens, gaande uit kapittelgoederen, mag lossen en 100 rijnsguldens, 1526</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1526">1526</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">WAP, D.20</unitid>
+            </did>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte, waarbij Goert van Aken, priester en kanunnik op het Huis te Grave, verklaart, dat het kapittel te Grave een rente van 6 rijnsguldens, gaande uit kapittelgoederen, mag lossen en 100 rijnsguldens, 1526</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/0C5C774F6A0B4A15B15D7BABAE6D18DD" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099510">
+              <unitid type="guid">FEA8D83017E04D64B41BF30B9A55D282</unitid>
+              <unitid>22</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FEA8D83017E04D64B41BF30B9A55D282</unitid>
+              <unittitle>Akte van opdracht door Wolff Franck en Agnees e.l. aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 1 malder rogge gaande uit een huis en erf in Grave. 1531. Transfix. Met getransfigeerde stukken, 1427, 1438, 1462, 1467, 1521, 1531, 1529</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1427/1531">1427, 1438, 1462, 1467, 1521, 1531, 1529</unitdate>
+              <physdesc>7 charters (in oude inventaris 7 stukken)</physdesc>
+              <unitid type="obsolete">WAP, D.7</unitid>
+            </did>
+            <scopecontent>
+              <p>Zie regest nrs. 13, 17, 25 en 27</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van opdracht door Wolff Franck en Agnees e.l. aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 1 malder rogge gaande uit een huis en erf in Grave. 1531. Transfix. Met getransfigeerde stukken, 1427, 1438, 1462, 1467, 1521, 1531, 1529</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/FEA8D83017E04D64B41BF30B9A55D282" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099511">
+              <unitid type="guid">C1E0F91503AF4CA3B2DB6C37F5DAA034</unitid>
+              <unitid>23</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C1E0F91503AF4CA3B2DB6C37F5DAA034</unitid>
+              <unittitle>Akte, waarbij Gerit Lamberts e.a. verklaringen afleggen over de aan het kapittel te Grave toebehorende Escharense korentiende, 1566</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1566">1566</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">WAP, B. 12</unitid>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte, waarbij Gerit Lamberts e.a. verklaringen afleggen over de aan het kapittel te Grave toebehorende Escharense korentiende, 1566</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/C1E0F91503AF4CA3B2DB6C37F5DAA034" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF2099512">
+              <unitid type="guid">E4C069B1258246BF95589E3F777F4F52</unitid>
+              <unitid>24</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E4C069B1258246BF95589E3F777F4F52</unitid>
+              <unittitle>Akte van lossing in 1575 door het kapittel te Grave van een rente van 7 goudguldens met een bedrag van 116 goudguldens aan de rector van het altaar der Vier Maarschalken en Sint Lucia, genaamd het H. Kruisaltaar, in de kerk van Sint Elisabeth te Grave. Met bijbehorend stuk, 1546, 1575</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1546/1575">1546, 1575</unitdate>
+              <physdesc>2 charters</physdesc>
+              <unitid type="obsolete">WAP, A.23a, B.10</unitid>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van lossing in 1575 door het kapittel te Grave van een rente van 7 goudguldens met een bedrag van 116 goudguldens aan de rector van het altaar der Vier Maarschalken en Sint Lucia, genaamd het H. Kruisaltaar, in de kerk van Sint Elisabeth te Grave. Met bijbehorend stuk, 1546, 1575</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/E4C069B1258246BF95589E3F777F4F52" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF10850443">
+          <unitid type="guid">1145B6BE69274974BC75904C60FEF0F2</unitid>
+          <unitid type="series_code"/>
+          <unittitle>D. Aanvulling</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1308/1656"/>
+        </did>
+        <c02 level="file">
+          <did id="MF10850437">
+            <unitid type="guid">AA8BC01AAC92446D98E075FC1DBDACE7</unitid>
+            <unitid>25</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/AA8BC01AAC92446D98E075FC1DBDACE7</unitid>
+            <unittitle>Legger van geld- en rogrenten, jaarlijks uit de huizen en erven te Grave en andere plaatsen van de baronie van Cuijk en het Land van Ravenstein, toekomende aan het kapittel, 1568</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1568">1568</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <scopecontent>
+            <p>Volgens opschrift  is deze rekening afkomstig uit BHIC toegang 77 Nassause Domeinen, nr. 633</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Legger van geld- en rogrenten, jaarlijks uit de huizen en erven te Grave en andere plaatsen van de baronie van Cuijk en het Land van Ravenstein, toekomende aan het kapittel, 1568</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/AA8BC01AAC92446D98E075FC1DBDACE7" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF10850438">
+            <unitid type="guid">69CE77EB06244ADA9D43DD130922F298</unitid>
+            <unitid>26</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/69CE77EB06244ADA9D43DD130922F298</unitid>
+            <unittitle>Legger van geld- en roggepachten, welke jaarlijks vervallen en toekomen aan de altaren in de Elizabethkerk of het kapittel, 1648-1656</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1648/1656">1648-1656</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <scopecontent>
+            <p>Waarschijnlijk is deze rekening afkomstig uit BHIC toegang 77 Nassause Domeinen</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Legger van geld- en roggepachten, welke jaarlijks vervallen en toekomen aan de altaren in de Elizabethkerk of het kapittel, 1648-1656</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/69CE77EB06244ADA9D43DD130922F298" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF10850439">
+            <unitid type="guid">B683590E6BE3459395F13775F668866A</unitid>
+            <unitid>27</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B683590E6BE3459395F13775F668866A</unitid>
+            <unittitle>Rekening van de rentmeester Motman van de prins van Oranje inzake financieel beheer over de geestelijke goederen van het v.m. kapittel van de St. Elizabethkerk te Grave , 1776-1779</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1776/1779">1776-1779</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <scopecontent>
+            <p>Waarschijnlijk is deze rekening afkomstig uit BHIC toegang 77 Nassause Domeinen, inv.nr. 633</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Rekening van de rentmeester Motman van de prins van Oranje inzake financieel beheer over de geestelijke goederen van het v.m. kapittel van de St. Elizabethkerk te Grave , 1776-1779</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B683590E6BE3459395F13775F668866A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_7071/054DDCC154A345F3A7BD6911887F2F82_oai_ead.xml-->
+</record>

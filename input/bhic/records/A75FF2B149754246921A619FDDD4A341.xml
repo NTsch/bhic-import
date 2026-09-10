@@ -1,0 +1,1210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>A75FF2B149754246921A619FDDD4A341</identifier>
+    <datestamp>2026-09-02</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HtBHIC">380</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Hoeve Stroobol in Sint-Oedenrode, 1356 - 1943</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+        <date calendar="gregorian" era="ce" normal="2021">2021</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF911676">
+      <unittitle>Hoeve Stroobol in Sint-Oedenrode, 1356 - 1943</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-HtBHIC">380</unitid>
+      <note label="#guid">
+        <p>A75FF2B149754246921A619FDDD4A341</p>
+      </note>
+      <unitdate calendar="gregorian" era="ce" normal="1356/1943"/>
+      <note label="Vindplaats origineel">
+        <p>BHIC 's-Hertogenbosch</p>
+      </note>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Algemeen bestuur en Politiek</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Historisch overzicht</emph>
+        </head>
+        <p>Voor de personen die achtereenvolgens met de respectievelijke hoeven en het Hertogshuis werden beleend, zie de inventarisnummers 23, 24, en 25; W. Heesters, 'Het Leengoed Stroetbolle', Heemschild, uitgave van de heemkundige kring te St. Oedenrode 4 (1972), p. 62-68 en W. Heesters, ''s-Hertogenhuys', Heemschild 2 (1977), p. 25-34.</p>
+        <p>Hoeve (d'aude) Stroetbolle vormde de kern van het leengoed Stroetbolle dat in de tweede helft van de 14e eeuw uiteen viel in drie afzonderlijke lenen, te weten: genoemde hoeve, een leengoed dat eveneens Stroetbolle bleef heten en het Bunsland (Bunsland, later verbasterd tot Bruynsland, werd begin 17e eeuw omgedoopt in Vogelsanck). De benaming 'Stroetbolle' duidt op een zandige hoogte of bult in een moerassig gebied (in casu 'Het Broek').
+          <note>
+            <p>Heesters, Heemschild 4 (1972), p. 62.</p>
+          </note>
+        </p>
+        <p>Het Hertogshuis was in oorsprong een burcht, gebouwd door een der grafelijke voorgangers van de hertog van Brabant in deze contreien. Na in de 13e eeuw tot jachthuis van de Brabantse hertogen te zijn gedegradeerd, duikt het slotje begin 14e eeuw in de Brabantse leenregisters op als zijnde een leengoed van Arnoldus de Linen oftewel Arnoud van Leende. Aangezien de tand des tijds echter stevig aan de voormalige burcht heeft geknaagd, kreeg Lucas van Erp in 1401 toestemming van hertogin Johanna van Brabant de bouwval af te breken en op de fundamenten een nieuw huis te bouwen.
+          <note>
+            <p>Heesters, 'Stroetbolle en Vogelsanck', Heemschild 4 (1977), p. 81.</p>
+          </note> In het Strick-grefier werd aangetekend: 'Lucas van Erpe hout een huys, gheheyten dat Hertoghenhuys, lyghende tot Sinte Oedenrode neven de kercke aldaar, mitten borchgrecht daerop gaende, daertoe behorende, ende is een volle leen'
+          <note>
+            <p>BHIC archief Raad van Brabant, Inventarisnummer 1111, F. 149v.</p>
+          </note> ; de oude slotgracht, lopende rondom het oude huis en de ernaast gelegen kapittelkerk, bleef dus behouden. Genoemde Lucas van Erp was de vader van Jan van Erp welke in 1459, op grond van wanbetaling van erfrenten, veronderpand op (d'aude) Stroetbolle, deze hoeve aan mr. Ambrosius van Dynter verbeurde.
+          <note>
+            <p>Inventarisnummer 24, p. 15. Inventarisnummer 5.</p>
+          </note>
+        </p>
+        <p>In 1552 kwamen (d'aude) Stroetbolle en het hertogshuis weer in één en dezelfde hand, toen Jan Millinc, die reeds sedert 1545/1547 de hoeve in leen had, het Huis kocht.
+          <note>
+            <p>Inventarisnummers. 8-13.</p>
+          </note> Beide leengoederen, leenroerig aan de hertog van Brabant danwel de Staten-Generaal, kenden de volgende twee eeuwen steeds weer eenzelfde eigenaar, totdat Maximiliaen Carolus, graaf van Lalaing, in 1774 het Hertogshuis en de hoeve (d'aude) Stroetbolle (inclusief de hoeve Vogelsanck waarmee hij in 1772 was beleend) verkocht aan respectievelijk de Rooienaar Jacob Cornelisse van der Hagen en de Bosschenaar Jacob Kien, stadhouder van de schout van het kwartier van Peelland.
+        </p>
+        <p>De hoeven (d'aude) Stroetbolle en Vogelsanck bleven in het bezit van de afstammelingen van Kien totdat zij in de tweede helft van de 19e eeuw werden aangekocht door Willem van Homberg te Sint-Oedenrode, lid der Provinciale Staten van Noord-Brabant.
+          <note>
+            <p>Inventarisnummer 24, p. 14-15, 19.</p>
+          </note> De oude slotgracht rondom het Hertogshuis werd in 1787 gedempt, terwijl het Huis, in de loop der eeuwen vele malen afgebrand en herbouwd, in de 19e eeuw wederom tot een ruïne verviel. De laatste restanten van het Huis werden in 1913 bij de bouw van een nieuwe jongensschool opgeruimd.
+          <note>
+            <p>Heesters, Heemschild 2 (1977), p. 30-32.</p>
+          </note> 
+          <lb/>
+          <lb/>Het archief is in 1988 geïnventariseerd door D. van Hooren.
+          <lb/>
+          <lb/>Rijkarchief in Noord-Brabant, 1997
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Aanwijzingen voor de gebruiker</emph>
+        </head>
+        <p>Verwijzing naar archiefstukken uit dit archief geschiedt door
+          <lb/>(volledig): 
+          <emph render="italic">Brabants Historisch Informatie Centrum, toegangsnummer 380 Hoeve Stroobol in Sint-Oedenrode, 1356-1943</emph>, inv.nr. ...
+          <lb/>(verkort): 
+          <emph render="italic">BHIC, 380 Hoeve Stroobol</emph>, inv.nr. ...
+        </p>
+      </odd>
+    </odd>
+    <dsc type="combined">
+      <c01 level="series">
+        <did id="MF911677">
+          <unitid type="guid">06DB87BAA71B4839BC31A847BB86B67C</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Leengoederen Hoeve (d'Aude) Stroetbolle, Hoeve Vogelsank en Hertogshuis in Sint-Oedenrode, 1356 - 1943</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1356/1943"/>
+        </did>
+        <c02 level="file">
+          <did id="MF911678">
+            <unitid type="guid">C303F923B15841B59811FBA266DC3502</unitid>
+            <unitid>1</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C303F923B15841B59811FBA266DC3502</unitid>
+            <unittitle>Akte van belening, door Wenceslaus en Johanna, hertogen van Brabant, van W. van Bobnagel (?) met hoeve Stroetbolle, gelijktijdige kopie, 1356</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1356">1356</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 1.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911679">
+            <unitid type="guid">A3C9FFB97F37438C9E59C73F9A45ABED</unitid>
+            <unitid>2</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A3C9FFB97F37438C9E59C73F9A45ABED</unitid>
+            <unittitle>Vonnis van Leenhof van Brabant in Brussel, waarbij hoeve Stroetbolle, op grond van wanbetaling erfrenten door Jan van Erp, tijdelijk aan hem wordt ontnomen en in handen gesteld van Ambrosius van Dinter, 1454</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1454">1454</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 2.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Vonnis van Leenhof van Brabant in Brussel, waarbij hoeve Stroetbolle, op grond van wanbetaling erfrenten door Jan van Erp, tijdelijk aan hem wordt ontnomen en in handen gesteld van Ambrosius van Dinter, 1454</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A3C9FFB97F37438C9E59C73F9A45ABED" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911680">
+            <unitid type="guid">75A9252588604AEEACFB4118FDF0FCE8</unitid>
+            <unitid>3</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/75A9252588604AEEACFB4118FDF0FCE8</unitid>
+            <unittitle>Rekeningen van inkomsten en uitgaven beheer hoeve Stroetbolle, 1454 - 1457</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1454/1457">1454 - 1457</unitdate>
+            <physdesc>2 stukken</physdesc>
+          </did>
+          <scopecontent>
+            <p>Afgehoord, 1456 - 1457. Regestnrs 3 - 4.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911681">
+            <unitid type="guid">3EBF43042E5149F1B08D75A806859912</unitid>
+            <unitid>4</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3EBF43042E5149F1B08D75A806859912</unitid>
+            <unittitle>Akte van overeenkomst, tussen A. van Dinter en Jan van Erp, over voorwaarden, waarop Van Dinter beheer over hoeve Stroetbolle weer overdraagt aan Van Erp, 1457</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1457">1457</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 5.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overeenkomst, tussen A. van Dinter en Jan van Erp, over voorwaarden, waarop Van Dinter beheer over hoeve Stroetbolle weer overdraagt aan Van Erp, 1457</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3EBF43042E5149F1B08D75A806859912" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911682">
+            <unitid type="guid">85A154672A68497488DC22026D30CDAE</unitid>
+            <unitid>5</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/85A154672A68497488DC22026D30CDAE</unitid>
+            <unittitle>Vonnis van Leenhof van Brabant in Brussel, waarbij hoeve Stroetbolle, op grond van niet nakomen voorwaarden, zoals vastgesteld in akte van 1457 (inventarisnr 4), aan Jan van Erp wordt ontnomen en definitief in handen gesteld van A. van Dinter, 1458 - 1459&lt;br/&gt;Met oudere bewijsstukken, waarin schout van Peelland verklaart Jan van Erp tot betaling van hun schulden te hebben aangemaand danwel (voorlopig) vonnis van Leenhof te hebben aangezegd</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1458/1459"/>
+            <physdesc>4 charters en 1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnrs  6 - 10.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Vonnis van Leenhof van Brabant in Brussel, waarbij hoeve Stroetbolle, op grond van niet nakomen voorwaarden, zoals vastgesteld in akte van 1457 (inventarisnr 4), aan Jan van Erp wordt ontnomen en definitief in handen gesteld van A. van Dinter, 1458 - 1459&lt;br/&gt;Met oudere bewijsstukken, waarin schout van Peelland verklaart Jan van Erp tot betaling van hun schulden te hebben aangemaand danwel (voorlopig) vonnis van Leenhof te hebben aangezegd</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/85A154672A68497488DC22026D30CDAE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911683">
+            <unitid type="guid">D647E07DA6B144CE949A4EAD57E4CEA7</unitid>
+            <unitid>6</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D647E07DA6B144CE949A4EAD57E4CEA7</unitid>
+            <unittitle>Akte van belening, door Leenhof van Brabant in Brussel, van A. van Dinter met hoeve Stroetbolle, 1459</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1459">1459</unitdate>
+          </did>
+          <scopecontent>
+            <p>Regestnr 11.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van belening, door Leenhof van Brabant in Brussel, van A. van Dinter met hoeve Stroetbolle, 1459</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D647E07DA6B144CE949A4EAD57E4CEA7" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911684">
+            <unitid type="guid">E4F7391CDAF844539AD4E18C3861C13F</unitid>
+            <unitid>7</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E4F7391CDAF844539AD4E18C3861C13F</unitid>
+            <unittitle>Akte van overeenkomst, tussen enerzijds A. van Dinter, en anderzijds M. van Bouchem en zijn echtgenote H. van Dinter, waarbij laatstgenoemden, in plaats van de aan hen door A. van Dinter en zijn vrouw bij de huwelijksvoorwaarden toegezegde erfrenten, hoeve Stroetbolle in leen krijgen, 1461</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1461">1461</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 12.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overeenkomst, tussen enerzijds A. van Dinter, en anderzijds M. van Bouchem en zijn echtgenote H. van Dinter, waarbij laatstgenoemden, in plaats van de aan hen door A. van Dinter en zijn vrouw bij de huwelijksvoorwaarden toegezegde erfrenten, hoeve Stroetbolle in leen krijgen, 1461</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E4F7391CDAF844539AD4E18C3861C13F" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911685">
+            <unitid type="guid">CA36BFB0B5EA4F6DA3B59F1A9C1F3D50</unitid>
+            <unitid>8</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CA36BFB0B5EA4F6DA3B59F1A9C1F3D50</unitid>
+            <unittitle>Akte van ruiling, door Aart die Juede, heer van Hardinxvelt, en J. Millinck, van hoeve Stroetbolle met grondrenten, gevestigd op goed Hardinxvelt, 1545&lt;br/&gt;Onderhandse akte, waarbij Floris en Ambrosius die Juede zich garant stellen voor correcte afhandeling genoemde ruil, 1545</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1545">1545</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Ruil met bijbetaling door Millinck. Onderhandse akte. Regestnrs 13 en 14.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911686">
+            <unitid type="guid">6F4C2665E9734DE98A261319A779135D</unitid>
+            <unitid>9</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6F4C2665E9734DE98A261319A779135D</unitid>
+            <unittitle>Akte van overdracht, door Aart die Juede en zijn 2 broers, aan J. Millinck, van hoeve Stroetbolle, 1545</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1545">1545</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 15.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, door Aart die Juede en zijn 2 broers, aan J. Millinck, van hoeve Stroetbolle, 1545</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6F4C2665E9734DE98A261319A779135D" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911687">
+            <unitid type="guid">A9E7181F19EE41158932DEC7167C9A1A</unitid>
+            <unitid>10</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A9E7181F19EE41158932DEC7167C9A1A</unitid>
+            <unittitle>Kwitantie van Aart die Juede en zijn 2 broers, voor J. Millinck, wegens voldoen in inventarisnr 8 vermelde bijbetaling, 1545</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1545">1545</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911688">
+            <unitid type="guid">7BD019A95D5044B5B254D5BAB2E394D6</unitid>
+            <unitid>11</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7BD019A95D5044B5B254D5BAB2E394D6</unitid>
+            <unittitle>Akte uit leenregister Leenhof van Brabant in Brussel, waarbij J. Millinck beleend wordt met hoeve Stroetbolle, gelijktijdige authentieke kopie, 1547</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1547">1547</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 16.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911689">
+            <unitid type="guid">C2E3C80FA3D64CD59D0CB2B29B53EA3F</unitid>
+            <unitid>12</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C2E3C80FA3D64CD59D0CB2B29B53EA3F</unitid>
+            <unittitle>Akte van verkoop, door Walraven van Nuynhem, aan J. Millinck, en akte van verklaring, door Van Nuynhem, dat Millinck hem volledig heeft betaald en dat hij de nog achterstallige erfrenten ten gunste van kapittel van Sint-Oedenrode, waarmee Hertogshuis was belast, alsnog zal betalen, 1552</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1552">1552</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onderhandse akten. Regestnr 17.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911690">
+            <unitid type="guid">3B1E1A4FA971437BA9D99DBB67857DC2</unitid>
+            <unitid>13</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3B1E1A4FA971437BA9D99DBB67857DC2</unitid>
+            <unittitle>Akte van overdracht, door Walraven van Nuynhem, aan J. Millinck, van Hertogshuis, met ouder bewijsstuk, 1552</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1552">1552</unitdate>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 18 - 19.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, door Walraven van Nuynhem, aan J. Millinck, van Hertogshuis, met ouder bewijsstuk, 1552</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3B1E1A4FA971437BA9D99DBB67857DC2" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911691">
+            <unitid type="guid">B45DD36A191C49A8B60127250ACC324A</unitid>
+            <unitid>14</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B45DD36A191C49A8B60127250ACC324A</unitid>
+            <unittitle>Akte van overeenkomst tussen gemachtigde van H. van Malssen, heer van Tilburg, en timmerman Adriaan D. Hermansen, over bouw woonhuis op hoeve Stroetbolle, 1598</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1598">1598</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onderhandse akte. Regestnr 20.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911692">
+            <unitid type="guid">1610713B9B084F1E9EA23BF9638FC3D3</unitid>
+            <unitid>15</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1610713B9B084F1E9EA23BF9638FC3D3</unitid>
+            <unittitle>Akte van belening, door Leenhof van Brabant in Brussel, van Otto van Hargen, vrouwe van Tilburg, dochter van Splinter, en echtgenote van Huijbert van Malsen, met hoeve Stroetbolle, tiende Ten Houte in Oirschot en Sint-Oedenrode, en Hertogshuis, 1614</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1614">1614</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 21.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van belening, door Leenhof van Brabant in Brussel, van Otto van Hargen, vrouwe van Tilburg, dochter van Splinter, en echtgenote van Huijbert van Malsen, met hoeve Stroetbolle, tiende Ten Houte in Oirschot en Sint-Oedenrode, en Hertogshuis, 1614</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1610713B9B084F1E9EA23BF9638FC3D3" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911693">
+            <unitid type="guid">E37187DC1F104E77AA7C57078CCF30DC</unitid>
+            <unitid>16</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E37187DC1F104E77AA7C57078CCF30DC</unitid>
+            <unittitle>Akte uit leenregister Leenhof van Brabant in Brussel, waarbij Adriaan van Malsen, heer van Tilburg en Goirle, wegens dood van zijn moeder Otto van Hargen, beleend wordt met hoeve Stroetbolle, tiende Ten Houte in Oirschot en Sint-Oedenrode, en Hertogshuis, 1616&lt;br/&gt;Authentieke kopie van 1629</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1616"/>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 22.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911694">
+            <unitid type="guid">29283373ED234B48A402803631701811</unitid>
+            <unitid>17</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/29283373ED234B48A402803631701811</unitid>
+            <unittitle>Akte van belening, door Raad van Brabant in Den Haag, van J. Baptista Larchier en zijn vrouw C. van den Campe, met hoeve Stroetbolle, 1662</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1662">1662</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 23.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van belening, door Raad van Brabant in Den Haag, van J. Baptista Larchier en zijn vrouw C. van den Campe, met hoeve Stroetbolle, 1662</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/29283373ED234B48A402803631701811" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911695">
+            <unitid type="guid">37581CCE0692493597C07146ADD4A015</unitid>
+            <unitid>18</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/37581CCE0692493597C07146ADD4A015</unitid>
+            <unittitle>Akte van belening, door Raad van Brabant in Den Haag, van M.J. van Lalaing en zijn vrouw M.C.J. d'Larchier, met hoeve Stroetbolle, 1708</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1708">1708</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 24.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van belening, door Raad van Brabant in Den Haag, van M.J. van Lalaing en zijn vrouw M.C.J. d'Larchier, met hoeve Stroetbolle, 1708</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/37581CCE0692493597C07146ADD4A015" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911696">
+            <unitid type="guid">A6A59428219D4702BE2103D5C1E913B1</unitid>
+            <unitid>19</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A6A59428219D4702BE2103D5C1E913B1</unitid>
+            <unittitle>Akte van belening, door Raad van Brabant in Den Haag, van C.J. van Lalaing, met hoeve Stroetbolle, 1764</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1764">1764</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 25,</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van belening, door Raad van Brabant in Den Haag, van C.J. van Lalaing, met hoeve Stroetbolle, 1764</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A6A59428219D4702BE2103D5C1E913B1" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911697">
+            <unitid type="guid">1C8FB61E19154845AB0F343B2555D3B0</unitid>
+            <unitid>20</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1C8FB61E19154845AB0F343B2555D3B0</unitid>
+            <unittitle>Akte van belening, door Raad van Brabant in Den Haag, van M. van Lalaing, met hoeve Vogelsank, 1772</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1772">1772</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 26.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van belening, door Raad van Brabant in Den Haag, van M. van Lalaing, met hoeve Vogelsank, 1772</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1C8FB61E19154845AB0F343B2555D3B0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911698">
+            <unitid type="guid">2DDEAEBF30934342B1CBABC2CA11100A</unitid>
+            <unitid>21</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2DDEAEBF30934342B1CBABC2CA11100A</unitid>
+            <unittitle>Akte van belening, door Raad van Brabant in Den Haag, van J. Kien, met hoeve Vogelsank, 1775</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1775">1775</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 27.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van belening, door Raad van Brabant in Den Haag, van J. Kien, met hoeve Vogelsank, 1775</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2DDEAEBF30934342B1CBABC2CA11100A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911699">
+            <unitid type="guid">12DC776F83E3436DB5FAB542B7270149</unitid>
+            <unitid>22</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/12DC776F83E3436DB5FAB542B7270149</unitid>
+            <unittitle>Voorlopige regesten en beschrijvingen van archiefstukken, waarschijnlijk van Van Sasse van IJsselt, circa 1930</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1920/1940">circa 1930</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911700">
+            <unitid type="guid">989E4EF350F94B7FAC67CE324096E802</unitid>
+            <unitid>23</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/989E4EF350F94B7FAC67CE324096E802</unitid>
+            <unittitle>Vertalingen en analyses van teksten uit periode 1465 - 1804 over hoeven Coeveringse Molen en Hertogshuis, in 'Bosch Strick Grefier', Leenregister van Peelland en schepenbankprotocollen van 's-Hertogenbosch, circa 1930</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1920/1940">circa 1930</unitdate>
+          </did>
+          <scopecontent>
+            <p>Voor 'Bosch Strick Grefier' zie Raad van Brabant, inventarisnr 1111.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911701">
+            <unitid type="guid">7C28A69F21D74F748F0B57C07AA76F6E</unitid>
+            <unitid>24</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7C28A69F21D74F748F0B57C07AA76F6E</unitid>
+            <unittitle>Artikel 'Het Hertogshuis en de hoeve de Stroobol in Sint-Oedenrode' van A. van Sasse van IJselt,, 1931</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1931">1931</unitdate>
+          </did>
+          <scopecontent>
+            <p>Overdruk uit 'Taxandria, Tijdschrift voor Noordbrabantsche Geschiedenis en Volkskunde'.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Artikel 'Het Hertogshuis en de hoeve de Stroobol in Sint-Oedenrode' van A. van Sasse van IJselt,, 1931</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7C28A69F21D74F748F0B57C07AA76F6E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911702">
+            <unitid type="guid">0E237B6253314A02B0D8B1A3A93021C0</unitid>
+            <unitid>25</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0E237B6253314A02B0D8B1A3A93021C0</unitid>
+            <unittitle>Artikel 'De hoeve de Stroobol en het Hertogshuis in Sint-Oedenrode' van G.C.A. Juten, 1943</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1943">1943</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Overdruk uit  'Taxandria'.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF1143725">
+          <unitid type="guid">5B313DB817354EDD8C0C7A1ABB8C3601</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Regesten</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1356/1943"/>
+        </did>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143645">
+            <unitid type="guid">A426A9300FF0458F8EDAD922BC72FC40</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">1</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1356--10-21.&lt;br/&gt; 1356 oktober 21 (tot Bossche)&lt;br/&gt;Wenceslaus en Johanna, hertog en hertogin van Brabant, belenen Willem van Bobnagel Lucaszn van Erp:&lt;br/&gt;goed Stroetbolle in Sint-Oedenrode, hetgeen voorheen in leen werd gehouden door Lonys uten Waude&lt;br/&gt;Getuigen: leenmannen Jacob uter Oesterwijc, Govart van Eindhoven, Jan van Vlierden, Dirk van Aarle&lt;br/&gt;Kopie, eind 14e eeuw (inventarisnr 1)</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1356" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143646">
+            <unitid type="guid">0B0B5541EA434C72BCCE6F47E3BD5B51</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1454-08-26.&lt;br/&gt; 1454 augustus 26 (26 dage in oighst)&lt;br/&gt;Philips, hertog van Bourgondië, oorkondt dat het leenhof van Brabant in Brussel Stroetbolle, op grond van 4 jaar achterstallige erfrenten, à 50 Rijnse guldens per jaar, veronderpand op de hoeve, tijdelijk aan Jan van Erp, wijlen Lucaszn, heeft ontnomen en zolang in handen gesteld van Ambrosius van Dinter totdat deze laatste de door Van Erp aan hem verschuldigde erfrenten, door middel van exploitatie van de hoeve, heeft terugverdiend&lt;br/&gt;Stadhouder der lenen en leden Leenhof: Henrik Magnus, Goossen van der Rijt, Arnt van Pede, Jan van Edingen heer van Kestergate, Jan van Erp alias Ostonis, Jan de Groot, Geldolf van der Noot&lt;br/&gt;Origineel (inventarisnr 2)&lt;br/&gt;Zegel 2 gaaf, 3-6 zwaar beschadigd, fragment zegel oorkonde</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1454" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1454-08-26.&lt;br/&gt; 1454 augustus 26 (26 dage in oighst)&lt;br/&gt;Philips, hertog van Bourgondië, oorkondt dat het leenhof van Brabant in Brussel Stroetbolle, op grond van 4 jaar achterstallige erfrenten, à 50 Rijnse guldens per jaar, veronderpand op de hoeve, tijdelijk aan Jan van Erp, wijlen Lucaszn, heeft ontnomen en zolang in handen gesteld van Ambrosius van Dinter totdat deze laatste de door Van Erp aan hem verschuldigde erfrenten, door middel van exploitatie van de hoeve, heeft terugverdiend&lt;br/&gt;Stadhouder der lenen en leden Leenhof: Henrik Magnus, Goossen van der Rijt, Arnt van Pede, Jan van Edingen heer van Kestergate, Jan van Erp alias Ostonis, Jan de Groot, Geldolf van der Noot&lt;br/&gt;Origineel (inventarisnr 2)&lt;br/&gt;Zegel 2 gaaf, 3-6 zwaar beschadigd, fragment zegel oorkonde</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0B0B5541EA434C72BCCE6F47E3BD5B51" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143647">
+            <unitid type="guid">97029A047DB84B9C9DF4447073A6A297</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">3</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1456-08-30.&lt;br/&gt; 1456 augustus 30&lt;br/&gt;Beoorkond wordt dat de rekening, opgemaakt door Lonys van Lankveld ter verantwoording beeer van Stroetbolle, voor Ambrosius van Dinter van 26 augustus 1454 tot 30 augustus 1456, is afgehoord door Jan van Erp en zijn vrouw, Ambrosius van Dinter en Jan Gijsbrechts 's Rodenzn, pachter van de hoeve&lt;br/&gt;Getuigen: Gerit van Brakel, Pauwels van Haastrecht Rolofszn&lt;br/&gt;Origineel (inventarisnr 3)&lt;br/&gt;Met opgedrukte zegels Van Erp, Van Dinter en getuigen</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1456" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143648">
+            <unitid type="guid">04D161C1100144AD94D96A83C4AFB797</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">4</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1457-08-07.&lt;br/&gt; 1457 augustus 7&lt;br/&gt;Beoorkond wordt dat de rekening, opgemaakt door Louis van Lankveld ter verantwoording beheer hoeve Stroetbolle, voor Ambrosius van Dinter van 30 augustus 1456 tot 6 augustus 1457, is afgehoord door Jan van Erp, Ambrosius van Dinter, Melis van Bouchem en Jan de Rode, pachter van de hoeve&lt;br/&gt;Origineel (inventarisnr 3)&lt;br/&gt;Met opgedrukte zegel van Van Dinter, zegel van Van Erp ontbreekt</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1457" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1457-08-07.&lt;br/&gt; 1457 augustus 7&lt;br/&gt;Beoorkond wordt dat de rekening, opgemaakt door Louis van Lankveld ter verantwoording beheer hoeve Stroetbolle, voor Ambrosius van Dinter van 30 augustus 1456 tot 6 augustus 1457, is afgehoord door Jan van Erp, Ambrosius van Dinter, Melis van Bouchem en Jan de Rode, pachter van de hoeve&lt;br/&gt;Origineel (inventarisnr 3)&lt;br/&gt;Met opgedrukte zegel van Van Dinter, zegel van Van Erp ontbreekt</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/04D161C1100144AD94D96A83C4AFB797" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143649">
+            <unitid type="guid">324633626955450E92A06C9FD693BEFB</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">5</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1457-09-27.&lt;br/&gt; 1457 september 27&lt;br/&gt;Philips, hertog van Bourgondië, oorkondt dat, ten overstaan van het Leenhof van Brabant in Brussel, Jan van Erp Lucaszn en Ambrosius van Dinter zijn overeengekomen dat Van Dinter, nu hij een groot deel van de door Van Erp aan achterstallige erfrenten door middel van exploitatie van de Stroetbolle heeft kunnen innen, het beheer over hoeve weer aan Van Erp overdraagt, op voorwaarde dat laatstgenoemde de nog verschuldigde 300 Rijnse guldens, binnen 3 jaar in 6 termijnen zal afbetalen en de hoeve, zolang hij zijn schulden nog niet heeft afgelost, niet zal verwaarlozen, en met de restrictie dat waneer Van Erp nogmaals nalatig zal worden hij de hoeve definitief aan Van Dinter zal verbeuren&lt;br/&gt;Stadhouder der lenen en leden leenhof: Henrik Magnus, Goossen van der Rijt, Peter van der Eiken, Jan de Groote, Peter van Thielt, Engelbrecht van Dielbeke, Willem Schilt&lt;br/&gt;Origineel (inventarisnr 4)&lt;br/&gt;Geïnsereerd in akte van 1459 april 6 (inventarisnr 5)</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1457" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1457-09-27.&lt;br/&gt; 1457 september 27&lt;br/&gt;Philips, hertog van Bourgondië, oorkondt dat, ten overstaan van het Leenhof van Brabant in Brussel, Jan van Erp Lucaszn en Ambrosius van Dinter zijn overeengekomen dat Van Dinter, nu hij een groot deel van de door Van Erp aan achterstallige erfrenten door middel van exploitatie van de Stroetbolle heeft kunnen innen, het beheer over hoeve weer aan Van Erp overdraagt, op voorwaarde dat laatstgenoemde de nog verschuldigde 300 Rijnse guldens, binnen 3 jaar in 6 termijnen zal afbetalen en de hoeve, zolang hij zijn schulden nog niet heeft afgelost, niet zal verwaarlozen, en met de restrictie dat waneer Van Erp nogmaals nalatig zal worden hij de hoeve definitief aan Van Dinter zal verbeuren&lt;br/&gt;Stadhouder der lenen en leden leenhof: Henrik Magnus, Goossen van der Rijt, Peter van der Eiken, Jan de Groote, Peter van Thielt, Engelbrecht van Dielbeke, Willem Schilt&lt;br/&gt;Origineel (inventarisnr 4)&lt;br/&gt;Geïnsereerd in akte van 1459 april 6 (inventarisnr 5)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/324633626955450E92A06C9FD693BEFB" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143650">
+            <unitid type="guid">13773464AD3940D8AC7D999728E0C3C1</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">6</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1458-09-04.&lt;br/&gt; 1458 september 4&lt;br/&gt;Gerit van Brakel, schout kwartier Peelland, verklaart dat hij Agnes van Sompeke, vrouw van Jan van Erp, en pachter van Stroetbolle, tot betaling van 50 Rijnse guldens en het nakomen van de van 27 september 1457 tussen Van Erp en Ambrosius van Dinter overeengekomen voorwaarden, heeft aangemaand&lt;br/&gt;Getuigen: leenmannen Reiner Die Gruyter, Willem Houbrakens&lt;br/&gt;Origineel (inventarisnr 5)&lt;br/&gt;Met fragment-zegels oorkonder en getuigen</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1458" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1458-09-04.&lt;br/&gt; 1458 september 4&lt;br/&gt;Gerit van Brakel, schout kwartier Peelland, verklaart dat hij Agnes van Sompeke, vrouw van Jan van Erp, en pachter van Stroetbolle, tot betaling van 50 Rijnse guldens en het nakomen van de van 27 september 1457 tussen Van Erp en Ambrosius van Dinter overeengekomen voorwaarden, heeft aangemaand&lt;br/&gt;Getuigen: leenmannen Reiner Die Gruyter, Willem Houbrakens&lt;br/&gt;Origineel (inventarisnr 5)&lt;br/&gt;Met fragment-zegels oorkonder en getuigen</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/13773464AD3940D8AC7D999728E0C3C1" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143651">
+            <unitid type="guid">5BB16149E70A4F06B86607A0E373B033</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">7</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1459-01-23.&lt;br/&gt; 1459 januari 23 (dijnsdage voer Sunte Pauwelsdage 1458)&lt;br/&gt;Gerit van Brakel, schout kwartier Peelland, verklaart dat hij Agnes van Sompeke, vrouw van Jan van Erp, en pachter Stroetbolle, tot betaling van al hetgeen Van Erp aan Ambrosius van Dinter schuldig was, heeft aangemaand&lt;br/&gt;Getuigen: leenmannen Pauwels van Haastricht Roelofszn, Reiner van Gruter&lt;br/&gt;Origineel (inventarisnr 5)&lt;br/&gt;Met zegel schout en fragment-zegels getuigen, opgedrukt</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1459" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1459-01-23.&lt;br/&gt; 1459 januari 23 (dijnsdage voer Sunte Pauwelsdage 1458)&lt;br/&gt;Gerit van Brakel, schout kwartier Peelland, verklaart dat hij Agnes van Sompeke, vrouw van Jan van Erp, en pachter Stroetbolle, tot betaling van al hetgeen Van Erp aan Ambrosius van Dinter schuldig was, heeft aangemaand&lt;br/&gt;Getuigen: leenmannen Pauwels van Haastricht Roelofszn, Reiner van Gruter&lt;br/&gt;Origineel (inventarisnr 5)&lt;br/&gt;Met zegel schout en fragment-zegels getuigen, opgedrukt</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5BB16149E70A4F06B86607A0E373B033" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143652">
+            <unitid type="guid">4BEFE7912D6447738598F72DC3E5F12E</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">8</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1459-01-23.&lt;br/&gt; 1459 januari 23 (1458)&lt;br/&gt;Gerit van Brakel, schout kwartier Peelland, verklaart dat hij Agnes van Sompeke, vrouw van Jan van Erp, en pachter Stroetbolle, tot betaling van al hetgeen Van Erp aan Ambrosius van Dinter schuldig was, heeft aangemaand&lt;br/&gt;Getuigen: leenmannen Pauwels van Haastrecht, Reiner de Gruyter&lt;br/&gt;Origineel (inventarisnr 5)&lt;br/&gt;Met fragment-zegel oorkonder en zegels getuigen</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1459" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143653">
+            <unitid type="guid">AF19287EF05A48E9BA707A1D0E150323</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">9</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1459-03-16.&lt;br/&gt; 1459 maart 16 (1458 na gewoenten van scriven des hoefs van Brabant)&lt;br/&gt;Gerrit van Brakel, schout kwartier Peelland, verklaart dat hij Jan Gijsens, pachter van de hoeve, en Agnes van Sompeke, vrouw van Jan van Erp, heeft aangezegd dat, krachtens vonnis van Leenhof, Melis van Bochem, in bezit is gesteld van Stroetbolle, tenzij men binnen 14 dagen kon aantonen dat schuld was afgelost&lt;br/&gt;Getuigen: leenmannen Reiner van Gruyter, Willem van Herthem&lt;br/&gt;Origineel (inventarisnr 5)&lt;br/&gt;Geïnsereerd in akte van 1459 april 9 (inventarisnr 5)</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1459" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1459-03-16.&lt;br/&gt; 1459 maart 16 (1458 na gewoenten van scriven des hoefs van Brabant)&lt;br/&gt;Gerrit van Brakel, schout kwartier Peelland, verklaart dat hij Jan Gijsens, pachter van de hoeve, en Agnes van Sompeke, vrouw van Jan van Erp, heeft aangezegd dat, krachtens vonnis van Leenhof, Melis van Bochem, in bezit is gesteld van Stroetbolle, tenzij men binnen 14 dagen kon aantonen dat schuld was afgelost&lt;br/&gt;Getuigen: leenmannen Reiner van Gruyter, Willem van Herthem&lt;br/&gt;Origineel (inventarisnr 5)&lt;br/&gt;Geïnsereerd in akte van 1459 april 9 (inventarisnr 5)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/AF19287EF05A48E9BA707A1D0E150323" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143654">
+            <unitid type="guid">6E072002931240F7A1F94108055434B6</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">10</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1459-04-06.&lt;br/&gt; 1459 april 6&lt;br/&gt;Philips, hertog van Bourgondië, oorkondt dat Leenhof van Brabant in Brussel, op grond van zijn vonnis van 12 maart 1459, waarin het, overwegende dat:&lt;br/&gt;Ambosius van Dinter van de aan hem door Jan van Erp, volgens de akte van 27 september 1457, verschuldigde 300 Rijnse guldens, plus de jaarlijkse erfrente van 50 guldens, slechts 46 guldens, uit handen van Aarnt van den Zande in april 1458 in Lier, heeft ontvangen;&lt;br/&gt;Van Erp ook in gebreke is gebleven inzake de andere bepalingen zoals vastgelegd in de akte van 27 september 1457;&lt;br/&gt;Van Dinter tweemaal, te weten 4 september 1458 en 23 januari 1459, ten huize van Van Erp te Sint-Oedenrode tot betaling heeft aangemaand, de hoeve in handen van Van Dinter had gesteld, met voorbehoud dat indien Van Erp binnen 2 weken kon aantonen wèl betaald te hebben hij de hoeve zou terugontvangen, nu dit laatste niet gebeurd is, "de hoeve ende goede van Stroetbolle" definitief toewijst aan Van Dinter.&lt;br/&gt;Stadhouder lenen en leden Leenhof 12 maart 1459: Henrik Magnus, Goossen van der Rijt, Conraad van der Meren, Simon van Harbays, Librecht - heer van Meldert, Klaas Clopper, Geldoph van der Noot, Wouter Magnus, Ymbrecht van Diewen, Arnd Vembosch&lt;br/&gt;Stadhouder der lenen en leden Leenhof 6 april 1459: Henrik Magnus, Goossen van der Rijt, Jan - graaf te Nassou, Philips - heer van Grimbergen, Conraad van der Meeren, Klaas van den Werne, Simon van Harbais, Librecht - heer van Meldert, Klaas Cloppen, Geldolf van der Noot, Jan van Watermale, Wouter Magnus, Rutger van Erp, Huibrecht van Dielbeke, Willem Schilt&lt;br/&gt;Origineel (inventarisnr 5)&lt;br/&gt;Met zegels</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1459" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143655">
+            <unitid type="guid">298AA7835C3C4270AB591DDF651D4C06</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">11</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1459-11-03.&lt;br/&gt; 1459 november 3&lt;br/&gt;Philips, hertog van Bourgondië, oorkondt dat het Leenhof van Brabant, op grond van zijn vonnis van 6 april 1459, Ambrosius van Dinter, erfburggraaf van Dormalen, heeft beleend met Stroetbolle&lt;br/&gt;Stadhouder lenen en leden Leenhof: Henrik Magnus, Goossen van der Rijt, Jan van Edingen - heer van Kestergate, Gijsbrecht Molenpas, Imbrecht van Dielbeke&lt;br/&gt;Origineel (inventarisnr 6)&lt;br/&gt;Met zegel oorkonder</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1459" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143656">
+            <unitid type="guid">3338342D45D54790BB962B7F977AD2C9</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">12</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1461-05-19.&lt;br/&gt; 1461 mei 19&lt;br/&gt;Philips, hertog van Bourgondië, oorkondt dat, ten overstaan van Leenhof van Brabant in Brussel, Ambrosius van Dinter enerzijds en Melis van Bouchem en zijn echtgenote Hillegonde van Dinter, dochter van Ambrosius, anderzijds, zijn overeengekomen dat laatstgenoemde echtelieden, in plaats van de aan hen door Ambrosius en zijn vrouw Katherine Cole bij huwelijksvoorwaarden toegezegde erfrenten van 50 Rijnse guldens, hoeve Stroobol in leen krijgen.&lt;br/&gt;Stadhouder der lenen en leden Leenhof: Henrik Magnus, Wenvelijn van Oysy - heer van Zantberghe, Aarnt van Gaure - alias van Heruntz, Peter Bloude, Joost Absoloons, Michiel Absoloons, Engelbrecht van Dielbeke&lt;br/&gt;Origineel (inventarisnr 7)&lt;br/&gt;Met zegels</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1461" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143657">
+            <unitid type="guid">5B8621576C474A149D90444068A7BA4B</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">13</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1545-04-20.&lt;br/&gt; 1545 april 20&lt;br/&gt;Aart de Jude, heer van Hardinxveld, en Jan Millinck ruilen respectievelijk een hoeve, op dat moment verhuurd aan Goort Horrix, en grondrenten, die Splinter van Hargen, Millincks' zwager, heft van het goed Hardinxvelt, met bijbetaling van 1182 carolusguldens en 10 stuivers door Millinck&lt;br/&gt;Origineel (inventarisnr 8)</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1545" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1545-04-20.&lt;br/&gt; 1545 april 20&lt;br/&gt;Aart de Jude, heer van Hardinxveld, en Jan Millinck ruilen respectievelijk een hoeve, op dat moment verhuurd aan Goort Horrix, en grondrenten, die Splinter van Hargen, Millincks' zwager, heft van het goed Hardinxvelt, met bijbetaling van 1182 carolusguldens en 10 stuivers door Millinck&lt;br/&gt;Origineel (inventarisnr 8)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5B8621576C474A149D90444068A7BA4B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143658">
+            <unitid type="guid">8755EBEBF0794D12A32A68E851FE282E</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">14</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1545-06-11.&lt;br/&gt; 1545 juni 11&lt;br/&gt;Floris en Ambrosius de Jude stellen zich garant voor correcte afhandeling door hun broer Aart van de, in de akte van 20 april 1545 overeengekomen ruil, waarbij Floris echter, Dirk Willemsen, secretaris van Hardinxvelt, in zijn plaats akte laat ondertekenen&lt;br/&gt;Origineel (inventarisnr 8)</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1545" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143659">
+            <unitid type="guid">B5D15D902F53480EBB81504AF5C614B3</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">15</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1545-06-11.&lt;br/&gt; 1545 juni 11&lt;br/&gt;Cornelis van Gent, ambachtsheer van 's-Grevelduin tot Capelle en Waspik, en Jan van Werdenborch, heer van Gansoijen, oorkonden, als leenmannen van de hertog van Brabant, dat, ten overstaan van hen, Aart de Jude, heer van Hardinxvelt, en zijn broers Floris en Ambrosius, hebben overgedragen aan Jan, zoon wijlen Jan Millinck in leven heer van Waalwijk:&lt;br/&gt;hoeve Stroobol, zoals broers deze geerfd hadden van hun grootmoeder Barbara van Bochem&lt;br/&gt;Origineel (inventarisnr 9)&lt;br/&gt;Met zegels&lt;br/&gt;Ondertekend door Ambrosius en, in verband met een "quetzuur", van Floris de Jode, door Dirk Willemsen, secretaris van Hardinxvelt&lt;br/&gt;Op rugzijde: "Dit transport en is van gheender waerden geweest, hebben daeromme een ander gedaen voirden Stadthouder van den leenen in Brabant eerdat Jan Millinck verlij crijgen kondt, alst blijct bij bescheyt hierbij liggende dat autenthik is onderteyckent Middelburch" (bedoeld wordt inventarisnr 11)</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1545" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1545-06-11.&lt;br/&gt; 1545 juni 11&lt;br/&gt;Cornelis van Gent, ambachtsheer van 's-Grevelduin tot Capelle en Waspik, en Jan van Werdenborch, heer van Gansoijen, oorkonden, als leenmannen van de hertog van Brabant, dat, ten overstaan van hen, Aart de Jude, heer van Hardinxvelt, en zijn broers Floris en Ambrosius, hebben overgedragen aan Jan, zoon wijlen Jan Millinck in leven heer van Waalwijk:&lt;br/&gt;hoeve Stroobol, zoals broers deze geerfd hadden van hun grootmoeder Barbara van Bochem&lt;br/&gt;Origineel (inventarisnr 9)&lt;br/&gt;Met zegels&lt;br/&gt;Ondertekend door Ambrosius en, in verband met een "quetzuur", van Floris de Jode, door Dirk Willemsen, secretaris van Hardinxvelt&lt;br/&gt;Op rugzijde: "Dit transport en is van gheender waerden geweest, hebben daeromme een ander gedaen voirden Stadthouder van den leenen in Brabant eerdat Jan Millinck verlij crijgen kondt, alst blijct bij bescheyt hierbij liggende dat autenthik is onderteyckent Middelburch" (bedoeld wordt inventarisnr 11)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B5D15D902F53480EBB81504AF5C614B3" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143660">
+            <unitid type="guid">F4F9A9EF64214FA0969FB1819101D125</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">16</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1547-12-21.&lt;br/&gt; 1547 december 21&lt;br/&gt;Adriaan Lambrechtszn, als gemachtigde van Jan, zoon van Jan Millinck, in leven heer van Waalwijk, verheft ten overstaan van Leenhof van Brabant in Brussel: goed in Strootbolle&lt;br/&gt;Leden Leenhof: Adam Boudewijns, Joos Middelborg, Jan van Wailhem, Karel van der Noot&lt;br/&gt;Authentieke kopie, 1547 (inventarisnr 11)</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1547" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143661">
+            <unitid type="guid">8425A2389D154D7E9C5ACDDDBCD3E1A0</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">17</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1552-10-23.&lt;br/&gt; 1552 oktober 23&lt;br/&gt;Walraven van Nuynhem verkoopt aan Jan Millinck beide boerderijen rondom kerkhof van Sint-Oedenrode en belast met jaarlijkse erfrenten en erfcijns ten gunste van kapittel&lt;br/&gt;Getuigen: Frans van Houthem, Jan Loeyen tot Brogel&lt;br/&gt;Origineel (inventarisnr 12)</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1552" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1552-10-23.&lt;br/&gt; 1552 oktober 23&lt;br/&gt;Walraven van Nuynhem verkoopt aan Jan Millinck beide boerderijen rondom kerkhof van Sint-Oedenrode en belast met jaarlijkse erfrenten en erfcijns ten gunste van kapittel&lt;br/&gt;Getuigen: Frans van Houthem, Jan Loeyen tot Brogel&lt;br/&gt;Origineel (inventarisnr 12)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/8425A2389D154D7E9C5ACDDDBCD3E1A0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143662">
+            <unitid type="guid">6FE4695E639E446CA8D8F1826997963B</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">18</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1552-12-15.&lt;br/&gt; 1552 december 15&lt;br/&gt;Leonart, zoon van Roelof van Haastrecht, draagt over voor schepenen van 's-Hertogenbosch, aan Walraven, zoon van Philips van Nuenhem:&lt;br/&gt;huis, hofstad ( = bouwkavel), naast kerkhof van Sint-Oedenrode en Borchgreve, zoals deze bij testament door Goyart van Schijnveld, priester en scholaster in Sint-Oedenrode, waren nagelaten aan kinderen van Everard van Amerzoeyen, en van 25 maart 1552 door Everard, zoon van genoemde Everard en zijn vrouw Katharijne, dochter van Jan de Gruyter, in eigen persoon en als gemachtigde voor zijn broers en zusters, hun echtgenoten, ten overstaan van schepenen van 's-Hertogenbosch, waren overgedragen aan voornoemde Leanart&lt;br/&gt;Machtgevers: Henrik -, Elizabeth -, Margriet -, Mathijs van Strijp, als man van Jut -, Adriaan Daniëlssen, als man van Anna -, Henrik, zoon van Henrik Goyaarts in 't Dekerscot, als man van Agnes -, Adriaan, zoon van Jan van Luyteler, als man van Katharina van Haastrecht&lt;br/&gt;Schepenen 15 december: Willem de Borchgreve, Jan van den Water&lt;br/&gt;Origineel (inventarisnr 13)&lt;br/&gt;Met schepenzegels</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1552" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1552-12-15.&lt;br/&gt; 1552 december 15&lt;br/&gt;Leonart, zoon van Roelof van Haastrecht, draagt over voor schepenen van 's-Hertogenbosch, aan Walraven, zoon van Philips van Nuenhem:&lt;br/&gt;huis, hofstad ( = bouwkavel), naast kerkhof van Sint-Oedenrode en Borchgreve, zoals deze bij testament door Goyart van Schijnveld, priester en scholaster in Sint-Oedenrode, waren nagelaten aan kinderen van Everard van Amerzoeyen, en van 25 maart 1552 door Everard, zoon van genoemde Everard en zijn vrouw Katharijne, dochter van Jan de Gruyter, in eigen persoon en als gemachtigde voor zijn broers en zusters, hun echtgenoten, ten overstaan van schepenen van 's-Hertogenbosch, waren overgedragen aan voornoemde Leanart&lt;br/&gt;Machtgevers: Henrik -, Elizabeth -, Margriet -, Mathijs van Strijp, als man van Jut -, Adriaan Daniëlssen, als man van Anna -, Henrik, zoon van Henrik Goyaarts in 't Dekerscot, als man van Agnes -, Adriaan, zoon van Jan van Luyteler, als man van Katharina van Haastrecht&lt;br/&gt;Schepenen 15 december: Willem de Borchgreve, Jan van den Water&lt;br/&gt;Origineel (inventarisnr 13)&lt;br/&gt;Met schepenzegels</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6FE4695E639E446CA8D8F1826997963B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143663">
+            <unitid type="guid">9348DA4B885C4638B6EBEDF08A7AEE04</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">19</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1552-12-16.&lt;br/&gt; 1552 december 16&lt;br/&gt;Walraven, zoon van Philips van Nuenhem, draagt over voor schepenen van 's-Hertogenbosch, aan Jan, zoon van Jan Millinck:&lt;br/&gt;"beyde die hoffsteden metten huisingen" rondom kerkhof van Sint-Oedenrode, leenroerig aan en belast met 6 carolusguldens erfrenten en 2 hoenders erfcijns voor hertog van Brabant&lt;br/&gt;Schepenen: Roelof van Eik, Willem de Borchgreve&lt;br/&gt;Origineel (inventarisnr 13)&lt;br/&gt;Met schepenzegels</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1552" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1552-12-16.&lt;br/&gt; 1552 december 16&lt;br/&gt;Walraven, zoon van Philips van Nuenhem, draagt over voor schepenen van 's-Hertogenbosch, aan Jan, zoon van Jan Millinck:&lt;br/&gt;"beyde die hoffsteden metten huisingen" rondom kerkhof van Sint-Oedenrode, leenroerig aan en belast met 6 carolusguldens erfrenten en 2 hoenders erfcijns voor hertog van Brabant&lt;br/&gt;Schepenen: Roelof van Eik, Willem de Borchgreve&lt;br/&gt;Origineel (inventarisnr 13)&lt;br/&gt;Met schepenzegels</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9348DA4B885C4638B6EBEDF08A7AEE04" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143664">
+            <unitid type="guid">30FA254EF23E4258931A2A8C329A5923</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">20</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1598-01-18.&lt;br/&gt; 1598 januari 18&lt;br/&gt;Schepenen van Sint-Oedenrode bekrachtigen een onderhandse akte van 10 januari 1598, waarin Jan de Roy, secretaris van Tilburg, als gemachtigde van Huibert van Malsen, heer van Tilburg, Goirle, met timmerman Adriaan Dirk Hermansen, de voorwaarden overeenkomt voor bouw woonhuis, voor Van Malsen, op de Stroysbol, waarbij onder andere bepaald wordt dat Jan Servaaszn, pachter van de hoeve, hand- en spandiensten bij bouw zal verrichten&lt;br/&gt;Getuigen 10 januari: Hugo van Berkel, Jan Woutersen de Gruyter&lt;br/&gt;Schepenen 18 januari: Jan Rutten, Roelof Daniëls&lt;br/&gt;Origineel (inventarisnr 14)</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1598" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1598-01-18.&lt;br/&gt; 1598 januari 18&lt;br/&gt;Schepenen van Sint-Oedenrode bekrachtigen een onderhandse akte van 10 januari 1598, waarin Jan de Roy, secretaris van Tilburg, als gemachtigde van Huibert van Malsen, heer van Tilburg, Goirle, met timmerman Adriaan Dirk Hermansen, de voorwaarden overeenkomt voor bouw woonhuis, voor Van Malsen, op de Stroysbol, waarbij onder andere bepaald wordt dat Jan Servaaszn, pachter van de hoeve, hand- en spandiensten bij bouw zal verrichten&lt;br/&gt;Getuigen 10 januari: Hugo van Berkel, Jan Woutersen de Gruyter&lt;br/&gt;Schepenen 18 januari: Jan Rutten, Roelof Daniëls&lt;br/&gt;Origineel (inventarisnr 14)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/30FA254EF23E4258931A2A8C329A5923" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143665">
+            <unitid type="guid">704953FD219142B59573A8B7F45BD519</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">21</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1614-05-09.&lt;br/&gt; 1614 mei 9&lt;br/&gt;Leenhof van Brabant in Brussel oorkondt dat Adriaan Coomans, als gemachtigde van Otto, dochter wijlen Splinter van Hargen, en weduwe Huibrecht van Malsen, ten overstaan het Leenhof, heeft verheven, wegens dood van Otto's broer Andries:&lt;br/&gt;hof te Strootbolle / tiende Ten Houte in parochies Oirschot en Sint-Oedenrode, met 4 bunders beemd in "ouden ederen" van boerderij Ten Houte, op Vloet, en gedeelten van gebouwen in Ganselaar / 2/3 delen Hertogshuis / andere 3e deel Hertogshuis&lt;br/&gt;Stadhouder lenen en leden Leenhof: Charles van Bourgondië, heer van Breda / Guille de Goor / Peter Floris&lt;br/&gt;Origineel (inventarisnr 15)&lt;br/&gt;Met handtekening griffier F. van Asbroek</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1614" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1614-05-09.&lt;br/&gt; 1614 mei 9&lt;br/&gt;Leenhof van Brabant in Brussel oorkondt dat Adriaan Coomans, als gemachtigde van Otto, dochter wijlen Splinter van Hargen, en weduwe Huibrecht van Malsen, ten overstaan het Leenhof, heeft verheven, wegens dood van Otto's broer Andries:&lt;br/&gt;hof te Strootbolle / tiende Ten Houte in parochies Oirschot en Sint-Oedenrode, met 4 bunders beemd in "ouden ederen" van boerderij Ten Houte, op Vloet, en gedeelten van gebouwen in Ganselaar / 2/3 delen Hertogshuis / andere 3e deel Hertogshuis&lt;br/&gt;Stadhouder lenen en leden Leenhof: Charles van Bourgondië, heer van Breda / Guille de Goor / Peter Floris&lt;br/&gt;Origineel (inventarisnr 15)&lt;br/&gt;Met handtekening griffier F. van Asbroek</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/704953FD219142B59573A8B7F45BD519" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143666">
+            <unitid type="guid">7026436716F74516A89809F6D2C20330</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">22</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1616-07-03.&lt;br/&gt; 1616 juli 3&lt;br/&gt;Gerard Goossens, verheft als gemachtigde van Adriaan van Malsen, heer van Tilburg, Goirle, ten overstaan van Leenhof van Brabant in Brussel, wegens dood van zijn moeder Otto van Hargen: idem als regestnr 21&lt;br/&gt;Stadhouder lenen en leden Leenhof: Charles van Bourgondië, heer van Breda / Jan Muntere / Guillaume de Goor&lt;br/&gt;Authentieke kopie, 1629 (inventarisnr 16)</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1616" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143667">
+            <unitid type="guid">B86E8BAE0AEC4A5F9B527C6A0902EF9D</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">23</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1662-09-16.&lt;br/&gt; 1662 september 16&lt;br/&gt;Raad van Brabant in Den Haag oorkondt dat Louis Waltheri, als gevolmachtigde van Jan Baptista Larchier en zijn vrouw Catharina van den Campe, heer en vrouwe van Thildonk, ten overstaan van Raad, hof van Stroobol heeft verheven&lt;br/&gt;Stadhouder der lenen en overige leden Raad: David de Ruyter en Arnoult van Beaumont (tevens als plaatsvervanger van Pieter de Schilde)&lt;br/&gt;Origineel (inventarisnr 17)</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1662" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143668">
+            <unitid type="guid">13EAB56708B04219BEB2AF306165CBD0</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">24</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1708-06-14.&lt;br/&gt; 1708 juni 14&lt;br/&gt;Raad van Brabant in Den Haag oorkondt dat Johan Cranen, rentmeester in Sint-Oedenrode, als gevolmachtigde van Maximiliaan Joseph van Lalaing, burggraaf van Oudenaarde, graaf van Tildonk, heer van Croix, Aumont, en zijn vrouw Maria Catarina Josephina d'Larchier, gravin van Tildonk, ten overstaan van Raad, hof van Stroobol heeft verheven&lt;br/&gt;Stadhouder der lenen en overige leden Raad: Maurits le Leu de Wilhem, Quirijn van Strijen, Willem van Persijn&lt;br/&gt;Origineel (inventarisnr 18)&lt;br/&gt;Met fragment-zegel Raad</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1708" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1708-06-14.&lt;br/&gt; 1708 juni 14&lt;br/&gt;Raad van Brabant in Den Haag oorkondt dat Johan Cranen, rentmeester in Sint-Oedenrode, als gevolmachtigde van Maximiliaan Joseph van Lalaing, burggraaf van Oudenaarde, graaf van Tildonk, heer van Croix, Aumont, en zijn vrouw Maria Catarina Josephina d'Larchier, gravin van Tildonk, ten overstaan van Raad, hof van Stroobol heeft verheven&lt;br/&gt;Stadhouder der lenen en overige leden Raad: Maurits le Leu de Wilhem, Quirijn van Strijen, Willem van Persijn&lt;br/&gt;Origineel (inventarisnr 18)&lt;br/&gt;Met fragment-zegel Raad</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/13EAB56708B04219BEB2AF306165CBD0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143669">
+            <unitid type="guid">A7A87AFA7C7D4A0CB9987635DE4D451E</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">25</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1764-01-23.&lt;br/&gt; 1764 januari 23&lt;br/&gt;Raad van Brabant in Den Haag oorkondt dat Gerard Dirk de Melizsant, als gevolmachtigde van Carolus Josephus, graaf van Lalaing en Tildonk, ten overstaan van Raad, hof van Stroobol heeft verheven, wegens dood van zijn moeder Maria Catharina Larchier&lt;br/&gt;Stadhouder der lenen en overige leden Raad: Jacob Arend van Perponchez de Sedlintzky - heer van Ellewoutsdijk, Nicolaas Hendriks van Hoorn, Willem van Laar&lt;br/&gt;Origineel (inventarisnr 19)&lt;br/&gt;Met fragment-zegel Raad</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1764" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143670">
+            <unitid type="guid">996D49F6458845FB9E8CEB1BAA1F613A</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">26</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1772-08-31.&lt;br/&gt; 1772 augustus 31&lt;br/&gt;Raad van Brabant in Den Haag beleent Balthazar Bours, 1e klerk griffie van de Raad, als gevolmachtigde van Maximiliaan, graaf van Lalaing, van Tildonk en Santbergen, burggraaf van Oudenaarde, met:&lt;br/&gt;kamp land, vroeger geheten Bruinsland, nu de Vogelzang, met de daarop staande huizen en perceel beemd, wegens dood van zijn vader Carolus Jozephus, graaf van Lalaing&lt;br/&gt;Stadhouder der lenen en overige leden Raad: Nicolaas Hendrik van Hoorn, Willem van Laar, Karel de Verdun&lt;br/&gt;Origineel (inventarisnr 20)&lt;br/&gt;Met fragment-zegel Raad</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1772" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143671">
+            <unitid type="guid">F964CCB7EEF446E9A85B7B271F69039F</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">27</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1775-02-17.&lt;br/&gt; 1775 februari 17&lt;br/&gt;Raad van Brabant in Den Haag beleent Mathijs Hendrik van Son Hendrikszn, procureur Raad, als gevolmachtigde van Jacob Kien, oud-schepen en raad van 's-Hertogenbosch en stadhouder schout kwartier Peelland, met:&lt;br/&gt;kamp land, vroeger genaamd Bruinsland, nu Vogelzang, met huizen en perceel beemd, in west-noord-westen belendend aan landweg tussen Vogelzang en Stroobol, en door Kien gekocht van Pieter Caudrelier, als gemachtigde graaf van Lalaing van Tildonk&lt;br/&gt;Stadhouder lenen en overige leden Raad: Nicolaas Hendrik van Hoorn, Willem van Laar, Karel de Verdun&lt;br/&gt;Origineel (inventarisnr 21)&lt;br/&gt;Met zegel Raad</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1775" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_380/A75FF2B149754246921A619FDDD4A341_oai_ead.xml-->
+</record>

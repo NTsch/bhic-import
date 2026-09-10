@@ -1,0 +1,2776 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>74A37C1A4FF94DF5B2AC352CCFF4E2CF</identifier>
+    <datestamp>2026-09-04</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HtBHIC">7332</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Parochie Sint Remigius Lithoijen, 1414 - 1970</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+        <date calendar="gregorian" era="ce" normal="2024">2024</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF2969836">
+      <unittitle>Parochie Sint Remigius Lithoijen, 1414 - 1970</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-HtBHIC">7332</unitid>
+      <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/74A37C1A4FF94DF5B2AC352CCFF4E2CF</unitid>
+      <unitdate calendar="gregorian" era="ce" normal="1800/1970"/>
+      <note label="Vindplaats origineel">
+        <p>BHIC 's-Hertogenbosch</p>
+      </note>
+      <note label="Openbaarheid">
+        <p>Deze toegang bevat een of meer stukken die tot 1 januari 2050 niet zonder meer openbaar zijn.&lt;br/&gt;Het precieze jaar van openbaarheid kun je per inventarisnummer vinden.&lt;br/&gt;&lt;br/&gt;Bij vragen kun je contact opnemen met het BHIC.</p>
+      </note>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Religie en Levensbeschouwing</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd>
+      <odd>
+        <head>Inleiding</head>
+        <p>
+          <emph render="bold">Parochie St. Remigius te Lithoijen</emph>
+          <lb/>
+          <lb/>De gemeente Lithoijen, 1.057 ha groot, lag in het noordoosten van Noord-Brabant, aan de Maas. Ze grensde verder aan de gemeenten Oijen en Teeffelen, Oss, Geffen en Lith. Naast het gelijknamige kerkdorp telde Lithoijen in ieder geval drie gehuchten: Het Groenewoud, Scheurheuvel en Het Luttereind. Sinds 1939 maakt Lithoijen deel uit van de gemeente Lith.
+          <lb/>
+          <lb/>De eerste schriftelijke vermelding van Lithoijen komt voor in een oorkonde van omstreeks 991. De Franse koning Hugo Capet bevestigt daarin onder andere de eigendomsrechten van de Benedictijner abdij Sint-Remigius in Reims op domeingoederen in onder andere Meerssen en Lithoijen. De proosdij Meerssen ligt juist ten noorden van Maastricht.
+          <lb/>
+          <lb/>Remigius is nog steeds de patroonheilige van de kerk in Lithoijen.
+          <lb/>
+          <lb/>Het patronaat van deze kerk werd in 1147 door de bisschop van Luik aan de abdij van Reims geschonken. De aartsbisschop van Reims heeft aan de abdij van Berne op 16 okt. 1613 het patronaatsrecht geschonken over de kerk van Lithoyen, welke overdracht in 1618 werd goedgekeurd door de aartshertogen Albertus en Isabella.
+          <lb/>
+          <lb/>
+          <lb/>
+          <emph render="bold">13  januari   H.Remigius van Reims, bisschop</emph>
+          <lb/>
+          <lb/>Remigius werd geboren rond het jaar 436 in de buurt van Laon, in Frankrijk. Het Christendom begon in het toenmalige Gallië voet aan wal te krijgen. Reeds op 22 jarige leeftijd werd de jonge Remigius tot bisschop gewijd. Onvermoeid bleef hij ijveren voor de uitbreiding van het katholieke geloof. Reeds in zijn leven noemden men hem : de "Apostel van de Franken". Hij had een goede band met de Merovingische vorst, koning Clovis I ((466–511), de koning van de Franken, alsook met zijn vrouw koningin Clothilde. De heidense koning Clovis liet zich in de Kerstnacht in het jaar 496 door Remigius in de kathedraal van Reims dopen. Door de doop van koning Clovis werd het gehele Frankenland gekerstend. Remigius heeft nog veel bisdommen opgericht.
+        </p>
+        <p>1784-1818&amp;nbsp;&amp;nbsp;&amp;nbsp;Petrus Joannes Tabbers, uit Drunen
+          <lb/>1819-1820&amp;nbsp;&amp;nbsp;&amp;nbsp;Jacobus Petrus Spriessen, uit Den Bosch
+          <lb/>1820-1841&amp;nbsp;&amp;nbsp;&amp;nbsp;Joannes van Eersel, uit Woensel
+          <lb/>1841-1867&amp;nbsp;&amp;nbsp;&amp;nbsp;Andreus van Laarhoven, uit Helvoirt
+          <lb/>1867-1892&amp;nbsp;&amp;nbsp;&amp;nbsp;Joannes Franciscus Clement, uit Aarle-Rixtel
+          <lb/>1892-1908&amp;nbsp;&amp;nbsp;&amp;nbsp;Hubertus van den Berg
+          <lb/>1908-1912&amp;nbsp;&amp;nbsp;&amp;nbsp;Joannes van den Oever
+          <lb/>1912-1917&amp;nbsp;&amp;nbsp;&amp;nbsp;Joannes P. van de Crommenacker
+          <lb/>1917-1936&amp;nbsp;&amp;nbsp;&amp;nbsp;Joannes C. van Roy
+          <lb/>1936-1945&amp;nbsp;&amp;nbsp;&amp;nbsp;Johannes G. Meijs
+          <lb/>1945-1950&amp;nbsp;&amp;nbsp;&amp;nbsp;Franciscus C. Cooymans
+          <lb/>1950-1968&amp;nbsp;&amp;nbsp;&amp;nbsp;Laurentius A. P. Koenraadt
+          <lb/>1968-1981&amp;nbsp;&amp;nbsp;&amp;nbsp;Marinus J. M. van Vijfeyken
+          <lb/>1981-1988&amp;nbsp;&amp;nbsp;&amp;nbsp;G. Stegeman
+          <lb/>1988-1994&amp;nbsp;&amp;nbsp;&amp;nbsp;B. Kersten
+          <lb/>1994-1997&amp;nbsp;&amp;nbsp;&amp;nbsp;W.Th.H. van Luyck
+          <lb/>1997-...&amp;nbsp;&amp;nbsp;&amp;nbsp;A.G.J.M. Smits
+          <lb/>
+          <lb/>&lt;NOOT&gt;NB: Sinds 1612 zijn de pastoors abdijheren van Berne. Vanaf 1957 hebben Lithoijen en Teeffelen één pastoor. &lt;/VNOOT&gt;
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">De parochie van de H. Remigius heeft de volgende pastoors gehad:</emph>
+          <lb/>
+          <lb/>1436&amp;nbsp;&amp;nbsp;&amp;nbsp;Petrus van Bruheze
+          <lb/>c 1560&amp;nbsp;&amp;nbsp;&amp;nbsp;Joannes Strick
+          <lb/>c 1571&amp;nbsp;&amp;nbsp;&amp;nbsp;Petrus Loijaerts
+          <lb/>1571&amp;nbsp;&amp;nbsp;&amp;nbsp;Arnoldus van den Dungen
+          <lb/>1583&amp;nbsp;&amp;nbsp;&amp;nbsp;Gerardus van Lith
+          <lb/>1583&amp;nbsp;&amp;nbsp;&amp;nbsp;Joannes Colff
+          <lb/>1590-1611&amp;nbsp;&amp;nbsp;&amp;nbsp;Thilmannus Brabant
+          <lb/>1612-1637&amp;nbsp;&amp;nbsp;&amp;nbsp;Nicolaus Havens, uit Oisterwijk
+          <lb/>1637&amp;nbsp;&amp;nbsp;&amp;nbsp;Arnoldus van Lent, uit Lith
+          <lb/>1644-1654&amp;nbsp;&amp;nbsp;&amp;nbsp;Augustinus Jansen, uit Heeswijk
+          <lb/>1672-1680&amp;nbsp;&amp;nbsp;&amp;nbsp;Antonius Verachteren, uit Antwerpen
+          <lb/>1680-1685&amp;nbsp;&amp;nbsp;&amp;nbsp;Guilielmus de Wint, uit Brussel
+          <lb/>1685-1689&amp;nbsp;&amp;nbsp;&amp;nbsp;Fredericus Winkeler
+          <lb/>1689&amp;nbsp;&amp;nbsp;&amp;nbsp;Carolus Raveschot (van Capelle), uit Vierlingsbeek
+          <lb/>1693&amp;nbsp;&amp;nbsp;&amp;nbsp;Franciscus Greveraerts, uit Brussel
+          <lb/>1693-1703&amp;nbsp;&amp;nbsp;&amp;nbsp;Leonardus Maes, uit Ravenstein
+          <lb/>1705-1712&amp;nbsp;&amp;nbsp;&amp;nbsp;Andreas van Kessel, uit Den Bosch
+          <lb/>1712-1719&amp;nbsp;&amp;nbsp;&amp;nbsp;Godefridus Hugo Loef, uit Oudheusden
+          <lb/>1719-1738&amp;nbsp;&amp;nbsp;&amp;nbsp;Joannes Baptista Willems, uit Antwerpen
+          <lb/>1739-1774&amp;nbsp;&amp;nbsp;&amp;nbsp;Folcoldus van Megen, uit Den Bosch
+          <lb/>1774-1784&amp;nbsp;&amp;nbsp;&amp;nbsp;Adrianus de With, uit Hilvarenbeek
+          <lb/>
+          <lb/>
+        </p>
+        <p>Vlakbij 'het Hof'- deze naam bestaat nog steeds - stond het eerste tufstenen kerkje van Lithoijen, uiteraard toegewijd aan Remigius.
+          <lb/>Het was aanvankelijk bestemd voor de inwoners van Lith en omgeving en fungeerde nog tot 1843 als de officiële parochiekerk van Lithoijen. 
+          <lb/>Natuurlijk was vanaf de tweede helft van de zeventiende eeuw de openlijke uitoefening van de katholieke eredienst verboden en was daarom in het dorp een schuurkerk in gebruik, aangebouwd aan de pastorie. Deze schuurkerk stond op de plek van het huidige kerkhof.
+          <lb/>In 1843 kwam daarvoor een “echte” (waterstaat)kerk in de plaats. In 1902 moest deze plaatsmaken voor de neogotische kerk, die er nu nog staat (Prelaat vd Bergplein 8).
+          <lb/>Het kerkje in Het Groenewoud is niet lang na 1843 gesloopt.
+          <lb/>
+          <lb/>
+          <lb/>bronnen:
+          <lb/>Het verborgen leven van de abdij van Berne in haar parochies, door W. vd Hurk o.praem.
+          <lb/>Schutjes, geschiedenis van het bisdom Den Bosch, deel IV; 
+          <lb/>website BHIC
+          <lb/>
+        </p>
+      </odd>
+    </odd>
+    <dsc type="combined">
+      <c01 level="series">
+        <did id="MF9991651">
+          <unitid type="guid">DD17B111DE2D409ABEBDC55CB45746EA</unitid>
+          <unitid type="series_code"/>
+          <unittitle>PLAATSINGSLIJST</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1800/1970"/>
+        </did>
+        <c02 level="file">
+          <did id="MF9991653">
+            <unitid type="guid">081DD44CEFA44565B170F14952E79AEF</unitid>
+            <unitid>1</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/081DD44CEFA44565B170F14952E79AEF</unitid>
+            <unittitle>Stukken betreffende fundaties en misintenties, 1855-1927</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1855/1927">1855-1927</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991654">
+            <unitid type="guid">2F9F7D39B41C477FAADFFC264BBD8901</unitid>
+            <unitid>2</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2F9F7D39B41C477FAADFFC264BBD8901</unitid>
+            <unittitle>Akten behorende tot de nalatenschap van pater Nicolaas Coolen, priester te Lithoijen&lt;br/&gt;, 1839-1874</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1839/1874">1839-1874</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991655">
+            <unitid type="guid">D9C40D3CD6DA4980933D89277062FF1A</unitid>
+            <unitid>3</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D9C40D3CD6DA4980933D89277062FF1A</unitid>
+            <unittitle>Akte van oprichting van de Broederschap van de Rozenkrans in de kerk van St. Remigius te Lithoijen, waaraan Johannes van Eersel als priester verbonden is&lt;br/&gt;, 20 sep 1818</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1818">20 sep 1818</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991656">
+            <unitid type="guid">9C84DF2597EF4DACA65A7F32175CA904</unitid>
+            <unitid>4</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9C84DF2597EF4DACA65A7F32175CA904</unitid>
+            <unittitle>Stukken betreffende de aanslag voor grondbelasting, 1885, 1888</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1885/1888">1885, 1888</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991657">
+            <unitid type="guid">7BBF3B299FEE4321875A59F21A79FEF2</unitid>
+            <unitid>5</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7BBF3B299FEE4321875A59F21A79FEF2</unitid>
+            <unittitle>Beschikkingen van het bisdom om het kerkelijk examen af te nemen bij  zusters uit het St. Norbertusgesticht die de eeuwige geloften (professie) willen afleggen&lt;br/&gt;, 1937-1939</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1937/1939">1937-1939</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991658">
+            <unitid type="guid">919A2EA2F56C43FEBCAF4C3263886D92</unitid>
+            <unitid>6</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/919A2EA2F56C43FEBCAF4C3263886D92</unitid>
+            <unittitle>Formulieren ten behoeve van het canonieke onderzoek naar het voorgenomen huwelijk van parochianen&lt;br/&gt;, c 1949 - c 1963, 1968</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1949/1968">c 1949 - c 1963, 1968</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991659">
+            <unitid type="guid">B1D35346F61947A4A997322068F1CBC8</unitid>
+            <unitid>7</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B1D35346F61947A4A997322068F1CBC8</unitid>
+            <unittitle>Lijst van kinderen die de Eerste H. Communie op 15 mei en de Plechtige H. Communie op 3 maart hebben gedaan&lt;br/&gt;, 1947</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947">1947</unitdate>
+            <physdesc>2 stukken</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991660">
+            <unitid type="guid">F5D67B827E874182B2856CC81A97D9AF</unitid>
+            <unitid>8</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F5D67B827E874182B2856CC81A97D9AF</unitid>
+            <unittitle>Inventarissen en lijsten van roerende en onroerende goederen, bezittingen en schulden van de parochie van H. Remigius, met bijlagen&lt;br/&gt;, 1855-1955, met hiaten</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1855/1955">1855-1955, met hiaten</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991661">
+            <unitid type="guid">073D51580B0B41E1B81D5E2441FE0905</unitid>
+            <unitid>9</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/073D51580B0B41E1B81D5E2441FE0905</unitid>
+            <unittitle>Rekeningen en verantwoordingen van het kerkbestuur van de parochie H. Remigius&lt;br/&gt;, 1919-1962 N.B. 1949 is niet compleet</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1919/1962">1919-1962 N.B. 1949 is niet compleet</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991662">
+            <unitid type="guid">FA20567BD3D3456EB93F7E3A2C05C4FB</unitid>
+            <unitid>10</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FA20567BD3D3456EB93F7E3A2C05C4FB</unitid>
+            <unittitle>Blauwdrukken van detailtekeningen van de voor- en achterdeur, en de trap van de pastorie &lt;br/&gt;te Lithoijen&lt;br/&gt;, c. 1930</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1930">c. 1930</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991663">
+            <unitid type="guid">C6B5379446F94709805CD47EF93B449C</unitid>
+            <unitid>11</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C6B5379446F94709805CD47EF93B449C</unitid>
+            <unittitle>Begrotingen van inkomsten en uitgaven van de kerkenkas van de parochie, 1889, 1903-1906, 1920-1940, 1942-1963</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1889/1963">1889, 1903-1906, 1920-1940, 1942-1963</unitdate>
+            <physdesc>1 pak</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991664">
+            <unitid type="guid">65920EBB0CAF48E4A14894FF68BE86CA</unitid>
+            <unitid>12</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/65920EBB0CAF48E4A14894FF68BE86CA</unitid>
+            <unittitle>Doopboek, 1867-1915</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1867/1915">1867-1915</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991665">
+            <unitid type="guid">D88D19C427A14381A8300ADE3A04C14B</unitid>
+            <unitid>13</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D88D19C427A14381A8300ADE3A04C14B</unitid>
+            <unittitle>kasboeken, 1967-1980</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1967/1980">1967-1980</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="OPENBAAR VANAF">
+            <p>2031</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991666">
+            <unitid type="guid">967BCA011EC6491BA00B96C4B6F66D56</unitid>
+            <unitid>14</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/967BCA011EC6491BA00B96C4B6F66D56</unitid>
+            <unittitle>Rekeningen van ontvangsten en uitgaven van de kerkmeester te Lithoijen, 1806-1807, 1828-1840, 1849</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1806/1849">1806-1807, 1828-1840, 1849</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991667">
+            <unitid type="guid">8940034EC31E443DA5291E8998E32E30</unitid>
+            <unitid>15</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8940034EC31E443DA5291E8998E32E30</unitid>
+            <unittitle>Stukken betreffende het koor en de organist van de RK Kerk te Lithoijen, 1866, 1886</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1866/1886">1866, 1886</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991668">
+            <unitid type="guid">43A501B9998B4ED2B746272BE8A6D9D1</unitid>
+            <unitid>16</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/43A501B9998B4ED2B746272BE8A6D9D1</unitid>
+            <unittitle>Stukken betreffende schuldbekentenissen, obligaties, giften en legaten aan de kerk, 1802-1921</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1802/1921">1802-1921</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991669">
+            <unitid type="guid">08121C2588264B76B98E16B4EB5CC69B</unitid>
+            <unitid>17</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/08121C2588264B76B98E16B4EB5CC69B</unitid>
+            <unittitle>Register van geprofesten van de Derde Orde van de H. Franciscus verbonden aan &lt;br/&gt;de kerk te Lithoijen&lt;br/&gt;, 1887-1890</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1887/1890">1887-1890</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991670">
+            <unitid type="guid">07B62714621B43B6931A77CB2319C258</unitid>
+            <unitid>18</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/07B62714621B43B6931A77CB2319C258</unitid>
+            <unittitle>Brief van G. Schans over af te dragen gelden aan de Vincentius Vereniging te Lithoijen, 1915</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1915">1915</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991671">
+            <unitid type="guid">F61EEF2975204E668D8FBD12ADF83885</unitid>
+            <unitid>19</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F61EEF2975204E668D8FBD12ADF83885</unitid>
+            <unittitle>Stukken betreffende het te stichten gemeenschapshuis voor Lithoijen/Teeffelen&lt;br/&gt;, 1969</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1969">1969</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991672">
+            <unitid type="guid">3673A0D8F6CD4E6B898308870D48A946</unitid>
+            <unitid>20</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3673A0D8F6CD4E6B898308870D48A946</unitid>
+            <unittitle>Stukken betreffende de verkoop van roerende en onroerende goederen door het kerkbestuur &lt;br/&gt;aan derden&lt;br/&gt;, 1872-1979</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1872/1979">1872-1979</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="OPENBAAR VANAF">
+            <p>2030</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991673">
+            <unitid type="guid">A10F01462E6542F39B1DC6440E0F5583</unitid>
+            <unitid>21</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A10F01462E6542F39B1DC6440E0F5583</unitid>
+            <unittitle>Stukken betreffende het beheer van scholen, de verbouwing en verkoop van het Liefdegesticht &lt;br/&gt;aan de zusters, alsmede de eventuele oprichting, bouw en uitbreiding van scholen met onderwijzerswoning te Lithoijen&lt;br/&gt;, 1888, 1891, 1907, 1922-1926, 1931-1932, 1950, 1958-1959</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1888/1959">1888, 1891, 1907, 1922-1926, 1931-1932, 1950, 1958-1959</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991674">
+            <unitid type="guid">878F0DD95B9C4DB88489A6AA5BF40611</unitid>
+            <unitid>22</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/878F0DD95B9C4DB88489A6AA5BF40611</unitid>
+            <unittitle>Rekeningen en verantwoording van het kerkbestuur van de parochie H. Remigius&lt;br/&gt;te Lithoijen&lt;br/&gt;, 1963-1976</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1963/1976">1963-1976</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="OPENBAAR VANAF">
+            <p>2027</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991675">
+            <unitid type="guid">E8C7ACA31F1B4B79831055E4F0058DF8</unitid>
+            <unitid>23</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E8C7ACA31F1B4B79831055E4F0058DF8</unitid>
+            <unittitle>Begrotingen van het kerkbestuur van de parochie H. Remigius te Lithoijen, 1964, 1966-1972, 1974</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1964/1974">1964, 1966-1972, 1974</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="OPENBAAR VANAF">
+            <p>2050</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991676">
+            <unitid type="guid">18B0E03E3CEA4196972EC4B171606282</unitid>
+            <unitid>24</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/18B0E03E3CEA4196972EC4B171606282</unitid>
+            <unittitle>Register voor statistiek van de parochie H. Remigius te Lithoijen over de periode 1955-1964&lt;br/&gt;, 1964</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1964">1964</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991677">
+            <unitid type="guid">AE7932BE0BDF4B86AFDC3AAB69988EDC</unitid>
+            <unitid>25</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/AE7932BE0BDF4B86AFDC3AAB69988EDC</unitid>
+            <unittitle>Stukken betreffende de verkrijging van vergoedingen voor geleden oorlogsschade&lt;br/&gt;, 1947-1949, 1955</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1947/1955">1947-1949, 1955</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <scopecontent>
+            <p>NB: Hierbij enige gegevens over de verkregen nieuwe klokken</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991678">
+            <unitid type="guid">A9240AC3FB3A4836996477AF433A9292</unitid>
+            <unitid>26</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A9240AC3FB3A4836996477AF433A9292</unitid>
+            <unittitle>Plattegrond van de hof  met ingetekend struiken, bomen etc.,, 1931</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1931">1931</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991679">
+            <unitid type="guid">4824770C4764452E9D86FF11AD9AF144</unitid>
+            <unitid>27</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4824770C4764452E9D86FF11AD9AF144</unitid>
+            <unittitle>Naamregister van jongens en meisjes die het H. Vormsel hebben ontvangen, 1809-1929</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1809/1929">1809-1929</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991680">
+            <unitid type="guid">12635D3D6405447296CED2681F6ECA66</unitid>
+            <unitid>28</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/12635D3D6405447296CED2681F6ECA66</unitid>
+            <unittitle>Ledenregister van de vereniging van het H. Scapulier over 1877-1897 en &lt;br/&gt;de Broederschap van de Erewacht van het H. Hart van Jezus over 1876-1945&lt;br/&gt;, 1876-1946</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1876/1946">1876-1946</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991681">
+            <unitid type="guid">B51D6CA919544D11B5C6DF79AC4F0DCE</unitid>
+            <unitid>29</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B51D6CA919544D11B5C6DF79AC4F0DCE</unitid>
+            <unittitle>Memoriaal van de parochie H. Remigius te Lithoijen, met los inliggende bijlagen, (1841) 1867-1958</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1841/1958">(1841) 1867-1958</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9991682">
+            <unitid type="guid">8F08F97951FB4FD796566D0A567973C4</unitid>
+            <unitid>30</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8F08F97951FB4FD796566D0A567973C4</unitid>
+            <unittitle>Akten van aankoop van onroerende goederen, 1838-1839, 1873, 1878, 1892, 1894-1895, 1899</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1838/1899">1838-1839, 1873, 1878, 1892, 1894-1895, 1899</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994393">
+            <unitid type="guid">1F3C6FACE2714BF0ABC4DA55C7258C70</unitid>
+            <unitid>31</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1F3C6FACE2714BF0ABC4DA55C7258C70</unitid>
+            <unittitle>Stukken betreffende de ruiling van gronden, 1873, 1898, 1928, 1966, 1974</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1873/1974">1873, 1898, 1928, 1966, 1974</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="OPENBAAR VANAF">
+            <p>2050</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994394">
+            <unitid type="guid">61C1A3814D4E452F84D6F04612344A2D</unitid>
+            <unitid>32</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/61C1A3814D4E452F84D6F04612344A2D</unitid>
+            <unittitle>Pachtcontracten van het Liefdegesticht met derden, met bijlagen, 1955-1968</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1955/1968">1955-1968</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994395">
+            <unitid type="guid">5F6FAF8EED5749D9BF578C7DAEF57B63</unitid>
+            <unitid>33</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5F6FAF8EED5749D9BF578C7DAEF57B63</unitid>
+            <unittitle>Polissen bij de Onderlinge Brandwaarborg Maatschappij St. Donatus van roerende&lt;br/&gt;en onroerende goederen van de parochie H. Remigius en het Liefdadigheidsgesticht, met bijlagen&lt;br/&gt;, 1902, 1919-1920, 1948, 1956, 1961, 1964-1966</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1902/1966">1902, 1919-1920, 1948, 1956, 1961, 1964-1966</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994396">
+            <unitid type="guid">79B3C42B9A0A4BAB91D6457627D69184</unitid>
+            <unitid>34</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/79B3C42B9A0A4BAB91D6457627D69184</unitid>
+            <unittitle>Inspectierapporten van de Centrale Onderhoudsinspectie van het bisdom &lt;br/&gt;’s-Hertogenbosch,  alsmede opdrachtverstrekkingen en nota’s van &lt;br/&gt;onderhoudswerkzaamheden en verbeteringen aan gebouwen van de &lt;br/&gt;parochie H. Remigius&lt;br/&gt;, 1959-1961, 1963-1965, 1970</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1959/1970">1959-1961, 1963-1965, 1970</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994397">
+            <unitid type="guid">A24BA1AB04874A79A2D02484186F0D7E</unitid>
+            <unitid>35</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A24BA1AB04874A79A2D02484186F0D7E</unitid>
+            <unittitle>Diverse verzoekbrieven van het kerkbestuur en machtigingen van het bisdom t.a.v. &lt;br/&gt;bepaalde rechtshandelingen waarbij goedkeuring van de bisschop vereist is&lt;br/&gt;, 1869-1963, met hiaten</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1869/1963">1869-1963, met hiaten</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994398">
+            <unitid type="guid">93E788D4F9BA4738B88F1DB891EE6438</unitid>
+            <unitid>36</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/93E788D4F9BA4738B88F1DB891EE6438</unitid>
+            <unittitle>Oprichting en functioneren van de O.L.V. Broederschap onder de titel &lt;br/&gt;van “de Kevelaarsche Processie” te Lithoijen&lt;br/&gt;, 1894</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1894">1894</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994399">
+            <unitid type="guid">CDEFCE5FB67E4D34B61CF4B7E515C0B3</unitid>
+            <unitid>37</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CDEFCE5FB67E4D34B61CF4B7E515C0B3</unitid>
+            <unittitle>Akte van consecratie door bisschop W. van de Ven van de St. Remigius kerk &lt;br/&gt;te Lithoijen en de altaar-relikwieën d.d. 5 augustus&lt;br/&gt;, 1901</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1901">1901</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994400">
+            <unitid type="guid">BBC6A7A9BC5545ADA19A495203D90F07</unitid>
+            <unitid>38</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BBC6A7A9BC5545ADA19A495203D90F07</unitid>
+            <unittitle>Akte van oprichting van de Kruisweg in de parochiekerk H. Remigius door pastoor &lt;br/&gt;Hubertus van den Berg, mede ondertekend door W. van Berckel  van de abdij van Berne&lt;br/&gt;, 1901</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1901">1901</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994401">
+            <unitid type="guid">485731B575EE44FD889A38B5D92B4BE2</unitid>
+            <unitid>39</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/485731B575EE44FD889A38B5D92B4BE2</unitid>
+            <unittitle>Akten van oprichting van de Aartsbroederschap van de H. Familie onder de titel J.M.J.,&lt;br/&gt;Werk van het Heilig Kindje Jezus, Broederschap van de Heilige Rozenkrans&lt;br/&gt;, 1871, 1900, 1915</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1871/1915">1871, 1900, 1915</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994402">
+            <unitid type="guid">65E69D7F44F94EEC9745F4DC3D619777</unitid>
+            <unitid>40</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/65E69D7F44F94EEC9745F4DC3D619777</unitid>
+            <unittitle>Kerkelijke beschikkingen betreffende te houden missies, tridua, retraites en &lt;br/&gt;confessies voor parochianen, liefdezusters en leden van broederschappen&lt;br/&gt;, 1847, 1945</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1847/1945">1847, 1945</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994403">
+            <unitid type="guid">A648BCE820DD4F9190F4774F2627757C</unitid>
+            <unitid>41</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A648BCE820DD4F9190F4774F2627757C</unitid>
+            <unittitle>Tarieven en reglement begraafplaatsen, 1976</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="OPENBAAR VANAF">
+            <p>2027</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994404">
+            <unitid type="guid">5DFF4E8A660048CC95D6A75AB453B834</unitid>
+            <unitid>42</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5DFF4E8A660048CC95D6A75AB453B834</unitid>
+            <unittitle>Afwikkeling van de nalatenschap van Maria Anna van der Putten, 1825-1830, met retroacta</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1825/1830">1825-1830, met retroacta</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994405">
+            <unitid type="guid">16921B48A3D04C9BB403451F07CF1B7F</unitid>
+            <unitid>43</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/16921B48A3D04C9BB403451F07CF1B7F</unitid>
+            <unittitle>Lijst van kerkelijk kunstbezit in de kerk van de H. Remigius,  met foto’s, 1976</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1976">1976</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="NIET TE SCANNEN VANWEGE">
+            <p>Materiële vorm</p>
+          </odd>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="OPENBAAR VANAF">
+            <p>2027</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994406">
+            <unitid type="guid">7898CD59B12A40D1BB26B347B3F21AC1</unitid>
+            <unitid>44</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7898CD59B12A40D1BB26B347B3F21AC1</unitid>
+            <unittitle>Stukken betreffende het benodigde verlof en de kosten van de bouw van de &lt;br/&gt;Waterstaatskerk met pastorie en begraafplaats&lt;br/&gt;, c 1836-1844</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1836/1844">c 1836-1844</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Stukken betreffende het benodigde verlof en de kosten van de bouw van de &lt;br/&gt;Waterstaatskerk met pastorie en begraafplaats&lt;br/&gt;, c 1836-1844</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/7898CD59B12A40D1BB26B347B3F21AC1" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/7898CD59B12A40D1BB26B347B3F21AC1" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
+            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994407">
+            <unitid type="guid">58556E86C5F541DE99E68AF7146A99FE</unitid>
+            <unitid>45</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/58556E86C5F541DE99E68AF7146A99FE</unitid>
+            <unittitle>Stukken betreffende de financiële verantwoording van de nieuwbouw van de &lt;br/&gt;kerk in 1901&lt;br/&gt;, 1897-1905</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1897/1905">1897-1905</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994408">
+            <unitid type="guid">C3554ABFE2984F3DA51F8E95F931387A</unitid>
+            <unitid>46</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C3554ABFE2984F3DA51F8E95F931387A</unitid>
+            <unittitle>Extract uit het register van resoluties van de Staten Generaal  over de &lt;br/&gt;vernieuwing van de schuurkerk te Lithoijen&lt;br/&gt;, 1790</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1790">1790</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994409">
+            <unitid type="guid">F7F751A2B77D4055A263559AF9D33A7D</unitid>
+            <unitid>47</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F7F751A2B77D4055A263559AF9D33A7D</unitid>
+            <unittitle>Verslagen van de vergaderingen van de municipaliteit over de naasting &lt;br/&gt;van de schuurkerk en vroegere bezittingen door de rooms katholieken&lt;br/&gt;, 1798-1810, met hiaten</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1798/1810">1798-1810, met hiaten</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994410">
+            <unitid type="guid">649BE3F3477D46598D1F14CE116ABBD5</unitid>
+            <unitid>48</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/649BE3F3477D46598D1F14CE116ABBD5</unitid>
+            <unittitle>Grootboekkaarten over 1970-1974, 1970-1974</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1970/1974">1970-1974</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="OPENBAAR VANAF">
+            <p>2050</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994411">
+            <unitid type="guid">E9D6B60691F6407E85A87788A51BCFB0</unitid>
+            <unitid>49</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E9D6B60691F6407E85A87788A51BCFB0</unitid>
+            <unittitle>Stukken betreffende het orgel, 1887, 1927</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1887/1927">1887, 1927</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994412">
+            <unitid type="guid">0A6A27324E2F4269949860FCC7B1E864</unitid>
+            <unitid>51</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0A6A27324E2F4269949860FCC7B1E864</unitid>
+            <unittitle>Akte van verkoop van het recht van bepoting op een terrein kadastraal bekend &lt;br/&gt;sectie A, nr. 41a, door Hendrikus van Waardenburg aan het kerkbestuur&lt;br/&gt;, 1875</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1875">1875</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994413">
+            <unitid type="guid">6967F5F9AF2E47D39700B5CB3F5633D9</unitid>
+            <unitid>52</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6967F5F9AF2E47D39700B5CB3F5633D9</unitid>
+            <unittitle>Memorie van  de verpachte armen- en kerklanderijen  gedeeltelijk toekomend aan de&lt;br/&gt;kerk van Lithoijen over de jaren 1838-1841&lt;br/&gt;, 1837</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1837">1837</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994414">
+            <unitid type="guid">DAF3CC6C9F2040B49CFC20FABCD14694</unitid>
+            <unitid>53</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DAF3CC6C9F2040B49CFC20FABCD14694</unitid>
+            <unittitle>Machtiging van de kerkmeesters van Lithoijen voor pastoor  P. Tabbers om twee kerkmeesters &lt;br/&gt;te benoemen die het beheer over goederen en fondsen zullen voeren&lt;br/&gt;, 1802</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1802">1802</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994415">
+            <unitid type="guid">4FF5502A96924D5CA62D3254C132D786</unitid>
+            <unitid>54</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4FF5502A96924D5CA62D3254C132D786</unitid>
+            <unittitle>Pacht- en huurovereenkomsten van het kerkbestuur te Lithoijen&lt;br/&gt;, 1898, 1909-1910, 1944</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1898/1944">1898, 1909-1910, 1944</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994416">
+            <unitid type="guid">C20DBE76B3D040DDA283157F40AA5840</unitid>
+            <unitid>55</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C20DBE76B3D040DDA283157F40AA5840</unitid>
+            <unittitle>Authenticiteitverklaringen van verschillende bisschoppen over relikwieën van heiligen&lt;br/&gt;en martelaren, waarschijnlijk bewaard in de kerk van Lithoijen&lt;br/&gt;, 1789, 1853, 1856, 1859, 1871</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1789/1871">1789, 1853, 1856, 1859, 1871</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994417">
+            <unitid type="guid">B0931BA3FA4248ADA3E34C890DC25D94</unitid>
+            <unitid>56</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B0931BA3FA4248ADA3E34C890DC25D94</unitid>
+            <unittitle>Dispensaties in het kader van bloedverwantschap</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1800/1970"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994418">
+            <unitid type="guid">CF0764BEC7A24519B6115B71B36E7712</unitid>
+            <unitid>57</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CF0764BEC7A24519B6115B71B36E7712</unitid>
+            <unittitle>Machtiging bisschop tot eventuele aankoop van grond genaamd “Rijkerbeemd” &lt;br/&gt;en verkoop van  “De Ossche Lange Wegen” onder bepaalde voorwaarden &lt;br/&gt;t.a.v. fundatiegelden&lt;br/&gt;, 1929</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1929">1929</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994419">
+            <unitid type="guid">80B95114E3BD410B9AF3FE5068E79C6B</unitid>
+            <unitid>58</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/80B95114E3BD410B9AF3FE5068E79C6B</unitid>
+            <unittitle>Reglement van orde, alsmede benoemingen en aftredingen &lt;br/&gt;van leden van het kerkbestuur&lt;br/&gt;, 1855, 1894-1942</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1855/1942">1855, 1894-1942</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994420">
+            <unitid type="guid">49FF30F3E0244F4997FC24FDA8B99D34</unitid>
+            <unitid>59</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/49FF30F3E0244F4997FC24FDA8B99D34</unitid>
+            <unittitle>Machtigingen bisschop voor de inrichting en beschildering van kerk en pastorie, 1907, 1909-1910, 1914, 1920-1921, 1928</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1907/1928">1907, 1909-1910, 1914, 1920-1921, 1928</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994421">
+            <unitid type="guid">BBC13FFF69DC4645BEC5BF9453D9F7F6</unitid>
+            <unitid>60</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BBC13FFF69DC4645BEC5BF9453D9F7F6</unitid>
+            <unittitle>Benoeming van J.G. Meijs tot pastoor van de parochie H. Remigius te Lithoijen, 1936</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1936">1936</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994422">
+            <unitid type="guid">0B4959AF5D4F400985DB6C9EB2A3D0F1</unitid>
+            <unitid>61</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0B4959AF5D4F400985DB6C9EB2A3D0F1</unitid>
+            <unittitle>Benoemingen en privébescheiden van pater  J.G. Meijs OPraem. &lt;br/&gt;in andere functies en/of plaatsen&lt;br/&gt;, 1907-1934</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1907/1934">1907-1934</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <scopecontent>
+            <p>NB: Vinkel en Hedikhuizen waren  plaatsen waar pater Meijs vooraf werkzaam was</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994423">
+            <unitid type="guid">8548CA2FA62442CD8E2AE6C8B01699E8</unitid>
+            <unitid>62</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8548CA2FA62442CD8E2AE6C8B01699E8</unitid>
+            <unittitle>Stukken betreffende de opname van gegevens over eigendommen van het kerkbestuur&lt;br/&gt;in het kadaster i.v.m. de ruilverkaveling &lt;br/&gt;, 1941</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1941">1941</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994424">
+            <unitid type="guid">12CA968433EB494499D81692E730937D</unitid>
+            <unitid>63</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/12CA968433EB494499D81692E730937D</unitid>
+            <unittitle>Beschikking van de bisschop over de nieuwe grenzen van de parochies &lt;br/&gt;H. Lambertus te Lith en H. Remigius te Lithoijen&lt;br/&gt;, 1940</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1940">1940</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994425">
+            <unitid type="guid">7CE8500CF4F443489051CAB26596A93E</unitid>
+            <unitid>64</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7CE8500CF4F443489051CAB26596A93E</unitid>
+            <unittitle>Aanhangsel bij een ontbrekende wettelijke aansprakelijkheidspolis, 1954</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1954">1954</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994426">
+            <unitid type="guid">8A6C16DC484E459EAA44E8C188BCA90D</unitid>
+            <unitid>65</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8A6C16DC484E459EAA44E8C188BCA90D</unitid>
+            <unittitle>Volmacht van Petrus Beckers, prelaat van Berne, aan pastor van Berlicum, &lt;br/&gt;van Lithoijen en van den Braak  b.g.v. de zakelijke afdoening van een geschil tussen&lt;br/&gt;de overleden pastoor van Lithoijen J.P. Spriessen en de gemeente Lithoijen&lt;br/&gt;, 1820</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1820">1820</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994427">
+            <unitid type="guid">D6545946A7D34CAEBFE3916E035C4AFC</unitid>
+            <unitid>66</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D6545946A7D34CAEBFE3916E035C4AFC</unitid>
+            <unittitle>Verklaring van H.J. G(orets) dat hij een korenmolen en varkenshok op gronden &lt;br/&gt;van de abdij van Berne mag bouwen, zonder het recht van opstal te verkrijgen&lt;br/&gt;, 1854</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1854">1854</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994428">
+            <unitid type="guid">64AC060009C3481BA84EFDC83EF881FE</unitid>
+            <unitid>67</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/64AC060009C3481BA84EFDC83EF881FE</unitid>
+            <unittitle>Stukken betreffende beleggingen van pastoor J.C. van Roy, 1921-1922</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1921/1922">1921-1922</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994429">
+            <unitid type="guid">81F78D54364C4E77AFBDA730513E43B7</unitid>
+            <unitid>68</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/81F78D54364C4E77AFBDA730513E43B7</unitid>
+            <unittitle>Akte van eigendomsoverdracht door J. Govers van 4 lindebomen die per vergissing &lt;br/&gt;op grond van de abdij van Berne zijn geplant&lt;br/&gt;, 1801</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1801">1801</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994430">
+            <unitid type="guid">5BF2590D55FA4BFB865629BE2DB40440</unitid>
+            <unitid>69</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5BF2590D55FA4BFB865629BE2DB40440</unitid>
+            <unittitle>Verhandeling van de Nederlandse Katholieke Middenstandsbond over de heersende&lt;br/&gt;godsdienstige “bloedarmoede”, typeschrift&lt;br/&gt;, z.j.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1800/1970">z.j.</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994431">
+            <unitid type="guid">B56B3FD56A874404A0EF3937DA42ED9F</unitid>
+            <unitid>70</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B56B3FD56A874404A0EF3937DA42ED9F</unitid>
+            <unittitle>Memorie over de samenstelling van het kerkbestuur in de jaren 1806/1807, 1828-1840, c 1964</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1964">c 1964</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994432">
+            <unitid type="guid">3148764D12A1438E907AE32CF5293C9C</unitid>
+            <unitid>71</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3148764D12A1438E907AE32CF5293C9C</unitid>
+            <unittitle>Programma van de optocht te houden bij gelegenheid van het kerkwijdingfeest &lt;br/&gt;te Lithoijen op 4 en 5 augustus&lt;br/&gt;, 1901</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1901">1901</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Drukwerk</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994433">
+            <unitid type="guid">4E6DF40F6DF94D72AFC92E875231BF55</unitid>
+            <unitid>72</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4E6DF40F6DF94D72AFC92E875231BF55</unitid>
+            <unittitle>Brief van de pastoor aan het polderbestuur over de slechte wegen en de z.i. noodzakelijke verbeteringen, met situatieschets over het hoog water als bijlage&lt;br/&gt;, 1915</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1915">1915</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994434">
+            <unitid type="guid">9EDDBAC9F705493A8D36805FA9D7C761</unitid>
+            <unitid>73</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9EDDBAC9F705493A8D36805FA9D7C761</unitid>
+            <unittitle>Aanstellingsbrief door W. Mutsaerts, bisschop van Den Bosch, van pater F.C. Cooymans opraem. tot pastoor van Lithoijen als gevolg van het overlijden van pastoor J.G. Meijs&lt;br/&gt;, 1945</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1945">1945</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994435">
+            <unitid type="guid">EE276366659246448950A1A25ED31FD9</unitid>
+            <unitid>74</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EE276366659246448950A1A25ED31FD9</unitid>
+            <unittitle>Faculteitsbrief van de Congregatie Propaganda Fide voor pastoor H. van den Berg &lt;br/&gt;(om geld uit een publieke verkoop aan te nemen),&lt;br/&gt;, 1903</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1903">1903</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994436">
+            <unitid type="guid">268BD849E70A43DF9A2D19C8A3B78D8E</unitid>
+            <unitid>75</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/268BD849E70A43DF9A2D19C8A3B78D8E</unitid>
+            <unittitle>Stukken waarvan het verband met het archief niet zijn gebleken</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1800/1970"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF11237439">
+            <unitid type="guid">64D2B4203B9143AC9DE1F93E346230C0</unitid>
+            <unitid>183</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/64D2B4203B9143AC9DE1F93E346230C0</unitid>
+            <unittitle>'Reekeningboek van de kerk van Lithoijen'; beide zijden begonnen , 1814-1842</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1814/1842">1814-1842</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF11237440">
+            <unitid type="guid">4710FD95A9B8442A8CDDCEEBE9155FA8</unitid>
+            <unitid>184</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4710FD95A9B8442A8CDDCEEBE9155FA8</unitid>
+            <unittitle>Register van Fundaties voor de kerk van Lithoijen, met diverse bijlagen, 1856-1964</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1856/1964">1856-1964</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF11237475">
+            <unitid type="guid">71934BBC7D9F466FAF1320A1CA98CC9B</unitid>
+            <unitid>185</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/71934BBC7D9F466FAF1320A1CA98CC9B</unitid>
+            <unittitle>Register van leden van de H. Familie, alfabetisch ingericht; met bijlagen, 1871-1944</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1871/1944">1871-1944</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF11237441">
+            <unitid type="guid">0CD76DD690E34EA59649547876EA61DD</unitid>
+            <unitid>186</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0CD76DD690E34EA59649547876EA61DD</unitid>
+            <unittitle>Register van inkomsten en uitgaven aan en van het Liefdegesticht van de H. Norbertus te Lithoijen, begonnen door pastoor Clement; aan andere zijde begonnen als Verslag schoolbouw meisjes en jongens en vanaf 1 jan 1925 -1936  inkomsten en uitgaven sedert de oprichting van de r.k. jongensschool , 1881-1945</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1881/1945">1881-1945</unitdate>
+          </did>
+          <scopecontent>
+            <p>Voorin aantekening:&lt;br/&gt; &lt;br/&gt;Hetgeen tot het Liber Memorialis van het Liefdehuis behoort, is opgetekend in het registrum memoriale van de parochie Lithoijen, omdat het gesticht met betrekking tot de stichting van de w.e. heer W.P. van Lent onder het kerkbestuur staat.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF11237474">
+            <unitid type="guid">3F921434DC2E4D99A152E36CC870405C</unitid>
+            <unitid>187</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3F921434DC2E4D99A152E36CC870405C</unitid>
+            <unittitle>Akte van canonieke oprichting van het Heilig Kruis in de kapel van St Norbertus in het Liefdegesticht te Lithoijen , 6 sep 1885</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1885">6 sep 1885</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF11237473">
+            <unitid type="guid">1230E0D44732458B990817277E2248B7</unitid>
+            <unitid>188</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1230E0D44732458B990817277E2248B7</unitid>
+            <unittitle>Rekeningen en verantwoordingen (1936-1945) van het Gesticht van Liefdadigheid te Lithoijen, inventaris van eigendommen (1944) en andere bijlagen aangetroffen in het register Liefdesgesticht , 1891-1945</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1891/1945">1891-1945</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Rekeningen en verantwoordingen (1936-1945) van het Gesticht van Liefdadigheid te Lithoijen, inventaris van eigendommen (1944) en andere bijlagen aangetroffen in het register Liefdesgesticht , 1891-1945</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/1230E0D44732458B990817277E2248B7" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/1230E0D44732458B990817277E2248B7" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
+            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF11237443">
+            <unitid type="guid">1612D6A2E30A4E5E8B2AEC9BF523CBDE</unitid>
+            <unitid>189</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1612D6A2E30A4E5E8B2AEC9BF523CBDE</unitid>
+            <unittitle>Plattegrond van het kerkhof met daarop aangegeven een aantal graven (1857-1946) en namen , c. 1950</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1950">c. 1950</unitdate>
+            <physdesc>2 stukken</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF12297880">
+            <unitid type="guid">E00D7DC1E3B34CDE9CFEF16BA9A64E84</unitid>
+            <unitid>190</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E00D7DC1E3B34CDE9CFEF16BA9A64E84</unitid>
+            <unittitle>Register van vergaderingen van het r.k. kerkbestuur; aan andere zijde begonnen met Kerkrekeningen van ontvangsten en uitgaven periode 1842-1854 per dienstjaar; enkele bijlagen, (1842) 8 jun 1852 - 1966 (1967)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1842/1967">(1842) 8 jun 1852 - 1966 (1967)</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF10330573">
+          <unitid type="guid">9EE946EAEDAE480FB9FE3732D6B664CC</unitid>
+          <unitid type="series_code"/>
+          <unittitle>AANVULLING VAN ABDIJ BERNE</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1800/1970"/>
+        </did>
+        <c02>
+          <did id="MF10330576">
+            <unitid type="guid">4D466DD51B0A48B8AC0461082A42EF03</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>Het hele gebied rondom Lithoijen wordt voor het eerst in de geschiedenis genoemd in het jaar 922, wanneer dit gebied wordt teruggeven aan Giselbert, hertog van Lotharingen. &lt;br/&gt;Giselbert trouwde met Gerberga, een dochter van de Duitse keizer en als huwelijksgift ontving zij van haar echtgenoot het voormalige koningsgoed Meerssen (bij Maastricht), waartoe toen ook Lithoijen behoorde. In het jaar 968 schonk de inmiddels koningin-weduwe geworden Gerberga een deel van haar domein Litta (het later genoemde Litta minor, het Lith richting Oijen = Lithoijen) aan de Benediktijnerabdij van Reims. Het centrum van Lithoijen was toen gelegen in ‘Het Groenewoud’ met hier middenin een perceel dat nu nog de naam ‘Het Hof’ draagt en waar veel merovingisch materiaal gevonden is. Het is een officiële archeologische vindplaats. In de directe omgeving stond ook de eerste R.K. kerk van Lithoijen, ongeveer op de plek waar nu het notenboomgaardje aan de dijk ligt.&lt;br/&gt;Tijdens de tachtigjarige oorlog wilde de abdij van Reims echter af van haar verafgelegen bezit en verkocht dit aan de Maastrichtse koopman Jan Dadenberg (1611). Het begevingsrecht van de kerk van Lithoijen werd in 1612 geschonken aan de prelaat van de abdij van Berne en diens opvolgers, die een deel van de vroegere goederen en tienden via bevriende relaties weer terugkochten. Ondertussen was ook in Lithoijen de uitoefening van de Rooms Katholieke godsdienst verboden en was het Romaanse kerkje door de Protestanten geconfisceerd.&lt;br/&gt;Lithoijen bouwde een schuurkerk buiten de grenzen van het dorp op de plek, waar nu het kerkhof ligt. &lt;br/&gt;[bron: Internet, site gemeente Lith]&lt;br/&gt;</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF10333592">
+            <unitid type="guid">AD2439251B6843019CB6F210C0CC55B7</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>De archivalia onder deze rubriek zijn in 2008 overgekomen van de abdij van Berne.&lt;br/&gt;Tijdens de inventarisatie werd  een register van de pastoor van Teeffelen, ca. 1700-1812 aangetroffen. Op basis van het herkomstbeginsel is dit stuk  naar het parochiearchief van Teeffelen gebracht. Een aantal dagafschriften van giro en bank over de periode 1963-1978 zijn vernietigd.</p>
+          </dsc>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF10330846">
+            <unitid type="guid">364157BCDB3F4945B0D27E46BA7E07C9</unitid>
+            <unitid type="series_code"/>
+            <unittitle>REGESTEN van charters vóór 1500</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1800/1970"/>
+          </did>
+          <c03 level="otherlevel" otherlevel="Regest">
+            <did id="MF10330847">
+              <unitid type="guid">BDAF57F398D44842ADAEDF0FC23B4BB4</unitid>
+            </did>
+            <dsc>
+              <p altrender="regest_nummer">1</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_beschrijving">564 1414 mei 16.&lt;br/&gt; Schepenen van Buscumducis oorkonden, dat Theodericus Johanneszn van Bruheze en zijn vrouw Elisabeth dr.v.w. Marcilius van der Ee, weduwe van Emondus Albertuszn gezegd Buc van Lyt, hebben overgedragen aan Johannes van Beest z.v.w. Arnoldus gezegd Noytenzn van Lyt in totaal 6 morgen land, nl. 3 morgen in de parochie van Groet-Lyt, (= Lith), gelegen achter in de polder en nader gesitueerd, met inbegrip van 11 hond, alsook een veld van wijlen Willelmus van Beest, ook 3 morgen groot en gelegen in de parochie van Lyt in het Broeck en ook nader gesitueerd; dit met opgave van de herkomst van deze goederen.&lt;br/&gt;a. Oorspr. VIII. L. 4. Met de zegels van Gerardus Scilder en Henricus Dicbier. Gehecht aan de akte van vidimus van 9 dec. 1598 (zie: 22 aug. 1415) en aan de akte van 12 april 1482 (reg. nrs.568 en 901). In dorso (verbleekt:) Ses merghen lantz tot Lyth.&lt;br/&gt;b. Getypte tekst in Map-Afschriften.</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_datering">
+                <date normal="1414" era="ce" calendar="gregorian"/>
+              </p>
+            </dsc>
+          </c03>
+          <c03 level="otherlevel" otherlevel="Regest">
+            <did id="MF10330848">
+              <unitid type="guid">FF86D393228C4AD39CCB2C64B6785AB0</unitid>
+            </did>
+            <dsc>
+              <p altrender="regest_nummer">2</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_beschrijving">568 1415 augustus 22.&lt;br/&gt; Schepenen van Buscumducis oorkonden, dat Johannes van Beest z.v.w. Arnoldus Noytenzn van Lyt heeft overgedragen aan Rodolphus Berwout 3 morgen, gelegen in de parochie van Groet-Lyt (= Lith) achter in de polder en nader gesitueerd, met inbegrip van 11 hond, alsook een veld van wijlen Willelmus van Beest, ook 3 morgen groot en gelegen in de parochie van Lyt in het Broeck, nader gesitueerd; met opgave van de herkomst van deze goederen; waarbij Godefridus van Beest en Willelmus z.v.w. Alyverius gezegd Fierken van Berchhuysen garant staan voor deze in totaal 6 morgen, en zij alle eventuele lasten hierop op zich nemen, uitgezonderd de cijns voor het kapittel van Leodium en de lasten die op de "zeghdijcken" (polderdijken), waterlopen en sloten, alsook op 1 roede Maasdijk, gelegen voor het land van Willelmus die Lepper, en op 3 voet Maasdijk, de zogeheten Helsteghe-dijk, drukken.&lt;br/&gt;a. Oorspr. VIII. L. Met de beschadigde zegels van Jacobus Coptiten en Arnoldus Dicbier. Gehecht aan de akten van 13 nov. 1467 en 16 maart 1482 (reg. nrs.826 en 900).&lt;br/&gt;b. Authentiek afschrift op papier, van notaris A. Wolteruszn van Heeswijck, (na 1528), in: VIII. K. Map Altaar H.Kruis te Heeswijk; tweede van de 6 afschriften.&lt;br/&gt;c. Gevidimeerd in de Bossche schepenakte van 9 dec. 1598. VIII. L. 4.&lt;br/&gt;d. Getypte tekst in Map-Afschriften.</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_datering">
+                <date normal="1415" era="ce" calendar="gregorian"/>
+              </p>
+            </dsc>
+          </c03>
+          <c03 level="otherlevel" otherlevel="Regest">
+            <did id="MF10330849">
+              <unitid type="guid">9A9D60A8331E49EEBE838EA3DB260186</unitid>
+            </did>
+            <dsc>
+              <p altrender="regest_nummer">3</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_beschrijving">673 1436 maart 20 Ante domum inhabiationis Oede testatricis prenominate..&lt;br/&gt; Petrus van Bruheze, pastoor van Litoijen, oorkondt, dat Oeda, weduwe van Bernardus Artszn, haar testament heeft gemaakt, waarbij zij, na aftrek vooraf van de begraafkosten en schulden, vermaakt aan de kerk van S. Lambertus (te Luik) 2 kromstaart eenmalig; aan pastoor Petrus en zijn opvolgers, aan de kerkfabriek en aan de armen van Litoijen 1 morgen land, door haar als weduwe verworven en gelegen achter in het Broeck (retro in palude) op de Rullen-Hoeve, naast het perceel het Chiffen, en tegen het perceel Aen den Roederfort, d.w.z. ieder een-derde ervan; aan dezelfden 1 hond land op de Enghe van Litoijen, tegen de Boenhoff aan, ook ieder voor een-derde - beide stukken land met de lasten van 1 roede dijks, door ieder voor een-derde te dragen - terwijl de bedienaren van de kerk zich verplichtten een jaargetijde te houden voor Oeda, haar man en kinderen, hun beider ouders en grootouders, nl. vrijdags voor S. Gertrudis (17 maart); hun graven zondags te bezoeken en er de psalm De Profundis, een Pater Noster, een Ave Maria en het gebed voor de overledenen te bidden, en hun graf met wijwater te besprenkelen, alsook hun namen in het zielboek (littera animarum) op zon- en feestdagen af te lezen.&lt;br/&gt;a. Oorspr. VIII. L. 2. Het doorgestoken zegel van de pastoor is afgevallen. In dorso: Litterae unius jugeris et unius hont terrae pertinentes ad pastoratum, ecclesiam et mensam Spiritus Sancti promiscue, in Litthoyen. Het charter is door vuil en vocht zeer moeilijk leesbaar geworden; toch is het G. van der Velden gelukt (sept.1987) ervan een transcriptie te maken, waarin slechts enkele woorden ontbreken.&lt;br/&gt;b. Getypte tekst in Map-Afschriften.</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_datering">
+                <date normal="1436" era="ce" calendar="gregorian"/>
+              </p>
+            </dsc>
+          </c03>
+          <c03 level="otherlevel" otherlevel="Regest">
+            <did id="MF10333610">
+              <unitid type="guid">37102EAD02554717844843403DBCB0A7</unitid>
+            </did>
+            <dsc>
+              <p altrender="regest_nummer">4</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_beschrijving">826 1467 november 13.&lt;br/&gt; Schepenen van Buscumducis oorkonden, dat Theodericus van Vyanen, man van Elisabeth, dr.v.w. Rodolphus Berwout, heeft overgedragen aan Theodericus van Os de helft van een veld van ca. 6 morgen, gelegen in de parochie van Groet-Lyth (= Lith) in het Litterbroeck, nader gesitueerd - dit veld in de lengte te delen - en dan wel die helft die gelegen is tegen het erf van Arnoldus Demer; welke helft Theodericus van Vyanen bij erfdeling gerechtelijk had verworven, inclusief de lasten op de "zegedijcken" (polderdijken), sluizen, sloten en waterlopen van dit land.&lt;br/&gt;a. Oorspr. VIII. L. 3. Met het gaaf zegel van Johannes Spijker Johanneszn en het beschadigd zegel van Godefridus Cleynael. In dorso: Theodericus de Os. (Vervolgens de niet geheel ontcijferde tekst:) Fiat vidimus de ista littera et terra Johannis de Os, qui prout super omnia tradere Deynaldo filio quondam Henrici Deynaltzsen de Vladeracken procurationem ut in forma etc. (schepenen:) Hoevel et Hedel; die 12 aprilis Pasche. Drie merghen int Litterbroeck van Dirk van Vyanen. Gehecht aan de akten van 22 aug.1415 en 15 maart  1482 (reg. nrs.568, 900).&lt;br/&gt;b. Authentiek afschrift, op papier, van notaris A. Walteruszn van Heeswijck, (na 1528) in: VIII. K. Map Altaar H.Kruis te Heeswijk; derde van de 6 afschriften.&lt;br/&gt;c. Getypte tekst in Map-Afschriften.</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_datering">
+                <date normal="1467" era="ce" calendar="gregorian"/>
+              </p>
+            </dsc>
+          </c03>
+          <c03 level="otherlevel" otherlevel="Regest">
+            <did id="MF10333611">
+              <unitid type="guid">07F985D582B54147BA8034CBA1491406</unitid>
+            </did>
+            <dsc>
+              <p altrender="regest_nummer">5</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_beschrijving">900 1482 maart 15 Anno Domini 1481..&lt;br/&gt; Schepenen van Buscumducis oorkonden, dat Henricus z.v.w. Theodericus van Os heeft overgedragen aan Franco van Langel ten behoeve van Deynaldus z.v.w. Deynaltszn van Vladeracken de helft van een veld van ca. 6 morgen in de parochie van Groet-Lyt (= Lith) in het Litterbroeck, nader gesitueerd, - dit veld in de lengte te verdelen - en dan wel de helft die gelegen is tegen het erf van Arnoldus Demer; welke helft Theodericus van Os had verworven van Theodericus van Vyanen.&lt;br/&gt;a. Oorspr. VIII. L. 3. Met de zegels van Willelmus Steenwech en Reynerus van den Hoevel. In dorso: Deynaldus filius Henrici Deynaldi. Gehecht aan de akten van 22 aug.1415 en 13 nov.1467 (reg. nrs.568, 826).&lt;br/&gt;b. Authentiek afschrift op papier, van notaris A. Walteruszn van Heeswijck, (na 1528), in: VIII. K. Map Altaar H.Kruis te Heeswijk; vierde van de 6 afschriften.&lt;br/&gt;c. Getypte tekst in Map-Afschriften.</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_datering">
+                <date normal="1481/1482" era="ce" calendar="gregorian"/>
+              </p>
+            </dsc>
+          </c03>
+          <c03 level="otherlevel" otherlevel="Regest">
+            <did id="MF10333612">
+              <unitid type="guid">CC93824C18A34515812756F2758E234F</unitid>
+            </did>
+            <dsc>
+              <p altrender="regest_nummer">6</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_beschrijving">901 1482 april 12.&lt;br/&gt; Schepenen van Buscumducis oorkonden dat - nadat Henricus z.v.w. Theodericus van Os zijn helft van een veld van ca. 6 morgen in de parochie van Groet-Lyt (= Lith) in het Lytterbroeck, nader gesitueerd en overlangs en gelijkelijk verdeeld, nl. die helft die ligt tegen het erf van Arnoldus Demer, had overgedragen aan Franco van Langel ten behoeve van Deynaldus z.v.w. Henricus Deynaltszn van Vladeracken - ook de gebroeders Johannes en Theodericus van Os, kinderen van Theodericus van Os, afstand hebben gedaan van de helft van de helft van dit veld en van de ev. aanspraken van hen beiden en van hun broer Reynerus van Os en van hun zuster Katharina op de gehele helft van dit veld.&lt;br/&gt;a. Oorspr. VIII. L. 4. Met de zegels van Reynerus van den Hoevel en Johannes Godefriduszn van Hedel. In dorso: Deynaldus filius Henrici Deynalden. Gehecht aan de akte van vidimus van 9 dec.1598 (zie 22 aug.1415) en aan de akte van 16 mei 1414 (reg. nrs.568 en 564).&lt;br/&gt;b. Authentiek afschrift, op papier, van notaris A. Walteruszn van Heeswijck, (na 1528) in: VIII. K. Map Altaar H.Kruis te Heeswijk; vijfde van de 6 afschriften.&lt;br/&gt;c. Afschrift op perkament, begin 18de eeuw volgens het handschrift; bewaard bij a.Wel met vouw, maar zonder incisies voor de zegels. Het vertoont enige ernstige transcriptiefouten: r. 2 Lidt voor Lyt, r. 10 sabini voor scabini,r. 4 + 10 ultime voor legitime. Zie de Inleiding in dit boek onder de titel: "quasi-originelen",waar dit stuk apart wordt besproken.&lt;br/&gt;c. Getypte tekst in Map-Afschriften.</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_datering">
+                <date normal="1482" era="ce" calendar="gregorian"/>
+              </p>
+            </dsc>
+          </c03>
+          <c03 level="otherlevel" otherlevel="Regest">
+            <did id="MF10333613">
+              <unitid type="guid">635E36C8FBB64726AD45A1711A3C7AFC</unitid>
+            </did>
+            <dsc>
+              <p altrender="regest_nummer">7</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_beschrijving">926 1487 augustus 10.&lt;br/&gt; Schepenen van Litoijen, Reyner van der Graft Goyartszn, Tielman van Son, Jan van Tuyll, Jan Clínge, Jan Willemszn, Henrick Bernszn en Willem Goesen Ryckouts, oorkonden, dat Dirck van der Graft Reynerszn zich ten gunste van heer Gherit van Beest, priester en bedienaar van het O.L.Vrouwe-altaar in de kerk van Litoijen, heeft laten richten aan een huis, hof c.a. aldaar, geheten Opten Enge, wegens wanbetaling van een erftijns van 8 pond over 3 jaren, welke tijns op 17 maart 1475 toegezegd was door Heymerick Willemszn aan heer Henrick Aelbrechtszn, priester, ten behoeve van dit altaar; dat de nodige afkondigingen zijn geschied in de kerk van Litoijen en voor het stadhuis in Den Bosch, alsook, in verband met het recht van naasting, aan de "rinck"&lt;SUP&gt;1&lt;/SUP&gt; van de parochiekerk in Litoijen; dat vervolgens Dirc voorn. deze erven "vercoft" aan Jan van Beest voor de achterstallige pacht van 3 jaren en voor de proceskosten.&lt;br/&gt;a. Oorspr. VIII. L. 5. Het gemeen schependomszegel van Litoijen is afgevallen. Met 2 transfixen van (tussen 10 aug. en 25 nov.) 1487 en 25 nov.1487 (reg. nrs. 927 en 928).&lt;br/&gt;b. Getypte tekst in Map-Afschriften.</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_datering">
+                <date normal="1487" era="ce" calendar="gregorian"/>
+              </p>
+            </dsc>
+          </c03>
+          <c03 level="otherlevel" otherlevel="Regest">
+            <did id="MF10333614">
+              <unitid type="guid">F5C1641EEA3745E99FEC9601ABFE687E</unitid>
+            </did>
+            <dsc>
+              <p altrender="regest_nummer">8</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_beschrijving">927 1487 (tussen 10 aug. en 25 nov.).&lt;br/&gt; Schepenen van Litoijen (zie vorig regest), oorkonden, dat Jan van Beest heeft overgedragen aan heer Gherit van Beest, priester, alle rechten, vervat in de akte van 10 aug.1487 (reg. nr.926), waardoor deze akte is gestoken.&lt;br/&gt;a. Oorspr. VIII. L. 5. Het gemeen schependomzegel van Litoijen is afgevallen. Met transfix van 25 nov.1487 (reg. nr.928)&lt;br/&gt;b. Getypte tekst in Map-Afschriften.</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_datering">
+                <date normal="1487" era="ce" calendar="gregorian"/>
+              </p>
+            </dsc>
+          </c03>
+          <c03 level="otherlevel" otherlevel="Regest">
+            <did id="MF10333615">
+              <unitid type="guid">98AA95AAA9664223B20034B2028161ED</unitid>
+            </did>
+            <dsc>
+              <p altrender="regest_nummer">9</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_beschrijving">928 1487 november 25.&lt;br/&gt; Schepenen van Litoijen (zie voorvorig regest), oorkonden, dat heer Gherit van Beest met verlof van de officiaal van Luydíck heeft overgedragen aan Peter van Maren z.v.w. Peter van Maren alle rechten vervat in de 2 akten van 10 aug.1487 en (tussen 10 aug. en 25 nov.) 1487 (reg. nrs.926, 927), waardoor deze akte is gestoken.&lt;br/&gt;a. Oorspr. VIII. L. 5. Het gemeen schependomzegel van Litoijen is afgevallen.&lt;br/&gt;b. Getypte tekst in Map-Afschriften.</p>
+            </dsc>
+            <dsc>
+              <p altrender="regest_datering">
+                <date normal="1487" era="ce" calendar="gregorian"/>
+              </p>
+            </dsc>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF10330574">
+            <unitid type="guid">AC9435696CAD4CD3998721EAAFADDF4A</unitid>
+            <unitid type="series_code"/>
+            <unittitle>REGISTERS, dossiers e.d.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1800/1970"/>
+          </did>
+          <c03 level="file">
+            <did id="MF10330590">
+              <unitid type="guid">E05723B724DA4ED58BA86834403473CC</unitid>
+              <unitid>114</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E05723B724DA4ED58BA86834403473CC</unitid>
+              <unittitle>Doopboek, met enkele 20e eeuwse marginale aantekeningen, 1811 jan 3 - 1866 dec 19</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1811/1866">1811 jan 3 - 1866 dec 19</unitdate>
+              <physdesc>1 deel</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330631">
+              <unitid type="guid">DF770135A2CA4C23811786DF5D5DAA2D</unitid>
+              <unitid>115</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DF770135A2CA4C23811786DF5D5DAA2D</unitid>
+              <unittitle>"Inventarium Littoijense" van de kerk en priesterwoning door pastoor Havens, folio 1-7 boeken, folio 8-29 huisraad etc., 1622</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1622">1622</unitdate>
+              <physdesc>1 katern</physdesc>
+              <unitid type="obsolete">zie kopieboek II, na 219</unitid>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330664">
+              <unitid type="guid">16F71B3AEB0F44A78B8D3F2485D8C4B8</unitid>
+              <unitid>116</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/16F71B3AEB0F44A78B8D3F2485D8C4B8</unitid>
+              <unittitle>Aantekeningen van W. Hoevenaars uit het archief van de abdij Berne betreffende de historie van de parochie Lithoijen, in het latijn , (968-1803) 1883 aug 18</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1803/1883">(968-1803) 1883 aug 18</unitdate>
+              <physdesc>1 katern</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330840">
+              <unitid type="guid">C2B7C3529DFB423EB30733971342E592</unitid>
+              <unitid>117</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C2B7C3529DFB423EB30733971342E592</unitid>
+              <unittitle>Akte waarbij Gerberga, koningin der Franken, aan de St. Remigiusabdij te Reims haar allodium Meerssen in de Maasgouw schenkt met alles wat er toe behoort (waaronder Lithoijen); in latijn, eenvoudig afschrift, (968 feb 10-12) 17e eeuws</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1800/1970">(968 feb 10-12) 17e eeuws</unitdate>
+              <physdesc>1 stuk</physdesc>
+              <unitid type="obsolete">zie inv.nr. 171</unitid>
+            </did>
+            <scopecontent>
+              <p>tekst in Camps, oorkondenboek Noord-Brabant, deel 1, nr. 23&lt;br/&gt;N.B.&lt;br/&gt;Omstreeks het midden van de 10e eeuw was het allodium Meerssen eigendom van &lt;br/&gt;Gerberga, dochter van keizer Hendrik 1 en echtgenote van Lodewijk van Overzee, &lt;br/&gt;koning van Frankrijk. In 968 schonk Gerberga haar bezittingen, inclusief kapel en &lt;br/&gt;daaraan verbonden kapittel aan de Benedictijner abdij van St. Remigius te Reims. &lt;br/&gt;</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330841">
+              <unitid type="guid">606C750EA2EE4BA29D1B3C1C78AD3784</unitid>
+              <unitid>118</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/606C750EA2EE4BA29D1B3C1C78AD3784</unitid>
+              <unittitle>Rekening van de Heilige Geestmeesters (voor de armen) van Lithoijen, 1625</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1625">1625</unitdate>
+              <physdesc>1 katern</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330842">
+              <unitid type="guid">78F8D6B780EA412B85647167097D8F10</unitid>
+              <unitid>119</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/78F8D6B780EA412B85647167097D8F10</unitid>
+              <unittitle>Brieven aan de pastoor van Bokhoven van de weduwe Verster en Adr. Schooneus te Den Bosch, 1756-1757</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1756/1757">1756-1757</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330843">
+              <unitid type="guid">57EC4361D3074DE5AF08BD3F0BC93A64</unitid>
+              <unitid>120</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/57EC4361D3074DE5AF08BD3F0BC93A64</unitid>
+              <unittitle>Reglement voor het papegaaischieten, vastgesteld door het bestuur van schutterij St. Jan Baptist te Lithoijen, 1809 jun 24</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1809">1809 jun 24</unitdate>
+              <physdesc>1 katern</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330844">
+              <unitid type="guid">D60DAE5D1D944027A805D29BC2CA5D2C</unitid>
+              <unitid>121</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D60DAE5D1D944027A805D29BC2CA5D2C</unitid>
+              <unittitle>Akte waarbij paus Honorius II de St. Remigiusabdij te Reims onder zijn bescherming neemt en haar bevestigt in het bezit van al haar wettig verkregen goederen (waaronder Lithoijen); akte in latijn, authentiek afschrift, (1126 dec 14) 1612 jun 23</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1126/1612">(1126 dec 14) 1612 jun 23</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <scopecontent>
+              <p>Camps: Oorkondenboek Noord-Brabant, deel 1, nr. 37</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330845">
+              <unitid type="guid">5291CF0A0B544876AC55A97DEB279DAD</unitid>
+              <unitid>122</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5291CF0A0B544876AC55A97DEB279DAD</unitid>
+              <unittitle>Akte van vergunning door Hendrik II (van Leez), bisschop van Luik, aan de St. Remigiusabdij te Reims dat het personaat van de kerken die zij bezit, na het overlijden van de tegenwoordige bedienaars zal behoren aan de abdij; akte in latijn, authentiek afschrift, (1147 na 12 mei) 1612 jun 23</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1147/1612">(1147 na 12 mei) 1612 jun 23</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <scopecontent>
+              <p>Camps: Oorkondenboek Noord-Brabant, deel 1, nr. 50</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331272">
+              <unitid type="guid">4FC56F83491A49A6B6C839F52CD82BCE</unitid>
+              <unitid>123</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4FC56F83491A49A6B6C839F52CD82BCE</unitid>
+              <unittitle>Testament van Wouter Coolen te Lithoijen, 1769 jun 27</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1769">1769 jun 27</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331273">
+              <unitid type="guid">7A50E89DED904B2CBB7C5B607AA67400</unitid>
+              <unitid>124</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7A50E89DED904B2CBB7C5B607AA67400</unitid>
+              <unittitle>Testament van Jacobus Hoep en Gonda Cornelisse Swestereijn, echtelieden te Lithoijen, authentiek afschrift, 1747 dec 27</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1747">1747 dec 27</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331274">
+              <unitid type="guid">3229433A48E84916BBE98B570B2231E1</unitid>
+              <unitid>125</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3229433A48E84916BBE98B570B2231E1</unitid>
+              <unittitle>Testament van Bernardus Box te Lithoijen, authentiek afschrift, 1803 jun 6</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1803">1803 jun 6</unitdate>
+              <physdesc>1 katern</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331275">
+              <unitid type="guid">FCF6E82FDFF3483D855CA83723330DC9</unitid>
+              <unitid>126</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FCF6E82FDFF3483D855CA83723330DC9</unitid>
+              <unittitle>Testament van Johanna Biekens huisvrouw van Willem Baeijens, authentiek afschrift, 1786 jan 21</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1786">1786 jan 21</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331276">
+              <unitid type="guid">DBC743ECA8F24D6CABABD2DC130DABE7</unitid>
+              <unitid>127</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DBC743ECA8F24D6CABABD2DC130DABE7</unitid>
+              <unittitle>Akte van erfdeling tussen de erfgenamen en kinderen van Wouter Coolen en Maria Dirk Bernards te Lithoijen, authentiek afschrift , 1777 dec 31</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1777">1777 dec 31</unitdate>
+              <physdesc>1 katern</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331277">
+              <unitid type="guid">752FFF15013B44D7A8CAA8A36C1BF042</unitid>
+              <unitid>128</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/752FFF15013B44D7A8CAA8A36C1BF042</unitid>
+              <unittitle>Akte van erfdeling tussen Jan Rijnders van Teeffelen gehuwd met Johanna en Hermanus Baijens gehuwd met Anna Maria, dochters van Adriaan Ellingh en Geertruij de Bijl te Lith, authentiek afschrift, 1772 feb 15</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1772">1772 feb 15</unitdate>
+              <physdesc>1 katern</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331280">
+              <unitid type="guid">51659FC783E7440BAF5CFF7C28E49023</unitid>
+              <unitid>129</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/51659FC783E7440BAF5CFF7C28E49023</unitid>
+              <unittitle>Akte van erfdeling tussen de erfgenamen en kinderen van Neeske Claasse van Alem en Wouter Willems Clompmaker te Lith, 1748 jul 11</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1748">1748 jul 11</unitdate>
+              <physdesc>1 katern</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331278">
+              <unitid type="guid">69392A292D9B410CA040F9A65004BD72</unitid>
+              <unitid>130</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/69392A292D9B410CA040F9A65004BD72</unitid>
+              <unittitle>Akte van transport door Hendrik Bernard Crielen te Alphen aan Jacobus Hoep van 4 hond land in "Jans van Maggeren" te Lithoijen, authentiek afschrift , 1753 apr 24</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1753">1753 apr 24</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331279">
+              <unitid type="guid">188FE4EDAF1344C694C71C7376FDAD5D</unitid>
+              <unitid>131</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/188FE4EDAF1344C694C71C7376FDAD5D</unitid>
+              <unittitle>Akte van transport door Huijbert Bartels van Berghem te Oijen aan Aartje Jansse van de Leut van een halve morgen grond te Lithoijen, authentiek afschrift, 1744 dec 22</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1744">1744 dec 22</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331281">
+              <unitid type="guid">D713DFDD3E5847D8A52D421319FF3843</unitid>
+              <unitid>132</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D713DFDD3E5847D8A52D421319FF3843</unitid>
+              <unittitle>Akte van transport door de voogden van het kind van wijlen Wouter Coolen aan Nicolaas Coolen te Lithoijen van 5 hond land te Lith, 1783 feb 3</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1783">1783 feb 3</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331282">
+              <unitid type="guid">EE36869491D14F41915EB9CA26DF4BE3</unitid>
+              <unitid>133</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EE36869491D14F41915EB9CA26DF4BE3</unitid>
+              <unittitle>Akte van vernadering door Wouter Coolen van de verkoop door Baltus Gijsbert Baijens aan Jacobus Hoep van 3 hond land op den polard te lithoijen, 1759 mei 8</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1759">1759 mei 8</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331283">
+              <unitid type="guid">593C6B1AC8144FB2A33D622B015FD8EA</unitid>
+              <unitid>134</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/593C6B1AC8144FB2A33D622B015FD8EA</unitid>
+              <unittitle>Akte van procuratie van de geërfden en naburen van de heerlijkheid Lith voor Dielis Claes Coolen en Gijsbert Bock om een schuldbrief ter waarde van 900 gulden te verhandelen wegens ten tijde  van de campagne van 1705 geleden oorlogsschade   , 1706 feb 8</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1706">1706 feb 8</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331284">
+              <unitid type="guid">523EE1923B014D24AA0F52BFE92F1042</unitid>
+              <unitid>135</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/523EE1923B014D24AA0F52BFE92F1042</unitid>
+              <unittitle>Akte van taxatie door schepenen van de dorps- en dingbank Lithoijen op verzoek van Dirk Wouter Coolen inzake een door hem gekochte bouwval van een huis aan de Olijwijk , 1785 okt 22</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1785">1785 okt 22</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333606">
+              <unitid type="guid">25F1B70D94014446A7F1C8980A944F46</unitid>
+              <unitid>136</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/25F1B70D94014446A7F1C8980A944F46</unitid>
+              <unittitle>Akte van verpachting door armmeesters van Lithoijen van de armengoederen, onder conditie en voorwaarden, 1781 dec 4</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1781">1781 dec 4</unitdate>
+              <physdesc>1 katern</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333607">
+              <unitid type="guid">9BC1D76D0C424F2CA6C22E705201E940</unitid>
+              <unitid>137</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9BC1D76D0C424F2CA6C22E705201E940</unitid>
+              <unittitle>Staat en inventaris van de goederen van Willem Baijens, weduwnaar van Dirske van Mil, ten behoeve van hun kinderen Norbertus, Anna Maria, Meggel en Bernardus , 1782 sep 21</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1782">1782 sep 21</unitdate>
+              <physdesc>1 katern</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333608">
+              <unitid type="guid">8CAB61DE9E8D4B8F81D602761C2AE971</unitid>
+              <unitid>138</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8CAB61DE9E8D4B8F81D602761C2AE971</unitid>
+              <unittitle>Stukken betreffende financiën , 17e-19e eeuws</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1800/1970">17e-19e eeuws</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333609">
+              <unitid type="guid">5030398D396A4E5B8F010999DBE48A0B</unitid>
+              <unitid>139</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5030398D396A4E5B8F010999DBE48A0B</unitid>
+              <unittitle>Aantekening inzake beschrijving van de parochiekerk met altaren van Lithoijen, in latijn , 1616 jun 5</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1616">1616 jun 5</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF10330819">
+            <unitid type="guid">233CB741212843619136FFDC3162534C</unitid>
+            <unitid type="series_code"/>
+            <unittitle>CHARTERS,  44 stuks</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1800/1970"/>
+          </did>
+          <c03 level="file">
+            <did id="MF10330822">
+              <unitid type="guid">504FD26C839E45159B3E39A44D1EB164</unitid>
+              <unitid>140</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/504FD26C839E45159B3E39A44D1EB164</unitid>
+              <unittitle>Akte van overdracht door Theodericus Johanneszn van Bruheze en zijn vrouw Elisabeth dr.v.w. Marcilius van der Ee, weduwe van Emondus Albertuszn gezegd Buc van Lyt, aan Johannes van Beest z.v.w. Arnoldus gezegd Noytenzn van Lyt van in totaal 6 morgen land, nl. 3 morgen in de parochie van Groet-Lyt, (= Lith), alsook een veld van wijlen Willelmus van Beest, ook 3 morgen groot en gelegen in de parochie van Lyt in het Broeck, 1414 mei 16</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1414">1414 mei 16</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">VIII. L. 4</unitid>
+            </did>
+            <scopecontent>
+              <p>zie regest 1</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330823">
+              <unitid type="guid">86BF5F96A6D4483AB13CCD7B25B52331</unitid>
+              <unitid>141</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/86BF5F96A6D4483AB13CCD7B25B52331</unitid>
+              <unittitle>Akte van overdracht door Johannes van Beest z.v.w. Arnoldus Noytenzn van Lyt aan Rodolphus Berwout 3 morgen, alsook een veld van wijlen Willelmus van Beest, ook 3 morgen groot en gelegen in de parochie van Lyt in het Broeck&lt;br/&gt;, 1415 aug 22</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1415">1415 aug 22</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">VIII. L.  Met touwtje gehecht aan de akten van 13 nov. 1467 en 16 maart 1482 (reg. nrs.826 en 900).</unitid>
+            </did>
+            <scopecontent>
+              <p>zie regest 2</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330824">
+              <unitid type="guid">E57AC9993059491391326702EC6D2C2E</unitid>
+              <unitid>142</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E57AC9993059491391326702EC6D2C2E</unitid>
+              <unittitle>Testament van Oeda, weduwe van Bernardus Artszn, waarbij zij, na aftrek vooraf van de begraafkosten en schulden, vermaakt aan de kerk van S. Lambertus (te Luik) 2 kromstaart eenmalig; aan pastoor Petrus en zijn opvolgers, aan de kerkfabriek en aan de armen van Lithoijen 1 morgen land, door haar als weduwe verworven en gelegen achter in het Broeck, onder voorwaarden &lt;br/&gt;, 1436 mrt 20</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1436">1436 mrt 20</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">VIII. L. 2</unitid>
+            </did>
+            <scopecontent>
+              <p>zie regest 3</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331262">
+              <unitid type="guid">A36C838F6C624DCD843D3B806B6E415C</unitid>
+              <unitid>143</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A36C838F6C624DCD843D3B806B6E415C</unitid>
+              <unittitle>Akte van overdracht door Theodericus van Vyanen, man van Elisabeth, dr.v.w. Rodolphus Berwout, aan Theodericus van Os de helft van een veld van ca. 6 morgen, gelegen in de parochie van Groet-Lyth (= Lith) in het Litterbroeck, 1467 nov 13</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1467">1467 nov 13</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">VIII. L. 3</unitid>
+            </did>
+            <scopecontent>
+              <p>zie regest 4</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331263">
+              <unitid type="guid">D56C5DF3BD7E4B21BAE9E687836AFBD0</unitid>
+              <unitid>144</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D56C5DF3BD7E4B21BAE9E687836AFBD0</unitid>
+              <unittitle>Akte van overdracht door Henricus z.v.w. Theodericus van Os aan Franco van Langel ten behoeve van Deynaldus z.v.w. Deynaltszn van Vladeracken de helft van een veld van ca. 6 morgen in de parochie van Groet-Lyt (= Lith) in het Litterbroeck, 1482 mrt 15</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1482">1482 mrt 15</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">VIII. L. 3</unitid>
+            </did>
+            <scopecontent>
+              <p>zie regest 5</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331264">
+              <unitid type="guid">A412859EF48147418C7B0EF324EC1C23</unitid>
+              <unitid>145</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A412859EF48147418C7B0EF324EC1C23</unitid>
+              <unittitle>Akte van overdracht door Henricus z.v.w. Theodericus van Os zijn helft van een veld van ca. 6 morgen in de parochie van Groet-Lyt (= Lith) in het Lytterbroeck,  had overgedragen aan Franco van Langel ten behoeve van Deynaldus z.v.w. Henricus Deynaltszn van Vladeracken; met 18e eeuws afschrift op perkament &lt;br/&gt;, 1482 apr 12</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1482">1482 apr 12</unitdate>
+              <physdesc>1 charter en 1 stuk</physdesc>
+              <unitid type="obsolete">VIII. L. 4</unitid>
+            </did>
+            <scopecontent>
+              <p>zie regest 6</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331265">
+              <unitid type="guid">5180F54962F74036B82AE2DDB49409B3</unitid>
+              <unitid>146</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5180F54962F74036B82AE2DDB49409B3</unitid>
+              <unittitle>Akte van verklaring door Dirck van der Graft Reynerszn dat hij zich ten gunste van heer Gherit van Beest, priester en bedienaar van het O.L.Vrouwe-altaar in de kerk van Litoijen, heeft laten richten aan een huis, hof c.a. aldaar, geheten Opten Enge, wegens wanbetaling van een erftijns van 8 pond over 3 jaren, 1487 aug 10</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1487">1487 aug 10</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">VIII. L. 5</unitid>
+            </did>
+            <scopecontent>
+              <p>zie regest 7</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331266">
+              <unitid type="guid">8FE930DE5D66466C8181722D2ED5DB41</unitid>
+              <unitid>147</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8FE930DE5D66466C8181722D2ED5DB41</unitid>
+              <unittitle>Akte van overdracht door Jan van Beest aan heer Gherit van Beest, priester, van alle rechten, vervat in de akte van 10 aug.1487 (reg. nr.926), waardoor deze akte is gestoken, 1487 (tussen 10 aug. en 25 nov.)</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1487">1487 (tussen 10 aug. en 25 nov.)</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">VIII. L. 5</unitid>
+            </did>
+            <scopecontent>
+              <p>zie regest 8</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331267">
+              <unitid type="guid">189DCEC2460F45A2A7E39CA356582CF5</unitid>
+              <unitid>148</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/189DCEC2460F45A2A7E39CA356582CF5</unitid>
+              <unittitle>Akte van overdracht door heer Gherit van Beest met verlof van de officiaal van Luydíck aan Peter van Maren z.v.w. Peter van Maren van alle rechten vervat in de 2 akten van 10 aug.1487 en (tussen 10 aug. en 25 nov.) 1487 (reg. nrs.926, 927), waardoor deze akte is gestoken, 1487 nov 25</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1487">1487 nov 25</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">VIII. L. 5</unitid>
+            </did>
+            <scopecontent>
+              <p>zie regest 9</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333664">
+              <unitid type="guid">82FD3241EC3A487790A901ECD62D9E49</unitid>
+              <unitid>149</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/82FD3241EC3A487790A901ECD62D9E49</unitid>
+              <unittitle>Testament, verleden voor notaris Anthonius, zoon van Amelius van Orten, parochiepriester van Lithoijen, van Godfried, zoon van Jan Leent, koster van Lithoijen, waarin hij aan de kerk van Lithoijen verscheidene zaken legateert; in latijn, 1501 sep 27</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1501">1501 sep 27</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">VIII.L.1</unitid>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331268">
+              <unitid type="guid">4DF83B9716AB49EC9D56373B8BD9F01F</unitid>
+              <unitid>150</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4DF83B9716AB49EC9D56373B8BD9F01F</unitid>
+              <unittitle>Akte van erfdeling tussen Jan, Peter en Lambert, Heylwich, Eringart en Anna, kinderen van Peters van Maren Petersen en Jenneken Jan Eijckens van goederen te Lithoijen , 1524 jul 19</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1524">1524 jul 19</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">VIII.L.</unitid>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331269">
+              <unitid type="guid">965FDE9922DF443FBF790DDD7EB68DA5</unitid>
+              <unitid>151</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/965FDE9922DF443FBF790DDD7EB68DA5</unitid>
+              <unittitle>Akte van erfdeling tussen Jan Henricxssen, Zebert Arntssen, Dirck Hermans, man en voogd van Heijlken zijn huisvrouw en Agnees weduwe Heijmericx Arntssen van Cauwen tbv. haar kinderen van het hen nagelaten erfgoed van wijlen Lijsbetten Artsdochter van Cauwen, bestaande uit twee halve morgen land in Lithoijen.    , 1540 sep 27</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1540">1540 sep 27</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">VIII.L.</unitid>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10331270">
+              <unitid type="guid">10B6E417021A4C8B884FF793E53961F9</unitid>
+              <unitid>152</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/10B6E417021A4C8B884FF793E53961F9</unitid>
+              <unittitle>Akte van verkoop voor schepenen van ’s-Hertogenbosch door Everard, zoon van Matthias Everartss., als voogd van zijn vrouw Mechteld, dochter van Peter Willemsz. van Maren, aan Hendrik Lambert Arntss. van Uden ten behoeve van Jan Maartensz. van Elmpt van een erfpacht tarwe uit land in Kethelerskamp in Teeffelen en uit die Dystelweyde in Lithoijen; akte in latijn, 1545 nov 16</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1545">1545 nov 16</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">VIII. L.</unitid>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330825">
+              <unitid type="guid">B6ED71EC1F4B4C7C9C5AA5149891E4B7</unitid>
+              <unitid>153</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B6ED71EC1F4B4C7C9C5AA5149891E4B7</unitid>
+              <unittitle>Vidimus van schepenen van ’s Hertogenbosch van een akte voor schepenen van ’s-Hertogenbosch uit 1415 betreffende de overdracht van land in Groot-Lith aan Rodolf Berwout, 1598. Met retroacta, 1414-1482; akte in latijn, 1598 dec 9</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1598">1598 dec 9</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">VIII. L. 4</unitid>
+            </did>
+            <scopecontent>
+              <p>de retro-acta betreffen inventarisnummers 140, 145 en 145a</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330826">
+              <unitid type="guid">7371830C5DB545D980691FC6D1A3889C</unitid>
+              <unitid>154</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7371830C5DB545D980691FC6D1A3889C</unitid>
+              <unittitle>Akte van vergunning van de hertogen Albert en Isabella van Brabant voor de abdij van St. Remigius te Reims om de tienden van Lithoijen te verkopen aan de heer Johan van Dadenbergh, koopman te Meerssen (in het Frans opgesteld), 1611 nov 29</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1611">1611 nov 29</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333709">
+              <unitid type="guid">FF2CA9770E924F7A98CB4D9DA44E4663</unitid>
+              <unitid>155</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FF2CA9770E924F7A98CB4D9DA44E4663</unitid>
+              <unittitle>Notariële akte (in het Frans) waarin het voltallige convent van Sint Remigius te Reims goedkeuring verleent aan de verkoop in 1611 van goederen en rechten te Lithoijen, afkomstig van de proosdij van Meerssen, aan Jan Dadenberg te Meerssen, 1612 apr 25</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1612">1612 apr 25</unitdate>
+              <physdesc>1 katern</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330827">
+              <unitid type="guid">86CDFF047ED046298EA7E1DEFFAB5D38</unitid>
+              <unitid>156</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/86CDFF047ED046298EA7E1DEFFAB5D38</unitid>
+              <unittitle>Akte van vergunning, waarbij de verkoop van 1611 (zie invno 154) wordt bevestigd door heer Loijs van Lorraine, aartsbisschop en hertog van Reims in Frankrijk etc, in de Franse taal, 1612 mei 18</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1612">1612 mei 18</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330828">
+              <unitid type="guid">11D59B1F15514B05B0FB7DE1E4DD8CD6</unitid>
+              <unitid>157</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/11D59B1F15514B05B0FB7DE1E4DD8CD6</unitid>
+              <unittitle>Akte van verkoop door Johan van Dadenbergh, koopman te Meerssen in het land van Valkenburg aan Adriaan van Empel, zoon van wijlen mr. Goijarts van Empel, in leven secretaris van Den Bosch, van een erfelijke cijns van 140 Carolus gulden uit land en tienden van Lithoijen, met transcriptie, 1612 dec 24</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1612">1612 dec 24</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333710">
+              <unitid type="guid">0E33099FB68D40DB9BEA1DA915A2E229</unitid>
+              <unitid>158</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0E33099FB68D40DB9BEA1DA915A2E229</unitid>
+              <unittitle>Akte van verkoop door Johan van Dadenbergh aan koopman te Meerssen in het land van Valkenburg aan Adriaan van Empel, zoon van wijlen mr. Goijarts van Empel, in leven secretaris van Den Bosch, van een erfelijke cijns van 42 Carolus gulden uit land en tienden van Lithoijen, 1614 aug 7</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1614">1614 aug 7</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333711">
+              <unitid type="guid">BF4D473332024C3A80B28C6911EF445E</unitid>
+              <unitid>159</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BF4D473332024C3A80B28C6911EF445E</unitid>
+              <unittitle>Akte van verkoop door Johan van Dadenbergh aan koopman te Meerssen in het land van Valkenburg aan Adriaan van Empel, zoon van wijlen mr. Goijarts van Empel, in leven secretaris van Den Bosch, van een erfelijke cijns van 28 Carolus gulden uit land en tienden van Lithoijen, 1615 apr 6</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1615">1615 apr 6</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333712">
+              <unitid type="guid">D63D43D33B464E838270A1008C3DFB4A</unitid>
+              <unitid>160</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D63D43D33B464E838270A1008C3DFB4A</unitid>
+              <unittitle>Akte van verkoop door Johan van Dadenbergh aan koopman te Meerssen in het land van Valkenburg aan Seigneur Niclaes Olijslegers,schepen van het grafelijk gerecht en de munt van Maastricht, van een erfelijke cijns van 42 Carolus gulden uit land en tienden van Lithoijen, 1617 jun 27</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1617">1617 jun 27</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333713">
+              <unitid type="guid">9F0E96A714A841EC88BD43EA505B54AD</unitid>
+              <unitid>161</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9F0E96A714A841EC88BD43EA505B54AD</unitid>
+              <unittitle>Akte van verkoop door Johan van Dadenbergh aan koopman te Meerssen in het land van Valkenburg aan Seigneur Niclaes Olijslegers, burger en koopman te Maastricht, van een erfelijke cijns van 130 Carolus gulden uit land en tienden van Lithoijen, 1617 jun 27</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1617">1617 jun 27</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333714">
+              <unitid type="guid">E6E053D1B68D407EB729DAEC706C8870</unitid>
+              <unitid>162</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E6E053D1B68D407EB729DAEC706C8870</unitid>
+              <unittitle>Akte van verkoop door Henrick Snijders, schoonzoon en gemachtigde van Johan van Dadenburch, te Sittard aan Adam Driessen, drossaard te Lindth, van de helft van de landen, tienden en beemden van Lithoijen  , 1619 okt 25</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1619">1619 okt 25</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333715">
+              <unitid type="guid">A393B7B0C4B4400B9AC819521DA83A7A</unitid>
+              <unitid>163</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A393B7B0C4B4400B9AC819521DA83A7A</unitid>
+              <unittitle>Akte van verkoop door Johan van Dadenbergh, koopman te Meerssen in het land van Valkenburg aan Adriaan van Empel, zoon van wijlen mr. Goijarts van Empel, in leven secretaris van Den Bosch, van een erfelijke cijns van 10 en een halve Carolus gulden uit land en tienden van Lithoijen, 1620 okt 3</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1620">1620 okt 3</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333716">
+              <unitid type="guid">21086665B98142FD93737562FAF6D090</unitid>
+              <unitid>164</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/21086665B98142FD93737562FAF6D090</unitid>
+              <unittitle>Akte van verkoop door Goosken weduwe van Jans zoon van Henricx Willemssz. cs. aan pastoor Nicolaessen Havens in Lithoijen van een huis, hof etc. gelegen aan het Kerkeind aan het Mortelhecken te Lithoijen, 1622 sep 23</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1622">1622 sep 23</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333717">
+              <unitid type="guid">3B4D77DA53F142E697AD1EA1A295F577</unitid>
+              <unitid>165</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3B4D77DA53F142E697AD1EA1A295F577</unitid>
+              <unittitle>Vonnis van de Raad van Brabant te Brussel uitgesproken in de zaak van Adriaan van Empel contra Jan Olieslagers betreffende de tiende van Lithoijen, 1624 juli 19</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1624">1624 juli 19</unitdate>
+              <physdesc>1 katern</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333718">
+              <unitid type="guid">1090499BAF664F1AB9A3D8E6F22E0B63</unitid>
+              <unitid>166</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1090499BAF664F1AB9A3D8E6F22E0B63</unitid>
+              <unittitle>Akte van schuldbekentenis door Johan van Dadenbergh aan zijn schoonzoon Andries Daemen van een som van 2600 gulden gaande uit land en tiende van Lithoijen dewelke hij elk jaar op Sint Nicolaasdag af zal lossen, 1625 dec 9</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1625">1625 dec 9</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333719">
+              <unitid type="guid">2D2DAFADFD9449A0869316DCF310A2C3</unitid>
+              <unitid>167</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2D2DAFADFD9449A0869316DCF310A2C3</unitid>
+              <unittitle>Schuldbekentenis door Adam Driessen, drossaard te Leuth, voor de schepenbank van Luik aan seigneur Nicolaes Olijslaeghers, inzake een lening van 8000 florijnen, waarbij hij de helft van de landen, tienden en beemden van Lithoijen, zoals hij dat in 1619 heeft verkregen van Dadenburch, overdraagt aan Artus van Asperen en Gerard van der Velde, schepenen van Den Bosch, in het Frans, 1626 sep 22</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1626">1626 sep 22</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333720">
+              <unitid type="guid">3287D34D2F034D01B74D6BC7343BE595</unitid>
+              <unitid>168</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3287D34D2F034D01B74D6BC7343BE595</unitid>
+              <unittitle>Akte van transport door de kinderen van Jan van Dadenberch aan jonker Dierck van den Water van een jaarlijkse erfelijke cijns van 72 Carolus gulden (te betalen op Sint Nicolaas) uit land en tiende van Lithoijen in het kwartier Maasland, 1626 nov 6</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1626">1626 nov 6</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333721">
+              <unitid type="guid">10ACEFBFCB6A4770BF08CCF56AA0AD3B</unitid>
+              <unitid>169</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/10ACEFBFCB6A4770BF08CCF56AA0AD3B</unitid>
+              <unittitle>AKte van transport door de kinderen van Jan van Dadenberch aan jonker Dierck van den Water van een jaarlijkse erfelijke cijns van 36 Carolus gulden (te betalen met Pasen) uit land en tiende van Lithoijen in het kwartier Maasland, 1627 apr 2</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1627">1627 apr 2</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330829">
+              <unitid type="guid">40E067B5584B4CCA8142BF881AF3E059</unitid>
+              <unitid>170</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/40E067B5584B4CCA8142BF881AF3E059</unitid>
+              <unittitle>Akte van transport door de erfgenamen en kinderen van Johan van Dadenberch, van de helft van de tienden en landen te Lithoijen aan mr Arnout van Broechoven, licentiaat in de rechten en schepen van Den Bosch, 1628 aug 26</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1628">1628 aug 26</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333696">
+              <unitid type="guid">8910EF439782475995FCE38BFDF868F3</unitid>
+              <unitid>171</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8910EF439782475995FCE38BFDF868F3</unitid>
+              <unittitle>Akte waarbij Gerberga, koningin der Franken, aan de St. Remigiusabdij te Reims in 968 haar allodium Meerssen in de Maasgouw schenkt met alles wat er toe behoort (waaronder Lithoijen); in latijn; &lt;br/&gt;afschrift in vidimus door schepenen van Den Bosch, 1628 aug 28</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1628">1628 aug 28</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">zie inv.nr. 117</unitid>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333652">
+              <unitid type="guid">373C98414F4B4EC986BFA45D6999B65F</unitid>
+              <unitid>172</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/373C98414F4B4EC986BFA45D6999B65F</unitid>
+              <unittitle>Akte van transport door Arndt van Empel, priester en deken van het kapittel van St. Geertruidenberg en kanunnik van St. Jan Evangelist te Den Bosch alsmede zoon van Adriaen van Empel, aan mr. Arnout van Broechoven, licentiaat in de rechten en raadsheer van Den Bosch, van een erfcijns van 28 Carolus gulden uit de landen en tienden van Lithoijen, de welke hem zijn toegewezen uit de erfdeling van zijn ouders , 1629 apr 23</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1629">1629 apr 23</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333727">
+              <unitid type="guid">35F978E3CF4846AFA3D189A5DA8AE3D3</unitid>
+              <unitid>173</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/35F978E3CF4846AFA3D189A5DA8AE3D3</unitid>
+              <unittitle>Akte van transport door Arndt van Empel, priester en deken van het kapittel van St. Geertruidenberg en kanunnik van St. Jan Evangelist te Den Bosch alsmede zoon van Adriaen van Empel, aan mr. Arnout van Broechoven, licentiaat in de rechten en raadsheer van Den Bosch, van een erfcijns van 42 Carolus gulden uit de landen en tienden van Lithoijen, de welke hem zijn toegewezen uit de erfdeling van zijn ouders , 1629 apr 23</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1629">1629 apr 23</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333728">
+              <unitid type="guid">1EC051F260D043E4AFC692227E55F704</unitid>
+              <unitid>174</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1EC051F260D043E4AFC692227E55F704</unitid>
+              <unittitle>Akte van transport door Arndt van Empel, priester en deken van het kapittel van St. Geertruidenberg en kanunnik van St. Jan Evangelist te Den Bosch alsmede zoon van Adriaen van Empel, aan mr. Arnout van Broechoven, licentiaat in de rechten en raadsheer van Den Bosch, van een erfcijns van 10 en een halve Carolus gulden uit de landen en tienden van Lithoijen, de welke hem zijn toegewezen uit de erfdeling van zijn ouders , 1629 apr 23</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1629">1629 apr 23</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333729">
+              <unitid type="guid">684C8A88BB6944D3B2A41B059FB168DC</unitid>
+              <unitid>175</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/684C8A88BB6944D3B2A41B059FB168DC</unitid>
+              <unittitle>Akte van transport door Elisabeth van Empel, dochter van Adriaen van Empel, aan mr. Arnout van Broechoven, licentiaat in de rechten en raadsheer van Den Bosch, van een erfcijns van 140 Carolus gulden uit de landen en tienden van Lithoijen, de welke haar zijn toegewezen uit de erfdeling van haar ouders , 1630 mrt 2</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1630">1630 mrt 2</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333730">
+              <unitid type="guid">A3D448FD75694162BBECDBCA652D4D8B</unitid>
+              <unitid>176</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A3D448FD75694162BBECDBCA652D4D8B</unitid>
+              <unittitle>Akte van transport door seigneur Nicolaes Olijslaegers, schout en rentmeester van de proosdij van Meerssen, aan mr. Arnout van Broechoven, licentiaat in de rechten en raadsheer van Den Bosch, van een erfcijns van 156 Carolus gulden uit de landen en tienden van Lithoijen, 1634 apr 4</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1634">1634 apr 4</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333731">
+              <unitid type="guid">C3F6C29CA7AE4007AFAC2B5A2F9CBD86</unitid>
+              <unitid>177</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C3F6C29CA7AE4007AFAC2B5A2F9CBD86</unitid>
+              <unittitle>Akte van transport door seigneur Nicolaes Olijslaegers, schout en rentmeester van de proosdij van Meerssen, aan mr. Arnout van Broechoven, licentiaat in de rechten en raadsheer van Den Bosch, van een erfcijns van 133 Carolus gulden uit de landen en tienden van Lithoijen, 1634 apr 13</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1634">1634 apr 13</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333653">
+              <unitid type="guid">5A737DC1E5EB4917BFA47C4E2ED99E15</unitid>
+              <unitid>178</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5A737DC1E5EB4917BFA47C4E2ED99E15</unitid>
+              <unittitle>Akte van transport door mr. Arnout van Broechoven, licentiaat in de rechten en oud raadsheer van Den Bosch, aan mr. Jacob van der Cammen, ook licentiaat in de rechten en oud raad en rentmeester van Den Bosch, van een erfcijns van 28 Carolus gulden gaan de uit de landen en tienden van proosdij van Meerssen te Lithoijen, 1636 apr 19</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1636">1636 apr 19</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333654">
+              <unitid type="guid">D7D05DE3EA69433DA40E2D083BC947E0</unitid>
+              <unitid>179</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D7D05DE3EA69433DA40E2D083BC947E0</unitid>
+              <unittitle>Akte van transport door mr. Arnout van Broechoven, licentiaat in de rechten en oud raadsheer van Den Bosch, aan mr. Jacob van der Cammen, ook licentiaat in de rechten en oud raad en rentmeester van Den Bosch, van een erfcijns van 28 Carolus gulden gaan de uit de landen en tienden van proosdij van Meerssen te Lithoijen, 1636 apr 19</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1636">1636 apr 19</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333655">
+              <unitid type="guid">94CA822C539442E6B8ABE7FBC1E609F7</unitid>
+              <unitid>180</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/94CA822C539442E6B8ABE7FBC1E609F7</unitid>
+              <unittitle>Akte van transport door mr. Arnout van Broechoven, licentiaat in de rechten en oud raadsheer van Den Bosch, aan mr. Jacob van der Cammen, ook licentiaat in de rechten en oud raad en rentmeester van Den Bosch, van een erfcijns van 42 Carolus gulden gaan de uit de landen en tienden van proosdij van Meerssen te Lithoijen, 1636 apr 19</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1636">1636 apr 19</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333656">
+              <unitid type="guid">748423E6576A437CBFD9C9B39E25370B</unitid>
+              <unitid>181</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/748423E6576A437CBFD9C9B39E25370B</unitid>
+              <unittitle>Akte van transport door de kinderen van jonker Rogier zoon van Arnout van Broechoven, aan Peter Karmans te Vught van de gerechte helft van de groot en kleine of smalle tiend alsmede zekere landerijen te Lithoijen  , 1680 nov 27</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1680">1680 nov 27</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10333657">
+              <unitid type="guid">DC5211766E284BADA83CDC6BD25539D4</unitid>
+              <unitid>182</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DC5211766E284BADA83CDC6BD25539D4</unitid>
+              <unittitle>Akte van transport door Peter Gerrits van Lendt, als gemachtigde van de schepenbank van Lithoijen, aan zijn zwager Jacobus Hoepen, van twee hont land bepoot met vruchtbomen, gelegen "op den heuvel" , 1727 apr 18</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1727">1727 apr 18</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF10330575">
+            <unitid type="guid">97D4243496364533A3E86C0736B8D197</unitid>
+            <unitid type="series_code"/>
+            <unittitle>BEZIT VAN DE ABDIJ: DE HELFT VAN DE TIENDEN VAN LITHOIJEN EN DIVERSE LANDERIJEN</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1800/1970"/>
+          </did>
+          <c03 level="file">
+            <did id="MF10330665">
+              <unitid type="guid">99F4624635CB41DD84F08C18E72169A4</unitid>
+              <unitid>106</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/99F4624635CB41DD84F08C18E72169A4</unitid>
+              <unittitle>Stukken betreffende de aankoop door Arnout van Broeckhoven van de helft van de tienden van Lithoijen alsmede diverse landerijen aldaar op 28 aug. 1628  van de proosdij van Meersen voor 22.600 gulden; met retro-acta &lt;br/&gt;, 1600 - 1624, 1628</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1600/1628">1600 - 1624, 1628</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330781">
+              <unitid type="guid">C622C59099A64E319067AA90FF4A4D18</unitid>
+              <unitid>107</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C622C59099A64E319067AA90FF4A4D18</unitid>
+              <unittitle>Stukken betreffende verpachting en beheer van de Lithoijense tiend en landerijen  , 1632-1641, 1668</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1632/1668">1632-1641, 1668</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330666">
+              <unitid type="guid">E9D8366FA38F4C45A7AE6B6A368053EA</unitid>
+              <unitid>108</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E9D8366FA38F4C45A7AE6B6A368053EA</unitid>
+              <unittitle>Stukken betreffende het beheer en verpachting van de Lithoijense goederen door de heer Pieter Karsmans te Vught voor de abdij, 1680 - c 1712</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1680/1712">1680 - c 1712</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330803">
+              <unitid type="guid">B8A2048D9B5A42109A5C77C17064BD22</unitid>
+              <unitid>109</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B8A2048D9B5A42109A5C77C17064BD22</unitid>
+              <unittitle>Stukken betreffende het proces van de heer Pieter Karremans te Vught, zaakwaarnemer voor de abt van Berne contra Anna Maria Snijders weduwe van Johan Morra, 1704-1705</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1704/1705">1704-1705</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330776">
+              <unitid type="guid">67DA529196EF4BEC80C84C5D8A3F2990</unitid>
+              <unitid>110</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/67DA529196EF4BEC80C84C5D8A3F2990</unitid>
+              <unittitle>Stukken betreffende het proces van de heer Gijsbert Caarsmans contra de abt van Berne inzake de Lithoijense tiend en landerijen, 1716-1730</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1716/1730">1716-1730</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330667">
+              <unitid type="guid">862693CB9A4E42B5B0EEBB035BAC0AD8</unitid>
+              <unitid>111</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/862693CB9A4E42B5B0EEBB035BAC0AD8</unitid>
+              <unittitle>Stukken betreffende het proces tussen de abdij van Berne en de ontvangergeneraal van de kerkelijke goederen en de Raad van Brabant, alsmede het verdrag  inzake de helft van de tienden en diverse landerijen te Lithoijen, met diverse retro-acta, 1719-1728</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1719/1728">1719-1728</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330668">
+              <unitid type="guid">86202860E6044445B9BB47350E1B65B2</unitid>
+              <unitid>112</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/86202860E6044445B9BB47350E1B65B2</unitid>
+              <unittitle>Stukken betreffende het financiële beheer en de verpachting van de tienden en landerijen te Lithoijen, 1742-1819</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1742/1819">1742-1819</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF10330777">
+              <unitid type="guid">363BF3BB9E22444FA1C63335FEA732ED</unitid>
+              <unitid>113</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/363BF3BB9E22444FA1C63335FEA732ED</unitid>
+              <unittitle>Stukken betreffende de tienden en de tiendcommissie, (1654) 1842-1913</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1654/1913">(1654) 1842-1913</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <scopecontent>
+              <p>de Lithoijense tienden van de abdij zijn weergegeven met kadastrale aanduidingen</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03>
+            <did id="MF10330669">
+              <unitid type="guid">FB6D32A8E57A4EA8AC458E9C2CB395F7</unitid>
+            </did>
+            <dsc type="othertype">
+              <p>Op 28 augustus 1628 heeft de abdij een aantal goederen en de helft van de tienden te Lithoijen gekocht, doch deze uit veiligheidsoverwegingen op naam van de Bossche advocaat en schepen mr. Arnoud van Broeckhoven, een broer van de kanunnik Nicolaas, laten zetten. Ze bleven daardoor buiten de confiscatie van 1648; men bleef er bijgevolg ook aanmerkelijke inkomsten uit trekken. &lt;br/&gt;Vanaf 1680 werden deze goederen administratief beheerd door de heer Pieter Carsmans en zijn zoon Gijsbert.&lt;br/&gt;Dit ging goed totdat de heer Johan Slicher, ontvangergeneraal van de kerkelijke goederen van Holland, in 1719 dit achterhaalde en aanhangig maakte. Nadat een overeenkomst met de heer Carsmans was afgesprongen werd een verdrag gesloten met de abt.  &lt;br/&gt;Ingevolge een verbaal gehouden voor commissarissen uit de Raad van Brabant met de heer Slicher en de abt van Berne is toen overeengekomen de goederen opnieuw te verwerven. Daarvoor moest wel een bedrag van 6.500 gulden met de overdrachtskosten worden betaald aan het kerkelijk comptoir. Bovendien moesten alle relevante documenten worden overlegd.&lt;br/&gt;In die zelfde periode ontstond een proces tussen Gijsbert Carsmans en de abdij dat tot 1726 voortduurde, omdat de jaarlijkse afrekeningen sinds 1716 niet meer plaats vonden. &lt;br/&gt;De stukken betreffende de kwesties over de landerijen en de halve tiend van Lithoijen in het onderhavig archief zijn aanzienlijk. Er is veel en vaak over geprocedeerd. &lt;br/&gt;In deze rubriek is getracht de stukken enigszins in tijdperken in te delen.&lt;br/&gt;NB.&lt;br/&gt;Praktisch alle charters welke zijn aangetroffen bij dit archiefdeel betreffen koop en verkoop van de landerijen en gerechte helft van de tienden van Lithoijen of gedeelten daarvan en cijnzen daarover en horen dus eigenlijk ook tot deze rubriek.</p>
+            </dsc>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF9994448">
+          <unitid type="guid">80B8590085694BEE9BCB3FA5183E1AE5</unitid>
+          <unitid type="series_code"/>
+          <unittitle>DOCUMENTATIE</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1800/1970"/>
+        </did>
+        <c02 level="file">
+          <did id="MF9994449">
+            <unitid type="guid">05507771FF294CEC98A6825FDB848195</unitid>
+            <unitid>100</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/05507771FF294CEC98A6825FDB848195</unitid>
+            <unittitle>Graduale ad usum Canonici Praemonstratensis Ordinis, latijns gregoriaans&lt;br/&gt; zangboek van de Norbertijnen, 1910&lt;br/&gt;, 1910</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1910">1910</unitdate>
+            <physdesc>2 delen</physdesc>
+          </did>
+          <scopecontent>
+            <p>Dubbelexemplaren</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994450">
+            <unitid type="guid">0318FB50D0D84116BBF4228140FC3FF4</unitid>
+            <unitid>101</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0318FB50D0D84116BBF4228140FC3FF4</unitid>
+            <unittitle>Missae Defunctorum, latijnse gebedenboeken bij uitvaartmissen, 1900, 1934</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1900/1934">1900, 1934</unitdate>
+            <physdesc>3 delen</physdesc>
+          </did>
+          <scopecontent>
+            <p>Dubbelexemplaren zijn in 1934 gedrukt</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994451">
+            <unitid type="guid">2F8E42C42A93472B876B9E94CC51CF97</unitid>
+            <unitid>102</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2F8E42C42A93472B876B9E94CC51CF97</unitid>
+            <unittitle>Excerpta aliquot ex rituali et missali romano, excerpt van het rituaal en missaal, 1887</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1887">1887</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994452">
+            <unitid type="guid">91ABC38950A84058B02F90BFFA35893E</unitid>
+            <unitid>103</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/91ABC38950A84058B02F90BFFA35893E</unitid>
+            <unittitle>Ordo hebdomadae sanctae instauratus, zang- gebedenboek &lt;br/&gt;, 1956</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1956">1956</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994453">
+            <unitid type="guid">4592A8CA175A4269BB28C0B63641CB93</unitid>
+            <unitid>104</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4592A8CA175A4269BB28C0B63641CB93</unitid>
+            <unittitle>Rituale romanum, rituaal waarin teksten en ceremoniën voor het&lt;br/&gt;toedienen van de sacramenten en andere priesterlijke bedieningen vervat zijn&lt;br/&gt;, 1859</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1859">1859</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF9994454">
+            <unitid type="guid">B802495C9D3C4101920E9D55E68F4D0C</unitid>
+            <unitid>105</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B802495C9D3C4101920E9D55E68F4D0C</unitid>
+            <unittitle>Ordinarium Missae, zangboek voor vastgestelde onderdelen van een liturgische plechtigheid&lt;br/&gt;, z.j.</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1800/1970">z.j.</unitdate>
+            <physdesc>1 deel</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_7332/74A37C1A4FF94DF5B2AC352CCFF4E2CF_oai_ead.xml-->
+</record>

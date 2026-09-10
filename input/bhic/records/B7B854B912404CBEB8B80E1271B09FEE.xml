@@ -1,0 +1,1650 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>B7B854B912404CBEB8B80E1271B09FEE</identifier>
+    <datestamp>2026-09-02</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HtBHIC">1723</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Collectie Coebergh, 1295-1737. NB: Alleen de charters zijn beschreven. NB: De rest van deze collectie is niet geïnventariseerd en wordt wegens het documentatiekarakter (bidprentjes etc) ook niet meer geïnventariseerd.</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+        <date calendar="gregorian" era="ce" normal="2022">2022</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF10627224">
+      <unittitle>Collectie Coebergh, 1295-1737. NB: Alleen de charters zijn beschreven. NB: De rest van deze collectie is niet geïnventariseerd en wordt wegens het documentatiekarakter (bidprentjes etc) ook niet meer geïnventariseerd.</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-HtBHIC">1723</unitid>
+      <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B7B854B912404CBEB8B80E1271B09FEE</unitid>
+      <unitdate calendar="gregorian" era="ce" normal="1295/1737">1295-1737</unitdate>
+      <note label="Vindplaats origineel">
+        <p>BHIC 's-Hertogenbosch</p>
+      </note>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Families en Personen</subject>
+        <subject>Verzamelingen</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd>
+      <odd>
+        <head>Inleiding</head>
+        <p>De familie Coebergh kan via de stukken van onderhavige collectie sinds de 14de eeuw worden gesignaleerd in de stad Grave. De Graafse tak van de 17e en 18e eeuw is beschreven door L. v M. in een artikel in Taxandria jaargang 1921, p. 244-246.
+          <lb/>De Stichting Familiekring Coebergh is opgericht in juli 1944
+          <lb/>
+        </p>
+        <odd>
+          <head>Regest</head>
+          <odd type="regest">
+            <head>1295 november 15 (Datum anno Domini Mo CCo XCo quinto, feria tercia post Martini hyemalis).
+              <lb/> Schepenen van Grave oorkonden dat Gerard, zoon van Brustijn, verkoopt aan heer Gijsbert, priester, ten behoeve van zijn kinderen een jaarlijkse erfcijns van zeven schelling minus vier penning, gevestigd op zijn hele erfgoed naast het kerkhof (te Grave).
+              <lb/>Origineel
+              <lb/>A. Grave, BHIC, toegangsnr. 1723, Collectie Coebergh, charter ad datum 1295.
+              <lb/>
+              <lb/>Aantekening op de achterzijde: 1o door 14e-eeuwse hand: Gerardus [***]. – 2o door 16e-eeuwse hand: Huysingen.
+              <lb/>
+              <lb/>Bezegeling: S1 uithangend bevestigd zegel van Willem Albus, schepen van Grave, randschrift licht beschadigd, van groene was. – S2 uithangend bevestigd zegel van Gijsbert, zoon van Rutger, schepen van Grave, randschrift beschadigd, van groene was.
+              <lb/>
+            </head>
+            <p/>
+          </odd>
+        </odd>
+      </odd>
+    </odd>
+    <dsc type="combined">
+      <c01 level="series">
+        <did id="MF12287850">
+          <unitid type="guid">A2B161D025694147B2D79DC1A6597E2D</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Voorlopige inventaris van charters</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1295/1737"/>
+        </did>
+        <scopecontent>
+          <p>Let op: Beschrijvingen zijn nog niet klaar!!</p>
+        </scopecontent>
+        <c02 level="file">
+          <did id="MF12287887">
+            <unitid type="guid">397158F95D444633AAC5653E6B80969A</unitid>
+            <unitid>1</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/397158F95D444633AAC5653E6B80969A</unitid>
+            <unittitle>Akte in latijn, waarbij schepenen van Grave oorkonden dat Gerard, zoon van Brustijn aan heer Gijsbert, priester, verkoopt  ten behoeve van zijn kinderen:  een jaarlijkse erfcijns van zeven schelling minus vier penning, gevestigd op zijn hele erfgoed naast het kerkhof (te Grave).&lt;br/&gt;Transcriptie overgenomen uit Oorkondenboek van G. van Synghel:&lt;br/&gt; Universisa presentes litteras visuris et audituris Willelmus Albus et Ghiselbertus, filius Rutgheri, scabini in Grauia, salutem cum agnitione veritatis.&lt;br/&gt;Noveritis quod Gerardus, filius Brusteni, coram nobis et aliis constitutus fidedignis legitime vendidit ad hereditatem suam totam, sitam iuxta cymiterium retro hereditatem Fyssie de Keynt, domino Ghiselberto, sacerdoti, presentium conservatori, ad opus puerorum suorum annuum et hereditarium censum septem solidorum parvorum denariorum legalium et bonorum quatuor denariis minus, anno quolibet in die beati Remigii dicto domino Ghiselberto ad opus puerorum suorum, ut predictum est, de dicta hereditate perpetuo solvendum eo iure penitus quo annui et hereditarii census domini de Kuyc in eodem opido de Grauia sunt solvendi. Et hec prescripta dictus Gerardus dicto domino Ghiselberto rite stabilivit et firmavit omni stabilitate et iure quibus talia solent stabiliri et firmari, presentium nostrarum testimonio litterarum.&lt;br/&gt;&lt;br/&gt;Datum anno Domini Mo CCo XCo quinto, feria tercia post Martini hyemalis.&lt;br/&gt;&lt;br/&gt;Aantekening op de achterzijde: 1o door 14e-eeuwse hand: Gerardus [***]. – 2o door 16e-eeuwse hand: Huysingen.&lt;br/&gt;&lt;br/&gt;Bezegeling: S1 uithangend bevestigd zegel van Willem Albus, schepen van Grave, randschrift licht beschadigd, van groene was. – S2 uithangend bevestigd zegel van Gijsbert, zoon van Rutger, schepen van Grave, randschrift beschadigd, van groene was, 15 nov 1295</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1295">15 nov 1295</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 1124</unitid>
+          </did>
+          <scopecontent>
+            <p>Was vroeger in het bezit van het Sint-Catharinagasthuis in Grave als oorkonde nr. 1124. Zie ook: Oorkondenboek van Noord-Brabant door dr. G. Van Synghel. nr. 1295.11.15</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte in latijn, waarbij schepenen van Grave oorkonden dat Gerard, zoon van Brustijn aan heer Gijsbert, priester, verkoopt  ten behoeve van zijn kinderen:  een jaarlijkse erfcijns van zeven schelling minus vier penning, gevestigd op zijn hele erfgoed naast het kerkhof (te Grave).&lt;br/&gt;Transcriptie overgenomen uit Oorkondenboek van G. van Synghel:&lt;br/&gt; Universisa presentes litteras visuris et audituris Willelmus Albus et Ghiselbertus, filius Rutgheri, scabini in Grauia, salutem cum agnitione veritatis.&lt;br/&gt;Noveritis quod Gerardus, filius Brusteni, coram nobis et aliis constitutus fidedignis legitime vendidit ad hereditatem suam totam, sitam iuxta cymiterium retro hereditatem Fyssie de Keynt, domino Ghiselberto, sacerdoti, presentium conservatori, ad opus puerorum suorum annuum et hereditarium censum septem solidorum parvorum denariorum legalium et bonorum quatuor denariis minus, anno quolibet in die beati Remigii dicto domino Ghiselberto ad opus puerorum suorum, ut predictum est, de dicta hereditate perpetuo solvendum eo iure penitus quo annui et hereditarii census domini de Kuyc in eodem opido de Grauia sunt solvendi. Et hec prescripta dictus Gerardus dicto domino Ghiselberto rite stabilivit et firmavit omni stabilitate et iure quibus talia solent stabiliri et firmari, presentium nostrarum testimonio litterarum.&lt;br/&gt;&lt;br/&gt;Datum anno Domini Mo CCo XCo quinto, feria tercia post Martini hyemalis.&lt;br/&gt;&lt;br/&gt;Aantekening op de achterzijde: 1o door 14e-eeuwse hand: Gerardus [***]. – 2o door 16e-eeuwse hand: Huysingen.&lt;br/&gt;&lt;br/&gt;Bezegeling: S1 uithangend bevestigd zegel van Willem Albus, schepen van Grave, randschrift licht beschadigd, van groene was. – S2 uithangend bevestigd zegel van Gijsbert, zoon van Rutger, schepen van Grave, randschrift beschadigd, van groene was, 15 nov 1295</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/397158F95D444633AAC5653E6B80969A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287895">
+            <unitid type="guid">1880D7899C5E491BBAE40B33B24F045D</unitid>
+            <unitid>2</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1880D7899C5E491BBAE40B33B24F045D</unitid>
+            <unittitle>Akte waarbij Arnoldus Lauwart en Wilhelmus Nauta, schepenen in Grave, oorkonden dat Zewekinus Sartor vijf stukken land in Audewijt overgedragen heeft aan Johannes zoon van Arnoldus Blome.&lt;br/&gt;Akte in Latijn, twee afhangende zegels, 29 dec 1326 crastina sanctorum innocentum</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1326">29 dec 1326 crastina sanctorum innocentum</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <scopecontent>
+            <p>Bij de datering is Nieuwjaarstijl verondersteld.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Arnoldus Lauwart en Wilhelmus Nauta, schepenen in Grave, oorkonden dat Zewekinus Sartor vijf stukken land in Audewijt overgedragen heeft aan Johannes zoon van Arnoldus Blome.&lt;br/&gt;Akte in Latijn, twee afhangende zegels, 29 dec 1326 crastina sanctorum innocentum</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1880D7899C5E491BBAE40B33B24F045D" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287867">
+            <unitid type="guid">491F71A639964D26BFC1CDD957151684</unitid>
+            <unitid>3</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/491F71A639964D26BFC1CDD957151684</unitid>
+            <unittitle>Akte waarbij Johannes zoon van Liedekina en Inwanus Wermer, schepenen van Grave, oorkonden dat Heinricus zoon van Franco, vroeger schoenmaker, en zijn vrouw Meghteldis hebben overgedragen aan Albertus, procurator van het gasthuis in Grave, een erfrente uit hun huis en erf,&lt;br/&gt;akte in latijn; twee afhangende schepenzegels, 3 sep 1340 (xxx quadragesimo)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1340">3 sep 1340 (xxx quadragesimo)</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 207</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Johannes zoon van Liedekina en Inwanus Wermer, schepenen van Grave, oorkonden dat Heinricus zoon van Franco, vroeger schoenmaker, en zijn vrouw Meghteldis hebben overgedragen aan Albertus, procurator van het gasthuis in Grave, een erfrente uit hun huis en erf,&lt;br/&gt;akte in latijn; twee afhangende schepenzegels, 3 sep 1340 (xxx quadragesimo)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/491F71A639964D26BFC1CDD957151684" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287852">
+            <unitid type="guid">010F1B4E8B4F4F7FBD3AC323F45B1979</unitid>
+            <unitid>4</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/010F1B4E8B4F4F7FBD3AC323F45B1979</unitid>
+            <unittitle>Akten in transfix&lt;br/&gt;1403-03-31&lt;br/&gt;Notaris Henricus Cuper de Oesterwijc, priester, instrumenteert dat Henricus Myerlaer zijn testament maakt waarbij hij legateert aan de wettige kinderen van Matheus van den Laer en diens vrouw Sophya 5 malder rogge en 4 vaatzaad raapzaad uit goederen in Mill onder bepaalde voorwaarden. Gedaan te Grave in het huis van de notaris met als getuigen Johannes zoon van Daniel de Kuyc, kanunnik van Sint-Elizabeth te Grave, Wilhelmus de Os en Johannes zoon van Rutgherus, akte in latijn&lt;br/&gt;mrt 1343&lt;br/&gt; &lt;br/&gt;des anderen dages in der maent van apr 1405&lt;br/&gt;Akte waarbij Willem Passart en Jacob Coberge, schepenen van Grave, oorkonden dat Hermric van Overlair heeft gelooft (onder recht van wederkoop) aan Matheus Badensoen en zijn vrouw Ffyen en hun beide kinderen volgens inhoud van bijgaande getransfigeerde akte, een jaarlijkse erfrente van 5 mud rogge en een half mud raapzaad; met twee afhangende zegels&lt;br/&gt;, mrt 1343, des anderen dages in der maent van apr 1405 (1 mei?)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1343/1405">mrt 1343, des anderen dages in der maent van apr 1405 (1 mei?)</unitdate>
+            <physdesc>2 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh 442</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten in transfix&lt;br/&gt;1403-03-31&lt;br/&gt;Notaris Henricus Cuper de Oesterwijc, priester, instrumenteert dat Henricus Myerlaer zijn testament maakt waarbij hij legateert aan de wettige kinderen van Matheus van den Laer en diens vrouw Sophya 5 malder rogge en 4 vaatzaad raapzaad uit goederen in Mill onder bepaalde voorwaarden. Gedaan te Grave in het huis van de notaris met als getuigen Johannes zoon van Daniel de Kuyc, kanunnik van Sint-Elizabeth te Grave, Wilhelmus de Os en Johannes zoon van Rutgherus, akte in latijn&lt;br/&gt;mrt 1343&lt;br/&gt; &lt;br/&gt;des anderen dages in der maent van apr 1405&lt;br/&gt;Akte waarbij Willem Passart en Jacob Coberge, schepenen van Grave, oorkonden dat Hermric van Overlair heeft gelooft (onder recht van wederkoop) aan Matheus Badensoen en zijn vrouw Ffyen en hun beide kinderen volgens inhoud van bijgaande getransfigeerde akte, een jaarlijkse erfrente van 5 mud rogge en een half mud raapzaad; met twee afhangende zegels&lt;br/&gt;, mrt 1343, des anderen dages in der maent van apr 1405 (1 mei?)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/010F1B4E8B4F4F7FBD3AC323F45B1979" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287909">
+            <unitid type="guid">6D88C6AD47A4480B98B08483D05F1D5D</unitid>
+            <unitid>5</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6D88C6AD47A4480B98B08483D05F1D5D</unitid>
+            <unittitle>Akte in Latijn waarbij Aelbertus Koebergh, meier in Loon, Heinricus Hemmeken en Theodericus Wolf, laten daar, verklaren dat voor het hof van Xanten en voor ons in Loon Oda, dochter van Heinricus Hacke, overgedragen heeft aan Johannes de Langhel en Johannes Keelken, procuratoren van de Tafel van de Heilige Geest van Grave, een erfrente uit haar huis en erf met hof. Petrus Waltelmus en Wilhelmus Lauwardi, schepenen in Grave, bezegelen op hun verzoek deze akte, die Beati Johannis apostoli et ewangeliste (24 jun ) 1345</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1345">die Beati Johannis apostoli et ewangeliste (24 jun ) 1345</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 691</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte in Latijn waarbij Aelbertus Koebergh, meier in Loon, Heinricus Hemmeken en Theodericus Wolf, laten daar, verklaren dat voor het hof van Xanten en voor ons in Loon Oda, dochter van Heinricus Hacke, overgedragen heeft aan Johannes de Langhel en Johannes Keelken, procuratoren van de Tafel van de Heilige Geest van Grave, een erfrente uit haar huis en erf met hof. Petrus Waltelmus en Wilhelmus Lauwardi, schepenen in Grave, bezegelen op hun verzoek deze akte, die Beati Johannis apostoli et ewangeliste (24 jun ) 1345</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6D88C6AD47A4480B98B08483D05F1D5D" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287863">
+            <unitid type="guid">8ED14DB6E43741E8B1652C2F22CB0DCD</unitid>
+            <unitid>6</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8ED14DB6E43741E8B1652C2F22CB0DCD</unitid>
+            <unittitle>Akte waarbij Jan die Ridder en Zibe van Os, schepenen van Grave, oorkonden dat &lt;br/&gt;Arnt Lauwair Lauwairs zoon en zijn zuster Lijsbeth hebben verklaard dat zij instemmen met dat juffrouw Jutte Arnts Bloemendochter aan de Heilige Geest van Grave een jaargeld en erfenis heeft verkocht (zie akte van inv.nr. 7); met twee afhangende zegels, des manendages na beloken Paesschen 1368</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1368">des manendages na beloken Paesschen 1368</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Jan die Ridder en Zibe van Os, schepenen van Grave, oorkonden dat &lt;br/&gt;Arnt Lauwair Lauwairs zoon en zijn zuster Lijsbeth hebben verklaard dat zij instemmen met dat juffrouw Jutte Arnts Bloemendochter aan de Heilige Geest van Grave een jaargeld en erfenis heeft verkocht (zie akte van inv.nr. 7); met twee afhangende zegels, des manendages na beloken Paesschen 1368</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/8ED14DB6E43741E8B1652C2F22CB0DCD" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287881">
+            <unitid type="guid">4DA5203202CF43489C731F7E4BA23069</unitid>
+            <unitid>7</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4DA5203202CF43489C731F7E4BA23069</unitid>
+            <unittitle>Akte waarbij Diric van As en Peter Cokeler, schepenen van Grave, oorkonden dat juffrouw Jutke Arns Bloemendochter van Grave heeft opgedragen aan Herman Spronc als provisor van de Tafel van de H Geest van Grave, al haar goed dat gelegen is binnen de Vrijheid van Grave; met twee afhangende zegels, des saterdach na sente Lamberts misse marteleers 1368 (zaterdag na 17 sep)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1368">des saterdach na sente Lamberts misse marteleers 1368 (zaterdag na 17 sep)</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 354 (?)</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Diric van As en Peter Cokeler, schepenen van Grave, oorkonden dat juffrouw Jutke Arns Bloemendochter van Grave heeft opgedragen aan Herman Spronc als provisor van de Tafel van de H Geest van Grave, al haar goed dat gelegen is binnen de Vrijheid van Grave; met twee afhangende zegels, des saterdach na sente Lamberts misse marteleers 1368 (zaterdag na 17 sep)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/4DA5203202CF43489C731F7E4BA23069" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287851">
+            <unitid type="guid">C8165D0062ED47A0967AB9A4EDE90B2D</unitid>
+            <unitid>8</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C8165D0062ED47A0967AB9A4EDE90B2D</unitid>
+            <unittitle>Akte waarbij heer Jan van Kuyc bij schepenen en raad van Grave oorkonden dat Herman Spronc, provisor van de Tafel van de H Geest van Grave aan een zijde en Scaexken van Stramprade en zijn vrouw Leene aan de andere zijde, dat zij volgens testament van Jan die Ridder opdragen aan de Tafel van de H Geest, hun gedeelte van een jaarlijkse erfpacht van 8 mud rogge te betalen op St Maarten in de winter (11 nov)  gaande uit een huis en erf van Mechtelden Jans Ridderdochter; bezegeld door Wynric van den Heiden en Jan Koeberch, schepenen van Grave; met twee aanhangende zegels, op Sinte Peters avont ad vincula 1379 (= 30 sep)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1379">op Sinte Peters avont ad vincula 1379 (= 30 sep)</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 373</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij heer Jan van Kuyc bij schepenen en raad van Grave oorkonden dat Herman Spronc, provisor van de Tafel van de H Geest van Grave aan een zijde en Scaexken van Stramprade en zijn vrouw Leene aan de andere zijde, dat zij volgens testament van Jan die Ridder opdragen aan de Tafel van de H Geest, hun gedeelte van een jaarlijkse erfpacht van 8 mud rogge te betalen op St Maarten in de winter (11 nov)  gaande uit een huis en erf van Mechtelden Jans Ridderdochter; bezegeld door Wynric van den Heiden en Jan Koeberch, schepenen van Grave; met twee aanhangende zegels, op Sinte Peters avont ad vincula 1379 (= 30 sep)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C8165D0062ED47A0967AB9A4EDE90B2D" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287860">
+            <unitid type="guid">2671010ACC034F63B2387E8616618520</unitid>
+            <unitid>9</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2671010ACC034F63B2387E8616618520</unitid>
+            <unittitle>Akten in transfix&lt;br/&gt;17 nov 1391&lt;br/&gt;Schepenen van Beugen oorkonden dat Deric van Nyfteric en zijn vrouw Ghese hebben opgedragen &lt;br/&gt;aan Arnde van den Padbroec, deken te Grave en ten behoeve van zijn zuster Mechtelden van den Padbroke, een jaarlijkse erfpacht van 7 mud rogge te betalen op st Maarten in de winter (11 nov) en gaande uit een huis en hofstad gelegen met een zijde naast Harouts erf, de andere zijde naast de gemene weg; alsmede uit een akker bij deze hofstad, waarvan een zijde naast Neude Heilkens soen en de andere zijde naast Maasweg; alsmede uit 'eenre 'zalen lants'', gelegen met een zijde naast het erf van Aleyten van Broecken en de andere zijde naast het erf van Henneken Labben soens; mede uit een stuk land gelegen naast het erf van Herman van der Heyden; mede uit een stuk land genaamd 'Boechout' gelegen bij het land van Renden Kreefts, mede uit een stuk land gelegen tussen het erf van Heynen van der Heyden en Harouts.&lt;br/&gt;De erfpacht is bezwaard met een jaarlijkse last van een half mud raapzaad en een mud evenen (?) en acht kapoenen; met aanhangend schependomszegel&lt;br/&gt;&lt;br/&gt;des donredages na sinte Symon Juden dach Apostolorum 1399(=28 okt)&lt;br/&gt; &lt;br/&gt;Schepenen van Beugen oorkonden dat Jacob van Padbroeck en zijn vrouw Hille hebben opgedragen aan Roelof van den Steenacker, provisor van de Tafel van de H. Geest van Grave, een schepenbrief betreffende een jaarlijkse erfpacht van 7 mud rogge, welke hij heeft geërfd van zijn moeder Mechtelden van Padbroeck; met aanhangend schependomszegel&lt;br/&gt;, 17 nov 1391; des donredages na sinte Symon Juden dach Apostolorum 1399 (=28 okt)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1391/1399">17 nov 1391; des donredages na sinte Symon Juden dach Apostolorum 1399 (=28 okt)</unitdate>
+            <physdesc>2 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh 1121</unitid>
+          </did>
+          <scopecontent>
+            <p>Op 28 oktober viert de Katholieke Kerk van de Romeinse ritus het liturgische feest van de heilige apostelen Simon de IJveraar en Judas Thaddeüs. De reden daarvoor is dat zij volgens een overlevering op dezelfde plaats en tijd de marteldood zouden zijn gestorven. In de Oosters-Orthodoxe Kerken hebben zij een apart feest.&lt;br/&gt;bron: http://www.rkk.nl/abc/detail_objectID735045.html</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten in transfix&lt;br/&gt;17 nov 1391&lt;br/&gt;Schepenen van Beugen oorkonden dat Deric van Nyfteric en zijn vrouw Ghese hebben opgedragen &lt;br/&gt;aan Arnde van den Padbroec, deken te Grave en ten behoeve van zijn zuster Mechtelden van den Padbroke, een jaarlijkse erfpacht van 7 mud rogge te betalen op st Maarten in de winter (11 nov) en gaande uit een huis en hofstad gelegen met een zijde naast Harouts erf, de andere zijde naast de gemene weg; alsmede uit een akker bij deze hofstad, waarvan een zijde naast Neude Heilkens soen en de andere zijde naast Maasweg; alsmede uit 'eenre 'zalen lants'', gelegen met een zijde naast het erf van Aleyten van Broecken en de andere zijde naast het erf van Henneken Labben soens; mede uit een stuk land gelegen naast het erf van Herman van der Heyden; mede uit een stuk land genaamd 'Boechout' gelegen bij het land van Renden Kreefts, mede uit een stuk land gelegen tussen het erf van Heynen van der Heyden en Harouts.&lt;br/&gt;De erfpacht is bezwaard met een jaarlijkse last van een half mud raapzaad en een mud evenen (?) en acht kapoenen; met aanhangend schependomszegel&lt;br/&gt;&lt;br/&gt;des donredages na sinte Symon Juden dach Apostolorum 1399(=28 okt)&lt;br/&gt; &lt;br/&gt;Schepenen van Beugen oorkonden dat Jacob van Padbroeck en zijn vrouw Hille hebben opgedragen aan Roelof van den Steenacker, provisor van de Tafel van de H. Geest van Grave, een schepenbrief betreffende een jaarlijkse erfpacht van 7 mud rogge, welke hij heeft geërfd van zijn moeder Mechtelden van Padbroeck; met aanhangend schependomszegel&lt;br/&gt;, 17 nov 1391; des donredages na sinte Symon Juden dach Apostolorum 1399 (=28 okt)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2671010ACC034F63B2387E8616618520" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287893">
+            <unitid type="guid">D9F2B22BFF44481FA01B0DC08153A9B0</unitid>
+            <unitid>10</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D9F2B22BFF44481FA01B0DC08153A9B0</unitid>
+            <unittitle>Akte waarbij Heymeric Zuerhout en Gadert Campken, laten van Escharen, oorkonden dat Johan, heer van Kuyc, aan de kerk van St Elisabeth te Grave heeft gegeven een jaarlijkse erfpacht van een mud rogge te betalen op St Maartensdag in de winter (11 nov), gaande uit een erfenis van Coenen Zebrechtszoon en gelegen te Escharen, met een zijde naast het erf van Seben des Handen en met de andere zijde naast het erf van Claes van Palenen, met het een eind op de weg "ter galligenbergh" en met het ander eind aan het kerkhof, bezegels door Wijnric van der Heiden en Jannen den Handen, schepenen van Grave; met twee afhangende zegels, des manendach na sunte Valentyns dach 1392 (st valentijnsdag = 14 feb)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1392">des manendach na sunte Valentyns dach 1392 (st valentijnsdag = 14 feb)</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 508 doos J</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Heymeric Zuerhout en Gadert Campken, laten van Escharen, oorkonden dat Johan, heer van Kuyc, aan de kerk van St Elisabeth te Grave heeft gegeven een jaarlijkse erfpacht van een mud rogge te betalen op St Maartensdag in de winter (11 nov), gaande uit een erfenis van Coenen Zebrechtszoon en gelegen te Escharen, met een zijde naast het erf van Seben des Handen en met de andere zijde naast het erf van Claes van Palenen, met het een eind op de weg "ter galligenbergh" en met het ander eind aan het kerkhof, bezegels door Wijnric van der Heiden en Jannen den Handen, schepenen van Grave; met twee afhangende zegels, des manendach na sunte Valentyns dach 1392 (st valentijnsdag = 14 feb)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D9F2B22BFF44481FA01B0DC08153A9B0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287892">
+            <unitid type="guid">D223DBCDF5B3486A99153BF4D677B4E3</unitid>
+            <unitid>11</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D223DBCDF5B3486A99153BF4D677B4E3</unitid>
+            <unittitle>Akte waarbij Volpart Jan Volpartssoens soen en Reynolt Peters Wevers soen van Escharen, laten van Gassel, oorkonden dat Jan Neudekens zoon en Goman Geerlic, kerkmeesters van de St Elisabethkerk van Grave, met toestemming van de autoriteiten opgedragenaan Roloff van den Steenacker, provisor van de Tafel van de H. Geest van Grave, een schepenbrief betreffende een jaarlijkse erfpacht van een mud rogge ten behoeve van de Tafel; bezegeld door Jannen den Hane en Jacob Coberch, schepenen van Grave; met twee afhangende zegels, 6 jun 1403</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1403">6 jun 1403</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Volpart Jan Volpartssoens soen en Reynolt Peters Wevers soen van Escharen, laten van Gassel, oorkonden dat Jan Neudekens zoon en Goman Geerlic, kerkmeesters van de St Elisabethkerk van Grave, met toestemming van de autoriteiten opgedragenaan Roloff van den Steenacker, provisor van de Tafel van de H. Geest van Grave, een schepenbrief betreffende een jaarlijkse erfpacht van een mud rogge ten behoeve van de Tafel; bezegeld door Jannen den Hane en Jacob Coberch, schepenen van Grave; met twee afhangende zegels, 6 jun 1403</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D223DBCDF5B3486A99153BF4D677B4E3" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287896">
+            <unitid type="guid">EBEFFF398FF143648A4B0FD89F2A8566</unitid>
+            <unitid>12</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EBEFFF398FF143648A4B0FD89F2A8566</unitid>
+            <unittitle>Akte waarbij Volpart Jan Volpartssoens soen en Reynolt Peters Wevers soen van Escharen, laten van Gassel, oorkonden dat Jan Cobergh Guddensoen heeft verklaard dat hij schuldig is aan de kerkfabriek van St Elisabeth te Grave een jaarlijkse erfpacht van een mud rogge te betalen op St Maartensdag in de winter, welke erfpacht hij gekocht heeft van Henric Arntssoen van Bersse onder de schepenbank van Gassel; bezegeld door Jannen den Hanen en Jacob Cobergh, schepenen van Grave met twee afhangende zegels, 5 jun 1403</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1403">5 jun 1403</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 514</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Volpart Jan Volpartssoens soen en Reynolt Peters Wevers soen van Escharen, laten van Gassel, oorkonden dat Jan Cobergh Guddensoen heeft verklaard dat hij schuldig is aan de kerkfabriek van St Elisabeth te Grave een jaarlijkse erfpacht van een mud rogge te betalen op St Maartensdag in de winter, welke erfpacht hij gekocht heeft van Henric Arntssoen van Bersse onder de schepenbank van Gassel; bezegeld door Jannen den Hanen en Jacob Cobergh, schepenen van Grave met twee afhangende zegels, 5 jun 1403</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/EBEFFF398FF143648A4B0FD89F2A8566" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287904">
+            <unitid type="guid">A653CDC7BB55458899BC98F5DFBD66F4</unitid>
+            <unitid>13</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A653CDC7BB55458899BC98F5DFBD66F4</unitid>
+            <unittitle>Akte waarbij Reynolt Peters des Weverszoon en Delys van Visschel, laten van de laatbank van Escharen, oorkonden dat Jan Neudekens en Goman Goerlic, kerkmeesters van Grave, hebben met consent van het corpus opgedragen aan Roloff van den Steenacker, provisoir van de Tafel van de H. Geest van Grave, een schepenbrief betreffende een jaarlijkse erfpacht van een mud rogge ten behoeve van de kerk; bezegeld door Jannen den Hanen en Jacob Coberch, schepenen van Grave, met wee afhangende schepenzegels, 5 jun 1403</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1403">5 jun 1403</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 508</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Reynolt Peters des Weverszoon en Delys van Visschel, laten van de laatbank van Escharen, oorkonden dat Jan Neudekens en Goman Goerlic, kerkmeesters van Grave, hebben met consent van het corpus opgedragen aan Roloff van den Steenacker, provisoir van de Tafel van de H. Geest van Grave, een schepenbrief betreffende een jaarlijkse erfpacht van een mud rogge ten behoeve van de kerk; bezegeld door Jannen den Hanen en Jacob Coberch, schepenen van Grave, met wee afhangende schepenzegels, 5 jun 1403</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A653CDC7BB55458899BC98F5DFBD66F4" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287905">
+            <unitid type="guid">DE73E1AA47D24B1C83B2A52F796EDCA3</unitid>
+            <unitid>14</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DE73E1AA47D24B1C83B2A52F796EDCA3</unitid>
+            <unittitle>Akten in transfix&lt;br/&gt;des manendaches nae Symonis et Jude apostolores 1407&lt;br/&gt;Akte waarbij Henric Peterszoon en Jan van Leuwen, schepenen van Loon, oorkonden dat &lt;br/&gt;Aelbrecht Coeberch Goedertszoon heeft verklaard schuldig te zijn aan Belyen Jan Coeberchsdochter een jaarlijkse erfpacht van een half malder rogge uit een kamp land gelegen tussen de erfenis van Mechtelt Coeberghs kamp aan de ene zijde en Kathelijn Willems aan de andere zijde; bezegelt door Henric Peters en medeschepen Jan Berntssen met twee aanhangende zegels&lt;br/&gt;op Sint Bartholomeus dach apostelorum 1438&lt;br/&gt;Deric van Angheren en Arnt van Leuwen, schepenen van Loon, oorkonden dat Bely Jan Coeberchsdochter heeft opgedragen deze getransfigeerde schepenbrief aan H. Geestmeester Jan Tijgeler van het het H. Geesthuis te Grave betreffende de jaarlijkse erfpacht van een halve mud rogge; bezegeld door Deric van Angheren en medeschepen Anssum van Os met twee aanhangende zegels&lt;br/&gt;, op Sint Bartholomeus dach apostelorum 1438;  des manendaches nae Symonis et Jude apostolores 1407</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1407/1438">op Sint Bartholomeus dach apostelorum 1438;  des manendaches nae Symonis et Jude apostolores 1407</unitdate>
+            <physdesc>2 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh ong. en 1119</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten in transfix&lt;br/&gt;des manendaches nae Symonis et Jude apostolores 1407&lt;br/&gt;Akte waarbij Henric Peterszoon en Jan van Leuwen, schepenen van Loon, oorkonden dat &lt;br/&gt;Aelbrecht Coeberch Goedertszoon heeft verklaard schuldig te zijn aan Belyen Jan Coeberchsdochter een jaarlijkse erfpacht van een half malder rogge uit een kamp land gelegen tussen de erfenis van Mechtelt Coeberghs kamp aan de ene zijde en Kathelijn Willems aan de andere zijde; bezegelt door Henric Peters en medeschepen Jan Berntssen met twee aanhangende zegels&lt;br/&gt;op Sint Bartholomeus dach apostelorum 1438&lt;br/&gt;Deric van Angheren en Arnt van Leuwen, schepenen van Loon, oorkonden dat Bely Jan Coeberchsdochter heeft opgedragen deze getransfigeerde schepenbrief aan H. Geestmeester Jan Tijgeler van het het H. Geesthuis te Grave betreffende de jaarlijkse erfpacht van een halve mud rogge; bezegeld door Deric van Angheren en medeschepen Anssum van Os met twee aanhangende zegels&lt;br/&gt;, op Sint Bartholomeus dach apostelorum 1438;  des manendaches nae Symonis et Jude apostolores 1407</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DE73E1AA47D24B1C83B2A52F796EDCA3" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287883">
+            <unitid type="guid">18D17A58B97243C4999F931839C3B04F</unitid>
+            <unitid>15</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/18D17A58B97243C4999F931839C3B04F</unitid>
+            <unittitle>Akten in transfix&lt;br/&gt;30 jul 1407&lt;br/&gt; &lt;br/&gt;Akte waarbij Jan Neudenzoon en Jacob Peterszoon, schepenen van Grave, oorkonden dat Segebade Segerszoon van den Kerchoff en zijn vrouw Griet, hebben opgedragen aan zijn broer Reynolt Segerszoon van den Kerchoff een jaarlijkse erfpacht van 2 mud rogge te betalen op olv dag purificatio en gaande uit huis en erf gelegen met een zijde aan de nieuwe erfenuis van Jacobs vanden Houte en de andere zijde naast de gemene straat naast het Vleeshuis, voor grenzend aan de gemene straat en achter aan het kleine straatje; met twee afhangende schepenzegels&lt;br/&gt;  &lt;br/&gt;10 aug 1442&lt;br/&gt;Akte waarbij Sweer van den Sande en Deric van Beers, schepenen van Grave, oorkonden dat &lt;br/&gt;Lysbet weduwe van Reynout Segerszn heeft opgedragen aan gastmeester Jorden van der Voirt van het Gasthuis van Grave een getransfigeerde schepenbrief betreffende een jaarlijkse erfpacht van twee mud rogge; met twee afhangende schepenzegels&lt;br/&gt;, 1407, 1442</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1407/1442">1407, 1442</unitdate>
+            <physdesc>2 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh 692</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten in transfix&lt;br/&gt;30 jul 1407&lt;br/&gt; &lt;br/&gt;Akte waarbij Jan Neudenzoon en Jacob Peterszoon, schepenen van Grave, oorkonden dat Segebade Segerszoon van den Kerchoff en zijn vrouw Griet, hebben opgedragen aan zijn broer Reynolt Segerszoon van den Kerchoff een jaarlijkse erfpacht van 2 mud rogge te betalen op olv dag purificatio en gaande uit huis en erf gelegen met een zijde aan de nieuwe erfenuis van Jacobs vanden Houte en de andere zijde naast de gemene straat naast het Vleeshuis, voor grenzend aan de gemene straat en achter aan het kleine straatje; met twee afhangende schepenzegels&lt;br/&gt;  &lt;br/&gt;10 aug 1442&lt;br/&gt;Akte waarbij Sweer van den Sande en Deric van Beers, schepenen van Grave, oorkonden dat &lt;br/&gt;Lysbet weduwe van Reynout Segerszn heeft opgedragen aan gastmeester Jorden van der Voirt van het Gasthuis van Grave een getransfigeerde schepenbrief betreffende een jaarlijkse erfpacht van twee mud rogge; met twee afhangende schepenzegels&lt;br/&gt;, 1407, 1442</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/18D17A58B97243C4999F931839C3B04F" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287880">
+            <unitid type="guid">5A17BDD5F3C14440B519EEF5B1CB01BC</unitid>
+            <unitid>16</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5A17BDD5F3C14440B519EEF5B1CB01BC</unitid>
+            <unittitle>Akte waarbij Philips van Gassel, Jan van Doerne en Peter van den Houte, richter en laten van Gassel, oorkonden dat Peter van Hombergen. provisoer van het Gasthuis te Grave heeft opgedragen aan Volpaert Janssoen, Jan Coeberge en Willem metter Coe te Gassel, het goed dat voorheen door Derix van den Berghe in gebruik was en nu dus van het gasthuis is. Het betreft een hofstad met huis met een hof, met vele landerijen o.m. grenzend aan land van (Jan) Coeberch; Omdat de oorkonders geen zegels hadden hebben zij twee schepenen van Grave gevraagd om deze akte te zegelen; met twee aanhangende maar verloren schepenzegels van oorspr. Willem Passaert en Jan Neudenzoon, 10 okt 1408</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1408">10 okt 1408</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 87</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Philips van Gassel, Jan van Doerne en Peter van den Houte, richter en laten van Gassel, oorkonden dat Peter van Hombergen. provisoer van het Gasthuis te Grave heeft opgedragen aan Volpaert Janssoen, Jan Coeberge en Willem metter Coe te Gassel, het goed dat voorheen door Derix van den Berghe in gebruik was en nu dus van het gasthuis is. Het betreft een hofstad met huis met een hof, met vele landerijen o.m. grenzend aan land van (Jan) Coeberch; Omdat de oorkonders geen zegels hadden hebben zij twee schepenen van Grave gevraagd om deze akte te zegelen; met twee aanhangende maar verloren schepenzegels van oorspr. Willem Passaert en Jan Neudenzoon, 10 okt 1408</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5A17BDD5F3C14440B519EEF5B1CB01BC" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287866">
+            <unitid type="guid">5AA5613BE4384CEA8CBF80D185136ED3</unitid>
+            <unitid>17</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5AA5613BE4384CEA8CBF80D185136ED3</unitid>
+            <unittitle>Akten in transfix&lt;br/&gt;des sondages nae Thome Apostolorum 1414&lt;br/&gt;Akte waarbij Ghijsbert die Lewe en Jan van Wychen, schepenen van Velp, oorkonden dat Willem Kerper en zijn vrouw Lijsbet hebben opgedragen aan Bauken van Olmen een stuk land genaamd "kreyten hoefken" gelegen de straat aan een zijde en het erf van Belen van Eerde aan de andere zijde, met een eind aan Jan Meels en het andere eind aan het erf van Arnts Hanen; met twee aanhangende schepenzegels&lt;br/&gt;op onsen heren opvares dach 1431 &lt;br/&gt;Akte waarbij Willem van Scramprade en Bade die Leeuwe, schepenen van Velp, oorkonden dat Ermbolt Rutger Toellenszoon en zijn vrouw Stijn hebben opgedragen Rutgeren van Doerne en zijn vrouw Agnesen een getransfigeerde schepenbrief van Velp betreffende een jaarlijkse erfpacht van 3 mud rogge (afkomstig van de erfenis van Bernt Zuerholts, vader van Stijn, die het weer heeft verkregen van de erfenis van zijn zuster Lijsbeten gehuwd geweest met Baukens van Olmen); met twee aanhangende schepenzegels&lt;br/&gt;4 jan 1506&lt;br/&gt;Akte waarbij Henrick die Leeuwe, Janszoon Gerits, Jan Mersmanszoon Aelbrecht Arntssoen en Willem Gherit Honensoen, schepenen van Velp, oorkonden dat Jan Coebrecht Ansemszoon heeft opgedragen aan Peter Scheers, heilige geestmeester ten behoeve van het H Geesthuis van Grave, twee getransfigeerde schepenbrieven van Velp betreffende een jaarlijkse erfpacht van 3 mud rogge; met aanhangend schependomszegel&lt;br/&gt;, 1506, 1431, 1414</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1414/1506">1506, 1431, 1414</unitdate>
+            <physdesc>3 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh 545</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten in transfix&lt;br/&gt;des sondages nae Thome Apostolorum 1414&lt;br/&gt;Akte waarbij Ghijsbert die Lewe en Jan van Wychen, schepenen van Velp, oorkonden dat Willem Kerper en zijn vrouw Lijsbet hebben opgedragen aan Bauken van Olmen een stuk land genaamd "kreyten hoefken" gelegen de straat aan een zijde en het erf van Belen van Eerde aan de andere zijde, met een eind aan Jan Meels en het andere eind aan het erf van Arnts Hanen; met twee aanhangende schepenzegels&lt;br/&gt;op onsen heren opvares dach 1431 &lt;br/&gt;Akte waarbij Willem van Scramprade en Bade die Leeuwe, schepenen van Velp, oorkonden dat Ermbolt Rutger Toellenszoon en zijn vrouw Stijn hebben opgedragen Rutgeren van Doerne en zijn vrouw Agnesen een getransfigeerde schepenbrief van Velp betreffende een jaarlijkse erfpacht van 3 mud rogge (afkomstig van de erfenis van Bernt Zuerholts, vader van Stijn, die het weer heeft verkregen van de erfenis van zijn zuster Lijsbeten gehuwd geweest met Baukens van Olmen); met twee aanhangende schepenzegels&lt;br/&gt;4 jan 1506&lt;br/&gt;Akte waarbij Henrick die Leeuwe, Janszoon Gerits, Jan Mersmanszoon Aelbrecht Arntssoen en Willem Gherit Honensoen, schepenen van Velp, oorkonden dat Jan Coebrecht Ansemszoon heeft opgedragen aan Peter Scheers, heilige geestmeester ten behoeve van het H Geesthuis van Grave, twee getransfigeerde schepenbrieven van Velp betreffende een jaarlijkse erfpacht van 3 mud rogge; met aanhangend schependomszegel&lt;br/&gt;, 1506, 1431, 1414</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5AA5613BE4384CEA8CBF80D185136ED3" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287891">
+            <unitid type="guid">0109D2C1C3FB4473B5350A0E55411B0F</unitid>
+            <unitid>18</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0109D2C1C3FB4473B5350A0E55411B0F</unitid>
+            <unittitle>Akten in transfix&lt;br/&gt;1363 in vigilia Beati Lamberti episcopi et martiris (16 sep)&lt;br/&gt;Akte waarbij Heynricus Brekensteen en Johannes Ridder, schepenen in Grave, verklaren dat Gudula Geenkini, Gesa, Aleydis en haar dochter Metta, haar zoon Heynkinus hun deel in een stuk bouwgrond op een plaats geheten Nuwijt overgedragen hebben aan Heynricus, hoevenaar van Nuwanus; (akte gedeeltelijk in latijn) met twee aanhangende schepenzegels&lt;br/&gt;19 jan 1416&lt;br/&gt; &lt;br/&gt;Akte waarbij Henric van Merlair en Willem Passart, schepenen van Grave, oorkonden dat Stijn vrouw van Arts Raymekers, Henric Stijnenzoon en zijn vrouw Belien hebben opgedragen aan Jan Gijsbertszoon een getransfigeerde schepenbrief betreffende een stuk land gelegen in de "nieuwe Wijte"  (met belendingen); met twee afhangende schepenzegels&lt;br/&gt;    &lt;br/&gt;14 apr 1425&lt;br/&gt;akte waarbij Arnt die Haen en Gerit van Lent, schepenen van Grave, oorkonden dat Jan Gijsbertszoon die visscher en zijn dochters Aelet, Oede en Katherijne en Gerit van de Velde en zijn vrouw Goele hebben opgedragen aan Wolter Geritt Coppenzoons zoon twee getransfigeerde schepenbrieven betreffende een stuk land gelegen in de nieuwe Wijte; met twee afhangende schepenzegels&lt;br/&gt;, 1363, 1416, 1425</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1363/1425">1363, 1416, 1425</unitdate>
+            <physdesc>3 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten in transfix&lt;br/&gt;1363 in vigilia Beati Lamberti episcopi et martiris (16 sep)&lt;br/&gt;Akte waarbij Heynricus Brekensteen en Johannes Ridder, schepenen in Grave, verklaren dat Gudula Geenkini, Gesa, Aleydis en haar dochter Metta, haar zoon Heynkinus hun deel in een stuk bouwgrond op een plaats geheten Nuwijt overgedragen hebben aan Heynricus, hoevenaar van Nuwanus; (akte gedeeltelijk in latijn) met twee aanhangende schepenzegels&lt;br/&gt;19 jan 1416&lt;br/&gt; &lt;br/&gt;Akte waarbij Henric van Merlair en Willem Passart, schepenen van Grave, oorkonden dat Stijn vrouw van Arts Raymekers, Henric Stijnenzoon en zijn vrouw Belien hebben opgedragen aan Jan Gijsbertszoon een getransfigeerde schepenbrief betreffende een stuk land gelegen in de "nieuwe Wijte"  (met belendingen); met twee afhangende schepenzegels&lt;br/&gt;    &lt;br/&gt;14 apr 1425&lt;br/&gt;akte waarbij Arnt die Haen en Gerit van Lent, schepenen van Grave, oorkonden dat Jan Gijsbertszoon die visscher en zijn dochters Aelet, Oede en Katherijne en Gerit van de Velde en zijn vrouw Goele hebben opgedragen aan Wolter Geritt Coppenzoons zoon twee getransfigeerde schepenbrieven betreffende een stuk land gelegen in de nieuwe Wijte; met twee afhangende schepenzegels&lt;br/&gt;, 1363, 1416, 1425</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0109D2C1C3FB4473B5350A0E55411B0F" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287903">
+            <unitid type="guid">7BFA9E1002FA40AE9CCD8327A531527D</unitid>
+            <unitid>19</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7BFA9E1002FA40AE9CCD8327A531527D</unitid>
+            <unittitle>Akte waarbij Herman Belyszoon en Arnt die Haen, schepenen van  Grave, oorkonden dat Mechtelt Luytgardendochter heeft opgedragen aan Zensen en haar kinderen Melys en Syken, een huis en erf gelegen met een zijde naast het erf van Henric van Meirlar, met de andere zijde naast het erf van vermelde Mechtelt, achter aan het huis en erf van Willem Barbiers en voor aan de gemene straat; met twee afhangende schepenzegels, 8 jul 1422</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1422">8 jul 1422</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 753</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Herman Belyszoon en Arnt die Haen, schepenen van  Grave, oorkonden dat Mechtelt Luytgardendochter heeft opgedragen aan Zensen en haar kinderen Melys en Syken, een huis en erf gelegen met een zijde naast het erf van Henric van Meirlar, met de andere zijde naast het erf van vermelde Mechtelt, achter aan het huis en erf van Willem Barbiers en voor aan de gemene straat; met twee afhangende schepenzegels, 8 jul 1422</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7BFA9E1002FA40AE9CCD8327A531527D" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287882">
+            <unitid type="guid">B2A63EDF8D8244B398FCDEA2888CE408</unitid>
+            <unitid>20</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B2A63EDF8D8244B398FCDEA2888CE408</unitid>
+            <unittitle>Akte waarbij Wouter van Baecks, Jan van Tegelen en Arnt Knapenzoon, richter en laten van Escharen, oorkonden dat Jan Monick en zijn zoon Willem hebben opgedragen aan Jacob Coeberch Janssoen, twee brieven van Escharen betreffende een kamp land op de Voordijk en aan de Maas onder Escharen; met drie aanhangende zegels, des manendachs na sinte Gelis dach des heiligen Abds 1425 (1 sep = Sint Egidius ofwel sint Gillis)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1425">des manendachs na sinte Gelis dach des heiligen Abds 1425 (1 sep = Sint Egidius ofwel sint Gillis)</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 1086</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Wouter van Baecks, Jan van Tegelen en Arnt Knapenzoon, richter en laten van Escharen, oorkonden dat Jan Monick en zijn zoon Willem hebben opgedragen aan Jacob Coeberch Janssoen, twee brieven van Escharen betreffende een kamp land op de Voordijk en aan de Maas onder Escharen; met drie aanhangende zegels, des manendachs na sinte Gelis dach des heiligen Abds 1425 (1 sep = Sint Egidius ofwel sint Gillis)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B2A63EDF8D8244B398FCDEA2888CE408" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287894">
+            <unitid type="guid">134A3AFC22A3406CA734A97C2F35D3F8</unitid>
+            <unitid>21</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/134A3AFC22A3406CA734A97C2F35D3F8</unitid>
+            <unittitle>Akte waarbij Lambert Derixzoon en Henric Rolofszoon, heemraden in het Hollander Broeck, oorkonden dat Gheertruyt Rolofsdochter van Meerlaer heeft opgedragen aan aan broer Herman Rolofs van Meerlaer drie heemraadbrieven inhoudende een jaarlijkse erfpacht van 10 mud rogge, te vergelden op St Andriesdag uit de Jans tijns van Kessel; met twee afhangende heemraadzegels  , op sunte Valentijns dach in den Sporkell 1426 (14 feb)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1426">op sunte Valentijns dach in den Sporkell 1426 (14 feb)</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh (1351?)</unitid>
+          </did>
+          <scopecontent>
+            <p>De geschiedenis van de waterschapsorganisaties gaat in ieder geval terug tot 1309. In de akte van de hertog van Brabant uit dat jaar wordt gesproken over heemraden van de Polder van der Eigen. In 1315 was dat het geval bij de polder Empel en Meerwijk, het Hoog Hemaal in 1325 en het Laag Hemaal in 1349.&lt;br/&gt;Het Land van Ravenstein en het Land van Megen hebben waarschijnlijk ook al vanaf de middeleeuwen een vorm van waterstaatsbestuur gehad. In de ‘Hollandse’ ontginning Hollanderbroek was rond 1320 al sprake van een heemraadschap met vergaande bevoegdheden. Dijkmeesters en heemraden waren verantwoordelijk voor het beheer en het onderhoud van de dijken, beken en weteringen.&lt;br/&gt;[bron: www.aaenmaas.nl/aspx/download.aspx?File=/contents/pages/...pdf]</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Lambert Derixzoon en Henric Rolofszoon, heemraden in het Hollander Broeck, oorkonden dat Gheertruyt Rolofsdochter van Meerlaer heeft opgedragen aan aan broer Herman Rolofs van Meerlaer drie heemraadbrieven inhoudende een jaarlijkse erfpacht van 10 mud rogge, te vergelden op St Andriesdag uit de Jans tijns van Kessel; met twee afhangende heemraadzegels  , op sunte Valentijns dach in den Sporkell 1426 (14 feb)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/134A3AFC22A3406CA734A97C2F35D3F8" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287871">
+            <unitid type="guid">79F040938F6C459BBC9E3E4AF27D3FBE</unitid>
+            <unitid>22</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/79F040938F6C459BBC9E3E4AF27D3FBE</unitid>
+            <unittitle>Akten in transfix&lt;br/&gt;1 mei 1429&lt;br/&gt; &lt;br/&gt;Akte waarbij Bade van Esscharen en Jacop die Jeger en Jacop Koeberch, richter en laten van Escharen, oorkonden dat Baede Aelbertszoon en zijn vrouw Lysabet hebben opgedragen aan Johannen Peter Diekenszoon van Weert, een jaarlijkse erfpacht van twee mud rogge uit huis en erf gelegen tussen twee hekken te Escharen (met belendingen) en uit een stuk land aldaar genaamd 'den Hoenreberch'; met drie aanhangende zegels&lt;br/&gt; &lt;br/&gt;des sonnendagh nae sente Pouwels dach 1447&lt;br/&gt;Akte waarbij Jacob Nijdenhoven en Henric van Nijdenhoven en Jan Boegel, richter en laten van Escharen, oorkonden dat Jan van Weert, timmerman, en zijn vrouw Lijsbet hebben opgedragen aan Jacob Gobbelszoon die Raymeker, burger te Grave, een getransfigeerde schepenbrief inzake een jaarlijks erfpacht van twee mud rogge; met drie aanhangende zegels&lt;br/&gt; &lt;br/&gt;sinte urbaenssen avont comende in die meymaent 1518 (24 mei)&lt;br/&gt; &lt;br/&gt;Akte waarbij schepenen van Escharen (zonder vermelde namen) oorkonden dat Leonaert Geliss Luwenzoon en zijn vrouw Henneken hebben opgedragen aan Geliss Luv een jaarlijkse erfpacht van twee mud rogge met twee bijbehorende schepenbrieven; met aanhangend schependomszegel&lt;br/&gt;, 1429, 1447, 1518</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1429/1518">1429, 1447, 1518</unitdate>
+            <physdesc>3 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh 712</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten in transfix&lt;br/&gt;1 mei 1429&lt;br/&gt; &lt;br/&gt;Akte waarbij Bade van Esscharen en Jacop die Jeger en Jacop Koeberch, richter en laten van Escharen, oorkonden dat Baede Aelbertszoon en zijn vrouw Lysabet hebben opgedragen aan Johannen Peter Diekenszoon van Weert, een jaarlijkse erfpacht van twee mud rogge uit huis en erf gelegen tussen twee hekken te Escharen (met belendingen) en uit een stuk land aldaar genaamd 'den Hoenreberch'; met drie aanhangende zegels&lt;br/&gt; &lt;br/&gt;des sonnendagh nae sente Pouwels dach 1447&lt;br/&gt;Akte waarbij Jacob Nijdenhoven en Henric van Nijdenhoven en Jan Boegel, richter en laten van Escharen, oorkonden dat Jan van Weert, timmerman, en zijn vrouw Lijsbet hebben opgedragen aan Jacob Gobbelszoon die Raymeker, burger te Grave, een getransfigeerde schepenbrief inzake een jaarlijks erfpacht van twee mud rogge; met drie aanhangende zegels&lt;br/&gt; &lt;br/&gt;sinte urbaenssen avont comende in die meymaent 1518 (24 mei)&lt;br/&gt; &lt;br/&gt;Akte waarbij schepenen van Escharen (zonder vermelde namen) oorkonden dat Leonaert Geliss Luwenzoon en zijn vrouw Henneken hebben opgedragen aan Geliss Luv een jaarlijkse erfpacht van twee mud rogge met twee bijbehorende schepenbrieven; met aanhangend schependomszegel&lt;br/&gt;, 1429, 1447, 1518</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/79F040938F6C459BBC9E3E4AF27D3FBE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287897">
+            <unitid type="guid">32EAE32ADDA0446B9B39FAA09610DE72</unitid>
+            <unitid>23</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/32EAE32ADDA0446B9B39FAA09610DE72</unitid>
+            <unittitle>Akte waarbij Henric van den Hove, richter van Escharen en Jacop die Jeger, laat van Escharen, oorkonden dat Abe van Elten en zijn vrouw Mette hebben opgedragen aan Henric van Escharen, een jaarlijkse erfpacht van 3 mud rogge te betalen op olv dag purificatio, gaande uit een kamp land naast de Wolfsberg (met belendingen); Eén van de zegelaars is niet vermeld, met 3 aanhangende zegels, sunte Servaes avont 1431 (12 mei)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1431">sunte Servaes avont 1431 (12 mei)</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 934</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Henric van den Hove, richter van Escharen en Jacop die Jeger, laat van Escharen, oorkonden dat Abe van Elten en zijn vrouw Mette hebben opgedragen aan Henric van Escharen, een jaarlijkse erfpacht van 3 mud rogge te betalen op olv dag purificatio, gaande uit een kamp land naast de Wolfsberg (met belendingen); Eén van de zegelaars is niet vermeld, met 3 aanhangende zegels, sunte Servaes avont 1431 (12 mei)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/32EAE32ADDA0446B9B39FAA09610DE72" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287853">
+            <unitid type="guid">3DBAF5E25969426DA13242A243FAB7E9</unitid>
+            <unitid>24</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3DBAF5E25969426DA13242A243FAB7E9</unitid>
+            <unittitle>Akten in transfix;&lt;br/&gt;op Synte Symons ende Judas avont 1432 &lt;br/&gt;Akte waarbij Zijbert Bome en Reynolt Snavel, schepenen van Herpen, oorkonden dat Goessen van Mameren verklaart schuldig te zijn aan Belien Jan Coeberchs dochter een jaarlijkse erfpacht van 2 mud rogge te betalen op olv dag purificatio gaande uit een stuk land gelegen in 'de Pael' (met belendingen); twee aanhangende schepenzegels&lt;br/&gt;des donredages na onser Vrouwendach assumptio 1438&lt;br/&gt;Akte waarbij Sebert Boem en Goessen van Mameren, schepenen van Herpen, oorkonden dat Bely Jan Coeberchsdochter de hiervoor vermelde jaarlijkse erfpacht van 2 mud rogge met bijbehorende schepenbrief heeft opgedragen aan Jan Ticheler, heilige geestmeester van Grave; met twee aanhangende schepenzegels&lt;br/&gt;, 1432, 1438</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1432/1438">1432, 1438</unitdate>
+            <physdesc>2 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh 535</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten in transfix;&lt;br/&gt;op Synte Symons ende Judas avont 1432 &lt;br/&gt;Akte waarbij Zijbert Bome en Reynolt Snavel, schepenen van Herpen, oorkonden dat Goessen van Mameren verklaart schuldig te zijn aan Belien Jan Coeberchs dochter een jaarlijkse erfpacht van 2 mud rogge te betalen op olv dag purificatio gaande uit een stuk land gelegen in 'de Pael' (met belendingen); twee aanhangende schepenzegels&lt;br/&gt;des donredages na onser Vrouwendach assumptio 1438&lt;br/&gt;Akte waarbij Sebert Boem en Goessen van Mameren, schepenen van Herpen, oorkonden dat Bely Jan Coeberchsdochter de hiervoor vermelde jaarlijkse erfpacht van 2 mud rogge met bijbehorende schepenbrief heeft opgedragen aan Jan Ticheler, heilige geestmeester van Grave; met twee aanhangende schepenzegels&lt;br/&gt;, 1432, 1438</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3DBAF5E25969426DA13242A243FAB7E9" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287870">
+            <unitid type="guid">2B35F6BB2AF246AE950F33768D044B65</unitid>
+            <unitid>25</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2B35F6BB2AF246AE950F33768D044B65</unitid>
+            <unittitle>Akten in transfix&lt;br/&gt;20 mrt 1435&lt;br/&gt;Akte waarbij Arnt Peters en Jan van Aken, schepenen van Grave, oorkonden dat Aleyt van Wijchen&lt;br/&gt;heeft opgedragen aan Katherijn (wijlen) Arnt Reylers dochter, twee mud erfrogge, te betalen op OLV dag purificatio , uit huis en erf gelegen naast het erf van Jans van Gaell (en verdere belendingen); met twee afhangende zegels&lt;br/&gt;    &lt;br/&gt;8 feb 1441&lt;br/&gt;Akte waarbij Jan Monnyc en Jan van Aken, schepenen van Grave, oorkonden dat Goedde van Aken en Katrijn zijn vrouw, hebben opgedragen aan Jorden van der Voirt, indertijd gastmeester van het gasthuis van Grave, een getransfigeerde schepenbrief inzake twee mud erfrogge jaarlijks onder voorwaarden; met twee afhangende zegels, 20 mrt 1435, 8 feb 1441</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1435/1441">20 mrt 1435, 8 feb 1441</unitdate>
+            <physdesc>2 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh 652</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten in transfix&lt;br/&gt;20 mrt 1435&lt;br/&gt;Akte waarbij Arnt Peters en Jan van Aken, schepenen van Grave, oorkonden dat Aleyt van Wijchen&lt;br/&gt;heeft opgedragen aan Katherijn (wijlen) Arnt Reylers dochter, twee mud erfrogge, te betalen op OLV dag purificatio , uit huis en erf gelegen naast het erf van Jans van Gaell (en verdere belendingen); met twee afhangende zegels&lt;br/&gt;    &lt;br/&gt;8 feb 1441&lt;br/&gt;Akte waarbij Jan Monnyc en Jan van Aken, schepenen van Grave, oorkonden dat Goedde van Aken en Katrijn zijn vrouw, hebben opgedragen aan Jorden van der Voirt, indertijd gastmeester van het gasthuis van Grave, een getransfigeerde schepenbrief inzake twee mud erfrogge jaarlijks onder voorwaarden; met twee afhangende zegels, 20 mrt 1435, 8 feb 1441</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2B35F6BB2AF246AE950F33768D044B65" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287854">
+            <unitid type="guid">87028200BDD7400686560F6829E0E7E6</unitid>
+            <unitid>26</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/87028200BDD7400686560F6829E0E7E6</unitid>
+            <unittitle>Akte waarbij richter Ansem Coeberch van Escharen, Henric van Nyenhove en Anrt Keyser, laten van het laathof van Escharen, oorkonden dat Jacop Coeberich en zijn vrouw Zander hebben opgedragen aan Jan van Gaell, burger van Grave, de helft van een kamp land gelegen aan de Maas en de dijk, onder voorwaarden; met drie aanhangende zegels, des sonnendages nae de helige pinxtdag 1452 (4 jun?)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1452">des sonnendages nae de helige pinxtdag 1452 (4 jun?)</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 704</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij richter Ansem Coeberch van Escharen, Henric van Nyenhove en Anrt Keyser, laten van het laathof van Escharen, oorkonden dat Jacop Coeberich en zijn vrouw Zander hebben opgedragen aan Jan van Gaell, burger van Grave, de helft van een kamp land gelegen aan de Maas en de dijk, onder voorwaarden; met drie aanhangende zegels, des sonnendages nae de helige pinxtdag 1452 (4 jun?)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/87028200BDD7400686560F6829E0E7E6" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287888">
+            <unitid type="guid">9D51B1D70E6B4014BB288583DF19E9DF</unitid>
+            <unitid>27</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9D51B1D70E6B4014BB288583DF19E9DF</unitid>
+            <unittitle>Akte waarbij richter Bade van Escharen en Gerit Jegher en Bade van Nydenhoven (schepenen van Escharen), oorkonden dat de gasthuismeester van het (st Catharina) gasthuis te Grave, heeft gerechtelijk doen bieden Gadde van Aken, Jan van Aken met wijlen Jans wijf van Aken de oude betreffende verpleging in het gasthuis; met drie aanhangende zegels, op onser liever vrouwen avont purificario 1469 (1 feb 1470)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1469/1470">op onser liever vrouwen avont purificario 1469 (1 feb 1470)</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij richter Bade van Escharen en Gerit Jegher en Bade van Nydenhoven (schepenen van Escharen), oorkonden dat de gasthuismeester van het (st Catharina) gasthuis te Grave, heeft gerechtelijk doen bieden Gadde van Aken, Jan van Aken met wijlen Jans wijf van Aken de oude betreffende verpleging in het gasthuis; met drie aanhangende zegels, op onser liever vrouwen avont purificario 1469 (1 feb 1470)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9D51B1D70E6B4014BB288583DF19E9DF" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287874">
+            <unitid type="guid">6E34096F57E746F5961B6F87D5518E55</unitid>
+            <unitid>28</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6E34096F57E746F5961B6F87D5518E55</unitid>
+            <unittitle>Akte waarbij Peter van den Wercken en Gerit Cupers, schepenen van Grave, oorkonden dat Griet Coeberch heeft verklaard dat zij al haar goed zal doen toekomen aan het H. Geesthuis te Grave, waar zij haar hele leven in de kost zal zijn en zal mogen wonen; met twee afhangende schepenzegels, 15 jan 1480</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1480">15 jan 1480</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Peter van den Wercken en Gerit Cupers, schepenen van Grave, oorkonden dat Griet Coeberch heeft verklaard dat zij al haar goed zal doen toekomen aan het H. Geesthuis te Grave, waar zij haar hele leven in de kost zal zijn en zal mogen wonen; met twee afhangende schepenzegels, 15 jan 1480</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6E34096F57E746F5961B6F87D5518E55" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287856">
+            <unitid type="guid">80D64A22C6BE40A38F6C35F86D427373</unitid>
+            <unitid>29</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/80D64A22C6BE40A38F6C35F86D427373</unitid>
+            <unittitle>Akte waarbij Peter van den Wercken en Gerit die Cuyper, schepenen van Grave,oorkonden dat gastmeester Abe Michiels van het Graafse gasthuis gerechtelijk heeft doen eisen aan Aleyden wijlen vrouw van Mercelis de Vriese en Jan Coeberch om het gericht over te nemen als hij gedaan had van het gasthuis wegens de Lysken Deckers hofstat op de dijk gelegen buiten de brugpoort; twee afhangende schepenzegels, des manendach nae den sonnendach Judica in den vasten 1483 (17 mrt?, 5e zondag in de vastentijd, passiezondag of palmzondag)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1483">des manendach nae den sonnendach Judica in den vasten 1483 (17 mrt?, 5e zondag in de vastentijd, passiezondag of palmzondag)</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 749</unitid>
+          </did>
+          <scopecontent>
+            <p>zie ook inv.nr. 35</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Peter van den Wercken en Gerit die Cuyper, schepenen van Grave,oorkonden dat gastmeester Abe Michiels van het Graafse gasthuis gerechtelijk heeft doen eisen aan Aleyden wijlen vrouw van Mercelis de Vriese en Jan Coeberch om het gericht over te nemen als hij gedaan had van het gasthuis wegens de Lysken Deckers hofstat op de dijk gelegen buiten de brugpoort; twee afhangende schepenzegels, des manendach nae den sonnendach Judica in den vasten 1483 (17 mrt?, 5e zondag in de vastentijd, passiezondag of palmzondag)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/80D64A22C6BE40A38F6C35F86D427373" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287906">
+            <unitid type="guid">5BAD6E486DB741CE93876DBDD3ADB9CB</unitid>
+            <unitid>30</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5BAD6E486DB741CE93876DBDD3ADB9CB</unitid>
+            <unittitle>Akten in transfix&lt;br/&gt;opten heyligen Jans avent 1499 (23 jun)&lt;br/&gt;Akte waarbij Jan Woutersse en Jan die Kauwe, schepenen van Loon, oorkonden dat Ghertruyt Derick en Jan Henrick Graetz hebben opgedragen aan Gerit Wolff(s) en zijn huisvrouw Jutte, een schepenbrief van Loon; met oorspr. twee afhangende waarvan 1 ontbrekende schepenzegels&lt;br/&gt; &lt;br/&gt;9 feb 1532&lt;br/&gt;Akte waarbij Wolter Verhaeren en zeel Janssen, schepenen van Nederloon, oorkonden dat Hanrick Wolffs, burger van Grave en zijn huisvrouw Elisabeth hebben opgedragen aan Garys Coebrechs en Fye zijn huisvrouw een getransfigeerde schoutbrief van Loon, betreffende een jaarlijkse 20 gulden erfpacht te betalen op st Gertruidendag; met twee afhangende schepenzgels&lt;br/&gt;, 1499, 1532</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1499/1532">1499, 1532</unitdate>
+            <physdesc>2 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten in transfix&lt;br/&gt;opten heyligen Jans avent 1499 (23 jun)&lt;br/&gt;Akte waarbij Jan Woutersse en Jan die Kauwe, schepenen van Loon, oorkonden dat Ghertruyt Derick en Jan Henrick Graetz hebben opgedragen aan Gerit Wolff(s) en zijn huisvrouw Jutte, een schepenbrief van Loon; met oorspr. twee afhangende waarvan 1 ontbrekende schepenzegels&lt;br/&gt; &lt;br/&gt;9 feb 1532&lt;br/&gt;Akte waarbij Wolter Verhaeren en zeel Janssen, schepenen van Nederloon, oorkonden dat Hanrick Wolffs, burger van Grave en zijn huisvrouw Elisabeth hebben opgedragen aan Garys Coebrechs en Fye zijn huisvrouw een getransfigeerde schoutbrief van Loon, betreffende een jaarlijkse 20 gulden erfpacht te betalen op st Gertruidendag; met twee afhangende schepenzgels&lt;br/&gt;, 1499, 1532</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5BAD6E486DB741CE93876DBDD3ADB9CB" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287855">
+            <unitid type="guid">8E5EB19B65A24CB1995808C4F21B11CF</unitid>
+            <unitid>31</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8E5EB19B65A24CB1995808C4F21B11CF</unitid>
+            <unittitle>akte waarbij Jan Heymerix en Jan Coeberch, schepenen van Grave, oorkonden dat Willem Coeberch heeft verklaard schuldig te zijn aan Henrick Proent, goudsmid, een jaarlijkse losrente van 3 gouden philipsguldens, te betalen op St Peters dag ad cathedram, uit een huis en erf gelegen volgens de erfbrief die daarvan is; met twee afhangende schepenzegels  , 28 feb 1506</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1506">28 feb 1506</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 730</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>akte waarbij Jan Heymerix en Jan Coeberch, schepenen van Grave, oorkonden dat Willem Coeberch heeft verklaard schuldig te zijn aan Henrick Proent, goudsmid, een jaarlijkse losrente van 3 gouden philipsguldens, te betalen op St Peters dag ad cathedram, uit een huis en erf gelegen volgens de erfbrief die daarvan is; met twee afhangende schepenzegels  , 28 feb 1506</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/8E5EB19B65A24CB1995808C4F21B11CF" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287875">
+            <unitid type="guid">D00AC381AF4E4C7A8975BC4C5D482399</unitid>
+            <unitid>32</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D00AC381AF4E4C7A8975BC4C5D482399</unitid>
+            <unittitle>Akten in transfix;&lt;br/&gt;31 okt 1532&lt;br/&gt;Akte waarbij Henrick Thyssen en Henrick Koeberch (met zegel), schepenen van Grave, oorkonden dat Henrick Lambertssen en zijn vrouw Baete hebben opgedragen aan heer Jan Koeberch, priester een jaarlijkse losrente van 3 philipsguldens, te betalen op St. Maarten in de winter, gaande uit huis en erf gelegen bij de "spuelpoerten" (met belendingen); twee afhangende schepenzegels&lt;br/&gt;29 mrt 1577&lt;br/&gt;Akte waarbij Lambrecht Vervoirt en Otto Crest, schepenen van Grave, oorkonden dat Jaspar en Giesbrecht Haegens, mombers van de nagelaten kinderen van wijlen Evert Hagens en zijn huisvrouw Dericken, en Leeuw Dericx, medemomber, Gertken weduwe Cornelis Coebroecx met haar kinderen Henrick, Jan en Jutken en de minderjarige Fransken en hebben gezamenlijk opgedragen aan Henricxken weduwe Goert Coebroecx, een schepenbrief doorgestoken aan onderhavige akte (transfix); met twee aanhangende schepenzegels&lt;br/&gt;, 1532, 1577</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1532/1577">1532, 1577</unitdate>
+            <physdesc>2 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh 668</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten in transfix;&lt;br/&gt;31 okt 1532&lt;br/&gt;Akte waarbij Henrick Thyssen en Henrick Koeberch (met zegel), schepenen van Grave, oorkonden dat Henrick Lambertssen en zijn vrouw Baete hebben opgedragen aan heer Jan Koeberch, priester een jaarlijkse losrente van 3 philipsguldens, te betalen op St. Maarten in de winter, gaande uit huis en erf gelegen bij de "spuelpoerten" (met belendingen); twee afhangende schepenzegels&lt;br/&gt;29 mrt 1577&lt;br/&gt;Akte waarbij Lambrecht Vervoirt en Otto Crest, schepenen van Grave, oorkonden dat Jaspar en Giesbrecht Haegens, mombers van de nagelaten kinderen van wijlen Evert Hagens en zijn huisvrouw Dericken, en Leeuw Dericx, medemomber, Gertken weduwe Cornelis Coebroecx met haar kinderen Henrick, Jan en Jutken en de minderjarige Fransken en hebben gezamenlijk opgedragen aan Henricxken weduwe Goert Coebroecx, een schepenbrief doorgestoken aan onderhavige akte (transfix); met twee aanhangende schepenzegels&lt;br/&gt;, 1532, 1577</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D00AC381AF4E4C7A8975BC4C5D482399" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287861">
+            <unitid type="guid">FD8944B2431F45FDBFC47A0336553CC4</unitid>
+            <unitid>33</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FD8944B2431F45FDBFC47A0336553CC4</unitid>
+            <unittitle>Akte waarbij Derick Reyleyers en Henrick Koeberch, schepenen van Grave, oorkonden dat Alyt Ergberts die alde en Derick van Dueren Pourtiers hebben opgedragen aan Michiel van Ray en zijn erfgenamen, een losrente van 3 gulden jaarlijks met St Jan uit huis en erf, gelegen zoals in de erfbrief is beschreven (zie daarvoor inv.nr. 34); twee afhangende schepenzegels, 26 apr 1534</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1534">26 apr 1534</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 1103</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Derick Reyleyers en Henrick Koeberch, schepenen van Grave, oorkonden dat Alyt Ergberts die alde en Derick van Dueren Pourtiers hebben opgedragen aan Michiel van Ray en zijn erfgenamen, een losrente van 3 gulden jaarlijks met St Jan uit huis en erf, gelegen zoals in de erfbrief is beschreven (zie daarvoor inv.nr. 34); twee afhangende schepenzegels, 26 apr 1534</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/FD8944B2431F45FDBFC47A0336553CC4" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287902">
+            <unitid type="guid">D99FC9AB557D42A6841E88C0EECD83BA</unitid>
+            <unitid>34</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D99FC9AB557D42A6841E88C0EECD83BA</unitid>
+            <unittitle>Akte waarbij Derick Reyleyer en Henrick Koeberch, schepenen van Grave, oorkonden dat Alyt Egberts die alde, Derick van Dueren Pourtiers en zijn huisvrouw Lijs hebben opgedragen aan Michiel van Ray en zijn huisvrouw Herman, een huis en erf gelegen bij "den nyen Werck" (met belendingen); twee afhangende schepenzegels, 24 apr 1534</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1534">24 apr 1534</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 1105</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Derick Reyleyer en Henrick Koeberch, schepenen van Grave, oorkonden dat Alyt Egberts die alde, Derick van Dueren Pourtiers en zijn huisvrouw Lijs hebben opgedragen aan Michiel van Ray en zijn huisvrouw Herman, een huis en erf gelegen bij "den nyen Werck" (met belendingen); twee afhangende schepenzegels, 24 apr 1534</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D99FC9AB557D42A6841E88C0EECD83BA" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287857">
+            <unitid type="guid">F3DA1A3137DA47F89CD31545A089DAE4</unitid>
+            <unitid>35</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F3DA1A3137DA47F89CD31545A089DAE4</unitid>
+            <unittitle>Akte waarbij Deryck Baex en Henryck Koeberch, schepenen van Grave, oorkonden dat Jaspar dye Molle(ner) en zijn huisvrouw Lysbeth hebben opgedragen aan Marijken hun dochter, een mud rogge gaande uit een huis en erf gelegen buiten de Brugpoort aan de dijk (met belendingen); met twee afhangende schepenzegels, 24 mrt 1537</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1537">24 mrt 1537</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 939</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Deryck Baex en Henryck Koeberch, schepenen van Grave, oorkonden dat Jaspar dye Molle(ner) en zijn huisvrouw Lysbeth hebben opgedragen aan Marijken hun dochter, een mud rogge gaande uit een huis en erf gelegen buiten de Brugpoort aan de dijk (met belendingen); met twee afhangende schepenzegels, 24 mrt 1537</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F3DA1A3137DA47F89CD31545A089DAE4" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287884">
+            <unitid type="guid">F75E43DD170149F48B5C57A43B8A370E</unitid>
+            <unitid>36</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F75E43DD170149F48B5C57A43B8A370E</unitid>
+            <unittitle>Akte waarbij Derick Baex en Henrick Coeberch, schepenen van Grave, oorkonden dat Henrick Lambertz en zijn huisvrouw Baete hebben opgedragen aan Peter Goessens en zijn erven, een som van 32 stuivers te betalen op st Peter ad cathedram, gaande uit een huis en erf gelegen bij het "spuelpoerten" (met belendingen); twee afhangende schepenzegels, 13 okt 1537</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1537">13 okt 1537</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 671</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Derick Baex en Henrick Coeberch, schepenen van Grave, oorkonden dat Henrick Lambertz en zijn huisvrouw Baete hebben opgedragen aan Peter Goessens en zijn erven, een som van 32 stuivers te betalen op st Peter ad cathedram, gaande uit een huis en erf gelegen bij het "spuelpoerten" (met belendingen); twee afhangende schepenzegels, 13 okt 1537</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F75E43DD170149F48B5C57A43B8A370E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287877">
+            <unitid type="guid">843B95C5AD754410B7A299A650B3ABF7</unitid>
+            <unitid>37</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/843B95C5AD754410B7A299A650B3ABF7</unitid>
+            <unittitle>Akte waarbij meester Anthonis van Hueck (ook Hoeck), deken van de St Elisabethkerk van  Grave, Jan van Esscheren, Jan Moenynck, Gerit Hermanssen en Jan Willemssen, vrienden en naburen, oorkonden van de magescheid ofwel erfdeling tussen Lyesken Jacop Gobbels huisvrouw zaliger en Thiesken Willemssen en Jan die Custers en Derick Janssen, momber van de kinderen van Willem Janssen en Cornelis Janssoens betreffende de nagelaten goederen van Jan die Custer en Hennyken van Boeckell; met drie aanhangende zegels van deken Anthonis van Hoeck en Jan van Esscheren en Jan Moenynck, 7 mrt 1538</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1538">7 mrt 1538</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 715</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij meester Anthonis van Hueck (ook Hoeck), deken van de St Elisabethkerk van  Grave, Jan van Esscheren, Jan Moenynck, Gerit Hermanssen en Jan Willemssen, vrienden en naburen, oorkonden van de magescheid ofwel erfdeling tussen Lyesken Jacop Gobbels huisvrouw zaliger en Thiesken Willemssen en Jan die Custers en Derick Janssen, momber van de kinderen van Willem Janssen en Cornelis Janssoens betreffende de nagelaten goederen van Jan die Custer en Hennyken van Boeckell; met drie aanhangende zegels van deken Anthonis van Hoeck en Jan van Esscheren en Jan Moenynck, 7 mrt 1538</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/843B95C5AD754410B7A299A650B3ABF7" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287889">
+            <unitid type="guid">134F4FF770AD43F0A9DF93B87BA3A0C3</unitid>
+            <unitid>38</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/134F4FF770AD43F0A9DF93B87BA3A0C3</unitid>
+            <unittitle>Akte waarbij Jan van Esscheren en Dirck Belen, schepenen van Cuijk, oorkonden dat Thies die groet Hanricxssen en zijn huisvrouw Erm hebben opgedragen aan Frederick Coeburchs en zijn huisvrouw Claesken, een kamp land (met belendingen);  oorspr. twee maar nog 1 resterende aanhangende schepenzegels, 19 jun 1547</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1547">19 jun 1547</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 941</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Jan van Esscheren en Dirck Belen, schepenen van Cuijk, oorkonden dat Thies die groet Hanricxssen en zijn huisvrouw Erm hebben opgedragen aan Frederick Coeburchs en zijn huisvrouw Claesken, een kamp land (met belendingen);  oorspr. twee maar nog 1 resterende aanhangende schepenzegels, 19 jun 1547</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/134F4FF770AD43F0A9DF93B87BA3A0C3" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287879">
+            <unitid type="guid">E69BDC798B8940B194E25E2FCF94000E</unitid>
+            <unitid>39</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E69BDC798B8940B194E25E2FCF94000E</unitid>
+            <unittitle>Akte waarbij Henrcik van Buegen en Jaspar Heijss, schepenen van Grave, oorkonden dat Peter van Houten te Beerze en zijn huisvrouw Alveraetken, wonende op de hofstad voorheen van Thijske dye geck Wylhemssen (thans in het gasthuis wonend) verklaren wat zij hebben horen zeggen over o.m. de erfenis van Henrick van Boecholt en ook over de hofstad waar juffrouw Marchandt op woont; van papier met opgedrukte waszegels, waarvan 1 ontbreekt, 17 aug 1553</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1553">17 aug 1553</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Henrcik van Buegen en Jaspar Heijss, schepenen van Grave, oorkonden dat Peter van Houten te Beerze en zijn huisvrouw Alveraetken, wonende op de hofstad voorheen van Thijske dye geck Wylhemssen (thans in het gasthuis wonend) verklaren wat zij hebben horen zeggen over o.m. de erfenis van Henrick van Boecholt en ook over de hofstad waar juffrouw Marchandt op woont; van papier met opgedrukte waszegels, waarvan 1 ontbreekt, 17 aug 1553</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E69BDC798B8940B194E25E2FCF94000E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287862">
+            <unitid type="guid">5A7280607BB340CAB2066D4A28894C67</unitid>
+            <unitid>40</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5A7280607BB340CAB2066D4A28894C67</unitid>
+            <unittitle>Akte waarbij Jacop Touwman en Jan Coenen, schepenen van Grave, oorkonden dat Adriaen van Os en zijn huisvrouw Neesken, alsmede Jenneken Adriaensdochter verwekt bij zijn eerste huisvrouw Henricxken. Zij hebben opgedragen een huis en erf in de St. Jorienstraat (met belendingen) aan Jan Otten, onder voorwaarden; twee aanhangende schepenzegels, 23 okt 1563</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1563">23 okt 1563</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 1160</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Jacop Touwman en Jan Coenen, schepenen van Grave, oorkonden dat Adriaen van Os en zijn huisvrouw Neesken, alsmede Jenneken Adriaensdochter verwekt bij zijn eerste huisvrouw Henricxken. Zij hebben opgedragen een huis en erf in de St. Jorienstraat (met belendingen) aan Jan Otten, onder voorwaarden; twee aanhangende schepenzegels, 23 okt 1563</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5A7280607BB340CAB2066D4A28894C67" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287899">
+            <unitid type="guid">2E334FE0CA55444E96C9B900C8E6FA25</unitid>
+            <unitid>41</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2E334FE0CA55444E96C9B900C8E6FA25</unitid>
+            <unittitle>Twee akten, met een touwtje aaneen gebonden&lt;br/&gt;29 apr 1566, de 9de indictie, eerste jaar van de coronatie van paus Pius V. &lt;br/&gt;Akte waarbij notaris Johannes Nennius te Grave oorkondt dat priester en kanunnik Jan Coeberch op het grote slot te Grave, die verklaart dat hij op 12 jul 1564 zijn testament heeft doen opmaken. Daarin heeft hij wekelijks twee missen begonnen te doen welke zijn gefundeerd door wijlen Jan Ruijsch, wiens testament is opgemaakt op op 9 mrt 1524 en handelt over fundatie van missen in de St Elisabethkerk te Grave en die een neef is van Hanrick Coeberch;&lt;br/&gt;17 jan 1569 Luikse stijl, 12e indictie, vierde jaar van de coronatie van paus Pius V.&lt;br/&gt;Akte, codicil, waarbij notaris Johannes Nennius te Grave oorkondt dat eerwaarde priester en kannunik Jan Coeberch zijn eerdere testament wijzigt&lt;br/&gt; &lt;br/&gt;, 1566-1569</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1566/1569">1566-1569</unitdate>
+            <physdesc>2 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Twee akten, met een touwtje aaneen gebonden&lt;br/&gt;29 apr 1566, de 9de indictie, eerste jaar van de coronatie van paus Pius V. &lt;br/&gt;Akte waarbij notaris Johannes Nennius te Grave oorkondt dat priester en kanunnik Jan Coeberch op het grote slot te Grave, die verklaart dat hij op 12 jul 1564 zijn testament heeft doen opmaken. Daarin heeft hij wekelijks twee missen begonnen te doen welke zijn gefundeerd door wijlen Jan Ruijsch, wiens testament is opgemaakt op op 9 mrt 1524 en handelt over fundatie van missen in de St Elisabethkerk te Grave en die een neef is van Hanrick Coeberch;&lt;br/&gt;17 jan 1569 Luikse stijl, 12e indictie, vierde jaar van de coronatie van paus Pius V.&lt;br/&gt;Akte, codicil, waarbij notaris Johannes Nennius te Grave oorkondt dat eerwaarde priester en kannunik Jan Coeberch zijn eerdere testament wijzigt&lt;br/&gt; &lt;br/&gt;, 1566-1569</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2E334FE0CA55444E96C9B900C8E6FA25" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287900">
+            <unitid type="guid">A06AA96FEFE34400A348E6115B5FEF5F</unitid>
+            <unitid>42</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A06AA96FEFE34400A348E6115B5FEF5F</unitid>
+            <unittitle>Akte waarbij Lambert Ruysch en Goert Coeberchs als executeurentestamentair van de nalatenschap van heer Jan Coeberchs, priester en kanunnik op het slot van Grave, oorkonden van de erfdeling die plaats vond tussen de erfgenamen, nl. Goert Hagens als man en momber van Dericxken Coeberchs Henricxdochter, Willem Coeberchs, Arnt Coeberchs Cornelissoen, Arnt Reynerssoen als man en momber van Heessel Coeberchs, mr Ott Creeft als momber van Mechtelt  dochter van .. Coeberchs en Peterken Bernt Raymekers zaliger, mede getuigen daarover zijn Jan Coenen en Jan van Horn, schepenen van Grave en mr. Ott Creeft; met 5 aanhangende zegels, 27 sep 1574</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1574">27 sep 1574</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh (D29)</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Lambert Ruysch en Goert Coeberchs als executeurentestamentair van de nalatenschap van heer Jan Coeberchs, priester en kanunnik op het slot van Grave, oorkonden van de erfdeling die plaats vond tussen de erfgenamen, nl. Goert Hagens als man en momber van Dericxken Coeberchs Henricxdochter, Willem Coeberchs, Arnt Coeberchs Cornelissoen, Arnt Reynerssoen als man en momber van Heessel Coeberchs, mr Ott Creeft als momber van Mechtelt  dochter van .. Coeberchs en Peterken Bernt Raymekers zaliger, mede getuigen daarover zijn Jan Coenen en Jan van Horn, schepenen van Grave en mr. Ott Creeft; met 5 aanhangende zegels, 27 sep 1574</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A06AA96FEFE34400A348E6115B5FEF5F" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287873">
+            <unitid type="guid">26458EB705F24A1BA86BE780E4DA5560</unitid>
+            <unitid>43</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/26458EB705F24A1BA86BE780E4DA5560</unitid>
+            <unittitle>Akten in transfix&lt;br/&gt;25 apr 1587&lt;br/&gt;Akte waarbij Jan Cornelissen en Roeloff van Daell, schepenen van Grave, oorkonden dat &lt;br/&gt;Metgen Jan Ghebendochter, huisvrouw van Melchior Ruysch, met haar momber, hebben opgedragen aan Marten van der Veldt en Jenneken zijn huisvrouw, een rente van 12 philipsgulden jaarlijks te betalen met Pasen, gaande uit haar aandeel in een kamp land van t2 morgen grootte gelegen in de Mars aan de Marsstraat; met aanhangend schependomszegel&lt;br/&gt;  &lt;br/&gt;5 mei 1587&lt;br/&gt;Akte waarbij Jan Cornelissen en Roeloff van Daell, schepenen van Grave, oorkonden dat &lt;br/&gt;Marten van den Veldt en zijn huisvrouw Jenneken hebben opgedragen aan Jan Blomerts en zijn huisvrouw Heylwich een rentebrief in transfix inzake 12 philipsgulden jaarlijks  gaande uit een daarin nader gespecificeerd onderpand; met twee aanhangende schepenzegels&lt;br/&gt;, 25 apr 1587, 5 mei 1587</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1587">25 apr 1587, 5 mei 1587</unitdate>
+            <physdesc>2 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh 733</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten in transfix&lt;br/&gt;25 apr 1587&lt;br/&gt;Akte waarbij Jan Cornelissen en Roeloff van Daell, schepenen van Grave, oorkonden dat &lt;br/&gt;Metgen Jan Ghebendochter, huisvrouw van Melchior Ruysch, met haar momber, hebben opgedragen aan Marten van der Veldt en Jenneken zijn huisvrouw, een rente van 12 philipsgulden jaarlijks te betalen met Pasen, gaande uit haar aandeel in een kamp land van t2 morgen grootte gelegen in de Mars aan de Marsstraat; met aanhangend schependomszegel&lt;br/&gt;  &lt;br/&gt;5 mei 1587&lt;br/&gt;Akte waarbij Jan Cornelissen en Roeloff van Daell, schepenen van Grave, oorkonden dat &lt;br/&gt;Marten van den Veldt en zijn huisvrouw Jenneken hebben opgedragen aan Jan Blomerts en zijn huisvrouw Heylwich een rentebrief in transfix inzake 12 philipsgulden jaarlijks  gaande uit een daarin nader gespecificeerd onderpand; met twee aanhangende schepenzegels&lt;br/&gt;, 25 apr 1587, 5 mei 1587</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/26458EB705F24A1BA86BE780E4DA5560" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287872">
+            <unitid type="guid">61FBEE3D99C0474BA442118EE6CDCF71</unitid>
+            <unitid>44</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/61FBEE3D99C0474BA442118EE6CDCF71</unitid>
+            <unittitle>Akte te Velp, transfix;&lt;br/&gt;25 jul 1625.&lt;br/&gt;Akte waarbij gerit Arians en Rut Janssen, schepenen van Velp,oorkonden dat Peter Henricx en Remet van Deuterom voor zichzelf en met procuratie van de erfgenamen van wijlen Jacxken van Acken, hebben opgedragen aan Art Hornkens, gastenmeester ten behoeve van het gasthuis van Grave, een rentebrief van jaarlijks 24 gulden gaande uit een onderpand onder de parochie Velp, toebehorende aan Frans Coberchs de oude en Art Hornkens, alles volgens brief van 12 okt 1581 daarvan zijnde en als transfix hierdoor gestoken; met aanhangend schependomszegel&lt;br/&gt;6 apr 1625&lt;br/&gt;Akte waarbij Gerit Arians en Rut Janssen, schepenen van Velp, oorkonden dat Herman Buenen, Jenneke Buenen en Aelken Buenen, broeders en zusters, hebben opgedragen aan de erfgenamen van Jaecxken van Acken een rentebrief van jaarlijks 24 gulden te vergelden uit een onderpand onder de parochie Velp en toebehorend aan Frans Coberchs de oude en Art Hornkens, volgens vonnis van de Raad van Brabant in Den Haag wegens een borg van de grootvader van de transportant Herman Kipholt gedaan voor heer Seger van Groesbecke; met aanhangend schependomszegel&lt;br/&gt;12 okt 1581&lt;br/&gt;  &lt;br/&gt;Akte waarbij Seger Driessen en Gerit Willems, schepenen van Velp, oorkonden dat Derck Geritz en zijn huisvrouw Alitken hebben opgedragen aan Alitken van Tombellen, weduwe van Herman Kipholt en hun dochter Catharinen een jaarpacht van 24 gulden, jaarlijks te vergelden op St Victor en gaande uit een huis, hof en hofstad onder de parochie Velp, met belendingen, o.m. aan het erf van juffrouw Constantina van Berchen met haar kinderen, verwekt bij jonker Borssen van Varick; met aanhangend schependomszegel&lt;br/&gt;, 12 okt 1581, 7 apr 1625, 25 jul 1625</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1581/1625">12 okt 1581, 7 apr 1625, 25 jul 1625</unitdate>
+            <physdesc>3 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh 954</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte te Velp, transfix;&lt;br/&gt;25 jul 1625.&lt;br/&gt;Akte waarbij gerit Arians en Rut Janssen, schepenen van Velp,oorkonden dat Peter Henricx en Remet van Deuterom voor zichzelf en met procuratie van de erfgenamen van wijlen Jacxken van Acken, hebben opgedragen aan Art Hornkens, gastenmeester ten behoeve van het gasthuis van Grave, een rentebrief van jaarlijks 24 gulden gaande uit een onderpand onder de parochie Velp, toebehorende aan Frans Coberchs de oude en Art Hornkens, alles volgens brief van 12 okt 1581 daarvan zijnde en als transfix hierdoor gestoken; met aanhangend schependomszegel&lt;br/&gt;6 apr 1625&lt;br/&gt;Akte waarbij Gerit Arians en Rut Janssen, schepenen van Velp, oorkonden dat Herman Buenen, Jenneke Buenen en Aelken Buenen, broeders en zusters, hebben opgedragen aan de erfgenamen van Jaecxken van Acken een rentebrief van jaarlijks 24 gulden te vergelden uit een onderpand onder de parochie Velp en toebehorend aan Frans Coberchs de oude en Art Hornkens, volgens vonnis van de Raad van Brabant in Den Haag wegens een borg van de grootvader van de transportant Herman Kipholt gedaan voor heer Seger van Groesbecke; met aanhangend schependomszegel&lt;br/&gt;12 okt 1581&lt;br/&gt;  &lt;br/&gt;Akte waarbij Seger Driessen en Gerit Willems, schepenen van Velp, oorkonden dat Derck Geritz en zijn huisvrouw Alitken hebben opgedragen aan Alitken van Tombellen, weduwe van Herman Kipholt en hun dochter Catharinen een jaarpacht van 24 gulden, jaarlijks te vergelden op St Victor en gaande uit een huis, hof en hofstad onder de parochie Velp, met belendingen, o.m. aan het erf van juffrouw Constantina van Berchen met haar kinderen, verwekt bij jonker Borssen van Varick; met aanhangend schependomszegel&lt;br/&gt;, 12 okt 1581, 7 apr 1625, 25 jul 1625</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/61FBEE3D99C0474BA442118EE6CDCF71" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287901">
+            <unitid type="guid">AC14A75BE54543B7AB8819C75DB5203F</unitid>
+            <unitid>45</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/AC14A75BE54543B7AB8819C75DB5203F</unitid>
+            <unittitle>Akte waarbij Aert Janss Greven en Goert Diemersz, schepenen van Beers, oorkonden dat &lt;br/&gt;Jan Hermanssen de Wildt en zijn vrouw Alytgen en haar momber Hanrick Aerts, hebben opgedragen aan Hanrick Coeberchen en zijn vrouw Jenneken een morgen weiland met hagen, onder de verplichting uit de hagen twee kapoenen te leveren aan mevrouw Van Varyck; met aanhangend schependomszegel, 17 mrt 1597</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1597">17 mrt 1597</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh D 33</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Aert Janss Greven en Goert Diemersz, schepenen van Beers, oorkonden dat &lt;br/&gt;Jan Hermanssen de Wildt en zijn vrouw Alytgen en haar momber Hanrick Aerts, hebben opgedragen aan Hanrick Coeberchen en zijn vrouw Jenneken een morgen weiland met hagen, onder de verplichting uit de hagen twee kapoenen te leveren aan mevrouw Van Varyck; met aanhangend schependomszegel, 17 mrt 1597</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/AC14A75BE54543B7AB8819C75DB5203F" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287865">
+            <unitid type="guid">90C8F1B975B04F28B3F3B719EE6C4AC7</unitid>
+            <unitid>46</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/90C8F1B975B04F28B3F3B719EE6C4AC7</unitid>
+            <unittitle>Akte waarbij Johan van Ham de Jonghe, burger van Grave, oorkondt dat hij met procuratie van en namens de erfgenamen van Jan Hanricx van Goch, genaamd Hacken, en Catherina, echtelieden, uit de plaatsgevonden erfdeling (van 8 mei 1597) heeft opgedragen aan Henrick Coeberch en zijn huisvrouw Jenneken 'alsulcken actie, aenpaert ende gerechticheijt van versterff'; mede getuigen hierover zijn de erfpachters Willem Loeff en Derick Jansse van het ambt van Maas en Waal; met 3 aanhangende zegels, 15 okt 1600</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1600">15 okt 1600</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Johan van Ham de Jonghe, burger van Grave, oorkondt dat hij met procuratie van en namens de erfgenamen van Jan Hanricx van Goch, genaamd Hacken, en Catherina, echtelieden, uit de plaatsgevonden erfdeling (van 8 mei 1597) heeft opgedragen aan Henrick Coeberch en zijn huisvrouw Jenneken 'alsulcken actie, aenpaert ende gerechticheijt van versterff'; mede getuigen hierover zijn de erfpachters Willem Loeff en Derick Jansse van het ambt van Maas en Waal; met 3 aanhangende zegels, 15 okt 1600</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/90C8F1B975B04F28B3F3B719EE6C4AC7" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287858">
+            <unitid type="guid">3A2B318061E04DA8AA51173CED44C953</unitid>
+            <unitid>47</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3A2B318061E04DA8AA51173CED44C953</unitid>
+            <unittitle>Akte waarbij Dierick Jan Cornelis en Henrick Coeberch, schepenen van Grave, oorkonden dat Jan Peter Bosch en zijn huisvrouw Trijntken Dierickx hebben opgedragen aan Joost Flemingh en zijn huisvrouw Lijsken Wolffs een derdedeel van een huis en erf gelegen in de kerkstraat (met belendingen); met twee aanhangende schepenzegels, 29 sep 1605</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1605">29 sep 1605</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 940</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Dierick Jan Cornelis en Henrick Coeberch, schepenen van Grave, oorkonden dat Jan Peter Bosch en zijn huisvrouw Trijntken Dierickx hebben opgedragen aan Joost Flemingh en zijn huisvrouw Lijsken Wolffs een derdedeel van een huis en erf gelegen in de kerkstraat (met belendingen); met twee aanhangende schepenzegels, 29 sep 1605</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3A2B318061E04DA8AA51173CED44C953" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287864">
+            <unitid type="guid">F503B0065A9F429BA598423B9B561107</unitid>
+            <unitid>48</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F503B0065A9F429BA598423B9B561107</unitid>
+            <unittitle>Akte waarbij Hanrick Martenssen, burger van Grave, oorkondt dat hij in opdracht van Cornelis Lauwereijns wonende te Roermond, cessie en transport doet voor het vierendeel van het versterf van Jan Hanricx van Goch genaamd Hacken, gelegen in het ambt van Maas en Waal, aan Hanrick Coberch en zijn huisvrouw Jenneken Bloemarts, waarover mede getuigen zijn de erfpachters Sijbert Gorissen en Joost van der Veldt; 3 aanhangende zegels, 18 mei 1612</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1612">18 mei 1612</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Hanrick Martenssen, burger van Grave, oorkondt dat hij in opdracht van Cornelis Lauwereijns wonende te Roermond, cessie en transport doet voor het vierendeel van het versterf van Jan Hanricx van Goch genaamd Hacken, gelegen in het ambt van Maas en Waal, aan Hanrick Coberch en zijn huisvrouw Jenneken Bloemarts, waarover mede getuigen zijn de erfpachters Sijbert Gorissen en Joost van der Veldt; 3 aanhangende zegels, 18 mei 1612</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F503B0065A9F429BA598423B9B561107" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287907">
+            <unitid type="guid">58781E7ACD564FF7AE78A20979A39EE6</unitid>
+            <unitid>49</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/58781E7ACD564FF7AE78A20979A39EE6</unitid>
+            <unittitle>Akte waarbij Hermen van den Sandt en zijn huisvrouw Alitgen Bongers en de erfpachters Hanrick Loifts en Johan Rennits te Grave, oorkonden dat het echtpaar schuldig is aan Hanrick Coberchz en zijn vrouw Jenneke Bloimaerts, een som van 150 gulden en daarom betalen de erfpachters jaarlijks een rente van 9 gulden 7 stuivers en 2 oort, gaande uit een kamp land genaamd 'den drijsselencamp' onder Overasselt in het ambt van tussen Maas en Waal gelegen (met belendingen), welke rente toekomt aan de erfgenamen van wijlen Ermgardt Janss, de eerste vrouw van Hermen van den Sandt; met vier aanhangende zegels, 18 apr 1620</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1620">18 apr 1620</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Hermen van den Sandt en zijn huisvrouw Alitgen Bongers en de erfpachters Hanrick Loifts en Johan Rennits te Grave, oorkonden dat het echtpaar schuldig is aan Hanrick Coberchz en zijn vrouw Jenneke Bloimaerts, een som van 150 gulden en daarom betalen de erfpachters jaarlijks een rente van 9 gulden 7 stuivers en 2 oort, gaande uit een kamp land genaamd 'den drijsselencamp' onder Overasselt in het ambt van tussen Maas en Waal gelegen (met belendingen), welke rente toekomt aan de erfgenamen van wijlen Ermgardt Janss, de eerste vrouw van Hermen van den Sandt; met vier aanhangende zegels, 18 apr 1620</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/58781E7ACD564FF7AE78A20979A39EE6" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287868">
+            <unitid type="guid">866D3ABFA1174DB7A2CA28A58EEEE806</unitid>
+            <unitid>50</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/866D3ABFA1174DB7A2CA28A58EEEE806</unitid>
+            <unittitle>Testament van Johan Henricx Boicholt, scheermaker en zijn vrouw Marij Willems opgemaakt in hun huis in de Kerkstraat door notaris Johan Heijmans te Grave, 8 dec 1622 in de vijffste indictie imperiael</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1622">8 dec 1622 in de vijffste indictie imperiael</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 953</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Testament van Johan Henricx Boicholt, scheermaker en zijn vrouw Marij Willems opgemaakt in hun huis in de Kerkstraat door notaris Johan Heijmans te Grave, 8 dec 1622 in de vijffste indictie imperiael</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/866D3ABFA1174DB7A2CA28A58EEEE806" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287910">
+            <unitid type="guid">D94449CB2C09415DBDBFFBABF4DEEDAF</unitid>
+            <unitid>51</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D94449CB2C09415DBDBFFBABF4DEEDAF</unitid>
+            <unittitle>Akte waarbij prins Fredric Hendric van Oranje, enz. maar ook heer en baron van de stad Grave en het Land van Cuijk, te Den Haag oorkondt dat op verzoek van Geertruijt Coeburch, dochter van wijlen Hendrick Coeburch, het leen verheft dat haar is toegekomen uit de erfdeling, nl. een hooikamp van 1,5 morgen grootte en gelegen in de graafschap Weerdt onder de schepenbank van Escharen, welk leengoed leenroerig is aan het leehof van Cuijk; met aanhangend prinselijk grootzegel , 20 jun 1630</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1630">20 jun 1630</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij prins Fredric Hendric van Oranje, enz. maar ook heer en baron van de stad Grave en het Land van Cuijk, te Den Haag oorkondt dat op verzoek van Geertruijt Coeburch, dochter van wijlen Hendrick Coeburch, het leen verheft dat haar is toegekomen uit de erfdeling, nl. een hooikamp van 1,5 morgen grootte en gelegen in de graafschap Weerdt onder de schepenbank van Escharen, welk leengoed leenroerig is aan het leehof van Cuijk; met aanhangend prinselijk grootzegel , 20 jun 1630</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D94449CB2C09415DBDBFFBABF4DEEDAF" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287859">
+            <unitid type="guid">529386DF9A4247CB8059EEB94173F190</unitid>
+            <unitid>52</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/529386DF9A4247CB8059EEB94173F190</unitid>
+            <unittitle>Akte waarbij Willem Wouterssen en Johan de Jongh, schepenen van Grave, oorkonden dat &lt;br/&gt;Erken Hendricx, weduwe van Guert Janssen Leyedecker met haar momber Anthoni van Gemert, heeft opgedragen een huis en erf in het straatje uitkomend in de Borchstraat  (met belendingen) te Grave aan Jan Janssz Coot gehuwd met Heylken Willemssen; met twee aanhangende schepenzegels, 29 aug 1642</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1642">29 aug 1642</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 944</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Willem Wouterssen en Johan de Jongh, schepenen van Grave, oorkonden dat &lt;br/&gt;Erken Hendricx, weduwe van Guert Janssen Leyedecker met haar momber Anthoni van Gemert, heeft opgedragen een huis en erf in het straatje uitkomend in de Borchstraat  (met belendingen) te Grave aan Jan Janssz Coot gehuwd met Heylken Willemssen; met twee aanhangende schepenzegels, 29 aug 1642</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/529386DF9A4247CB8059EEB94173F190" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287890">
+            <unitid type="guid">DD7CE33240874FA28EE914992B7F3096</unitid>
+            <unitid>53</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DD7CE33240874FA28EE914992B7F3096</unitid>
+            <unittitle>Transfix van twee akten:&lt;br/&gt;24 feb 1653.&lt;br/&gt;Akte waarbij borgemeester Willem Wouterssen Vogelvangers en schepen Jacob Casembroet, van de stad Grave, oorkonden dat Sophia Coeberch het goed van Coen Arts van Hatart gerechtelijk heeft doen panden wegens een schuld van 491 gulden; met twee aanhangende zegels;&lt;br/&gt; &lt;br/&gt;23 sep 1653.&lt;br/&gt;Akte waarbij Willem Wouters Vogelvangers en Christoffel van Calsbeeck, schepenen van Grave, oorkonden dat Sophia Coeberch gerechtelijk beslag heeft gelegd op huis en goed van Coen Arts van Hatart; met oorspr. twee aanhangende schepenzegels waavan 1 verloren is gegaan&lt;br/&gt;, 24 feb en 23 sep 1653</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1653">24 feb en 23 sep 1653</unitdate>
+            <physdesc>2 charters</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Transfix van twee akten:&lt;br/&gt;24 feb 1653.&lt;br/&gt;Akte waarbij borgemeester Willem Wouterssen Vogelvangers en schepen Jacob Casembroet, van de stad Grave, oorkonden dat Sophia Coeberch het goed van Coen Arts van Hatart gerechtelijk heeft doen panden wegens een schuld van 491 gulden; met twee aanhangende zegels;&lt;br/&gt; &lt;br/&gt;23 sep 1653.&lt;br/&gt;Akte waarbij Willem Wouters Vogelvangers en Christoffel van Calsbeeck, schepenen van Grave, oorkonden dat Sophia Coeberch gerechtelijk beslag heeft gelegd op huis en goed van Coen Arts van Hatart; met oorspr. twee aanhangende schepenzegels waavan 1 verloren is gegaan&lt;br/&gt;, 24 feb en 23 sep 1653</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DD7CE33240874FA28EE914992B7F3096" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287876">
+            <unitid type="guid">7842C78DC8BD4FA293B98A71C4BF0BDA</unitid>
+            <unitid>54</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7842C78DC8BD4FA293B98A71C4BF0BDA</unitid>
+            <unittitle>Akte waarbij Jan Alertsen en zijn vrouw Jenneken Ewodts de Kock te Nederasselt ? oorkonden dat zij hebben verkocht  twee morgen land 'op het hoochvelt' in het kerspel van Nederasselt aan Derisken Aerdts van Boeckholt; bezegeld door het echtpaar en de erfpachters Niclaes Reijnders van Dreuten en Jan Janssevan Eldonck met vier aanhangende zegels, 20 mei 1664</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1664">20 mei 1664</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 1118</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Jan Alertsen en zijn vrouw Jenneken Ewodts de Kock te Nederasselt ? oorkonden dat zij hebben verkocht  twee morgen land 'op het hoochvelt' in het kerspel van Nederasselt aan Derisken Aerdts van Boeckholt; bezegeld door het echtpaar en de erfpachters Niclaes Reijnders van Dreuten en Jan Janssevan Eldonck met vier aanhangende zegels, 20 mei 1664</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7842C78DC8BD4FA293B98A71C4BF0BDA" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287885">
+            <unitid type="guid">F15682CC926E49299B20DAC5BFE26FB4</unitid>
+            <unitid>55</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F15682CC926E49299B20DAC5BFE26FB4</unitid>
+            <unittitle>Akte waarbij Reijnier Beuckelhoven en Ernest Wlhelm Zwartenbergh, schepenen van Grave, oorkonden dat Bartholt Simons en zijn huisvrouw Susanna Recht, hebben opgedragen aan de provisoren van het St Catharina Gasthuis, een obligatie van 250 gulden (gepasseerd 13 mrt 1646)  ten laste van Gielis Cornelissen gehuwd met Anneken Wessingh; met oorspr. twee aanhangende schepenzegels, waarvan 1 ontbreekt, de ander beschadigd, 1 mei 1664</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1664">1 mei 1664</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 973</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Reijnier Beuckelhoven en Ernest Wlhelm Zwartenbergh, schepenen van Grave, oorkonden dat Bartholt Simons en zijn huisvrouw Susanna Recht, hebben opgedragen aan de provisoren van het St Catharina Gasthuis, een obligatie van 250 gulden (gepasseerd 13 mrt 1646)  ten laste van Gielis Cornelissen gehuwd met Anneken Wessingh; met oorspr. twee aanhangende schepenzegels, waarvan 1 ontbreekt, de ander beschadigd, 1 mei 1664</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F15682CC926E49299B20DAC5BFE26FB4" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287878">
+            <unitid type="guid">A40328A229EB4139BBC6B39984F00A59</unitid>
+            <unitid>56</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A40328A229EB4139BBC6B39984F00A59</unitid>
+            <unittitle>Akte waarbij Derisken Aerts van Boekel en haar momboir Caspar Elders, zadelmaker, te Grave, oorkonden dat zij hebben opgedragen aan Rutger de Haen, rentmeester van het St Catharinagasthuis te Grave, twee erfpachten ten behoeve van het gasthuis, betreffende een perceel land van 2 morgen op het Hoochvelt in het kerspel Nederasselt; aanhangende zegels van de testateurs en de  erfpachters in het Ambt in het Ambt tussen Maas en Waal, Willem van Urmont en Johan Coebergh, 5 sep 1677</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1677">5 sep 1677</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh 1118 b</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Derisken Aerts van Boekel en haar momboir Caspar Elders, zadelmaker, te Grave, oorkonden dat zij hebben opgedragen aan Rutger de Haen, rentmeester van het St Catharinagasthuis te Grave, twee erfpachten ten behoeve van het gasthuis, betreffende een perceel land van 2 morgen op het Hoochvelt in het kerspel Nederasselt; aanhangende zegels van de testateurs en de  erfpachters in het Ambt in het Ambt tussen Maas en Waal, Willem van Urmont en Johan Coebergh, 5 sep 1677</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A40328A229EB4139BBC6B39984F00A59" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287869">
+            <unitid type="guid">C446702ABECB43969E12281F77392A20</unitid>
+            <unitid>57</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C446702ABECB43969E12281F77392A20</unitid>
+            <unittitle>Akte waarbij Elbert Verhorst en Engelbert de Greve, schepenen van Grave, oorkonden dat sr Gerardt van Bommel en zijn vrouw Johanna Coeberch hebben opgedragen aan de gezamenlijke erfgenamen van de heer advocaat Verheijen, een jaarlijkse rente van 18 carolusgulden, gaande uit een huis aan de Brugstraat te Grave, bezwaard met andere jaarlijkse lasten; met aanhangende schepenzegels , 18 mei 1697</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1697">18 mei 1697</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Elbert Verhorst en Engelbert de Greve, schepenen van Grave, oorkonden dat sr Gerardt van Bommel en zijn vrouw Johanna Coeberch hebben opgedragen aan de gezamenlijke erfgenamen van de heer advocaat Verheijen, een jaarlijkse rente van 18 carolusgulden, gaande uit een huis aan de Brugstraat te Grave, bezwaard met andere jaarlijkse lasten; met aanhangende schepenzegels , 18 mei 1697</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C446702ABECB43969E12281F77392A20" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287908">
+            <unitid type="guid">6773E43CF7614334A1ED04E5159E5D41</unitid>
+            <unitid>58</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6773E43CF7614334A1ED04E5159E5D41</unitid>
+            <unittitle>Akte waarbij schout Berrent van Liebergen en Aernoldus van Bockholt en Jacob Janssen, schepenen van Escharen, oorkonden dat juffrouw Fulgentia en Petroenlla Coeberge, met hun mombers Aernoldus van Bockholt en Berrent van Liebergen, hebben opgedragen aan sr. Hermen van der Horst en zijn vrouw Gertruyt van den Berch, een jaarlijkse rente van 30 gulden te betalen op 1 oktober, uit een zeker hooi- of weikamp van 2,5 morgen grootte naast de Raam (met belendingen); gecancelleerd, met aanhangend schependomszegel, 23 aug 1708</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1708">23 aug 1708</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij schout Berrent van Liebergen en Aernoldus van Bockholt en Jacob Janssen, schepenen van Escharen, oorkonden dat juffrouw Fulgentia en Petroenlla Coeberge, met hun mombers Aernoldus van Bockholt en Berrent van Liebergen, hebben opgedragen aan sr. Hermen van der Horst en zijn vrouw Gertruyt van den Berch, een jaarlijkse rente van 30 gulden te betalen op 1 oktober, uit een zeker hooi- of weikamp van 2,5 morgen grootte naast de Raam (met belendingen); gecancelleerd, met aanhangend schependomszegel, 23 aug 1708</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6773E43CF7614334A1ED04E5159E5D41" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287911">
+            <unitid type="guid">8CF0439C5A684A448CC8A03DE01106F0</unitid>
+            <unitid>59</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8CF0439C5A684A448CC8A03DE01106F0</unitid>
+            <unittitle>Akte waarbij schout Berrent van Lieberge en Jan Cornelisse Henderick Hermens en Aeb Janssen, schepenen van Escharen, oorkonden dat juffr. Petronella Coebergh met haar momber Hendericus Verhorst hebben opgedragen aan de provisoren van het St Catharina gasthuis te Grave ten behoeve van de armen, een hooi- of weikamp, groot ongeveer 2,5 morgen onder Escharen bij de Raam gelegen en belast met een rente van 30 gulden (welke rente op 3 okt 1719 is afgelost; deze laatste akte is niet aangetroffen); met opgedrukt maar ontbrekend schependomszegel, 4 dec 1711</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1711">4 dec 1711</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij schout Berrent van Lieberge en Jan Cornelisse Henderick Hermens en Aeb Janssen, schepenen van Escharen, oorkonden dat juffr. Petronella Coebergh met haar momber Hendericus Verhorst hebben opgedragen aan de provisoren van het St Catharina gasthuis te Grave ten behoeve van de armen, een hooi- of weikamp, groot ongeveer 2,5 morgen onder Escharen bij de Raam gelegen en belast met een rente van 30 gulden (welke rente op 3 okt 1719 is afgelost; deze laatste akte is niet aangetroffen); met opgedrukt maar ontbrekend schependomszegel, 4 dec 1711</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/8CF0439C5A684A448CC8A03DE01106F0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287898">
+            <unitid type="guid">DB5F1CBFBA574A0BBAF4B96392B6203D</unitid>
+            <unitid>60</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DB5F1CBFBA574A0BBAF4B96392B6203D</unitid>
+            <unittitle>Akte waarbij rechter Jacobus Smits en Johannes Leurs en Arnoldus Versluijs, schepenen van Grave, oorkonden dat Arnoldus van Bockholt en zijn huisvrouw Johanna van Dijk (de eerste tevens als momber van Anna Maria Posjens), Jacomina Coeberge, weduwe van procureur Johan Therporte, Maria Coeberge, Johan Francis Coeberge en zijn huisvrouw Maria Bloeme, alsmede Hendrina Huijbers, weduwe Jacob Heckspoor, allen erfgenamen van wijlen Hubertus Maximilianus Coeberge, die hebben opgedragen en getransporteerd aan mr jeremias Blom, als weesmeester van Grave, en ten behoeve van de stadswezen, een achtste part van een kamp genaamd 'de weese camp' waarvan de andere parten reeds aan de wezen toebehoort en welk gelegen is ind e Wijth; met twee aanhangende zegels, waarvan 1 een fragment betreft  , 22 jun 1737</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1737">22 jun 1737</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij rechter Jacobus Smits en Johannes Leurs en Arnoldus Versluijs, schepenen van Grave, oorkonden dat Arnoldus van Bockholt en zijn huisvrouw Johanna van Dijk (de eerste tevens als momber van Anna Maria Posjens), Jacomina Coeberge, weduwe van procureur Johan Therporte, Maria Coeberge, Johan Francis Coeberge en zijn huisvrouw Maria Bloeme, alsmede Hendrina Huijbers, weduwe Jacob Heckspoor, allen erfgenamen van wijlen Hubertus Maximilianus Coeberge, die hebben opgedragen en getransporteerd aan mr jeremias Blom, als weesmeester van Grave, en ten behoeve van de stadswezen, een achtste part van een kamp genaamd 'de weese camp' waarvan de andere parten reeds aan de wezen toebehoort en welk gelegen is ind e Wijth; met twee aanhangende zegels, waarvan 1 een fragment betreft  , 22 jun 1737</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DB5F1CBFBA574A0BBAF4B96392B6203D" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12287886">
+            <unitid type="guid">D7EE8FDCBBA949BF9F0E993260E8DD40</unitid>
+            <unitid>61</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D7EE8FDCBBA949BF9F0E993260E8DD40</unitid>
+            <unittitle>Akte waarbij Wylhem van Hoerne en Gheryt Robbertz, schepenen van Grave, oorkonden dat Derick Arntz en zijn huisvrouw Aelke, ..van Kessel en Hylleke van Lenth gerechtelijk hebben getuigd/verklaard dat Henneke van Boickholt die in het gasthuis van Grave woont, dikwijls heeft gezegd dat ze geen andere erfgenamen had als Lijsbeth huisvrouw van Jacop Gubbels; akte van papier met opgedrukte waszegels, 8 apr 1554</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1554">8 apr 1554</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">collectie Coebergh</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij Wylhem van Hoerne en Gheryt Robbertz, schepenen van Grave, oorkonden dat Derick Arntz en zijn huisvrouw Aelke, ..van Kessel en Hylleke van Lenth gerechtelijk hebben getuigd/verklaard dat Henneke van Boickholt die in het gasthuis van Grave woont, dikwijls heeft gezegd dat ze geen andere erfgenamen had als Lijsbeth huisvrouw van Jacop Gubbels; akte van papier met opgedrukte waszegels, 8 apr 1554</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D7EE8FDCBBA949BF9F0E993260E8DD40" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12715960">
+            <unitid type="guid">A530C8B9AE9F4CFB8BC1C568078D1C80</unitid>
+            <unitid>62</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A530C8B9AE9F4CFB8BC1C568078D1C80</unitid>
+            <unittitle>Assignaten Franse Republiek</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1295/1737"/>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Assignaten Franse Republiek</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A530C8B9AE9F4CFB8BC1C568078D1C80" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_1723/B7B854B912404CBEB8B80E1271B09FEE_oai_ead.xml-->
+</record>

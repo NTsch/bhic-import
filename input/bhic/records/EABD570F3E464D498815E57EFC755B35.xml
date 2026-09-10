@@ -1,0 +1,2748 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>EABD570F3E464D498815E57EFC755B35</identifier>
+    <datestamp>2026-09-04</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HtBHIC">278</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Huis Haanwijk in Sint-Michielsgestel, 1393 - 1923</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+        <date calendar="gregorian" era="ce" normal="2022">2022</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF911538">
+      <unittitle>Huis Haanwijk in Sint-Michielsgestel, 1393 - 1923</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-HtBHIC">278</unitid>
+      <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EABD570F3E464D498815E57EFC755B35</unitid>
+      <unitdate calendar="gregorian" era="ce" normal="1393/1923">1393-1923</unitdate>
+      <note label="Vindplaats origineel">
+        <p>BHIC 's-Hertogenbosch</p>
+      </note>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Algemeen bestuur en Politiek</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Historisch overzicht</emph>
+        </head>
+        <p>Ongeveer anderhalve kilometer ten noordwesten van de gemeente Sint-Michielsgestel ligt het 110 hectare grote landgoed Haanwijk. Aan de noordwestkant van Haanwijk liggen de overblijfselen van Oud-Herlaar; ten noorden van het landgoed ligt de Pettelaar, waar een verdedingswerk heeft gelegen, aan de zuidkant ligt het oude huis van Nieuw-Herlaar. Het huis Haanwijk, dat er nu nog staat, stamt uit 1649.
+          <note>
+            <p>A. van Oirschot, Middeleeuwse kastelen van Noord-Brabant, hun inwoners en bewogen geschiedenis (Oirschot 1981) 7677. Zie ook de gevelsteen op de oostgevel, waar 1649 op staat. In Cultuurhistorische inventarisatie provincie Noord-Brabant. Gemeente St.Michielsgestel ('sHertogenbosch 1983) 23-24 wordt gezegd dat het huis Haanwijk dateert uit de vroege 19e eeuw, maar dat de hoofdvorm uit de late Middeleeuwen stamt. Aanvankelijk was het huis een gebouw met slechts een begane grond en een hoog leien dak. Er was een torentje met een klok dat hoog boven het dak uitstak. Latere bewoners van Haanwijk hebben een verdieping erbij gebouwd en het dak omhoog gebracht.</p>
+          </note> Het ontstaan van het landgoed Haanwijk ligt waarschijnlijk voor 1300; mogelijk is Haanwijk voortgekomen uit een ontginning van hoge dekzandruggen.
+          <note>
+            <p>Van Oirschot, Kastelen, 75; voor een samenvattende beschrijving van de omgeving van Haanwijk zij verwezen naar Cultuurhistorische Inventarisatie, 10-17.</p>
+          </note>
+        </p>
+        <p>De naam Haanwijk duikt voor het eerst op in een aantal oorkonden gedateerd rond 1300: ene Jan van Haanwijk was procurator van de tafel van de Heilige Geest te 's-Hertogenbosch van ongeveer 1290-1310.
+          <note>
+            <p>H.P.H. Camps ed., Oorkondenboek van Noord-Brabant tot 1312 (Den Haag 1979) nrs. 592, 599, 610, 623, 632, 667, 693, 714, 771, 780, 798, 816, 822, 827.</p>
+          </note> Als woonplaats wordt Haanwijk voor het eerst vermeld in een oorkonde die verloren is gegaan, maar waarvan nog wel een later afschrift bekend is: Arnold de Fine, alias v.d. Eynde, wonend op Haanwijk, verkoopt aan Hendrik Swertvegher een erfcijns.
+          <note>
+            <p>Camps ed. Oorkondenboek, nr. 757.</p>
+          </note> Het is echter niet duidelijk of er al sprake is van een landgoed dat Haanwijk heet. In het hertogelijke cijnsregister van 1340 worden Aart Sterken en Aart Mutsaart, als opvolger van Hendrik Mutsaart, genoemd als cijnsplichtig voor Haanwijk.
+          <note>
+            <p>M.H.M. Spierings, Om en in de vrijdom van Den Bosch: een inleiding in de geschiedenis van het gebied rond de stad en de dorpen langs Dommel en Aa ('s-Hertogenbosch 1982) 147; het hertogelijk cijnsregister berust op film in het Brabants Historisch Informatie Centrum: Collectie Schaduwarchieven, Inventarisnummer 18; het origineel berust in het Rijksarchief te Brussel.</p>
+          </note> In ieder geval is Aart Sterken nog in 1409 woonachtig op Haanwijk.
+          <note>
+            <p>Inventarisnummer 1.</p>
+          </note>
+        </p>
+        <p>Na Aart Sterken komen de namen van Jan Aben, zijn zoon Wouter Jan Aben, diens zoon Gijsbert, en zijn dochter Aleit naar voren, naast Willem Reinier Morre en zijn zoon Reinier.
+          <note>
+            <p>Spierings, Vrijdom, 147. Met een later cijnsregister is waarschijnlijk bedoeld het cijnsregister van het Kwartier van Oisterwijk uit 1522; zie hiervoor R.A. Noord-Brabant, Collectie Schaduwarchieven, Inventarisnummer 22; zie ook Inventarisnummers 2, 3, 5 en de retroakten behorend bij Inventarisnummers 7 en 25.</p>
+          </note> Mogelijk was Haanwijk toen tussen beide families verdeeld. Na Aleit is Haanwijk waarschijnlijk overgedragen aan de broers Jan en Willem van Gerwen; 22 erfgenamen van Willem hadden na hem ieder een erfdeel in Haanwijk.
+          <note>
+            <p>Spierings, Vrijdom, 75-76; B.W. van Schijndel, 'Oude Brabantse families. 3. Van Gerwen', De Brabantse Leeuw 7 (1956) 88. Voor de namen van de erfgenamen en hun onderlinge verhoudingen zij verwezen naar het schepenprotocol van 's-Hertogenbosch, op film berustend in het Brabants Historisch Informatie Centrum: arch. Bosch-protocol Inventarisnummer 439, folio 36v-41v en 45v-46v; het origineel berust in het stadsarchief Den Bosch.</p>
+          </note> Ten tijde van zowel Aleit als de familie Van Gerwen zijn stukken aanwezig van Jan Dirk Godschalcxzoon en zijn zoon Jan; mogelijk zijn dit pachters geweest.
+          <note>
+            <p>Inventarisnummers 4, 5. Zie tevens de retroakten bij Inventarisnummer 25.</p>
+          </note>
+        </p>
+        <p>De familie Van Gerwen verkoopt op 5 januari 1570 Haanwijk aan Roelof Vastaerts, die wordt opgevolgd door zijn dochter Cornelia Vastaerts en haar man Mathijs Reyners van der Meer, die op hun beurt op 12 januari 1599 het goed overdragen aan Joris van der Meer
+          <note>
+            <p>Spierings, Vrijdom, 148; Van Oirschot, Kastelen, 76.</p>
+          </note> . Na Joris van der Meer worden als cijnsplichtig voor Haanwijk genoemd: Geertruid van der Meer, de dochters van Goyaart Pijnappel en Jenneke van der Waarden c.s. die ieder cijnsplichtig zijn voor een derde deel.
+          <note>
+            <p>Spierings, Vrijdom, 148.</p>
+          </note> In de legger van reële lands- en dorpslasten van Sint-Michielsgestel uit het jaar 1655 worden Jenneke van der Waarden en haar kinderen als eigenaars van Haanwijk genoemd.
+          <note>
+            <p>Ibidem; C.Th. Kokke, Inventaris van het archief der gemeente St.-Michielsgestel (Boxtel 1949) Inventarisnummer 60.</p>
+          </note>
+        </p>
+        <p>Omstreeks 1650 komt Haanwijk in handen van Jacob Zuerius, alias Sweerts. Zijn zoon Jacob Ferdinand Sweerts heeft Haanwijk van hem overgenomen: in het archief zijn er stukken van hem tot en met 1665.
+          <note>
+            <p>Inventarisnummers 11-13; retroakten bij 39.</p>
+          </note> Vervolgens zijn Ferdinand Maarten Sweerts de Landas, zijn zuster Gratiana Louisa Hamel Bruynincx en haar man Johan Jacob eigenaars geweest van Haanwijk, Op 24 oktober 1695 verkochten zij Haanwijk aan Maarten Christiaan de Landas.
+          <note>
+            <p>A.F.O. van Sasse van Ysselt, De voorname huizen en gebouwen van 's Hertogenbosch, alsmede hunne eigenaars of bewoners in vroegere eeuwen. Aanteekeningen uit de Bossche schepenprotocollen loopende van 1500-1810, 3 dln. (Den Bosch 1911-1914) II 282.</p>
+          </note> Van hem erven zijn dochter Christina Clementia Sweerts de Landas en haar man Marc Willem du Tour Haanwijk.
+          <note>
+            <p>Spierings, Vrijdom, 149; één jaar na de dood van Maarten Christiaan Sweerts de Landas wordt een vijfde deel van Haanwijk verkocht aan zijn weduwe, Clementia Geertuid van Els tot Boedelham (Inventarisnummer 22).</p>
+          </note> Vervolgens zou omstreeks 1750 Casimir Abraham von Schlippenbach huurder van het huis zijn geweest.
+          <note>
+            <p>Ibidem, 149-152.</p>
+          </note> Eigenaren rond deze tijd zijn Onno Tamminga du Tour, en na zijn dood in 1779, zijn vrouw Anna Maria Bouwens. In 1773 verwerft Onno Tamminga du Tour bovendien de helft van Nieuw-Herlaar, dat bij zijn dood van de hand wordt gedaan.
+          <note>
+            <p>Th.L. Sloots, Het huis van Herlaer (St.-Michielsgestel 1959) 17.</p>
+          </note>
+        </p>
+        <p>Na de dood van Anna Maria Bouwens erft Onno Adolph Marc Willem de Senarclens de Grancy Haanwijk.
+          <note>
+            <p>Dit is waarschijnlijker dan wat Van Oirschot, Kastelen, 77 beweert. Hij beweert nl. Dat Cornelia Elisabeth du Tour (1760-1838), getrouwd met Charles Paul Louis Auguste de Senarclens de Grancy (1757-1804), na de dood van Onno Tamminga du Tour in 1779 Haanwijk erft: de koopakten e.d. zijn na 1779 nog steeds aan Anna Maria Bouwens gericht (bijv. Inventarisnummers 54, 56), zij dient nog een verzoekschrift in (Inventarisnummer 61), zij heeft nog geprocedeerd voor de Raad van Brabant (R.A. Noord-Brabant, arch. Raad van Brabant Inventarisnummer 833, vonnisnr. 10.103). Daarentegen zijn van Cornelia Elisabeth du Tour en haar man geen soortgelijke stukken terug te vinden in het huisarchief. Na 1814, als Anna Maria Bouwens is overleden, treedt Onno Adolph Marc Willem de Senarclens de Grancy wel naar voren in dergelijke stukken (zie hiervoor bijv. Inventarisnummers 69-70). Weliswaar was er in 1803 een overeenkomst gesloten over de nalatenschap van Anna Maria Bouwens (Inventarisnummer 58), doch zij was toen nog niet dood en de nalatenschap kon ook toekomen aan de erfgenamen van een van beide partijen. Aangezien Charles de Senarclens de Grancy al in 1804 overlijdt, lijkt het logischer dat het goed is overgegaan op Onno Adolph Marc Willem de Senarclens de Grancy.</p>
+          </note>
+        </p>
+        <p>Hij verwerft in 1819 tevens de heerlijkheid Boxtel met het kasteel Stapelen van Frederik Ernst Otto van Salm Kyrbourg. In 1834 verkoopt hij het aan Gerard Bogaers.
+          <note>
+            <p>Van Oirschot, Kastelen, 28.</p>
+          </note> Na Onno erft zijn zoon Henri Frédéric de Senarclens de Grancy Haanwijk. In 1841 verwerft hij Oud-Herlaar van Johan Verhellouw en P. van Son.
+          <note>
+            <p>Sloots, Herlaer, 7.</p>
+          </note> Omstreeks 1873 erven Guillaume Jules Antoine en Louise Henriëtte Fréderique Sussette de Senarclens de Grancy Haanwijk
+          <note>
+            <p>Guillaume Jules Antoine krijgt het huis Haanwijk en ca. 100 ha. land, zijn zuster Louise, gehuwd met Hendrik Willem Jan Bosch, erft andere delen, die door haar geleidelijk worden verkocht. Overigens is na het overlijden van Henri Frédéric de Senarclens de Grancy de inboedel in het openbaar geveild en heeft het huis leeg gestaan tot omstreeks 1890.</p>
+          </note> .
+        </p>
+        <p>Na de dood van de tweede vrouw van Guillaume Jules Antoine de Senarclens de Grancy vererft Haanwijk aan Berthe Louise Elise en Henriëtte de Senarclens de Grancy. Berthe Louise Elise trouwt met Nicolaas Johannes Bink, die als beheerder optreedt en na de dood van zijn vrouw hertrouwt met Judith Bethlémine Charlotte s' Jacob. In 1971 gaat hij met zijn vrouw wonen in het Vaantje, een oud veerhuis, dat tot het landgoed behoort en in 1967 gerestaureerd is. Na het overlijden van Nicolaas Johannes Bink in 1980 worden Berthe Catherina Bink en haar broer Guillaume Nicolaas eigenaars van Haanwijk. Zij verkopen het gehele landgoed in 1984 aan de stichting Noord-Brabants Landschap; het huis met bijgebouwen en tuin wordt in erfpacht gegeven aan Berthe Catharina Bink.</p>
+        <p>Haanwijk viel onder de heerlijkheid Sint-Michielsgestel, gelegen in het hertogdom Brabant. Aan het hoofd stonden de heren van Herlaar, die Sint-Michielsgestel in leen hadden van de prins-bisschop van Luik. Formeel werd het gezag uitgeoefend door deze heren, maar in de praktijk gebeurde dit in zijn naam door de drost, voor het leven aangesteld, en de zeven schepenen, die door de drost werden benoemd namens de heer. Tussen 1629 en 1735 maakte Sint-Michielsgestel deel uit van Staats-Brabant, vervolgens van Bataafs-Brabant. In 1798 werden alle heerlijke rechten afgeschaft, wat inhield dat het leenhof van Herlaar ook ophield te bestaan. Sint-Michielsgestel viel nu onder het departement van de Dommel. In 1810, toen Nederland beneden de Waal door koning Lodewijk Napoleon aan keizer Napoleon werd overgedragen, kwam Sint-Michielsgestel onder Frans bestuur. Sint-Michielsgestel werd mairie Sint-Michielsgestel, onder leiding van een burgemeester, arrondissement Bois le Duc, departement des Bouches du Rhin. Na de bevrijding in 1814 lag Sint-Michielsgestel in de nieuwe provincie Noord-Brabant en ressorteerde onder het 2e district Boxtel, dat net als de andere districten in 1850 werd opgeheven. Sinds 1851 is het bestuur van de gemeente grotendeels op de wijze die wij nu nog kennen gestructureerd.
+          <note>
+            <p>Kokke, Inventaris, 9-21.</p>
+          </note>
+        </p>
+        <p>Na dit globale overzicht van de geschiedenis van huize Haanwijk en de bestuursinstanties waar het onder ressorteerde, volgt nu een korte beschrijving van de inhoud van het archief.</p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Het archief</emph>
+        </head>
+        <p>Bij akte van inbewaargeving d.d. 1 november 1980 tussen het Rijksarchief in Noord-Brabant en de eigenaresse mevr. J.B.Ch. Bink-s' Jacob werd het huisarchief van Haanwijk naar het Rijksarchief instelling overgebracht.
+          <lb/>
+          <lb/>Tijdens de inventarisatie is een aantal problemen duidelijk naar voren gekomen, waarvan de belangrijkste is dat het huisarchief zeer incompleet is. Dit is af te leiden uit het (nagenoeg geheel) afwezig zijn van stukken uit de periode van 1409-1667, rond 1750 (Casimir von Schlippenbach) en uit de periode 1856 tot nu. Opvallend is dat vanaf 1719 (Marc Willem du Tour) tot 1866 het archief een completere indruk maakt. Toch rijst hier ook het vermoeden dat er stukken verdwenen zijn, omdat er in de eerste plaats toch nog een behoorlijk aantal stukken niet te plaatsen is, en omdat er op veel stukken, ten minste tot in de 19e eeuw, een dorsale aanduiding staat die doet vermoeden dat er veel series zijn geweest, tot en met een serie "H" toe, Overigens, bij veel van de stukken die niet te plaatsen waren, bestaat de mogelijkheid dat ze retroakten zijn geweest bij verdwenen stukken, of dat ze betrekking hebben gehad op pachters van stukken land van Haanwijk. Het is niet uit te sluiten dat van bovengenoemde personen bewust stukken uit het huisarchief zijn weggehaald, hetzij omdat stukken land werden verkocht, hetzij om een andere reden.
+        </p>
+        <p>Wat betreft de aard van de stukken is er weinig te vertellen. Het overheersende karakter van de aanwezige stukken is zakelijk; stukken van persoonlijke aard zijn met name afkomstig uit de 19e eeuw. Vanwege het geringe aantal bescheiden en vanwege de overheersende aanwezigheid van de zakelijke stukken, is de gebruikelijke onderverdeling in stukken van persoonlijke aard en stukken van zakelijke aard achterwege gelaten. Gekozen is voor een indeling per eigenaar van Haanwijk. Dit heeft tot gevolg dat er bij een aantal eigenaren stukken zijn geplaatst die voor andere personen bestemd waren of uit een heel andere tijd stammen. Zo zijn de stukken van Jan Dirk Godschalcxzoon en zijn zoon Jan Dirk (lopend van 1527 tot 1567) onder de families Aben, Morre en Van Gerwen geplaatst, omdat voorlopig is gebleken dat zij geen eigenaar zijn geweest van Haanwijk.
+          <note>
+            <p>Inv. nrs. 4, 5. Zie tevens de retroakten bij inv. nr. 25.</p>
+          </note> Van de Van Gerwens zelf zijn slechts twee stukken aanwezig, beide van Hillegonde, een dochter van Willem van Gerwen.
+          <note>
+            <p>In inv. nr. 7 komt de naam Hillegonde naar voren in verband met Haanwijk; helaas staat in de desbetreffende stukken niet haar afkomst omschreven; onderzoek leverde op dat Willem van Gerwen een dochter heeft gehad die Hillegonde heette en rond deze tijd leefde (van Schijndel, "Families", 88); het is dan ook logisch om aan te nemen dat Hillegonde van Gerwen bedoeld is. Spierings, Vrijdom, 75-76; B.W. van Schijndel, "Oude Brabantse families. 3. Van Gerwen", De Brabantse Leeuw 7 (1956) 88.</p>
+          </note>
+        </p>
+        <p>Verder is er onder Maarten Christiaan Sweerts de Landas een akte van overdracht terug te vinden die gericht is aan Albert van Eijl; deze heeft gewoond in een bouwhoeve van Haanwijk.
+          <note>
+            <p>Van Sasse van Ysselt, Huizen, II 270; inv. nr. 23.</p>
+          </note> Onder Marc Willem du Tour is een akte van overdracht bestemd voor Johanna van Strijp ondergebracht. Zij was de gescheiden vrouw van Hendrik van Eijl, een nakomeling van Albert.
+          <note>
+            <p>Inv. nr. 30.</p>
+          </note> Onder Onno Tamminga du Tour zijn stukken geplaatst die betrekking hebben op Nieuw-Herlaar, aangezien hij het in 1773 heeft gekocht van de erfgenamen van Barbara 't Scharner, weduwe van Gideon Herman Clemens, predikant. Zij hadden Nieuw-Herlaar gekocht van Johan Adriaan Ruysch.
+          <note>
+            <p>Inv. nrs. 32-36; Sloots, Herlaer, 17.</p>
+          </note> Onder Henri Frédéric de Senarclens de Grancy zijn de stukken ondergebracht die betrekking hebben op Oud-Herlaar, aangezien hij dat in 1841 opkocht.
+          <note>
+            <p>Inv. nrs. 75-76; Sloots, Herlaer, 7.</p>
+          </note>
+        </p>
+        <p>Eveneens zijn de stukken van de nakomelingen en andere familieleden onder de eigenaar geplaatst, met wie zij gelijktijdig op Haanwijk moeten hebben gewoond; dit is het geval met de erfgenamen van Jacob Ferdinand Sweerts, met Wilhelmina du Tour, Sara Cornelia Jacoba du Tour, die trouwde met Adolph Lodewijk Willem van Sayn Wittgenstein Berleburg, Cornelia Elisabeth du Tour (1760-1838), getrouwd met Charles Paul Louis Auguste de Senarclens de Grancy (1757-1804), waardoor Haanwijk uiteindelijk via hun zoon Onno Adolph Marc Willem de Senarclens de Grancy in handen van de familie De Senarclens de Grancy kwam, Jan Carel du Tour, Jeane Otteline de Senarclens de Grancy, Charles Pierre de Senarclens de Grancy (1815-1878), getrouwd met Wilhelmina Martini van Geffen (1818-1898), en tenslotte Antoinette Wilhelmine de Senarclens de Grancy.
+          <note>
+            <p>Inv. nrs. 14, 47, 49, 50, 55, 58, 59, 67, 60, 81, 94.</p>
+          </note> 
+          <lb/>
+          <lb/>Een laatste probleem dient nog aangestipt te worden: dat van de chronologie van de akten van overdracht van de schepenen van 's-Hertogenbosch en van de schepenen van St.-Michielsgestel. De schepenen van 's-Hertogenbosch hielden tot en met december 1575 de zgn. Paasstijl aan,
+          <note>
+            <p>Mijn dank hiervoor aan de heer J. Hoekx van het stadsarchief 's-Hertogenbosch.</p>
+          </note> wat inhield dat het jaar bij hen wisselde tijdens Pasen in plaats van op 1 januari. Van de schepenen van St.-Michielsgestel is niet bekend of ze de Paasstijl volgden. In ieder geval blijkt uit inv. nr. 9 dat er in dat jaar geen Paasstijl door hen wordt gevolgd. Deze akte is namelijk gedateerd op 18 april 1565, terwijl Pasen in dat jaar op 22 april viel, en in 1566 op 14 april. Als nu de Paasstijl is gevolgd, kan deze datum niet bestaan. Bij de regesten staat aangegeven of de datum van het stuk overeenstemt met de huidige datering.
+          <lb/>
+          <lb/>Rijksarchief in Noord-Brabant, 1993
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Aanwijzingen voor de gebruiker</emph>
+        </head>
+        <p>Verwijzing naar archiefstukken uit dit archief geschiedt door
+          <lb/>(volledig): 
+          <emph render="italic">Brabants Historisch Informatie Centrum, toegangsnummer 278 Huis Haanwijk in Sint-Michielsgestel, 1393-1923</emph>, inv.nr. ...
+          <lb/>(verkort): 
+          <emph render="italic">BHIC, 278 Huis Haanwijk</emph>, inv.nr. ...
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Bijlage: overzicht van eigenaren</emph>
+        </head>
+        <p/>
+      </odd>
+    </odd>
+    <dsc type="combined">
+      <c01 level="series">
+        <did id="MF911539">
+          <unitid type="guid">8B19D135E1304DA8A8654BD2798482EE</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Sterken, periode 1409, inventarisnr 1</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1393/1923"/>
+        </did>
+        <c02 level="file">
+          <did id="MF911540">
+            <unitid type="guid">6D634C39D6EA48289E6243E694EC40BE</unitid>
+            <unitid>1</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6D634C39D6EA48289E6243E694EC40BE</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Walter Coelborner en Hendrik Bisscop, man en voogd van Geertruid, dochter van Walter, aan Aart Sterken, van perceel land bij Herlaar, 1409</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1409">1409</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 2.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Walter Coelborner en Hendrik Bisscop, man en voogd van Geertruid, dochter van Walter, aan Aart Sterken, van perceel land bij Herlaar, 1409</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6D634C39D6EA48289E6243E694EC40BE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF911541">
+          <unitid type="guid">2995A0707CFB410380D184CCE3B32DAF</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Aben en Morre, periode 1457 - 1531, inventarisnrs 2 - 5</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1393/1923"/>
+        </did>
+        <c02 level="file">
+          <did id="MF911542">
+            <unitid type="guid">0DE6EED2C87F4E7DAE134F00874CC0E0</unitid>
+            <unitid>2</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0DE6EED2C87F4E7DAE134F00874CC0E0</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Jan Jan Rutgerszn, aan Willem Reijnier Morre, namens een oom, van ½ houtwas in 't Nuwe lant, aan Honsche Straat, 1457</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1457">1457</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 6.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Jan Jan Rutgerszn, aan Willem Reijnier Morre, namens een oom, van ½ houtwas in 't Nuwe lant, aan Honsche Straat, 1457</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0DE6EED2C87F4E7DAE134F00874CC0E0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911543">
+            <unitid type="guid">B3089CFF8DEB43D5BA9761CEE24FA24A</unitid>
+            <unitid>3</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B3089CFF8DEB43D5BA9761CEE24FA24A</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Wouter Arnold  Willemszn, aan Reijnier Morre van perceel bouw -  en weiland bij Haanwijk, 1482&lt;br/&gt;Met ouder bewijsstuk van 1466</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1466/1482"/>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 7 en 9.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Wouter Arnold  Willemszn, aan Reijnier Morre van perceel bouw -  en weiland bij Haanwijk, 1482&lt;br/&gt;Met ouder bewijsstuk van 1466</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B3089CFF8DEB43D5BA9761CEE24FA24A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911544">
+            <unitid type="guid">92B5627E79F34F86A1FF40CAE75F74A9</unitid>
+            <unitid>4</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/92B5627E79F34F86A1FF40CAE75F74A9</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Klaas Spierink Anthoniszn, aan Jan Dirk Godschalkszn van hooiveld 'In Den Mortel' bij Haanwijk, met vertaling uit 20e eeuw, 1527</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1527">1527</unitdate>
+            <physdesc>1 charter en 1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <odd type="OPMERKING SCANS">
+            <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Klaas Spierink Anthoniszn, aan Jan Dirk Godschalkszn van hooiveld 'In Den Mortel' bij Haanwijk, met vertaling uit 20e eeuw, 1527</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/92B5627E79F34F86A1FF40CAE75F74A9" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911545">
+            <unitid type="guid">CED7D0ED495D462A873D5C35808D9FCC</unitid>
+            <unitid>5</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CED7D0ED495D462A873D5C35808D9FCC</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Aleit Aben, aan haar kinderen uit haar huwelijk met wijlen Jan Joost Vinkenschot, van akkerland 'Ven Ecker' aan Venstraat bij Haanwijk, 1531&lt;br/&gt;Akte van overdracht, door kinderen van Aleit, aan Jan Dirk Godschalkszn, 1531&lt;br/&gt;Akte van overdracht, door Aleit en haar kinderen, aan Jan Dirk Godschalkszn, 1531</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1531">1531</unitdate>
+            <physdesc>3 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Kinderen van Aleit Aben uit haar huwelijk met wijlen Jan Joost Vinkenschot waren: Joost, Peter, Gijsbert, Katrien en Aleit.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Aleit Aben, aan haar kinderen uit haar huwelijk met wijlen Jan Joost Vinkenschot, van akkerland 'Ven Ecker' aan Venstraat bij Haanwijk, 1531&lt;br/&gt;Akte van overdracht, door kinderen van Aleit, aan Jan Dirk Godschalkszn, 1531&lt;br/&gt;Akte van overdracht, door Aleit en haar kinderen, aan Jan Dirk Godschalkszn, 1531</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CED7D0ED495D462A873D5C35808D9FCC" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF911546">
+          <unitid type="guid">40BCA66E58904DD7A9C806AE0A3BD46B</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Van Gerwen, periode 1444 - 1567, inventarisnrs 6 - 8</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1393/1923"/>
+        </did>
+        <c02 level="file">
+          <did id="MF911547">
+            <unitid type="guid">9D85E402F50840508D76FA6E286712A1</unitid>
+            <unitid>6</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9D85E402F50840508D76FA6E286712A1</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van Vught, door Frans Jacobzn, als man en voogd van Lijsken zijn huisvrouw, aan Jan Dirck Godscalckszn, van ¼ perceel houtland genaamd  'Haendonk', 1554, 1554</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1554">1554</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van Vught, door Frans Jacobzn, als man en voogd van Lijsken zijn huisvrouw, aan Jan Dirck Godscalckszn, van ¼ perceel houtland genaamd  'Haendonk', 1554, 1554</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9D85E402F50840508D76FA6E286712A1" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911548">
+            <unitid type="guid">4BF2C6848A6947DAA537E39E42631C9B</unitid>
+            <unitid>7</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4BF2C6848A6947DAA537E39E42631C9B</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Hillegonde van Gerwen, aan haar kinderen uit haar huwelijk met wijlen Engbert Vos, van vruchtgebruik van heerland van Haanwijk 'Den Hoevel' en perceel land 'Drie Geswaen' in Rumelse Beemden bij Haanwijk, 1456&lt;br/&gt;Akte van overdracht, door kinderen van Hillegonde en hun voogden, aan Willem Jacob Robrechtszn van voornoemde land, 1456&lt;br/&gt;Met oudere bewijstukken van 1444 - 1453, 1556</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1444/1556">1556</unitdate>
+            <physdesc>4 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Kinderen van Hillegonde van Gerwen uit haar huwelijk met wijlen Engbert Vos waren:  Andree, Heilwig en Anne. Lambert Zuring trad op als man en voogd van Heilwig, en Jasper Sparrenbosch, als man en voogd van Anne. Regestnr 4 - 5.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Hillegonde van Gerwen, aan haar kinderen uit haar huwelijk met wijlen Engbert Vos, van vruchtgebruik van heerland van Haanwijk 'Den Hoevel' en perceel land 'Drie Geswaen' in Rumelse Beemden bij Haanwijk, 1456&lt;br/&gt;Akte van overdracht, door kinderen van Hillegonde en hun voogden, aan Willem Jacob Robrechtszn van voornoemde land, 1456&lt;br/&gt;Met oudere bewijstukken van 1444 - 1453, 1556</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/4BF2C6848A6947DAA537E39E42631C9B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911549">
+            <unitid type="guid">2B94B53EE76844BDA4BDDBBB2F7930DB</unitid>
+            <unitid>8</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2B94B53EE76844BDA4BDDBBB2F7930DB</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Elian Peters Elian en Peter Jan van der Loo, als voogd voor dochter van Peters Elian, aan Jan Jan Dirkszn, van 5 lopense land, deels akkerland en deels houtwas bij Haanwijk in De Braek, 1567</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1567">1567</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Elian Peters Elian en Peter Jan van der Loo, als voogd voor dochter van Peters Elian, aan Jan Jan Dirkszn, van 5 lopense land, deels akkerland en deels houtwas bij Haanwijk in De Braek, 1567</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2B94B53EE76844BDA4BDDBBB2F7930DB" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF911550">
+          <unitid type="guid">3C2138EAC14F414181D0D5231F2CB2A0</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Jacob Sweerts, alias Zuerius, periode 1642 - 1667, inventarisnrs 9 - 10</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1393/1923"/>
+        </did>
+        <c02 level="file">
+          <did id="MF911551">
+            <unitid type="guid">35F784C6C1CB47C48C42481CA2A16B11</unitid>
+            <unitid>9</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/35F784C6C1CB47C48C42481CA2A16B11</unitid>
+            <unittitle>Kwitantie van Frans M. van der Merendonk, voor Zuerius, wegens verkoop erfenis van eerstgenoemde, 1642</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1642">1642</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Getrouwd met Johanna Lopes de Villanova, overleden 1673.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911552">
+            <unitid type="guid">018B32EFDA6F49F98F42D0DAB64CA630</unitid>
+            <unitid>10</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/018B32EFDA6F49F98F42D0DAB64CA630</unitid>
+            <unittitle>Gunstige beschikking van Raad van State, op verzoekschrift van Johanna Lopes de Villanova tot aankoop van 3 lopense heiveld van zusters van Orthen, liggend als enclave in landerijen bij Haanwijk, 1667</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1667">1667</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Getrouwd met Johanna Lopes de Villanova, overleden 1673.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF911553">
+          <unitid type="guid">EC2B990A9CAF46E1AF2303B406019F0B</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Jacob Ferdinand Sweerts, periode 1393 - 1665, inventarisnrs 11 - 14</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1393/1923"/>
+        </did>
+        <c02 level="file">
+          <did id="MF911554">
+            <unitid type="guid">5EA565C4903240F89E014E3641D9F6B6</unitid>
+            <unitid>11</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5EA565C4903240F89E014E3641D9F6B6</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van Vught, door Hendrik Heijm, aan Jacob F. Sweerts, van akkerland 'In de Vuchter Ackeren', 1660</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1660">1660</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Jacob was getrouwd met baronesse van Hetkler (overleden 1678), hertrouwd met Elisabeth van Els tot Boedelham.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van Vught, door Hendrik Heijm, aan Jacob F. Sweerts, van akkerland 'In de Vuchter Ackeren', 1660</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5EA565C4903240F89E014E3641D9F6B6" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911555">
+            <unitid type="guid">42BA4EBC5BD84A36960C8C88C6D65601</unitid>
+            <unitid>12</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/42BA4EBC5BD84A36960C8C88C6D65601</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Hendrik le Lyon, rentmeester heerlijkheid Sint-Michielsgestel, gemachtigd door Elisabeth, vrouwe van Sint-Michielsgestel en Oud-Herlaar en markgravin van Bergen op Zoom, aan Jacob F. Sweerts, van erfrecht op perceel land 'Den Dam' en perceel weiland, met kwitantie, 1661</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1661">1661</unitdate>
+            <physdesc>1 charter en 1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Jacob was getrouwd met baronesse van Hetkler (overleden 1678), hertrouwd met Elisabeth van Els tot Boedelham.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <odd type="OPMERKING SCANS">
+            <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Hendrik le Lyon, rentmeester heerlijkheid Sint-Michielsgestel, gemachtigd door Elisabeth, vrouwe van Sint-Michielsgestel en Oud-Herlaar en markgravin van Bergen op Zoom, aan Jacob F. Sweerts, van erfrecht op perceel land 'Den Dam' en perceel weiland, met kwitantie, 1661</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/42BA4EBC5BD84A36960C8C88C6D65601" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911556">
+            <unitid type="guid">43750201D43547B2B3E5FC175ED30407</unitid>
+            <unitid>13</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/43750201D43547B2B3E5FC175ED30407</unitid>
+            <unittitle>Kwitantie van G. van Loienburg, voor Jacob F. Sweerts, wegens pacht van 12 loop rogge, uit land in Thede bij Sint-Michielsgestel, 1665&lt;br/&gt;Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Goeswinus van Loke, aan zijn zuster Clementia en haar kinderen Gerard en Aleit, 1393&lt;br/&gt;Oudere bewijstukken, 1420 - 1491</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1393/1665"/>
+            <physdesc>4 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 1, 3, 8 en 12.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Kwitantie van G. van Loienburg, voor Jacob F. Sweerts, wegens pacht van 12 loop rogge, uit land in Thede bij Sint-Michielsgestel, 1665&lt;br/&gt;Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Goeswinus van Loke, aan zijn zuster Clementia en haar kinderen Gerard en Aleit, 1393&lt;br/&gt;Oudere bewijstukken, 1420 - 1491</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/43750201D43547B2B3E5FC175ED30407" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911557">
+            <unitid type="guid">8A3C3D56294244528598EC009AE9EF23</unitid>
+            <unitid>14</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8A3C3D56294244528598EC009AE9EF23</unitid>
+            <unittitle>Akte van verkoop, aan Adriaan Verkuilen, als vertegenwoordiger erfgenamen van Sweerts, van perceel land 'Corsbemde' aan de Dommel bij Haanwijk, afkomstig van Joost A. Witttich en Huibert Daniëls, 1665&lt;br/&gt;Gelijktijdige authentieke kopie van taxatie voornoemd perceel land door schepenen van Sint-Michielsgestel, 1665&lt;br/&gt;Oudere bewijstukken, 1651 - 1657</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1651/1665"/>
+            <physdesc>1 charter en 1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <odd type="OPMERKING SCANS">
+            <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop, aan Adriaan Verkuilen, als vertegenwoordiger erfgenamen van Sweerts, van perceel land 'Corsbemde' aan de Dommel bij Haanwijk, afkomstig van Joost A. Witttich en Huibert Daniëls, 1665&lt;br/&gt;Gelijktijdige authentieke kopie van taxatie voornoemd perceel land door schepenen van Sint-Michielsgestel, 1665&lt;br/&gt;Oudere bewijstukken, 1651 - 1657</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/8A3C3D56294244528598EC009AE9EF23" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF911558">
+          <unitid type="guid">7969D1A9A57F4978B2C1ABDA54278D81</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Maarten Christiaan Sweerts de Landas, periode 1584 - 1713, inventarisnrs 15 - 24</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1393/1923"/>
+        </did>
+        <c02 level="file">
+          <did id="MF911559">
+            <unitid type="guid">F08DE3A6C06446359CFAF6B74CDD350B</unitid>
+            <unitid>15</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F08DE3A6C06446359CFAF6B74CDD350B</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Hendrik Corsten van de Brant, aan Maarten C. Sweerts de Landas, van perceel land 't Broeck in Sint-Michielsgestel, 1679</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1679">1679</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Maarten was getrouwd met Clementia Geertruid van Els tot Boedelham (overleden 1731).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Hendrik Corsten van de Brant, aan Maarten C. Sweerts de Landas, van perceel land 't Broeck in Sint-Michielsgestel, 1679</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F08DE3A6C06446359CFAF6B74CDD350B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911560">
+            <unitid type="guid">57F667CE61CC4C328FB8B271E9898589</unitid>
+            <unitid>16</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/57F667CE61CC4C328FB8B271E9898589</unitid>
+            <unittitle>Akte van koop, door Maarten C. Sweerts de Landas, van huis met land, afkomstig van Johan Ariens van Berlicum, 1680&lt;br/&gt;Ouder bewijsstuk, 1662</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1662/1680"/>
+            <physdesc>1 charter en 1 omslag</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <odd type="OPMERKING SCANS">
+            <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van koop, door Maarten C. Sweerts de Landas, van huis met land, afkomstig van Johan Ariens van Berlicum, 1680&lt;br/&gt;Ouder bewijsstuk, 1662</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/57F667CE61CC4C328FB8B271E9898589" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911561">
+            <unitid type="guid">6D23171DB5BA4728AAAC7A0F268BEA5A</unitid>
+            <unitid>17</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6D23171DB5BA4728AAAC7A0F268BEA5A</unitid>
+            <unittitle>Gunstige beschikkingen van Raad van State op verzoekschriften van Maarten C. Sweerts de Landas, over aankopen van 2 houtveldjes bij Haanwijk, in bezit heer van Deurne, met kwitanties, 1684 - 1685</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1684/1685">1684 - 1685</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911562">
+            <unitid type="guid">230D0B1A8BAC42F19BEB1B9F4327BAEE</unitid>
+            <unitid>18</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/230D0B1A8BAC42F19BEB1B9F4327BAEE</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Adriaan Stanse Meulemakers, aan kinderen uit zijn huwelijk met wijlen Liesbeth van Beek, van 4 heivelden bij De Draeyboom en De Dyk in Vught, die vervolgens worden overgedragen aan Maarten C. Sweerts de Landas, 1687&lt;br/&gt;Ouder bewijsstuk, 1584</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1584/1687"/>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Kinderen waren: Hendrina en Allegonde.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Adriaan Stanse Meulemakers, aan kinderen uit zijn huwelijk met wijlen Liesbeth van Beek, van 4 heivelden bij De Draeyboom en De Dyk in Vught, die vervolgens worden overgedragen aan Maarten C. Sweerts de Landas, 1687&lt;br/&gt;Ouder bewijsstuk, 1584</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/230D0B1A8BAC42F19BEB1B9F4327BAEE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911563">
+            <unitid type="guid">B18666C1D9CF4A9F984FE6E06C01D0AC</unitid>
+            <unitid>19</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B18666C1D9CF4A9F984FE6E06C01D0AC</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Anna M. Suiskens en haar voogd Paul Suiskens, aan Maarten C. Sweerts de Landas, van perceel wei- en akkerland, met hooibeemd en houtwas 'Fortveldeke op de Haenwijkse ackers', met kwitantie, 1696</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1696">1696</unitdate>
+            <physdesc>1 charter en 1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <odd type="OPMERKING SCANS">
+            <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Anna M. Suiskens en haar voogd Paul Suiskens, aan Maarten C. Sweerts de Landas, van perceel wei- en akkerland, met hooibeemd en houtwas 'Fortveldeke op de Haenwijkse ackers', met kwitantie, 1696</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B18666C1D9CF4A9F984FE6E06C01D0AC" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911564">
+            <unitid type="guid">6980F5DAEEC146F882C4168DA77917AD</unitid>
+            <unitid>20</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6980F5DAEEC146F882C4168DA77917AD</unitid>
+            <unittitle>Akte van verklaring, door Cornelis Akkerdijk, advocaat leenhof van Oud-Herlaar, op verzoek van Theodoor d'Adama en Maarten C. Sweerts de Landas, over overdracht perceel land, leenroerig aan Oud-Herlaar, 1700</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1700">1700</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911565">
+            <unitid type="guid">85D2EB2A3ED24ADDBD46A0469FB7F309</unitid>
+            <unitid>21</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/85D2EB2A3ED24ADDBD46A0469FB7F309</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Jan Wouters en Peter Wouters Beisteren, aan Maarten C. Sweerts de Landas, van 5 lopense bouwland op Boonackeren aan mestweg bij Haanwijk, met kwitantie, 1701&lt;br/&gt;Ouder bewijsstuk, 1644</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1644/1701"/>
+            <physdesc>2 charters en 1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <odd type="OPMERKING SCANS">
+            <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Jan Wouters en Peter Wouters Beisteren, aan Maarten C. Sweerts de Landas, van 5 lopense bouwland op Boonackeren aan mestweg bij Haanwijk, met kwitantie, 1701&lt;br/&gt;Ouder bewijsstuk, 1644</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/85D2EB2A3ED24ADDBD46A0469FB7F309" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911566">
+            <unitid type="guid">5F4D0360CB784FC4AC623849F5BB3CF2</unitid>
+            <unitid>22</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5F4D0360CB784FC4AC623849F5BB3CF2</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Frederik H. Sweerts de Landas, aan Clementia G. van Els tot Boedelham, van 1/5e deel van Haanwijk en hooiveld 'Waertjen' bij Sint-Michielsgestel, met kwitantie, 1705</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1705">1705</unitdate>
+            <physdesc>1 charter en 1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Maarten was getrouwd met Clementia Geertruid van Els tot Boedelham (overleden 1731).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <odd type="OPMERKING SCANS">
+            <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Frederik H. Sweerts de Landas, aan Clementia G. van Els tot Boedelham, van 1/5e deel van Haanwijk en hooiveld 'Waertjen' bij Sint-Michielsgestel, met kwitantie, 1705</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5F4D0360CB784FC4AC623849F5BB3CF2" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911567">
+            <unitid type="guid">4131F9B10D0D4F289005CE9D91BB7F25</unitid>
+            <unitid>23</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4131F9B10D0D4F289005CE9D91BB7F25</unitid>
+            <unittitle>Akten van koop, door Clementia G. van Els tot Boedelham, van perceel hooibeemd buiten Halderse Dijk aan Het Meer in Vught, 1710 - 1713</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1710/1713">1710 - 1713</unitdate>
+            <physdesc>4 charters en 1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Maarten was getrouwd met Clementia Geertruid van Els tot Boedelham (overleden 1731).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <odd type="OPMERKING SCANS">
+            <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten van koop, door Clementia G. van Els tot Boedelham, van perceel hooibeemd buiten Halderse Dijk aan Het Meer in Vught, 1710 - 1713</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/4131F9B10D0D4F289005CE9D91BB7F25" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911568">
+            <unitid type="guid">E52972BF588543A98FB0DBE57ECFB706</unitid>
+            <unitid>24</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E52972BF588543A98FB0DBE57ECFB706</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door François van Grinsven, aan Albert van Eijl, van perceel weiland 'Ouden Beemt in de Houw achter de Pettelaar', 1711</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1711">1711</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door François van Grinsven, aan Albert van Eijl, van perceel weiland 'Ouden Beemt in de Houw achter de Pettelaar', 1711</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E52972BF588543A98FB0DBE57ECFB706" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF911569">
+          <unitid type="guid">16ACE32AC4C844278FD828FE27CB2C16</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Marc Willem Du Tour, periode 1486 - 1735, inventarisnrs 25 - 31</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1393/1923"/>
+        </did>
+        <c02 level="file">
+          <did id="MF911570">
+            <unitid type="guid">2673D187380F430EA1ED44966A9743FD</unitid>
+            <unitid>25</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2673D187380F430EA1ED44966A9743FD</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Hendrik J. van Eindhoven, aan Marc W. du Tour, van bouwland in De Houw, met kwitantie, 1728&lt;br/&gt;Oudere bewijstukken, 1486 - 1719</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1486/1728"/>
+            <physdesc>7 charters en 1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Marc was getrouwd met Christina Clementia Sweerts de Landas (1678 - 1726). Regestnrs 10 en 11. Akte regestnr 10 is beschadigd.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <odd type="OPMERKING SCANS">
+            <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Hendrik J. van Eindhoven, aan Marc W. du Tour, van bouwland in De Houw, met kwitantie, 1728&lt;br/&gt;Oudere bewijstukken, 1486 - 1719</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2673D187380F430EA1ED44966A9743FD" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911571">
+            <unitid type="guid">23346D6A48124B679AF6C5A099309089</unitid>
+            <unitid>26</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/23346D6A48124B679AF6C5A099309089</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door erfgenamen van Thomas Minten, van Johan van Hedel, van Jasper Gast, van Johannes Potters, van Gijsbert van Grinsven, van Guilliam van Campen, aan Marc W. du Tour, van akkerland 'Hoge Braak', samen met 'Het Driesken' in Sint-Michielsgestel, 1728</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1728">1728</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Marc was getrouwd met Christina Clementia Sweerts de Landas (1678 - 1726).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door erfgenamen van Thomas Minten, van Johan van Hedel, van Jasper Gast, van Johannes Potters, van Gijsbert van Grinsven, van Guilliam van Campen, aan Marc W. du Tour, van akkerland 'Hoge Braak', samen met 'Het Driesken' in Sint-Michielsgestel, 1728</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/23346D6A48124B679AF6C5A099309089" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911572">
+            <unitid type="guid">A710BA3DCE4A4C9EAB8E2A90613959DC</unitid>
+            <unitid>27</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A710BA3DCE4A4C9EAB8E2A90613959DC</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Jacob D. Sweerts de Landas, aan Marc W. du Tour, van perceel grasveld 'Voort' bij Haanwijk, 1728</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1728">1728</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Marc was getrouwd met Christina Clementia Sweerts de Landas (1678 - 1726).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Jacob D. Sweerts de Landas, aan Marc W. du Tour, van perceel grasveld 'Voort' bij Haanwijk, 1728</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A710BA3DCE4A4C9EAB8E2A90613959DC" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911573">
+            <unitid type="guid">5E36D60E5A944E9F8CAC0C5DD7A995FE</unitid>
+            <unitid>28</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5E36D60E5A944E9F8CAC0C5DD7A995FE</unitid>
+            <unittitle>Gunstige beschikking van Raad van State, op verzoekschrift van Marc W. du Tour, over in erfpacht nemen van perceel Windmolenberg op de Pettelaar bij Sint-Michielsgestel, 1731&lt;br/&gt;Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Louis Verster, gemachtigde van Johan Gansneb alias Tengnagel, 1731</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1731"/>
+            <physdesc>1 charter en 1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Marc was getrouwd met Christina Clementia Sweerts de Landas (1678 - 1726). Johan Gansneb alias Tengnagel was raad en rentmeester van episcopale en andere geestelijke goederen in de stad 's-Hertogenbosch en de Meierij.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <odd type="OPMERKING SCANS">
+            <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Gunstige beschikking van Raad van State, op verzoekschrift van Marc W. du Tour, over in erfpacht nemen van perceel Windmolenberg op de Pettelaar bij Sint-Michielsgestel, 1731&lt;br/&gt;Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Louis Verster, gemachtigde van Johan Gansneb alias Tengnagel, 1731</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5E36D60E5A944E9F8CAC0C5DD7A995FE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911574">
+            <unitid type="guid">C2A1CD92656B484CAF14680156BC1D38</unitid>
+            <unitid>29</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C2A1CD92656B484CAF14680156BC1D38</unitid>
+            <unittitle>Koop door Marc W. du Tour, van huis met land van wijlen Frans J. Haarwasser bij Haanwijk, afkomstig van Huibert van Zeeland, Hendrik Peters van der Meijden en Anthonie Penninks, executeurs-testamentair en voogden onmondige kinderen van voornoemde Frans, 1731 - 1734</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1731/1734">1731 - 1734</unitdate>
+          </did>
+          <scopecontent>
+            <p>Marc was getrouwd met Christina Clementia Sweerts de Landas (1678 - 1726).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911575">
+            <unitid type="guid">D3B814BC5AFC44C99CEED0B6FAB38712</unitid>
+            <unitid>30</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D3B814BC5AFC44C99CEED0B6FAB38712</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch door Hendrik Verhare, eigenaar van helft en 8 eigenaars van andere helft, aan Johanna van Strijp, van bouwland 'Berkewal in Helvoirtse Akkers' in Sint-Michielsgestel, 1735&lt;br/&gt;Ouder bewijsstuk, 1722</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1722/1735"/>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Marc was getrouwd met Christina Clementia Sweerts de Landas (1678 - 1726).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch door Hendrik Verhare, eigenaar van helft en 8 eigenaars van andere helft, aan Johanna van Strijp, van bouwland 'Berkewal in Helvoirtse Akkers' in Sint-Michielsgestel, 1735&lt;br/&gt;Ouder bewijsstuk, 1722</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D3B814BC5AFC44C99CEED0B6FAB38712" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911576">
+            <unitid type="guid">323F6CC96B424704A3EB29921B45E45C</unitid>
+            <unitid>31</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/323F6CC96B424704A3EB29921B45E45C</unitid>
+            <unittitle>Verzoek aan Christina C. Sweerts de Landas, tot ontheffing tienden over perceel land 'Windmolenberg', 18e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1700/1800">18e eeuw</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Marc was getrouwd met Christina Clementia Sweerts de Landas (1678 - 1726).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF911577">
+          <unitid type="guid">EC8382387F7445449865FAF720C0AF3E</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Onno Tamminga Du Tour, periode 1660 - 1814, inventarisnrs 32 - 63</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1393/1923"/>
+        </did>
+        <c02 level="file">
+          <did id="MF911578">
+            <unitid type="guid">C29A4DE0C34744A6AB964E78933BFA18</unitid>
+            <unitid>32</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C29A4DE0C34744A6AB964E78933BFA18</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Isaak Elsevier, aan Gijsbert Carsmans, van erfrecht op 3 morgen hooiland in de waarden bij Nieuw-Herlaar, 1660</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1660">1660</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Isaak Elsevier, aan Gijsbert Carsmans, van erfrecht op 3 morgen hooiland in de waarden bij Nieuw-Herlaar, 1660</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C29A4DE0C34744A6AB964E78933BFA18" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911579">
+            <unitid type="guid">82B3557628594E6C9DD842F3CD5FE6C7</unitid>
+            <unitid>33</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/82B3557628594E6C9DD842F3CD5FE6C7</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Lambert Millinck van Gerwen, aan Johan A. Ruysch, van deel van Nieuw-Herlaar, 1714</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1714">1714</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Lambert Millinck van Gerwen, aan Johan A. Ruysch, van deel van Nieuw-Herlaar, 1714</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/82B3557628594E6C9DD842F3CD5FE6C7" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911580">
+            <unitid type="guid">9979E0F86E984CC9AD55FDCA607D3B97</unitid>
+            <unitid>34</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9979E0F86E984CC9AD55FDCA607D3B97</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Lambert Millinck van Gerwen, aan Johan A. Ruysch, van percelen land behorend tot Nieuw-Herlaar, 1716</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1716">1716</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Lambert Millinck van Gerwen, aan Johan A. Ruysch, van percelen land behorend tot Nieuw-Herlaar, 1716</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9979E0F86E984CC9AD55FDCA607D3B97" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911581">
+            <unitid type="guid">09A75D29C0334C94833A0F461943BC09</unitid>
+            <unitid>35</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/09A75D29C0334C94833A0F461943BC09</unitid>
+            <unittitle>Kwitantie van D. Bosankendaal, voor Christiaan A. Ruysch, wegens aflossing hypotheek op deel goederen van Nieuw-Herlaar, ten gunste van Johan Crayveld, 1750&lt;br/&gt;Akte van hypotheek, verleden voor schepenen van 's-Hertogenbosch, 1744&lt;br/&gt;Akte van belening leenhof van Oud-Herlaar, 1745</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1744/1750"/>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk. Charters zijn aan elkaar gehecht.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Kwitantie van D. Bosankendaal, voor Christiaan A. Ruysch, wegens aflossing hypotheek op deel goederen van Nieuw-Herlaar, ten gunste van Johan Crayveld, 1750&lt;br/&gt;Akte van hypotheek, verleden voor schepenen van 's-Hertogenbosch, 1744&lt;br/&gt;Akte van belening leenhof van Oud-Herlaar, 1745</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/09A75D29C0334C94833A0F461943BC09" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911582">
+            <unitid type="guid">5F7D9E30C9D94237959E19E12F21F89E</unitid>
+            <unitid>36</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5F7D9E30C9D94237959E19E12F21F89E</unitid>
+            <unittitle>Akte van belening, verleden voor leenhof van Oud-Herlaar, voor Herman G. Clemens, door zijn vrouw Barbara 't Scharner, van deel van Nieuw-Herlaar, 1750</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1750">1750</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van belening, verleden voor leenhof van Oud-Herlaar, voor Herman G. Clemens, door zijn vrouw Barbara 't Scharner, van deel van Nieuw-Herlaar, 1750</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5F7D9E30C9D94237959E19E12F21F89E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911583">
+            <unitid type="guid">871F80594C6A44099535B39E04D62580</unitid>
+            <unitid>37</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/871F80594C6A44099535B39E04D62580</unitid>
+            <unittitle>Rekeningen en kwitanties, van H. Bossée, voor Onno T. du Tour, 1755 - 1765</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1755/1765">1755 - 1765</unitdate>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Rekeningen en kwitanties, van H. Bossée, voor Onno T. du Tour, 1755 - 1765</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/871F80594C6A44099535B39E04D62580" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911584">
+            <unitid type="guid">959BA3E9BFCA4D21887E496D7D2258BF</unitid>
+            <unitid>38</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/959BA3E9BFCA4D21887E496D7D2258BF</unitid>
+            <unittitle>Afhandeling nalatenschap Sara C. van Marcelis, weduwe Jan L. Bouwens, 1756 - 1759</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1756/1759">1756 - 1759</unitdate>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911585">
+            <unitid type="guid">5DD21DB9D6474E73A61E0646CBC5C7CB</unitid>
+            <unitid>39</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5DD21DB9D6474E73A61E0646CBC5C7CB</unitid>
+            <unittitle>Akte van overdacht, verleden voor schepenen van 's-Hertogenbosch, door A. Clerks, voogd en man van M. Donkers, aan Onno T. du Tour, van perceel akkerland 'Sneppenscheut' bij Haanwijk, met kwitantie, 1758&lt;br/&gt;Oudere bewijstukken, 1665</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1665/1758"/>
+            <physdesc>1 charter en 1 omslag</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <odd type="OPMERKING SCANS">
+            <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdacht, verleden voor schepenen van 's-Hertogenbosch, door A. Clerks, voogd en man van M. Donkers, aan Onno T. du Tour, van perceel akkerland 'Sneppenscheut' bij Haanwijk, met kwitantie, 1758&lt;br/&gt;Oudere bewijstukken, 1665</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5DD21DB9D6474E73A61E0646CBC5C7CB" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911586">
+            <unitid type="guid">CCA4A5FE8A1D4E5B883319D2EA4BFA27</unitid>
+            <unitid>40</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CCA4A5FE8A1D4E5B883319D2EA4BFA27</unitid>
+            <unittitle>Kwitanties voor Onno T. du Tour, wegens aflossing hypotheek op Haanwijk, gunste A. de Hee, en ten laste van Christina C. Sweerts de Landas, vertegenwoordigd door Dirk Sweerts de Landas, 1758 - 1759&lt;br/&gt;Akte van hypotheek, verleden voor schepenen van 's-Hertogenbosch, 1744</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1744/1759"/>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Kwitanties voor Onno T. du Tour, wegens aflossing hypotheek op Haanwijk, gunste A. de Hee, en ten laste van Christina C. Sweerts de Landas, vertegenwoordigd door Dirk Sweerts de Landas, 1758 - 1759&lt;br/&gt;Akte van hypotheek, verleden voor schepenen van 's-Hertogenbosch, 1744</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CCA4A5FE8A1D4E5B883319D2EA4BFA27" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911587">
+            <unitid type="guid">075B3E21D0EA49DD8BB01FA2196923EF</unitid>
+            <unitid>41</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/075B3E21D0EA49DD8BB01FA2196923EF</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Gideon S. Deutz, gemachtigd door Christina C. Sweerts de Landas, aan Onno T. du Tour, van huis Haanwijk, 1759</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1759">1759</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Gideon S. Deutz, gemachtigd door Christina C. Sweerts de Landas, aan Onno T. du Tour, van huis Haanwijk, 1759</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/075B3E21D0EA49DD8BB01FA2196923EF" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911588">
+            <unitid type="guid">B2FD6A88F047437C9164D14388FABDD4</unitid>
+            <unitid>42</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B2FD6A88F047437C9164D14388FABDD4</unitid>
+            <unittitle>Testament van Onno T. du Tour en Anna M. Bouwens, 1759</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1759">1759</unitdate>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911589">
+            <unitid type="guid">38AEE24A8CD64075862827A6AE5349D4</unitid>
+            <unitid>43</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/38AEE24A8CD64075862827A6AE5349D4</unitid>
+            <unittitle>Akte van koop, door Onno T. du Tour, en belening voor Anna M. Bouwens, van 25 morgen hooiland en 10 morgen weiland in Den Bruul, leenroerig aan leenhof Oud-Herlaar, 1759 - 1783&lt;br/&gt;Oudere bewijstukken, 1750 - 1753</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1750/1783"/>
+            <physdesc>3 charters en 1 omslag</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <odd type="OPMERKING SCANS">
+            <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van koop, door Onno T. du Tour, en belening voor Anna M. Bouwens, van 25 morgen hooiland en 10 morgen weiland in Den Bruul, leenroerig aan leenhof Oud-Herlaar, 1759 - 1783&lt;br/&gt;Oudere bewijstukken, 1750 - 1753</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/38AEE24A8CD64075862827A6AE5349D4" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911590">
+            <unitid type="guid">FDA949393E4543889146E04EA094D71F</unitid>
+            <unitid>44</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FDA949393E4543889146E04EA094D71F</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Petrus Nagelmakers, gemachtigd door Adriaan W. van Renesse, prelaat, en andere leden kapittel van Sint-Geertruid in Leuven, aan Onno T. du Tour, van 1 morgen hooiland bij  Oranje Bolwerk en Vughter Poort langs gracht in Gorinchem, 1767</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1767">1767</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Petrus Nagelmakers, gemachtigd door Adriaan W. van Renesse, prelaat, en andere leden kapittel van Sint-Geertruid in Leuven, aan Onno T. du Tour, van 1 morgen hooiland bij  Oranje Bolwerk en Vughter Poort langs gracht in Gorinchem, 1767</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/FDA949393E4543889146E04EA094D71F" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911591">
+            <unitid type="guid">F1C5834012B843DC996106FEC1DB7352</unitid>
+            <unitid>45</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F1C5834012B843DC996106FEC1DB7352</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Abraham Verster, gemachtigd door Allard J. Gansneb alias Tengnagel, aan Onno T. du Tour, van 1 morgen hooiland in Bloxbeemd bij Sint-Michielsgestel, 1769</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1769">1769</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Abraham Verster, gemachtigd door Allard J. Gansneb alias Tengnagel, aan Onno T. du Tour, van 1 morgen hooiland in Bloxbeemd bij Sint-Michielsgestel, 1769</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F1C5834012B843DC996106FEC1DB7352" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911592">
+            <unitid type="guid">6EFEDF9072ED4BDEBB382BC25E67FAC8</unitid>
+            <unitid>46</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6EFEDF9072ED4BDEBB382BC25E67FAC8</unitid>
+            <unittitle>Verpondingskohier van Sint-Michielsgestel en Gemonde, deel van Nieuw-Herlaar toebehorend aan Barbara 't Scharner, authentieke kopie, 1772</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1772">1772</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk. Kohier = staat van belastingaanslagen. Verpondingen = belasting op vaste goederen.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911593">
+            <unitid type="guid">B38BF1CF52024FBAB53CBCFB76849F00</unitid>
+            <unitid>47</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B38BF1CF52024FBAB53CBCFB76849F00</unitid>
+            <unittitle>Akte van huwelijksvoorwaarden van Christiaan van Berestein, bijgestaan door zijn moeder Catharina W. Brull, weduwe, en Wilhelmina C. du Tour, minderjarig, en bijgestaan door haar ouders Onno T. du Tour en Anna M. Bouwens, 1773</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1773">1773</unitdate>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk. Notariële akte.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911594">
+            <unitid type="guid">9BE3D506CE964481864169522CF3D31C</unitid>
+            <unitid>48</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9BE3D506CE964481864169522CF3D31C</unitid>
+            <unittitle>Akte van verkoop, aan Onno T. du Tour, van perceel hooiland 'Dekkersdriel in Thederbeemden' en perceel hooiland, afkomstig van Hester van Gemert, namens wijlen haar man Evert van Pinksteren, met akte van overdracht, verleden voor schepenen van Sint-Michielsgestel en kwitantie, 1773</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1773">1773</unitdate>
+            <physdesc>3 stukken</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911595">
+            <unitid type="guid">DCEE91B0EA8C42EAAEB05EC6F79A7250</unitid>
+            <unitid>49</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DCEE91B0EA8C42EAAEB05EC6F79A7250</unitid>
+            <unittitle>Akte van huwelijksvoorwaarden, van Adolph L.W. van Sayn Wittgenstein Berlenburg, en Sara C.J. du Tour, bijgestaan door haar ouders Onno T. du Tour en Anna M. Bouwens, 1778</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1778">1778</unitdate>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk. Notariële akte.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911596">
+            <unitid type="guid">902E5F3F0E754C4C970AC0255F2C9BD9</unitid>
+            <unitid>50</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/902E5F3F0E754C4C970AC0255F2C9BD9</unitid>
+            <unittitle>Akte van huwelijksvoorwaarden, van Charles P.L.A. de Senarclens de Grancy, bijgestaan door Otto van Bylandt, op verzoek van Auguste V. de Senarclens de Grancy, en Cornelia E. du Tour, minderjarig, en bijgestaan door haar ouders Onno T. du Tour en Anna M. Bouwens, 1778</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1778">1778</unitdate>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk. Notariële akte.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911597">
+            <unitid type="guid">62242F8600E342269D9E74333688A529</unitid>
+            <unitid>51</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/62242F8600E342269D9E74333688A529</unitid>
+            <unittitle>Kwitantie van B. Veenekan, voor Onno T. du Tour, wegens hypotheek op zijn goederen, voordien die van Christina C. Sweerts de Landas, ten gunste van Johan van Vorstenbosch, 1780&lt;br/&gt;Akte van hypotheek, verleden voor schepenen van 's-Hertogenbosch, 1750</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1750/1780"/>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Kwitantie van B. Veenekan, voor Onno T. du Tour, wegens hypotheek op zijn goederen, voordien die van Christina C. Sweerts de Landas, ten gunste van Johan van Vorstenbosch, 1780&lt;br/&gt;Akte van hypotheek, verleden voor schepenen van 's-Hertogenbosch, 1750</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/62242F8600E342269D9E74333688A529" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911598">
+            <unitid type="guid">3BDFD4540A7340689966868256AC90D9</unitid>
+            <unitid>52</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3BDFD4540A7340689966868256AC90D9</unitid>
+            <unittitle>Verslag reis naar Vaucluse, 1780</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1780">1780</unitdate>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911599">
+            <unitid type="guid">0DC21966B89B4287B24830681AEA6B43</unitid>
+            <unitid>53</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0DC21966B89B4287B24830681AEA6B43</unitid>
+            <unittitle>Publicatie van Anna M. Bouwens over bepalingen met betrekking tot jacht in Vught, 1785</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1785">1785</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911600">
+            <unitid type="guid">6712821C30DD441187666D30F6F1EE18</unitid>
+            <unitid>54</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6712821C30DD441187666D30F6F1EE18</unitid>
+            <unittitle>Akte van koop, voor Anna M. Bouwens, van huis met schuur, stal en land bij Haanwijk, gelijktijdige authentieke kopie, 1793</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1793">1793</unitdate>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk. Notariële akte.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911601">
+            <unitid type="guid">722FA9BB076E44F59ADAD618AF144578</unitid>
+            <unitid>55</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/722FA9BB076E44F59ADAD618AF144578</unitid>
+            <unittitle>Testament van Charles P.L.A. de Senarclens de Grancy, eigenhandig geschreven, 1793</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1793">1793</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911602">
+            <unitid type="guid">A7FFD07F7F7C4086A907F8A13D531F40</unitid>
+            <unitid>56</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A7FFD07F7F7C4086A907F8A13D531F40</unitid>
+            <unittitle>Akte van verkoop, aan Anna M. Bouwens, van 1 morgen hooiland in Thederbeemden, afkomstig van familie Schellekens, 1799&lt;br/&gt;Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, en rekening, 1799</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1799">1799</unitdate>
+            <physdesc>3 stukken</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911603">
+            <unitid type="guid">D2752B0E7ACA4FFF873D0A17B91548CA</unitid>
+            <unitid>57</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D2752B0E7ACA4FFF873D0A17B91548CA</unitid>
+            <unittitle>Akte van overeenkomst tussen Ruth N. Groenendaal, Wouter J. Merks, Nicolaas R. Groenendaal, en Anna M. Bouwens, van overdracht 3 rijen bomen, 1799</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1799">1799</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911604">
+            <unitid type="guid">860692E833154977BCB59DA5949E6A1E</unitid>
+            <unitid>58</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/860692E833154977BCB59DA5949E6A1E</unitid>
+            <unittitle>Akte van overeenkomst, verleden voor schepenen van Sint-Michielsgestel, tussen Adolph van Wittgenstein en Charles P.L.A. de Senarclens de Grancy, over toekomstige nalatenschap van Anna M. Bouwens, 1803</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1803">1803</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911605">
+            <unitid type="guid">D3623AC9C3ED4A7FB02C274906CD32F0</unitid>
+            <unitid>59</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D3623AC9C3ED4A7FB02C274906CD32F0</unitid>
+            <unittitle>Kwitantie van P.A. van Meeuwen, wegens schuldbekentenis van Adolph en Jacoba van Wittgenstein, ten gunste van Jacob Kien, afbetaald door Charles P.L.A. baron de Senarclens de Grancy, namens C.Potters, na 1803&lt;br/&gt;Schuldbekentenis, 1791</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1791/1803"/>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911606">
+            <unitid type="guid">29046F4ADE8748D18B376F36F14C8FFE</unitid>
+            <unitid>60</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/29046F4ADE8748D18B376F36F14C8FFE</unitid>
+            <unittitle>Huwelijksvoorwaarden van Jan C. du Tour, en Jeane O. de Senarclens de Grancy, minderjarig, en bijgestaan door haar moeder Cornelia E. du Tour, authentiek uittreksel, 1804</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1804">1804</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Authentiek uittreksel uit 'register van allerhande akten' secretarie van Sint-Michielsgestel.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911607">
+            <unitid type="guid">2C8FFC2356E14B8F86551CD62094BFC7</unitid>
+            <unitid>61</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2C8FFC2356E14B8F86551CD62094BFC7</unitid>
+            <unittitle>Gunstige beschikking van schepenen van 's-Hertogenbosch op verzoekschrift van Anna M. Bouwens, over schuldbekentenis van Anthonie van Hanswijk, 1805</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1805">1805</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911608">
+            <unitid type="guid">85ADA9DFC22A490589F31DEBE2A391BF</unitid>
+            <unitid>62</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/85ADA9DFC22A490589F31DEBE2A391BF</unitid>
+            <unittitle>Akte van deponering, door Karel F. Lerisse, griffier rechtbank 1e aanleg in 's-Hertogenbosch, van proces-verbaal van ontvangst testament van Anna M. Bouwens, 1814&lt;br/&gt;Met daarin opgenomen proces-verbaal en testament van 1813</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1813/1814"/>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk. Eigenhandig geschreven testament.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911609">
+            <unitid type="guid">9CE143959C894407A5AE600B5E12AC2F</unitid>
+            <unitid>63</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9CE143959C894407A5AE600B5E12AC2F</unitid>
+            <unittitle>Inventaris van nalatenschap Anna M. Bouwens, 1814</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1814">1814</unitdate>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Anna Maria Bouwens (1760 - 1838), die na zijn dood, tot aan haar dood eigenares was van Haanwijk.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF911610">
+          <unitid type="guid">785395EDAC3F4E59819BE1B07639E55A</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Onno Adolph Marc Willem de Senarclens de Grancy, periode 1800 - 1836, inventarisnrs 64 - 74</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1393/1923"/>
+        </did>
+        <c02 level="file">
+          <did id="MF911611">
+            <unitid type="guid">0FFE378BB8094E63AB0D6A1DA558B821</unitid>
+            <unitid>64</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0FFE378BB8094E63AB0D6A1DA558B821</unitid>
+            <unittitle>Gelegenheidsgedichten, liedjes en dergelijke van familie De Senarclens de Grancy, 19e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1800/1900">19e eeuw</unitdate>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Fréderique Wilhelmine v.d. Duin (1791 - 1843).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911612">
+            <unitid type="guid">C468630C59314349A213B5C5CF2756EF</unitid>
+            <unitid>65</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C468630C59314349A213B5C5CF2756EF</unitid>
+            <unittitle>Brief van B.A. de Salis, aan waarschijnlijk moeder van Fréderique W. v.d. Duin, te weten Susanna J.J. van Bylandt, 1803</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1803">1803</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Fréderique Wilhelmine v.d. Duin (1791 - 1843).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911613">
+            <unitid type="guid">49EC66E791CE46859D254EB56773E233</unitid>
+            <unitid>66</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/49EC66E791CE46859D254EB56773E233</unitid>
+            <unittitle>Brieven aan Fréderique W. v.d. Duin, van Molly v.d. Duyn, van A. Engels, van haar zoon, van haar nicht Ernestine en van moeder van Ernestine, 1823 - 1824</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1823/1824">1823 - 1824</unitdate>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Fréderique Wilhelmine v.d. Duin (1791 - 1843).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911614">
+            <unitid type="guid">4D7AACC7B6B249BF8D8937C840D1DC02</unitid>
+            <unitid>67</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4D7AACC7B6B249BF8D8937C840D1DC02</unitid>
+            <unittitle>Akte van huwelijksvoorwaarden, van Onno A.M.W. de Senarclens de Grancy, bijgestaan door zijn moeder Cornelia E. du Tour, ook namens haar man Charles, en Fréderique W. v.d.Duin, minderjarig, en bijgestaan door haar ouders Henri v.d. Duin en Susette J.J. van Bylandt, 1811</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1811">1811</unitdate>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Fréderique Wilhelmine v.d. Duin (1791 - 1843).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911615">
+            <unitid type="guid">69C1BE71CB294B8297A1241A41944CD0</unitid>
+            <unitid>68</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/69C1BE71CB294B8297A1241A41944CD0</unitid>
+            <unittitle>Testament van Louise de Chandieu, weduwe Auguste V. de Senarclens de Grancy, 1811</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1811">1811</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911616">
+            <unitid type="guid">289E07E020694385804A6A35DEC0E433</unitid>
+            <unitid>69</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/289E07E020694385804A6A35DEC0E433</unitid>
+            <unittitle>Akte van overdracht, door Hendrik Vorstenbosch en Elisabeth Vorstenbosch, bijgestaan door haar man Adriaan van den Wittenboer, aan Onno A.M.W. de Senarclens de Grancy, van 2 lopense bouwland in Krakenstein bij Stokhoek in Sint-Michielsgestel, 1814</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1814">1814</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911617">
+            <unitid type="guid">47B246F69EB14CECA64F2E09C201D086</unitid>
+            <unitid>70</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/47B246F69EB14CECA64F2E09C201D086</unitid>
+            <unittitle>Akte van verkoop en overdracht, door familie Coppens, aan Onno A.M.W. de Senarclens de Grancy, van perceel bouwland Kievitsakker en 2 morgen land in Boschveld in Sint-Michielsgestel, 1815</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1815">1815</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911618">
+            <unitid type="guid">20948D9E5C2D43FE806ACD617DD59E84</unitid>
+            <unitid>71</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/20948D9E5C2D43FE806ACD617DD59E84</unitid>
+            <unittitle>Hypotheken op goederen in Haanwijk, Boxtel en Liempde, ten gunste van Gustaaf J.M. van Velsen, Joseph A. Dierksens, Françoise A. Dierksens en Jacob Meurs, en ten laste van Onno A.M.W. de Senarclens de Grancy en Fréderique W. v.d. Duin, 1823 - 1835</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1823/1835">1823 - 1835</unitdate>
+          </did>
+          <scopecontent>
+            <p>Onno was getrouwd met Fréderique Wilhelmine v.d. Duin (1791 - 1843).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911619">
+            <unitid type="guid">33D6E797834D4983B80BCF38D0DEE49D</unitid>
+            <unitid>72</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/33D6E797834D4983B80BCF38D0DEE49D</unitid>
+            <unittitle>Rekeningen en kwitanties voor Rodolph Neuschewender en Onno A.M.W. de Senarclens de Grancy, 1826 - 1829</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1826/1829">1826 - 1829</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911620">
+            <unitid type="guid">259B042D307F4ABC83F5B1A0A4421221</unitid>
+            <unitid>73</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/259B042D307F4ABC83F5B1A0A4421221</unitid>
+            <unittitle>Verklaring tot vernietiging plan tot verkoop Heesakker in Sint-Michielsgestel, door Onno A.M.W. de Senarclens de Grancy en H. Berail, 1836&lt;br/&gt;Met verkoopplan van 1832</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1832/1836"/>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911621">
+            <unitid type="guid">86F74ADDFD314EE2B4BF888F3A2CD63B</unitid>
+            <unitid>74</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/86F74ADDFD314EE2B4BF888F3A2CD63B</unitid>
+            <unittitle>Brief van vermoedelijk Onno A.M.W. de Senarclens de Grancy, over beloning arbeider, concept, 1836</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1836">1836</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF911622">
+          <unitid type="guid">C406A748F57B4A1599FEA55769E81087</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Henri Frédéric de Senarclens de Grancy, periode 1804 - 1866, inventarisnrs 75 - 93</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1393/1923"/>
+        </did>
+        <c02 level="file">
+          <did id="MF911623">
+            <unitid type="guid">C0B72A74DD2F4FFDB2033F0EB5D31574</unitid>
+            <unitid>75</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C0B72A74DD2F4FFDB2033F0EB5D31574</unitid>
+            <unittitle>Akte van verkoop, verleden voor schepenen van Sint-Michielsgestel, aan Hendrik Verhees, van perceel hooiland 'Vijf Morgen' achter Bosch bij Oud-Herlaar, afkomstig van de Commissie van Breda, 1804</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1804">1804</unitdate>
+          </did>
+          <scopecontent>
+            <p>Henri was getrouwd met Louise Sophie Berail (1819 - 1904).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911624">
+            <unitid type="guid">F0E0AFDAA23E48D3A96EDC083FC48F40</unitid>
+            <unitid>76</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F0E0AFDAA23E48D3A96EDC083FC48F40</unitid>
+            <unittitle>Akte van verkoop, verleden voor schepenen van Sint-Michielsgestel, aan Lodewijk C. Valkenaar, van ½ perceel hooiland 'Vier Morgen' bij Oud-Herlaar, afkomstig van de Commissie van Breda, 1804&lt;br/&gt;Met kwitanties, 1804 - 1806</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1804/1806"/>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911625">
+            <unitid type="guid">A59AC761D1564A759C22DFA87EFD091E</unitid>
+            <unitid>77</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A59AC761D1564A759C22DFA87EFD091E</unitid>
+            <unittitle>Brief  van P. van Meurs, aan vermoedelijk Henri F. de Senarclens de Grancy, over schuld, met schuldbekentenis, 1837</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1837">1837</unitdate>
+            <physdesc>2 stukken</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911626">
+            <unitid type="guid">9213C0F8BFDF476EB51B513D95C36F84</unitid>
+            <unitid>78</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9213C0F8BFDF476EB51B513D95C36F84</unitid>
+            <unittitle>Kwitantie van Johannes de Berg, voor Henri F. de Senarclens de Grancy, wegens ontvangst geld van familie Wittgenstein, met gelijktijdige kopie-kwitantie van Albrecht - , voogd van Louise, krankzinnig, en Ludwich H. zu Sayn Wittgenstein Berleburg, 1837</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1837">1837</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911627">
+            <unitid type="guid">DAD20856623348468F70625C71E3B81E</unitid>
+            <unitid>79</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DAD20856623348468F70625C71E3B81E</unitid>
+            <unittitle>Brief aan vermoedelijk Wilhelmina Martini van Geffen, van M.C.H. du Tour van Bellinchovem, over herkomst  familie Du Tour, 1838</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1838">1838</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911628">
+            <unitid type="guid">CFF4A7325F0245529B9E81494CBAE80F</unitid>
+            <unitid>80</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CFF4A7325F0245529B9E81494CBAE80F</unitid>
+            <unittitle>Koopcontract tussen familie Van den Heuvel en Henri F. de Senarclens de Grancy, van perceel bouwland 'Hauw' in Dooibroek onder Sint-Michielsgestel, 1842</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1842">1842</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911629">
+            <unitid type="guid">E71D8061A5164D789A8FD866C237B439</unitid>
+            <unitid>81</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E71D8061A5164D789A8FD866C237B439</unitid>
+            <unittitle>Kennisgeving van huwelijk van Charles P. de Senarclens de Grancy, en Wilhelmina M. van Geffen, aan De Jonge van Zwijnsbergen in Helvoirt, 1843</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1843">1843</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911630">
+            <unitid type="guid">DF2A7ABE9A16492CAC0FD53A165844C2</unitid>
+            <unitid>82</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DF2A7ABE9A16492CAC0FD53A165844C2</unitid>
+            <unittitle>Staat van pretenties, door Henri, Suzette en Charles, kinderen van Onno A.M.W. de Senarclens de Grancy, over stukken van financiële aard, 1843</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1843">1843</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911631">
+            <unitid type="guid">FE7F8AB2A88E4FF989B9BF8313487D9B</unitid>
+            <unitid>83</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FE7F8AB2A88E4FF989B9BF8313487D9B</unitid>
+            <unittitle>Schuldbekentenis van Johan J. de Loecker en zijn vrouw Ellen Selbij, aan Henri F. de Senarclens de Grancy, met nota, 1843</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1843">1843</unitdate>
+            <physdesc>2 stukken</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911632">
+            <unitid type="guid">EA6B74F2D5B847AA9A24A7BFDBBBCA9C</unitid>
+            <unitid>84</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EA6B74F2D5B847AA9A24A7BFDBBBCA9C</unitid>
+            <unittitle>'Inventaris van stukken inzake regt der jagt in de gemeente Vught en Cromvoirt', kopie, na 1845</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1845">na 1845</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911633">
+            <unitid type="guid">82884BBB3BC94394A4E18FFF79D59A80</unitid>
+            <unitid>85</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/82884BBB3BC94394A4E18FFF79D59A80</unitid>
+            <unittitle>Akte van verkoop, door Henri F. de Senarclens de Grancy, aan Elias C.B. van Rappard, voor Noord-Brabant, van perceel land bij Sint-Michielsgestel, 1848</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1848">1848</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911634">
+            <unitid type="guid">55421DF35596449B90EA111B44CB4535</unitid>
+            <unitid>86</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/55421DF35596449B90EA111B44CB4535</unitid>
+            <unittitle>Akte van verkoop, aan Henri F. de Senarclens de Grancy, van perceel hooiland bij Haanwijk, afkomstig van Judocus Kuijpers / Catharina der Kinderen, gemachtigd door haar man Jan van der Hagen / Jordanus van Gemert, met bewijs van niet bestaande hypothecaire inschrijvingen, 1849&lt;br/&gt;Met ouder bewijsstuk, 1837, 1849</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1837/1849">1849</unitdate>
+            <physdesc>3 stukken</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911635">
+            <unitid type="guid">4F8AE61398D3446D82A8C6F43CA620A3</unitid>
+            <unitid>87</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4F8AE61398D3446D82A8C6F43CA620A3</unitid>
+            <unittitle>Brief aan vermoedelijk Henri F. de Senarclens de Grancy, van J. Beckers, over voldoening schuld, 1850</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1850">1850</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911636">
+            <unitid type="guid">287E64A1BB484DD6B36DB4FA7A97A41E</unitid>
+            <unitid>88</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/287E64A1BB484DD6B36DB4FA7A97A41E</unitid>
+            <unittitle>Akte van verkoop, aan Henri F. de Senarclens de Grancy, van perceel hooiland 'Damveldjes' bij Haanwijk, 1851</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1851">1851</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911637">
+            <unitid type="guid">B52DA19F78F14952A7B270AEC09E8E45</unitid>
+            <unitid>89</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B52DA19F78F14952A7B270AEC09E8E45</unitid>
+            <unittitle>Akte van verkoop, aan Henri F. de Senarclens de Grancy, van hoeve bij Haanwijk, afkomstig van Hendrik van den Berg / Martin van den Braak, namens zijn vrouw Wilhelmina v.d. Berg /  Johannes Verstegen, tevens voor zijn minderjarige dochter Adriana /  Antonie Habraken, als toeziend voogd van voornoemde Adriana, 1855</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1855">1855</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911638">
+            <unitid type="guid">4C79F14ED2214C57A47E9E277E489B96</unitid>
+            <unitid>90</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4C79F14ED2214C57A47E9E277E489B96</unitid>
+            <unittitle>Besluiten van Gedeputeerde Staten, voor Henri F. de Senarclens de Grancy, over vrijdom lasten op 2 bunder, 54 roede en 80 el te ontginnen perceel land in Sint-Michielsgestel, authentieke kopie, 1857</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1857">1857</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911639">
+            <unitid type="guid">67F8A07877F74CE0A1B136B1DEF8560A</unitid>
+            <unitid>91</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/67F8A07877F74CE0A1B136B1DEF8560A</unitid>
+            <unittitle>Contract tussen  Antoni M. van Geffen en Henri F. de Senarclens de Grancy, over regeling in geval van betwisting jachtrechten in bezit van een van beide contractanten, door derden, 1857</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1857">1857</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911640">
+            <unitid type="guid">7AA2890CD307468EAB602460D64ECECF</unitid>
+            <unitid>92</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7AA2890CD307468EAB602460D64ECECF</unitid>
+            <unittitle>Bewijs van niet bestaande hypothecaire inschrijvingen van bewaarder hypotheken in 's-Hertogenbosch, van kadastrale percelen van Sint-Michielsgestel, 1858</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1858">1858</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911641">
+            <unitid type="guid">615B61002C994253964905D8E3FD0003</unitid>
+            <unitid>93</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/615B61002C994253964905D8E3FD0003</unitid>
+            <unittitle>Huurcontracten van percelen land van Henri F. de Senarclens de Grancy, 1840 - 1866</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1840/1866">1840 - 1866</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF911642">
+          <unitid type="guid">C0C6840C7973457D8869BBE44E11177E</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Guillaume Jules Antoine de Senarclens de Grancy, periode 1876 - 1923, inventarisnrs 94 - 98</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1393/1923"/>
+        </did>
+        <c02 level="file">
+          <did id="MF911643">
+            <unitid type="guid">E56325075A644B2CA20F28C15BA42FF3</unitid>
+            <unitid>94</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E56325075A644B2CA20F28C15BA42FF3</unitid>
+            <unittitle>Brieven aan Antoinette W. de Senarclens de Grancy, van Julie van Bylandt, 1876 - 1877</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1876/1877">1876 - 1877</unitdate>
+            <physdesc>2 stukken</physdesc>
+          </did>
+          <scopecontent>
+            <p>Guillaume was getrouwd met Madeleine S. van Gennep (1849 - 1885) en hertrouwd met Berthe H.J. Scherer (1851 - 1926).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911644">
+            <unitid type="guid">6F8A73EB2BF545C0895A747549FEDB98</unitid>
+            <unitid>95</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6F8A73EB2BF545C0895A747549FEDB98</unitid>
+            <unittitle>Debet- en kredietstaten, 1879 - 1883 en 1886&lt;br/&gt;Met nota's, 1884 - 1885</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1879/1886"/>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911645">
+            <unitid type="guid">5A0DEB6B122B45D4994A941379724F58</unitid>
+            <unitid>96</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5A0DEB6B122B45D4994A941379724F58</unitid>
+            <unittitle>Proefbalansen en staten van effecten, 1883 - 1893</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1883/1893">1883 - 1893</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911646">
+            <unitid type="guid">88891627C01C47778036259E358BA76C</unitid>
+            <unitid>97</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/88891627C01C47778036259E358BA76C</unitid>
+            <unittitle>Brieven aan Floris Vos, over vaststelling literprijs van melk, concepten, 1911</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1911">1911</unitdate>
+            <physdesc>2 stukken</physdesc>
+          </did>
+          <scopecontent>
+            <p>Waarschijnlijk van Guillaume J. A. de Senarclens de Grancy.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911647">
+            <unitid type="guid">807327BDC91247B7BBEC49CE83F4231D</unitid>
+            <unitid>98</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/807327BDC91247B7BBEC49CE83F4231D</unitid>
+            <unittitle>Brief over toezending van declaraties, van Zeeuwse Fruitteelt Maatschappij in Goes, 1923</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1923">1923</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Aan Guillaume J. A. de Senarclens de Grancy.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF911648">
+          <unitid type="guid">900CA280B3F045218D810AD6566710B9</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Diversen, periode 1534 - 1884, inventarisnrs 99 - 116</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1393/1923"/>
+        </did>
+        <c02 level="file">
+          <did id="MF911649">
+            <unitid type="guid">068D72540DEB43C4928DBD06DE351E3E</unitid>
+            <unitid>99</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/068D72540DEB43C4928DBD06DE351E3E</unitid>
+            <unittitle>Krantenknipsels uit 's Hertogenbosche Courant, 1771&lt;br/&gt;Utrechtse Courant, 1813&lt;br/&gt;Feest bij baron v.d. Duyn van Maasdam wegens 30-jarige dienstverband Dirk Markensteyn, 1862&lt;br/&gt;Bijvoegsel Maasbode, 1869&lt;br/&gt;Huwelijkssluiting John G. C. van Aldenburg Bentinck en Alexandrine W. L. A. van Bylandt, 1884</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1771/1884"/>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911650">
+            <unitid type="guid">DCE37C7FE4B34C61B8FFA1BDAE9DD5B9</unitid>
+            <unitid>100</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DCE37C7FE4B34C61B8FFA1BDAE9DD5B9</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Gerard W.W. van Beek aan Jacob Z. van Groeningen, namens Johanna, weduwe Jacob Hermanszn, en haar kinderen, van vruchtgebruik veld in 'Doobroeck', 1547&lt;br/&gt;Met ouder bewijsstuk, 1534</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1534/1547"/>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Zie inventarisnrs 81 en 94: percelen land in Dooibroek - Doobroeck zijn dan in het bezit van de Senarclens de Grancy.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Gerard W.W. van Beek aan Jacob Z. van Groeningen, namens Johanna, weduwe Jacob Hermanszn, en haar kinderen, van vruchtgebruik veld in 'Doobroeck', 1547&lt;br/&gt;Met ouder bewijsstuk, 1534</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DCE37C7FE4B34C61B8FFA1BDAE9DD5B9" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911651">
+            <unitid type="guid">8489A4A926D444CB9AB1DF482EF08E59</unitid>
+            <unitid>101</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8489A4A926D444CB9AB1DF482EF08E59</unitid>
+            <unittitle>Kwitantie van H. Verster, namens Allard Johan Gansneb alias Tengnagel, voor Anna van Grave, wegens rente op beneficie van Baselhof, 1738</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1738">1738</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Beneficie = geestelijke waardigheid met daaraan verbonden inkomsten.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911652">
+            <unitid type="guid">C62E182945C74100A20D18338F0AFB05</unitid>
+            <unitid>102</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C62E182945C74100A20D18338F0AFB05</unitid>
+            <unittitle>Verzoekschrift van S.H.D. Groulart, aan schepenen van 's-Hertogenbosch, over machtiging tot verkoop 1/5e deel van niet nader aangeduide goederen, gelijktijdige authentieke kopie, 1740</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1740">1740</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911653">
+            <unitid type="guid">60F19F993E5E4106A68C0C301AC87EFB</unitid>
+            <unitid>103</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/60F19F993E5E4106A68C0C301AC87EFB</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Hendrik J. van Eindhoven, aan Lambert J. van Berkel, van 1½ lopense bouwland bij Haanwijk, 1751</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1751">1751</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Hendrik J. van Eindhoven, aan Lambert J. van Berkel, van 1½ lopense bouwland bij Haanwijk, 1751</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/60F19F993E5E4106A68C0C301AC87EFB" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF911654">
+            <unitid type="guid">418907CEB5514120BC17706C1A3ED10D</unitid>
+            <unitid>104</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/418907CEB5514120BC17706C1A3ED10D</unitid>
+            <unittitle>Kwitantie van C. Bonebakker, voor Willem en Matthijs P. v.d. Heuvel, wegens hypotheek, 1798&lt;br/&gt;Akte van hypotheek, verleden voor schepenen van Sint-Michielsgestel, 1779</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1779/1798"/>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911655">
+            <unitid type="guid">950CBAE0C45544E0BA1E7572CA8DC3D2</unitid>
+            <unitid>105</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/950CBAE0C45544E0BA1E7572CA8DC3D2</unitid>
+            <unittitle>Overlijdensakte gemeente Zutphen van Gerrit Groothond, gehuwd met Antoinette Rovers, authentieke kopie, 1815</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1815">1815</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911656">
+            <unitid type="guid">DCF25ABA134F4F558501896BD6C19759</unitid>
+            <unitid>106</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DCF25ABA134F4F558501896BD6C19759</unitid>
+            <unittitle>Koop door A. van Pelt en R. en J.J. van Rosmalen, van percelen land in Sint-Michielsgestel, afkomstig van A.J. Borret en F. Thompson, executeurs- testamentair nalatenschap W.M.Kippinks, 1816 - 1817</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1816/1817">1816 - 1817</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911657">
+            <unitid type="guid">330809B2873D46A2B315192386964D89</unitid>
+            <unitid>107</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/330809B2873D46A2B315192386964D89</unitid>
+            <unittitle>Akte van overdracht, door echtpaar Adriana v.d. Steen en Adriaan J. Vugts, aan Andries Eimers, van bouwland aan Thederheide in Sint-Michielsgestel, 1827</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1827">1827</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911658">
+            <unitid type="guid">19A84CF3D5BA4CD7BBC6001883BEAD45</unitid>
+            <unitid>108</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/19A84CF3D5BA4CD7BBC6001883BEAD45</unitid>
+            <unittitle>Bewijs van doorhaling van hypothecaire inschrijving van S.J. Versfelt, bewaarder hypotheken in 's-Hertogenbosch, voor Frans Otjens, wegens koop geslechte fort Pettelaar bij Sint-Michielsgestel, 1849&lt;br/&gt;Met kwitanties, 1835 - 1848</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1835/1849"/>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911659">
+            <unitid type="guid">D43319AD03A540A9A4B8C55BCB8C6483</unitid>
+            <unitid>109</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D43319AD03A540A9A4B8C55BCB8C6483</unitid>
+            <unittitle>Besluit van Gedeputeerde Staten, voor weduwe Theodorus de Kroon, over vrijdom lasten op te ontginnen land bij Sint-Michielsgestel, authentieke kopie, 1849</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1849">1849</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911660">
+            <unitid type="guid">698200067CD1484F9A43A24E8485C859</unitid>
+            <unitid>110</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/698200067CD1484F9A43A24E8485C859</unitid>
+            <unittitle>Kwartierstaat annex stamboom van (klein)kinderen van Johan B.B. van de Heuvel tot Beichlingen, 18e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1700/1800">18e eeuw</unitdate>
+          </did>
+          <scopecontent>
+            <p>64 kwartieren (incompleet). Tekening in inkt met gekleurde wapens in houten koker (107 x 158 cm).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911661">
+            <unitid type="guid">D1152C321A0942E4B9151634733DD68D</unitid>
+            <unitid>111</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D1152C321A0942E4B9151634733DD68D</unitid>
+            <unittitle>Stamboom familie Sweerts, met afbeeldingen van kerkraam en grafzerk, 18e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1700/1800">18e eeuw</unitdate>
+          </did>
+          <scopecontent>
+            <p>Tekening in inkt met gekleurde wapens. De 4 perkamenten bladen zijn bevestigd aan 2 houten stokken, waarvan de 4 knoppen ontbreken.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911662">
+            <unitid type="guid">B18095DCB3AB40018F6BFAF3FC8964E0</unitid>
+            <unitid>112</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B18095DCB3AB40018F6BFAF3FC8964E0</unitid>
+            <unittitle>Stamboom Sweerts Bartolotti, 18e of 19e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1700/1900">18e of 19e eeuw</unitdate>
+          </did>
+          <scopecontent>
+            <p>Tekening in inkt met gekleurde wapens (50 x 140 cm). Mogelijk incompleet.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911663">
+            <unitid type="guid">E004A723863C46D29C13CC315E306A5E</unitid>
+            <unitid>113</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E004A723863C46D29C13CC315E306A5E</unitid>
+            <unittitle>Kwartierstaat van Jacob Dirk Sweerts de Landas, 1694 - 1758&lt;br/&gt; Geertrui D. W. van den Heuvel tot Beichlingen, 1692 - 1734, 18e of 19e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1700/1900">18e of 19e eeuw</unitdate>
+          </did>
+          <odd type="NIET TE SCANNEN VANWEGE">
+            <p>Materiële vorm</p>
+          </odd>
+          <scopecontent>
+            <p>64 kwartieren. Tekening in inkt met gekleurde en met goud gehoogde wapens in houten koker (126 x 140 cm).</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911664">
+            <unitid type="guid">255CA4F6951F461D8594EE36A95F5063</unitid>
+            <unitid>114</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/255CA4F6951F461D8594EE36A95F5063</unitid>
+            <unittitle>Stamboom familie Sweerts, met kerkraam en grafzerk, 18e of 19e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1700/1900">18e of 19e eeuw</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Tekening in inkt met gekleurde wapens (211 x 111 cm). Papier geplakt op linnen.</p>
+          </scopecontent>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>ontbreekt</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911665">
+            <unitid type="guid">BA469A80F5D447A4B9814FF2EFD6FE75</unitid>
+            <unitid>115</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BA469A80F5D447A4B9814FF2EFD6FE75</unitid>
+            <unittitle>Stamboom Sweerts, 18e of 19e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1700/1900">18e of 19e eeuw</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Tekening in inkt met gekleurde wapens op papier (16,5 x 132 cm), in 2 delen gescheurd. Alleen onderste deel is aanwezig.</p>
+          </scopecontent>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>ontbreekt</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF911666">
+            <unitid type="guid">2633F43FF00E440294FD9DFEA736CEE4</unitid>
+            <unitid>116</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2633F43FF00E440294FD9DFEA736CEE4</unitid>
+            <unittitle>Stamboom Sweerts, fragment, 18e of 19e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1700/1900">18e of 19e eeuw</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <scopecontent>
+            <p>Tekening in inkt met gekleurde wapens op papier (47 x 52 cm).</p>
+          </scopecontent>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>ontbreekt</p>
+          </odd>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF1143721">
+          <unitid type="guid">4EE2961099A846699C78A9493898FE4B</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Regesten</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1393/1923"/>
+        </did>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142954">
+            <unitid type="guid">556D783A6EB34469BC8B43E7B1050994</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">1</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1393-07-02.&lt;br/&gt; 1393 juli 2 datum feria quarta post festum beato-rum Petri et Pauli apostolorum, anno Domini millesimo trecentesimo nona-gesimo tertio&lt;br/&gt;Gooswin, zoon wijlen Wilhelm de Loke, draagt voor schepenen van 's-Hertogenbosch over, aan Clementia, zijn zuster en weduwe Gerard Brugman, en aan haar kinderen Gerard en Aleida: erfpacht van 12 loop rogge uit land in Thede bij Sint-Michielsgestel&lt;br/&gt;Zegels Johan van Dordrecht en Johan van Aggere, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 13</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1393" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1393-07-02.&lt;br/&gt; 1393 juli 2 datum feria quarta post festum beato-rum Petri et Pauli apostolorum, anno Domini millesimo trecentesimo nona-gesimo tertio&lt;br/&gt;Gooswin, zoon wijlen Wilhelm de Loke, draagt voor schepenen van 's-Hertogenbosch over, aan Clementia, zijn zuster en weduwe Gerard Brugman, en aan haar kinderen Gerard en Aleida: erfpacht van 12 loop rogge uit land in Thede bij Sint-Michielsgestel&lt;br/&gt;Zegels Johan van Dordrecht en Johan van Aggere, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 13</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/556D783A6EB34469BC8B43E7B1050994" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142955">
+            <unitid type="guid">0EBD9EC8266940D7B30B3E45108A77B5</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1409-10-10.&lt;br/&gt; 1409 oktober 10 datum in crastino beati Dyonisii martiris anno Domini millesimo quadringentesimo nono&lt;br/&gt;Walter, zoon van Walter Koolborner, en Henrik Bisschop, voogd en man van Gertruda, dochter van Walter voornoemd, dragen over voor schepenen van 's-Hertogenbosch, aan Arnold Sterk: perceel land bij Herlaer&lt;br/&gt;Zegels van Nicolaus Schilder en Wilhelm Broeder (verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 1</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1409" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1409-10-10.&lt;br/&gt; 1409 oktober 10 datum in crastino beati Dyonisii martiris anno Domini millesimo quadringentesimo nono&lt;br/&gt;Walter, zoon van Walter Koolborner, en Henrik Bisschop, voogd en man van Gertruda, dochter van Walter voornoemd, dragen over voor schepenen van 's-Hertogenbosch, aan Arnold Sterk: perceel land bij Herlaer&lt;br/&gt;Zegels van Nicolaus Schilder en Wilhelm Broeder (verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 1</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0EBD9EC8266940D7B30B3E45108A77B5" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142956">
+            <unitid type="guid">6010C9B4EB2A4AF69324ABA345DEC14F</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">3</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1420-09-07.&lt;br/&gt; 1420 september 7&lt;br/&gt;Johan, zoon wijlen Petrus Broeke, schenkt voor notaris en getuigen, aan Johannnes de Weert, vice-gardiaan klooster minderbroers in 's-Hertogenbosch, en aan klooster:&lt;br/&gt;erfpacht van 12 loop rogge uit land in Sint-Michielsgestel, in ruil waarvoor minderbroers voor zieleheil schenker en wijlen zijn vrouw Catharina zullen bidden&lt;br/&gt;Notaristeken Theo van Mosa, notaris hof van Luik&lt;br/&gt;Inventarisnr 13</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1420" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1420-09-07.&lt;br/&gt; 1420 september 7&lt;br/&gt;Johan, zoon wijlen Petrus Broeke, schenkt voor notaris en getuigen, aan Johannnes de Weert, vice-gardiaan klooster minderbroers in 's-Hertogenbosch, en aan klooster:&lt;br/&gt;erfpacht van 12 loop rogge uit land in Sint-Michielsgestel, in ruil waarvoor minderbroers voor zieleheil schenker en wijlen zijn vrouw Catharina zullen bidden&lt;br/&gt;Notaristeken Theo van Mosa, notaris hof van Luik&lt;br/&gt;Inventarisnr 13</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6010C9B4EB2A4AF69324ABA345DEC14F" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142957">
+            <unitid type="guid">B2779E9408174D9C8AE618E4B437A77F</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">4</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1444-09-06.&lt;br/&gt; 1444 september 6&lt;br/&gt;Matheus van Mughovel en Roelof Donst, schepenen van Sint-Michielsgestel, oorkonden dat Michiel Henrik Tollaartszn, aan Willem Reiner Morszn overdraagt: erfrecht van perceel land de Hovel&lt;br/&gt;Schependomszegel van Sint-Michielsgestel&lt;br/&gt;Inventarisnr 7</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1444" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1444-09-06.&lt;br/&gt; 1444 september 6&lt;br/&gt;Matheus van Mughovel en Roelof Donst, schepenen van Sint-Michielsgestel, oorkonden dat Michiel Henrik Tollaartszn, aan Willem Reiner Morszn overdraagt: erfrecht van perceel land de Hovel&lt;br/&gt;Schependomszegel van Sint-Michielsgestel&lt;br/&gt;Inventarisnr 7</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B2779E9408174D9C8AE618E4B437A77F" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142958">
+            <unitid type="guid">CECE632C886443BB81DFC4F109C01102</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">5</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1453-09-03.&lt;br/&gt; 1453 september 3&lt;br/&gt;Andreas, zoon van Phillipus de Ayen, als voogd van zijn vrouw Aleid, dochter wijlen Mathias Schoonboer, zoon wijlen Johan, draagt voor schepenen van 's-Hertogenbosch over, aan Johan, zoon van Johan Abenzn: erfrecht van 4 lopen land aan de Hovel bij Sint-Michielsgestel&lt;br/&gt;Zegels Christian Koenen en Wilhelm van Gent, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 7</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1453" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1453-09-03.&lt;br/&gt; 1453 september 3&lt;br/&gt;Andreas, zoon van Phillipus de Ayen, als voogd van zijn vrouw Aleid, dochter wijlen Mathias Schoonboer, zoon wijlen Johan, draagt voor schepenen van 's-Hertogenbosch over, aan Johan, zoon van Johan Abenzn: erfrecht van 4 lopen land aan de Hovel bij Sint-Michielsgestel&lt;br/&gt;Zegels Christian Koenen en Wilhelm van Gent, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 7</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CECE632C886443BB81DFC4F109C01102" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142959">
+            <unitid type="guid">31CEC4A93D894347A707F0D1A69C2FE5</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">6</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1457-06-28.&lt;br/&gt; 1457 juni 28&lt;br/&gt;Roel Dirks en Willem Schoonnoet, schepenen van Sint-Michielsgestel, oorkonden dat Jan, zoon wijlen Jan Rutgerszn, aan Willem, zoon wijlen Reiner Mors, die zijn niet nader genoemde oom vertegenwoordigt, overdraagt: 1/2 houtwas in het Nieuwe land&lt;br/&gt;Inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1457" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1457-06-28.&lt;br/&gt; 1457 juni 28&lt;br/&gt;Roel Dirks en Willem Schoonnoet, schepenen van Sint-Michielsgestel, oorkonden dat Jan, zoon wijlen Jan Rutgerszn, aan Willem, zoon wijlen Reiner Mors, die zijn niet nader genoemde oom vertegenwoordigt, overdraagt: 1/2 houtwas in het Nieuwe land&lt;br/&gt;Inventarisnr 2</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/31CEC4A93D894347A707F0D1A69C2FE5" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142960">
+            <unitid type="guid">DB2FCAC1126D4FC9A8E0286D55CDAA81</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">7</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1466-02-26.&lt;br/&gt; 1466 februari 26 datum vicesima sexta die mensis februarii feria quarta post Dominicam qua cantatur 'Invocavit' anno Domini millesimo quadringentesimo sexagesimo quinto&lt;br/&gt;Wedigo, zoon wijlen Jan Wedigenzn, draagt voor schepenen van 's-Hertogenbosch over, aan zijn zoon Jan: vruchtgebruik van perceel land bij Haanwijk&lt;br/&gt;Zegels Gerard Simons (verdwenen) en Henrik de Kessel (verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 3</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1466" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1466-02-26.&lt;br/&gt; 1466 februari 26 datum vicesima sexta die mensis februarii feria quarta post Dominicam qua cantatur 'Invocavit' anno Domini millesimo quadringentesimo sexagesimo quinto&lt;br/&gt;Wedigo, zoon wijlen Jan Wedigenzn, draagt voor schepenen van 's-Hertogenbosch over, aan zijn zoon Jan: vruchtgebruik van perceel land bij Haanwijk&lt;br/&gt;Zegels Gerard Simons (verdwenen) en Henrik de Kessel (verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 3</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DB2FCAC1126D4FC9A8E0286D55CDAA81" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142961">
+            <unitid type="guid">27AD02762C904F09ABF8E071E38C30F6</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">8</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1466-06-20.&lt;br/&gt; 1466 juni 20&lt;br/&gt;Dirk van Boxtel, gardiaan minderbroerklooster 's-Hertogenbosch, en alle broeders van klooster, maken bekend dat zij overdragen aan Jan Gerinx: erfpacht op 3 zester rogge uit land in Sint-Michielsgestel&lt;br/&gt;Inventarisnr 13</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1466" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1466-06-20.&lt;br/&gt; 1466 juni 20&lt;br/&gt;Dirk van Boxtel, gardiaan minderbroerklooster 's-Hertogenbosch, en alle broeders van klooster, maken bekend dat zij overdragen aan Jan Gerinx: erfpacht op 3 zester rogge uit land in Sint-Michielsgestel&lt;br/&gt;Inventarisnr 13</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/27AD02762C904F09ABF8E071E38C30F6" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142962">
+            <unitid type="guid">0E132CEA4CE64B27871E5C5B7003E833</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">9</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1482-08-19.&lt;br/&gt; 1482 augustus 19&lt;br/&gt;Wolter, zoon wijlen Arnold Willemszn, draagt voor schepenen van 's-Hertogenbosch over, aan Reiner, zoon van Wilhelm Morre: perceel land, deels wei-, deels bouwland, bij Haanwijk in Sint-Michielsgestel&lt;br/&gt;Zegels Reiner van den Hoevel en Johan, zoon van Godfried van Hedel, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 3</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1482" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142963">
+            <unitid type="guid">495D26938C0E4E70AFF7516AF3A9C9BD</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">10</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1486-02-07.&lt;br/&gt; 1486 februari 7 datum septima die mensis februarii anno Domini millesimo [quadringentesimo oc]tuagesimo quinto&lt;br/&gt;Godefrid Boden draagt voor schepenen van 's-Hertogenbosch over, aan Wolter, zoon van Johan Aben, en aan Reiner Morre, zoon van Wilhelm: land in de Houw en 3 lopen land, beide bij Haanwijk, en 1 bunder land bij Sint-Michielsgestel&lt;br/&gt;Zegels Johan Steenweg (verdwenen) en Rutger de Erp (verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 25</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1486" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142964">
+            <unitid type="guid">6F397901D7F643A2B5E0D0509A6870E1</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">11</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1486-06-26.&lt;br/&gt; 1486 juni 26&lt;br/&gt;Petrus Zomer alias van Geburdingen, draagt voor schepenen van 's-Hertogenbosch over, aan Reiner Morre, zoon wijlen Wilhelm, en Giselbert, zoon van Wolter Jan Abenszn: perceel land buiten 's-Hertogenbosch in de Houwe en bij Haanwijk&lt;br/&gt;Zegels Wilhelm Pyckevet (beschadigd) en Theodoor Hijnden (beschadigd), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 25</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1486" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1486-06-26.&lt;br/&gt; 1486 juni 26&lt;br/&gt;Petrus Zomer alias van Geburdingen, draagt voor schepenen van 's-Hertogenbosch over, aan Reiner Morre, zoon wijlen Wilhelm, en Giselbert, zoon van Wolter Jan Abenszn: perceel land buiten 's-Hertogenbosch in de Houwe en bij Haanwijk&lt;br/&gt;Zegels Wilhelm Pyckevet (beschadigd) en Theodoor Hijnden (beschadigd), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 25</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6F397901D7F643A2B5E0D0509A6870E1" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142965">
+            <unitid type="guid">B2AB7733F4AF48D7AE4B4EA4BE3F9C06</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">12</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1491-09-06.&lt;br/&gt; 1491 september 6&lt;br/&gt;Samuel, zoon wijlen Johan, zoon wijlen Bruistinus Janszn, draagt voor schepenen van 's-Hertogenbosch over, aan Franconus de Langel, voor Tafel van de Heilige Geest in 's-Hertogenbosch: erfpacht van 12 loop rogge uit land, in Thede bij Sint-Michielsgestel&lt;br/&gt;Zegels Arnold Keymp (beschadigd) en Johan van Achel (verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 13</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1491" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>1491-09-06.&lt;br/&gt; 1491 september 6&lt;br/&gt;Samuel, zoon wijlen Johan, zoon wijlen Bruistinus Janszn, draagt voor schepenen van 's-Hertogenbosch over, aan Franconus de Langel, voor Tafel van de Heilige Geest in 's-Hertogenbosch: erfpacht van 12 loop rogge uit land, in Thede bij Sint-Michielsgestel&lt;br/&gt;Zegels Arnold Keymp (beschadigd) en Johan van Achel (verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 13</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B2AB7733F4AF48D7AE4B4EA4BE3F9C06" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_278/EABD570F3E464D498815E57EFC755B35_oai_ead.xml-->
+</record>

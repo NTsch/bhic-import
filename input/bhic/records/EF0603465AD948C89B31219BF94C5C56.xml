@@ -1,0 +1,2323 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>EF0603465AD948C89B31219BF94C5C56</identifier>
+    <datestamp>2026-09-02</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HtBHIC">350</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Philips en Rogier van Leefdael, 1172 - 1686</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+        <date calendar="gregorian" era="ce" normal="2020">2020</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF730136">
+      <unittitle>Philips en Rogier van Leefdael, 1172 - 1686</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-HtBHIC">350</unitid>
+      <note label="#guid">
+        <p>EF0603465AD948C89B31219BF94C5C56</p>
+      </note>
+      <unitdate calendar="gregorian" era="ce" normal="1172/1686">17E EEUW</unitdate>
+      <note label="Vindplaats origineel">
+        <p>BHIC 's-Hertogenbosch</p>
+      </note>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Families en Personen</subject>
+        <subject>Verzamelingen</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Historisch overzicht</emph>
+        </head>
+        <odd>
+          <head>Philip van Leefdael</head>
+          <p>Philips, baron van Leefdael, heer van Waalwijk en Beek, stamde uit een oude adellijk geslacht dat zijn naam ontleende aan het dorp Leefdaal in de omgeving van Leuven. Dit geslacht behoorde in de middeleeuwen tot de aanzienlijkste van Brabant.
+            <note>
+              <p>Dat blijkt onder andere uit verschillende hoge functies die voorouders van Philips van Leefdael bekleed hebben, zoals seneschalk van Brabant, hoogschout van 's-Hertogenbosch etc. Er is echter vreemd genoeg weinig of geen literatuur over dit geslacht, zelfs geen kleine monografie.</p>
+            </note> Philips van Leefdael leefde in de 17e eeuw, van c. 1610-1680. Volgens een leenregister van het Leenhof van Brabant
+            <note>
+              <p>Archief van het Leenhof van Brabant, inventarisnummer 1129, F. 87R.</p>
+            </note> verhief hij de heerlijkheid Waalwijk op 21 december 1633. In 1658 deed hij afstand van deze heerlijkheid ten behoeve van Christiaan van Alkemade die optrad als man en voogd van Magdalena van Egmond van de Nieuburg. Philips was zelf gehuwd met een zekere Cornelia van Egmond van Nyeborg. De precieze familierelatie tussen deze twee vrouwen is niet duidelijk te achterhalen. In de banden die deel uitmaken van zijn collectie noemt Philips zich steeds heer van Waalwijk, wat er op zou kunnen wijzen dat de collectie vóór 1658 samengesteld is. In de volgende paragraaf wordt daar nader op ingegaan. Van Philips' functioneren als heer van Waalwijk en Beek zijn verder weinig getuigenissen bewaard, noch in de heerlijkheidsarchieven noch in de rechterlijke archieven van zijn tijd.
+          </p>
+          <p>Philips' belangstelling was ook duidelijk anders gericht en wel op de beoefening van de genealogie en de geschiedschrijving, in het bijzonder die van Brabant. Wij weten daarvan, niet alleen door de aard van de collectie die hij heeft gevormd, maar ook door het dagboek dat hij van zijn genealogische activiteiten heeft bijgehouden. Het manuscript wordt tegenwoordig bewaard in Gent, Stadsbibliotheek, nummer 584. Het eerste blad begint als volgt: Memorien en aenteekeninghen van saecken dewelcke ick wel indaghtigh ben (dogh de precisse jaeren ende tijt vergeeten hebbende) van genealogien, extracten, attestatien ende waepenen (...). Aan het eind van de vorige eeuw is het uitgegeven door E. Varenbergh.
+            <note>
+              <p>Aanteekeningen van eenen geslachtkundige der zeventiende eeuw. Uitgegeven door E. Varenbergh. Gent, 1873. Over dit dagboekje verscheen een artikel van de hand van J.Th. de Raadt, `Aanteekeningen betreffende twee geslachtkundigen der 17e eeuw' in: Noordbrabantsche Volksalmanak voor het jaar 1889. Jaarboekje voor Noord-Brabantsche geschiedenis, taal- en letterkunde. Helmond, 1888.</p>
+            </note> De aantekeningen nemen een aanvang in 1652 en lopen tot het jaar 1678. Uit wat Philips van Leefdael optekend blijkt dat hij beslist geen kamergeleerde was: voortdurend was hij op reis of verbleef tijdelijk in Delft, Leiden of Den Haag om bezoeken te brengen aan allerlei edellieden die hem gegevens betreffende hun geslacht vroegen of leverden. Onder hen was bijvoorbeeld ook de secretaris van de Raad van State, Slingelandt, voor prins Willem (III) van Oranje. Tevens was Philips van Leefdael voortdurend op zoek naar nieuwe heraldieke en genealogische gegevens die hij onder andere vond op grafzerken en -borden in kerken, in de kwartierstaten die jongedames van adel moesten overleggen om toegelaten te worden tot adellijke stiften
+            <note>
+              <p>Inventarisnummer 2.</p>
+            </note> en allerlei andere mondelinge en schriftelijke bronnen.
+          </p>
+        </odd>
+        <odd>
+          <head>Ontstaan en inhoud van de collectie</head>
+          <p>Wat deed Philips van Leefdael met de gegevens die hij verzameld had? Het welslagen van genealogisch onderzoek hangt voor een belangrijk deel af van de vraag of de genealoog in staat is zijn verzamelde gegevens zó te ordenen dat hij op ieder willekeurig moment alles kan terugvinden wat hij nodig heeft. Het Centraal Bureau voor Genealogie heeft voor de moderne genealoog ringbanden met voorgedrukte kwartierstaten, opbergvakken voor fotokopieën en dergelijke, opdat de onderzoeker niet het spoor bijster raakt in een woud van gegevens. Philips van Leefdael nu heeft iets dergelijks gedaan om zijn weg te blijven vinden.</p>
+          <p>Al de aantekeningen, de afschriften, de originelen die hij verzameld had, heeft hij min of meer systematisch geordend en daarna laten inbinden in perkament. Zo ontstonden een aantal banden die hij ? indien nodig ? snel kon raadplegen, naast de delen die hij zelf volschreef en -tekende met kwartierstaten en wapenschilden.</p>
+          <p>Als genealoog was Philips van Leefdael natuurlijk in de eerste plaats geïnteresseerd in stukken waarin familierelaties expliciet vermeld worden, dus vooral in testamenten, akten van huwelijkse voorwaarden, akten van boedelscheiding en af en toe ook transportakten. Dat is dan ook het materiaal waaruit drie banden van de collectie zijn samengesteld.
+            <note>
+              <p>Inventerisnummers 3-5.</p>
+            </note> Dat niet de aard van de stukken, maar het feit dat ze familiebetrekkingen blootleggen, bepalend is geweest voor opnamen in deze banden, blijkt mijns inziens ook duidelijk uit het aanleggen van een index op familienamen achterin iedere band. Zo'n index is een absolute noodzaak: weliswaar is in iedere band een groepering van stukken per familie te herkennen, maar doordat vele 17e-eeuwse adellijke geslachten door wederzijdse huwelijken aan elkaar verwant waren, kon zo'n groepering nooit meer dan een vrij grove indeling zijn. Helaas is de index die Philips of zijn assistent
+            <note>
+              <p>Zie J.Th. de Raadt, `Aanteekeningen...'; het schrift is in ieder geval niet van Philips van Leefdael.</p>
+            </note> gemaakt heeft niet uitputtend hoe nuttig op zich ook.
+          </p>
+          <p>Uit de index blijkt ook dat Philips van Leefdael niet alleen geïnteresseerd was in adellijke geslachten. Een aantal namen wordt gevolgd door een letter, bedoeld om de functie van de persoon in kwestie aan te geven: notaris, schepen, getuige, `licentiaet', `plenipotentiaris'. De genealogische stukken blijken ook vanuit een andere optiek interessant te kunnen zijn: ze bevatten gegevens over heerlijkheden, plaatsen, kloosters, over landmeters, schepenbanken en zo voort, gegevens die voor iemand met een historisch gerichte belangstelling heel wetenswaardig zijn. Philips van Leefdael had ook die historische belangstelling, waar met name de samenstelling van twee andere banden uit de collectie (band E en G)
+            <note>
+              <p>Inventarisnummers 6 en 7.</p>
+            </note> op wijst.
+          </p>
+          <p>Band E en G zijn samengesteld uit stukken over de meest uiteenlopende onderwerpen. Op het eerste gezicht is het een chaotische opeenvolging van brieven, financiële overzichten, afschriften en originele akten die een periode van bijna vijf eeuwen bestrijken. Bij nadere beschouwing blijkt er wel degelijk systeem in die opeenvolging te zitten, al is dit systeem (in de ogen van de moderne beschouwer tenminste) niet altijd even consequent toegepast. Bijna alle stukken hebben een zinvolle plaats als men ze beziet vanuit het oogpunt van de geschiedenis van een bepaalde plaats of streek. Met andere woorden, de beide banden zijn volgens een geografisch principe ingedeeld. Blijkens zijn aantekeningen hier en daar was Philips van Leefdael vooral geïnteresseerd in de juridische aspecten of de juridische consequenties van de stukken.
+            <note>
+              <p>Een mooi voorbeeld daarvan is een brief van de hoogschout van 's-Hertogenbosch aan de heer van Mierlo over een heksenvervolging in 1595. Een interessant onderwerp, maar Philips van Leefdael is slechts geïneresseerd in de juridische verhoudingen tussen heer en schout blijkens zijn notitie: Hier wt blyckt dat de hooghe jurisdictie tot helmont den hoch schout vande Bosch competeert (...). Zie Helmond, E 78-79.</p>
+            </note>
+          </p>
+          <p>Hoewel de stukken vanuit deze bepaalde optiek verzameld zijn, geven ze bij elkaar gezien een wijdere blik dan strict juridisch over de geschiedenis van het hertogdom Brabant, waarbij de nadruk valt op de meierij van 's-Hertogenbosch. Niet alleen de vroege geschiedenis (met bijvoorbeeld een afschrift van een tot nu toe onbekend hertogelijk privilege betreffende jaarmarkten in Waalwijk uit 1303),
+            <note>
+              <p>Waalwijk, E 506 R.</p>
+            </note> maar ook de beginperiode van Staats-Brabant is vertegenwoordigd (met met name veel stukken over de benarde financiële toestand).
+          </p>
+          <p>In de paragraaf over Philips van Leefdael zelf heb ik al min of meer als terminus ante quem voor de totstandkoming van deze collectie het jaar 1658 genoemd. Het feit dat Philips van Leefdael zich voortdurend heer van Waalwijk noemt is niet de enige aanwijzing voor deze datering. Vele stukken, afschriften zowel als originelen, zijn 16e-eeuws of vroeg 17e-eeuws. Philips heeft ze blijkbaar ergens aangetroffen of ten geschenke gekregen. Een aantal afschriften echter zijn duidelijk in zijn opdracht gemaakt. Een aanwijzing daarvoor is het feit dat groepjes afschriften binnen één week gemaakt zijn door of bij dezelfde notaris.
+            <note>
+              <p>Vergelijk bijvoorbeeld band B, f. 248 en verder.</p>
+            </note> Deze laatste stukken zijn uit 1653 en 1654. Stukken die na 1658 gedateerd zijn ontbreken, al blijft er natuurlijk onzekerheid over de ongedateerde stukken. Vandaar dat de titelpagina voorzichtigheidshalve c. 1660 vermeldt. Een terminus post quem is veel moeilijker vast te stellen. Twee banden
+            <note>
+              <p>Inventarisnummers 1 en 6.</p>
+            </note> zijn gedateerd: het register met kwartierstaten draagt op de eerste pagina na een inleiding in het handschrift van Philips van Leefdael het jaartal 1654. Band E is, blijkens een aantekening voorin, in 1645 gebonden. Het lijkt geoorloofd aan te nemen dat de banden B, C en D vóór E, maar niet lang ervoor, samengesteld zijn. Zo ook zal band G niet erg lang na E tot stand zijn gekomen. Totdat dit echt onderzocht is lijkt het veilig om voor het ontstaan van de banden de jaren '40 en '50 van de 17e eeuw aan te nemen.
+            <lb/>
+            <lb/>Rijksarchief in Noord-Brabant, 1995
+          </p>
+        </odd>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Aanwijzingen voor de gebruiker</emph>
+        </head>
+        <p>De collectie bestaat uit niet meer dan 11 materiële eenheden. In een tweetal bijlagen zijn van de inventarisnummers 2, 6 en 7 inhoudsopgaven gemaakt. De banden B, C en D (inventarisnummers 3-5) hebben een beperkte ingang via de namenindex achter in iedere band.</p>
+        <p>Bijlage 1 geeft schematisch de inhoud van inventarisnummer 2. De indeling in reguliere en seculiere fundaties is van Philips van Leefdael. Voor het gemak van de gebruiker zijn de plaatsen en kloosters in alfabetische volgorde gezet, gevolgd door de nummers van de betreffende pagina's.</p>
+        <p>Bijlage 2 geeft een analytische inhoudsopgave van de inventarisnummers 6 en 7 (band E en G). Beide banden heeft Philips van Leefdael volgens een geografisch indelingsprincipe samengesteld. Dat principe heeft hij echter niet overal even consequent gehanteerd. In de analytische beschrijving van de inhoud is dat wel gebeurd.</p>
+        <p>Aangezien de indelingen van de twee banden elkaar zowel overlapten als elkaar aanvulden, is ervoor gekozen om ze in de inhoudsopgave in elkaar te schuiven. Met beide banden is dus eigenlijk gehandeld alsof het ging om één stapel losse stukken. De beschrijvingen zijn niet genummerd om te voorkomen dat er verwarring zou ontstaan met het inventarisnummer. Bijlage 2 bevat dus de inhoud van twee inventarisnummers, te weten de nummers 6 en 7. Om de vindplaats aan te duiden van de stukken, wordt iedere beschrijving gevolgd door de letter van de band waarin het stuk zit (dus E of G), en de nummers van de folia waar de beschrijving betrekking op heeft. Om een opeenhoping van cijfers en letters te vermijden is bij de foliumaanduiding F weggelaten. Recto en verso zijn aangeduid met R en V. Als er verschillende stukken op een bladzijde staan, zijn deze in de banden in potlood onderscheiden met a, b, c enzovoort. E 24 R, b-32 V achter een beschrijving wil dus zeggen dat het stuk of de stukken die beschreven zijn gevonden kunnen worden in band E (=inventarisnummer 6) op de folia 24 recto, het tweede stuk, tot 32 verso.</p>
+        <p>In de noten bij de beschrijvingen wordt een enkele maal verwezen naar een uitgave van het desbetreffende stuk in ONB. Daarmee wordt bedoeld: Oorkondenboek van Noord-Brabant tot 1312. I. De meierij van 's-Hertogenbosch (met de heerlijkheid Gemert). Bewerkt door H.P.H. Camps. Den Haag, 1979. 2 dln.</p>
+        <p>Voor de geografische indeling is de staatkundige toestand aangehouden zoals die bestond ten tijde van Philips van Leefdael, dus in de eerste helft van de zeventiende eeuw.</p>
+        <p>In 1981 zijn de inventarisnummers 1-7 beschreven en geanalyseerd door R. Wols. Inventarisnummer 8 is in 1983 gevonden in een depot van het Rijksarcief in Noord-Brabant. Vermoedelijk is dat de verloren gewaande band F.</p>
+        <p>Verwijzing naar archiefstukken uit dit archief geschiedt door
+          <lb/>(volledig): 
+          <emph render="italic">Brabants Historisch Informatie Centrum, toegangsnummer 350 Philips en Rogier van Leefdael, 1172-1686</emph>, inv.nr. ...
+          <lb/>(verkort): 
+          <emph render="italic">BHIC, 350 Van Leefdael</emph>, inv.nr. ...
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Bijlagen</emph>
+        </head>
+        <odd>
+          <head>Bijlage 1: Inhoudsopgave Van Inventarisnr 2</head>
+          <p>Heraldische aantekeningen betreffende de vóórchristelijke periode, aangevuld met enige legenden p. 7-9</p>
+          <p>Keulen (Domkapittel) p. 13-41</p>
+          <odd>
+            <head>Seculiere Fundaties</head>
+            <p>Andenne p. 199-212</p>
+            <p>Bidbourg p. 252</p>
+            <p>Maubeuge p. 106-137</p>
+            <p>Bergen In Henegouwen p. 138-198</p>
+            <p>Moustier Sur Sambre p. 229-242</p>
+            <p>Munsterbilsen p. 213-221</p>
+            <p>Nijvel p. 59-105</p>
+            <p>Susteren p. 244-250</p>
+            <p>Thorn p. 42-58</p>
+          </odd>
+          <odd>
+            <head>Reguliere Fundaties</head>
+            <p>Aken, klooster Borchet p. 359</p>
+            <p>Brussel, klooster Vorst p. 303-309</p>
+            <p>Dalhem p. 360</p>
+            <p>Delft, klooster Koningsveld p. 289-290</p>
+            <p>Den Haag, klooster Loosduinen p. 290-294</p>
+            <p>Den Haag, klooster Rijnsburg p. 257-284</p>
+            <p>Helmond, klooster Binderen p. 314-332</p>
+            <p>Kleef, Nieuwklooster p. 353-358</p>
+            <p>Munster p. 346-352</p>
+            <p>Nederwetten, klooster Hooidonk p. 333-340</p>
+            <p>Noordwijk, klooster Leeuwenhorst p. 286-288</p>
+            <p>Utrecht, klooster Mariendaal p. 295-302</p>
+            <p>Utrecht, klooster Oudwijk (St. Marie) p. 295-302</p>
+            <p>Utrecht, klooster Servaas p. 295-302</p>
+            <p>Utrecht, Vrouwenklooster p. 295-302</p>
+            <p>Utrecht, Wittevrouwen p. 295-302</p>
+          </odd>
+        </odd>
+        <odd>
+          <head>Bijlage 2: Analytische inhoudsopgave van inv.nrs. 6-7 (band E en G)</head>
+          <odd>
+            <head>Hertogdom Brabant</head>
+            <odd>
+              <head>Gehele hertogdom</head>
+              <odd>
+                <head>Geschiedenis</head>
+                <odd type="regest">
+                  <head>(eind 16e eeuw).
+                    <lb/> Aantekeningen over de geschiedenis van het hertogdom Brabant vanaf de 7e eeuw tot aan de kroning van Karel V tot Rooms-Koning,
+                  </head>
+                  <p>6-14</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1335; 1372. Kopieën, (midden 16e eeuw en 1e helft 17e eeuw).
+                    <lb/> Akten waarbij de steden van Brabant een verbond sluiten,
+                  </head>
+                  <p>336-341</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1543. Kopie, (eind 16e eeuw).
+                    <lb/> Verordening door de stad 's-Hertogenbosch dat binnen 6 weken alle huizen en gebouwen in een straal van 500 passen rondom de stad afgebroken dienen te worden,
+                  </head>
+                  <p>6 V, c</p>
+                  <p>1 pas = 5 voet.</p>
+                  <p/>
+                </odd>
+              </odd>
+              <odd>
+                <head>Bestuur</head>
+                <odd type="regest">
+                  <head>1422. Kopie, (begin 17e eeuw).
+                    <lb/> Tekst van de 'Blijde Inkomste' van hertog Jan (IV) van Brabant,
+                  </head>
+                  <p>403-418</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1446. Kopie, (begin 17e eeuw).
+                    <lb/> Akte waarbij Philips (de Goede) van Bourgondië aan de Amman van Brussel meedeelt dat het de edelen van Brabant niet toegestaan is per testament te beschikken over de goederen die zij van de hertog in leen houden, tenzij met schriftelijke toestemming van de hertog,
+                  </head>
+                  <p>262</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1510. Kopie, (eind 16e eeuw).
+                    <lb/> Ordonnantie door Maximiliaan van Oostenrijk aan de inwoners van Brabant betreffende het herstel en onderhoud van wegen, bruggen, waterlopen en waterwegen,
+                  </head>
+                  <p>31-35</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1515. Kopie, (eind 16e eeuw).
+                    <lb/> Tekst van de 'Blijde Inkomste' van Karel V,
+                  </head>
+                  <p>15-30</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1517. Kopie, (eind 16e eeuw).
+                    <lb/> Ordonnantie door Karel V waarbij hij eenieder de jacht verbiedt in de waranden van 'Sonien, Meerdale, Groothoute, Zeventerloo en Grootheyst',
+                  </head>
+                  <p>56-58 V</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1531. Kopie, (eind 16e eeuw).
+                    <lb/> Akte waarbij Karel V regels vaststelt voor de overdracht van onroerend goed,
+                  </head>
+                  <p>107-110</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1549. Kopie, (eind 16e eeuw).
+                    <lb/> Tekst van de in overleg met de Staten van Brabant gewijzigde 'Blijde Inkomste' door Karel V en zijn zoon Philips II,
+                  </head>
+                  <p>86-106</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>(1e helft 17e eeuw).
+                    <lb/> Ordonnantie door (Philips II) waarbij hij strenge regels stelt ten aanzien van de vervreemding van leengoederen. Ongedateerd. Kopie, niet volledig,
+                  </head>
+                  <p>153-158</p>
+                  <p/>
+                </odd>
+              </odd>
+              <odd>
+                <head>Openbare orde</head>
+                <odd type="regest">
+                  <head>1312. Kopie, (1e helft 15e eeuw). Met marginale glossen.
+                    <lb/> Akte waarbij hertog Jan (II) van Brabant voor de meierijen van Brabant een reglement van ordemaatregelen vaststelt,
+                  </head>
+                  <p>171-176</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1515. Authentiek kopie, (eind 16e eeuw).
+                    <lb/> Akte waarbij Karel V op verzoek van de dorpen en steden van Brabant in 16 punten verbeteringen afkondigt op het gebied van het handhaven van de openbare orde,
+                  </head>
+                  <p>80-85</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1537. Kopie, (eind 16e eeuw).
+                    <lb/> Ordonnantie door Karel V gericht tegen in Brabant rondzwervende soldaten die door middel van plundering of bedelen in hun onderhoud voorzien
+                  </head>
+                  <p>140-143</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1570. Kopie, (begin 17e eeuw).
+                    <lb/> Ordonnantie door Philips II waarbij hij een reglement van maatregelen vaststelt ter handhaving van de openbare orde, waarbij de nadruk valt op de aanstelling en de taken van de officieren,
+                  </head>
+                  <p>226c-255</p>
+                  <p/>
+                </odd>
+              </odd>
+              <odd>
+                <head>Ambtenaren</head>
+                <odd type="regest">
+                  <head>1460. Kopie, (eind 16e eeuw). Met extra bepalingen ten aanzien van het Zonienwoud.
+                    <lb/> Ordonnantie door N.N. betreffende het woudrecht en instructie voor de woudmeester in Brabant,
+                  </head>
+                  <p>59-69</p>
+                  <p>Zie ook 1.2, 56-58.</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1481. Kopie, (begin 17e eeuw).
+                    <lb/> Instructie voor de vorsters in Brabant,
+                  </head>
+                  <p>263-266</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1515. Kopie, (eind 16e eeuw).
+                    <lb/> Instructie door Karel V voor de warandmeesters in Brabant
+                  </head>
+                  <p>50-55</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1529. Kopie, (eind 16e eeuw).
+                    <lb/> Instructie door Margaretha van Oostenrijk voor de advocaat-fiscaal en procureur van de Raad van Brabant te Brussel
+                  </head>
+                  <p>35 V-44</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1545. Kopie, (eind 16e eeuw).
+                    <lb/> Instructie door Karel V voor de warandmeesters van Brabant
+                  </head>
+                  <p>144-152</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1570. Kopie, (begin 17e eeuw).
+                    <lb/> Ordonnantie door de hertog van Alva betreffende het afleggen van de in deze ordonnantie opgenomen eed door alle officieren en rechters en de registratie daarvan
+                  </head>
+                  <p>256-258</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1627. Kopie van een authentiek kopie uit 1648, (c. 1650).
+                    <lb/> Akte waarbij Philips (IV) aan de boogschutters van de voormalige lijfwacht van de aartshertogen Albert en Isabella als beloning voor hun diensten een aantal functies als officieren in Brabant, Luxemburg, Artois en Vlaanderen in het vooruitzicht stelt. Met een lijst van de boogschutters en een lijst van de functies die bij vacant komen door hen vervuld mogen worden
+                  </head>
+                  <p>331 V-335</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>(miden 17e eeuw).
+                    <lb/> Lijst van de belangrijkste overheidsfuncties van Brabant,
+                  </head>
+                  <p>328-329</p>
+                  <p/>
+                </odd>
+              </odd>
+              <odd>
+                <head>Rechtspraak</head>
+                <odd type="regest">
+                  <head>(midden 15e eeuw).
+                    <lb/> Beschrijvingen van juridische casus-posities en rechtsregels,
+                  </head>
+                  <p>204-212</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>(midden 15e eeuw).
+                    <lb/> Rechtsregels, voornamelijk betreffende het erfrecht,
+                  </head>
+                  <p>183 R, b-193</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>(begin 16e eeuw).
+                    <lb/> Aantekeningen betreffende het leenrecht, (kopie van een gedeelte van een reglement van een leenhof),
+                  </head>
+                  <p>215-226b</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>(eind 16e, begin 17e eeuw).
+                    <lb/> Aantekeningen betreffende competentie, procedures en kosten van schepenbanken in Brabant,
+                  </head>
+                  <p>163-170</p>
+                  <p/>
+                </odd>
+              </odd>
+              <odd>
+                <head>Financiën</head>
+                <odd type="regest">
+                  <head>1516. Kopie, (midden 16e eeuw).
+                    <lb/> Akte waarbij toestemming verleend wordt aan de geestelijkheid van Brabant om losrenten of te betalen cijnzen te kopen
+                  </head>
+                  <p>159-160</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1559.
+                    <lb/> Akte waarbij de Staten van Brabant aan Henrik Bloeymans commissie verlenen om de 'imposten van de vier speciën' openbaar bij opbod te verpachten en om met de opbrengsten daarvan de leningen door de Staten bij de stad Antwerpen afgesloten, versneld af te lossen
+                  </head>
+                  <p>423-424</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>(laatste kwart 16e eeuw).
+                    <lb/> Uittreksel uit de rekeningen van de Staten van Brabant over 1567, uitgesplitst naar de hoofdsteden der vier kwartieren,
+                  </head>
+                  <p>425-442</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>(eind 16e eeuw).
+                    <lb/> Bekendmaking van de instructies voor het heffen van de impost op bier en andere graan-, meel- of mouthoudende dranken in het jaar 1573. Kopie,
+                  </head>
+                  <p>470-475</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>(eind 16e eeuw).
+                    <lb/> Verzoekschrift door de Staten van Brabant aan Philips II om vermindering van de lasten voor Brabant vanwege de zware financiële druk die al op de Brabanders rust door de oorlogshandelingen. Met staat van het in 1573 reeds opgebrachte geld. Kopie,
+                  </head>
+                  <p>476-477</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>(c. 1573).
+                    <lb/> Staat van betalingen gedaan aan Antwerpen door de commissaris van de algemene tresorie Diederik van Beken, in opdracht van de Staten-Generaal,
+                  </head>
+                  <p>483 V-484</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1577. Kopie, (eind 16e eeuw).
+                    <lb/> Staat van inkomsten uit de 'dubbele bede' en de verdeling daarvan
+                  </head>
+                  <p>485-486</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>(eind 16e eeuw).
+                    <lb/> Staat van de tarieven van de 'oude tol' em de 'nieuwe tol', alsmede een lijst van steden die vrijgesteld zijn van de betaling van tol,
+                  </head>
+                  <p>45 V-49</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>(eind 16e eeuw).
+                    <lb/> Staat van de maandelijkse contributie opgebracht door de steden en plaatsen in het huidige Oostelijk Noord-Brabant, Zuid-Holand, Gelderland en Twente,
+                  </head>
+                  <p>478-</p>
+                  <p>Het hele katern is gefoliëerd: 478.</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1607. Kopie, (begin 17e eeuw).
+                    <lb/> Negatieve beschikking door aartshertog Albert van Oostenrijk op het verzoek van de aartsbisschop van Mechelen, de bisschoppen van Amiens en 's-Hertogenbosch en de gezamenlijke prelaten van Brabant om vrijstelling van de betaling van belasting
+                  </head>
+                  <p>259-261</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1648-1649. Kopieën, (17e eeuw).
+                    <lb/> Rekesten en adviezen aan en resoluties door de Staten-Generaal betreffende vrijstelling van belasting en andere lastenvermindering voor de Meierij van 's-Hertogenbosch in verband met de benarde financiële positie van Brabant door de oorlogshandelingen
+                  </head>
+                  <p>489-534</p>
+                  <p/>
+                </odd>
+              </odd>
+            </odd>
+            <odd>
+              <head>Kwartieren van hertogdom</head>
+              <odd>
+                <head>Kwartier van 's-Hertogenbosch</head>
+                <odd>
+                  <head>Meierij</head>
+                  <odd>
+                    <head>Gehele Meierij</head>
+                    <odd type="regest">
+                      <head>1356-1437. Kopieën, (begin 17e eeuw).
+                        <lb/> Fragmenten van akten betreffende Waalwijk, St. Michielsgestel, Asten, Gemert, Kessel, Liempde, Aarle-Rixtel en Deurne,
+                      </head>
+                      <p>68-69</p>
+                      <p/>
+                    </odd>
+                    <odd type="regest">
+                      <head>(1e helft 17e eeuw).
+                        <lb/> Uittreksels uit de rekenboeken van rond 1400 der rentmeesters van de hertogen van Brabant, Hendrik Dicbier, Jan de Joode, Peter de Joode en Hendrik van Hersel, betreffende de dorpen in de Meierij waarover zij verantwoording moesten afleggen,
+                      </head>
+                      <p>35-36</p>
+                      <p/>
+                    </odd>
+                    <odd type="regest">
+                      <head>(eind 16e, begin 17e eeuw).
+                        <lb/> Uittreksel uit het kohier van de 10e penning, betreffende de in 1543 geheven belasting in de stad en meierij van 's-Hertogenbosch. Kopie,
+                      </head>
+                      <p>466-469</p>
+                      <p/>
+                    </odd>
+                    <odd type="regest">
+                      <head>1606. Met aantekening van publicatie te Mierlo, &lt;Datering&gt; 1606.
+                        <lb/> Bevelschrift door de aartshertogen van Brabant aan de hoogschout van 's-Hertogenbosch op verzoek van jonker Jochem van Liere, om de ordonnantie van 1568 tegen de jacht op vogels opnieuw te publiceren en streng toe te zien op de naleving ervan. Met authentieke uittreksels van de belangrijkste artikelen van deze ordonnantie
+                      </head>
+                      <p>625-626</p>
+                      <p/>
+                    </odd>
+                    <odd type="regest">
+                      <head>(eind 16e, begin 17e eeuw).
+                        <lb/> Verzoekschrift door de gezamenlijke leenmannen in de Meierij van 's-Hertogenbosch aan de koning om bevestiging dat de ordonnantie over de korenrenten zowel op leengoederen als op allodiale goederen toegepast dient te worden, ongedateerd. Kopie,
+                      </head>
+                      <p>39-40</p>
+                      <p/>
+                    </odd>
+                    <odd type="regest">
+                      <head>Staat van de geschatte opbrengsten der 'bede novemaal' in de meierij van 's-Hertogenbosch, (eind 16e, begin 17e eeuw). Met kwitantie van de bede te Mierlo (449) en een aantekening over de bede in 1625 in het kwartier van 's-Hertogenbosch (tussen 461 en 462)</head>
+                      <p>443-465</p>
+                      <p/>
+                    </odd>
+                    <odd type="regest">
+                      <head>(eerste helft 17e eeuw).
+                        <lb/> Beschrijving der vier kwartieren van de Meierij van 's-Hertogenbosch, in margine door Philips van Leefdael aangevuld met gegevens afkomstig van de generale heerdtelling, in 1526 gehouden,
+                      </head>
+                      <p>4-32 R</p>
+                      <p/>
+                    </odd>
+                  </odd>
+                  <odd>
+                    <head>Afzonderlijke kwartieren</head>
+                    <odd>
+                      <head>Kwartier Peelland, gehele kwartier</head>
+                      <odd type="regest">
+                        <head>Aantekeningen over de plaatsen waar de schepenbanken uit het kwartier Peelland te hoofde gaan en over hun inkomsten uit boetes en verbeurdverklaringen in de jaren 1469-1474, (eind 16e eeuw)</head>
+                        <p>52-55</p>
+                        <p/>
+                      </odd>
+                      <odd type="regest">
+                        <head>1546.
+                          <lb/> Akte waarbij schepenen en raad van 's-Hertogenbosch aan alle officieren in het kwartier Peelland opdragen er zorg voor te dragen dat de rivier de Aa vrij kan stromen
+                        </head>
+                        <p>42 R</p>
+                        <p/>
+                      </odd>
+                      <odd type="regest">
+                        <head>Uittreksels uit de Costuymen van St. Oedenrode van 1550 met betrekking tot het te hoofde gaan.</head>
+                        <p/>
+                      </odd>
+                      <odd type="regest">
+                        <head>(begin 17e eeuw).
+                          <lb/> Uittreksels uit het Concensieboeck van de Kwartiersvergadering van Peelland betreffende in 1578 genomen besluiten,
+                        </head>
+                        <p>43-44</p>
+                        <p/>
+                      </odd>
+                      <odd type="regest">
+                        <head>1585-1586.
+                          <lb/> Plakkaat door Philips II tegen landloperij. Met aantekening van publikatie te 's-Hertogenbosch, St. Oedenrode, Son, Mierlo, Someren en Lierop
+                        </head>
+                        <p>42 V</p>
+                        <p/>
+                      </odd>
+                      <odd type="regest">
+                        <head>1623-1640. Kopieën, (c. 1650).
+                          <lb/> Stadhouderschap in Peelland
+                        </head>
+                        <p>62-67</p>
+                        <p/>
+                      </odd>
+                      <odd type="regest">
+                        <head>(begin 17e eeuw).
+                          <lb/> Aantekeningen over het verheffen van erfsecretarieën en vorsterijen in de kwartieren Peelland en Maasland in het jaar 1623. Twee gelijkluidende kopieën,
+                        </head>
+                        <p>56-58</p>
+                        <p/>
+                      </odd>
+                      <odd type="regest">
+                        <head>1642. Kopie, (c. 1650).
+                          <lb/> Plakkaat door Philips IV tegen het afkopen door dorpen en vlekken in het kwartier Peelland van inkwartiering of plundering door ruiters en soldaten van de Prins van Oranje, (c. 1640). Onvolledig kopie, (c. 1650). Met akte van bevestiging door Philips IV op verzoek van de kwartiersvergadering
+                        </head>
+                        <p>45-50</p>
+                        <p/>
+                      </odd>
+                      <odd type="regest">
+                        <head>(1e helft 17e eeuw).
+                          <lb/> Uittreksels uit diverse bronnen met gegevens over het te hoofde gaan van plaatsen uit het kwartier Peelland,
+                        </head>
+                        <p>37-38</p>
+                        <p/>
+                      </odd>
+                    </odd>
+                    <odd>
+                      <head>Kwartier Peelland, afzonderlijke plaatsen</head>
+                      <odd>
+                        <head>Aarle</head>
+                        <p>zie Rixtel</p>
+                      </odd>
+                      <odd>
+                        <head>Beek</head>
+                        <p>zie ook Lieshout, 402-403 en 406-408</p>
+                        <odd type="regest">
+                          <head>(15e eeuw).
+                            <lb/> Akte van attestatie voor de schepenen van Aarle dat de inwoners van Beek de gemeint van Bakel altijd gebruikt hebben, 1411. Kopie,
+                          </head>
+                          <p>295</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1611. Kopieën, (1e helft 17e eeuw).
+                            <lb/> Geschil tussen Johan van Grevenbroeck, Aart Monicx en enkele andere gebruikers van enige hooilanden aan de Beekse Donk, en mr. Gerard Fabri over het recht van overpad over de Donksedijk naar Beek
+                          </head>
+                          <p>322-330</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1613-1615.
+                            <lb/> Geschil tussen de gerechtigde inwoners en de magistraat van Beek over het heffen van belasting op het gebruik van de gemeint
+                          </head>
+                          <p>298-307; 311-317; 320-1; 331-2; 341-3</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1619-1620. Kopieën, (1e helft 17e eeuw).
+                            <lb/> Belastingschulden van Beek
+                          </head>
+                          <p>308-09; 318-9; 333-4; 337-40</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Ordonnantie door de magistraat van Aarle, Beek, Lieshout en Rixtel betreffende het plunderen door zowel Spaanse als Staatse troepen, (1643)</head>
+                          <p>344-347</p>
+                          <p>1642 wordt als 'voorleden jaere' genoemd.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1649.
+                            <lb/> Akte waarbij de magistraat van Beek een overzicht geeft van de schuldenlast van Beek. Met begeleidende brief door secretaris B. Heesel
+                          </head>
+                          <p>348-351</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Breugel</head>
+                        <odd type="regest">
+                          <head>Akte van kwijting door Jacob van Deventer voor zijn nicht Agnes van Deventer, van een som van 300 gulden vanwege de tienden in Vlierden, (15)60</head>
+                          <p>599</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Deurne</head>
+                        <odd type="regest">
+                          <head>Akte van bevestiging door Philips van Bourgondië van een akte van verkoop uit 1325 door hertog Jan (III) van Brabant aan de inwoners van Deurne van de gemene gronden binnen het gerecht van Deurne voor 40 pond zwarte tournooise jaarlijks, 1449. Kopie, (begin 17e eeuw)</head>
+                          <p>124</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Uittreksel uit een leenregister, (het 'Bosch Strick-Grefier') van het Leenhof van Brabant over de periode 1505-1565 betreffende de heerlijkheid Deurne, (midden 17e eeuw)</head>
+                          <p>235-236</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1641. Kopie, (midden 17e eeuw).
+                            <lb/> Akte waarbij Charles Diderick, heer van Deurne, de inwoners van Deurne hun plundertocht naar Aarle vergeeft
+                          </head>
+                          <p>245-246</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1642. Kopie, (midden 17e eeuw).
+                            <lb/> Mandaat aan de vorster van Deurne om aan de secretaris van deze heerlijkheid, Ottho de Visschere, opheldering te vragen over diens toezeggingen aan de inwoners van Aarle van schadeloosstelling. Met proces-verbaal door de vorster
+                          </head>
+                          <p>243-244</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Geldrop</head>
+                        <odd type="regest">
+                          <head>Authentiek uittreksel uit een leenregister (van het Leenhof van Brabant) beteffende de bezitters van de heerlijkheid Geldrop in de periode 1403-1574, (eind 16e eeuw)</head>
+                          <p>251</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Heeze en leende</head>
+                        <odd type="regest">
+                          <head>Akte van verkoop door Herbertus, heer van Heeze, aan de abdij van Averbode van zijn allodium Sterksel, 1172. Authentiek kopie, (1e helft 17e eeuw)</head>
+                          <p>220</p>
+                          <p>Uitgegeven in ONB I, 1; nr. 68.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Akte waarbij hertog Hendrik (I) van Brabant ten behoeve van abt en convent van Averbode bevestigt dat zij het allodium wettig van Herbertus, heer van Heeze, verkregen hebben, 1220. Authentiek kopie, (1e helft 17e eeuw)</head>
+                          <p>219 R</p>
+                          <p>Uitgegeven in ONB I, 1; nr. 117.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Akte waarbij hertog Jan (III) van Brabant aan de kinderen van Hendrik Willems van Hoorne en Altena een stuk woeste grond tussen Mierlo en Heeze in eigendom geeft tegen een erfelijke jaarcijns van een pond zwarte tournooise, 1344. Authentiek kopie, (midden 17e eeuw)</head>
+                          <p>216-217</p>
+                          <p>Zie ook Mierlo, 119-120.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Akte waarbij hertog Anton van Brabant verklaart dat Claes Meeuws onder ede getuigenis heeft afgelegd van het feit dat hij meer dan vijftig jaar geleden aanwezig was geweest bij een grensbepaling door Hendrick Wulve, drossaard van Brabant, tussen de hertog en de heer van Heeze, 1352. Kopie, (c. 1650)</head>
+                          <p>214-215</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Akte waarbij Wenceslaus van Bohemen en Johanna van Brabant, hertogen van Brabant, ten behoeve van abt en convent van Averbode verklaren dat alleen zijzelf recht mogen spreken binnen het allodium Sterksel, ongedateerd. Authentiek kopie van de dispositie, (1e helft 17e eeuw)</head>
+                          <p>219 R</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Uittreksel uit het leenregister van Brabant van 1440, met een beschrijving van het leengoed Heeze en Leende door Philips van Horne, ongedateerd. Authentiek kopie, (eind 16e, begin 17e eeuw)</head>
+                          <p>208-209</p>
+                          <p>Volledige tekst staat in Register nr. 9 van het Leenhof van Brabant (BHIC, Schaduwarchief nr. 7, 87 V en verder).</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1554. Kopie, (eind 16e eeuw).
+                            <lb/> Verzoekschrift door de dorpen Heeze, Leende, Geldrop, Budel, Maarheeze en Soerendonk aan de Commissaris Generaal en Superintendent van Zijne Majesteit de Koning om belastingvermindering vanwege het wegtrekken van vele bewoners naar Helmond. Met afwijzende beschikking
+                          </head>
+                          <p>218</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1624. Kopie, (17e eeuw).
+                            <lb/> Arbitrale uitspraak door (Jan van Grevenbroeck) en mr. Thomas (Pauli) tussen de inwoners van het gehucht Venne onder Heeze, van Oisterwijk en van het gehucht Boschoven onder Leende enerzijds en de inwoners van de Tienderstraat anderzijds inzake het gebruik van en het recht op het broek Ginderbemden
+                          </head>
+                          <p>210-213</p>
+                          <p>De arbiters gereconstrueerd naar dorsale aantekening (handschrift).</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Helmond</head>
+                        <p>zie ook Mierlo, 130-131, 134-135, 198-220 R, en Heeze en Leende, 218</p>
+                        <odd type="regest">
+                          <head>Akte waarbij hertog Jan (IV) van Brabant aan Jan van Berlaer, heer van Helmond, en de inwoners van Helmond privileges geeft met betrekking tot de uitoefening van de rechtspraak in Helmond, 1420. Kopie, (midden 17e eeuw)</head>
+                          <p>76-77</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1531. Kopie, (1e helft 17e eeuw).
+                            <lb/> Uittreksel uit het register van denombrementen van het Leenhof van Brabant betreffende goederen te Helmond
+                          </head>
+                          <p>80-81</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1546. Authentiek kopie en kopie, (17e eeuw).
+                            <lb/> Vonnis door het Leenhof van Brabant te Brussel in het geschil tussen Joost van Cortenbach, heer van Helmond, en de prelaat van Floreffe, optredend voor Willem van Garwey en Franchois van Fleru over het jagen met vogels en fretten door de heer van Helmond in geheel Peelland
+                          </head>
+                          <p>90-91; 106-107</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1595.
+                            <lb/> Brief van de schout van 's-Hertogenbosch aan de heer van Mierlo met het verzoek om kopieën van de bekentenissen der heksen die door de heer van Mierlo in Helmond gevangen waren gezet
+                          </head>
+                          <p>78-79</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1617.
+                            <lb/> Akte waarbij de schepenen van Mierlo verklaren dat de heer van Helmond het recht heeft om binnen de stad Helmond alle justitiële ambten te vergeven
+                          </head>
+                          <p>108-109</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Uittreksels uit het register van denombrementen van het Leenhof van Brabant betreffende Helmond, (1e helft 17e eeuw)</head>
+                          <p>74-75</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Lierop</head>
+                        <odd type="regest">
+                          <head>1559.
+                            <lb/> Kwitantie van Librecht van Hamme, rentmeester van Brabant in het kwartier Brussel, voor Jan de Blazere, raadsheer bij de Raad van Vlaanderen, van de som van 544 pond vlaams vanwege de koop door Jan de Blazere van de heerlijkheid Lierop
+                          </head>
+                          <p>264</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Lieshout</head>
+                        <odd type="regest">
+                          <head>Akte waarbij Hendrik van Herentals, hoogschout van 's-Hertogenbosch, op het verzoek van de meester en de broeders van de uithof van de abdij van Floreffe te Lieshout om de grens vast te stellen tussen het gebied van de abdij en dat van de hertog, verklaart dat de beek die naar Pesgale stroomt de grens vormt, 1246. Kopie, (1e helft 17e eeuw)</head>
+                          <p>389-390</p>
+                          <p>Uitgegeven in ONB I, 1; nr. 218. Dit kopie is van een cartularium van Floreffe: Namen, Staatsarchief, Kerk. arch. 3288.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Akte waarbij hertog Hendrik (III) van Brabant verklaart dat hij voogd is van de uithof van de abdij van Floreffe in Lieshout, 1252. Kopie, (1e helft 17e eeuw)</head>
+                          <p>391-392</p>
+                          <p>Uitgegeven in ONB I, 1; nr. 252. Kopie naar cartularium Floreffe: zie noot vorige nr.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Akte waarbij hertog Jan (II) van Brabant aan de meester van de uithof en de inwoners van Lieshout gemene gronden uitgeeft tegen een vóórheffing van 100 pond en een jaaarlijkse erfcijns van 40 schellingen, 13(1)1. Kopie, (c. 1650)</head>
+                          <p>378</p>
+                          <p>Uitgegeven in ONB I, 2; nr. 848. Dit kopie dateert de akte abusievelijk met 1301.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Akte waarbij hertog Jan (III) van Brabant aan de meester van de uithof en de inwoners van Lieshout de uitgifte van gemene gronden in 1311 bevestigt, 1328. Kopie, (c. 1650)</head>
+                          <p>378 V-379</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>(eind 16e, begin 17e eeuw).
+                            <lb/> Uittreksel uit het cijnsregister van Brabant betreffende cijns in 1478 betaald op een akker, de Heijcamp, gelegen onder het gehucht Ginderdoor te Lieshout,
+                          </head>
+                          <p>394</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1531. Kopie, (c. 1650).
+                            <lb/> Vonnis door Karel (V) in het proces voor de Raad van Brabant in Brussel tussen de meester van de uithof in Lieshout en Rutger Merten Smeetsz. en Jacob Hoebraken, vertegenwoordigers van de gezamenlijke brouwers en bierverkopers in Lieshout over de betaling van het gruitgeld
+                          </head>
+                          <p>379 V-385</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1617. Kopie, (c. 1650).
+                            <lb/> Akte van attestatie voor schepenen van Mierlo betreffende het recht van de heer van Helmond en dat van de abt van Floreffe als grondheer van Lieshout om in Lieshout officieren aan te stellen
+                          </head>
+                          <p>385 V-387</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1620. Met aantekeningen waaruit blijkt dat deze akte als obligatie is gebruikt, 1621.
+                            <lb/> Akte waarbij de voormalige kerkmeesters Ansem Lamberts en de weduwe van Dirck Linaers beloven hun achterstallige rekeningen te voldoen
+                          </head>
+                          <p>296-297</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>(1633).
+                            <lb/> Verweerschrift door Philips Wijnant van Kerchem op een verzoekschrift aan het Leenhof van Brabant door schout, schepenen en regeerders van Lieshout over de verdeling van de gemene gronden. Concept,
+                          </head>
+                          <p>398 bis-401</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1645.
+                            <lb/> Kwitantie door de Ontvanger van de Houtschat te Beek voor de rentmeester van Hooidonk wegens betaling van 31 schellingen voor een eik die geveld was bij de kapel van Lieshout onder Ginderdoor
+                          </head>
+                          <p>393</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1647. Kopie, (c. 1650).
+                            <lb/> Mandement door de Raad van Brabant te Den Haag aan de bode Jan van der Meer om de ondervorster aan te zeggen dat hij de schapen van Jan Lemmens uit Lieshout onmiddellijk naar diens land, 'het Rijtterbroek', terug moet brengen
+                          </head>
+                          <p>402-403</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1647.
+                            <lb/> Brieven van Anton van den Steen aan Philips van Leefdael, heer van Waalwijk en Beek over de kwestie of het recht een landschouw te houden in Ginderdoor onder Lieshout, behoort tot de competentie van de heren van Beek of tot die van de abten van Floreffe
+                          </head>
+                          <p>406-408</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1649.
+                            <lb/> Akte waarbij de magistraat van Lieshout een overzicht geeft van de schuldenlast van het dorp
+                          </head>
+                          <p>403-404</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>(c. 1650).
+                            <lb/> Memorie door Philips van Leefdael over de status van de heerlijkheid Lieshout,
+                          </head>
+                          <p>395-398</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Mierlo</head>
+                        <p>zie ook Helmond 78-79 en Stiphout 273 V-274</p>
+                        <odd type="regest">
+                          <head>1653; kopie, (c. 1650).
+                            <lb/> Akte waarbij Henricus, elect van Luik, op verzoek van de abdis en het convent van Binderen, een bevestiging geeft van de schenking der novale tienden van Mierlo door Henricus de Rode, heer van Mierlo, aan het klooster Binderen, 1256. Authentiek kopie
+                          </head>
+                          <p>116; 121; 269 R</p>
+                          <p>Uitgegeven in ONB I, 1; nr 264.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1263. Kopie, (eind 16e eeuw).
+                            <lb/> Akte van arbitratie door Reinier, scholaster van Tongeren, in het geschil tussen het klooster Binderen en Hendrik, pastoor van de kerk te Mierlo, over de novale en smalle tienden,
+                          </head>
+                          <p>269 R-270 R</p>
+                          <p>Uitgegeven in ONB I, 1; nr 292.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Uittreksel uit een akte anno 1292 waarbij hertog Jan (I) van Brabant op verzoek van Hendrik Dicbier, heer van Mierlo, de grenzen tussen hun beider gebied laat vaststellen, betreffende de grenspaal bij een bruggetje op de dijk van Helmond, (eind 16e eeuw). Met een aantekening over de opbrengst van de houtschat anno 1551</head>
+                          <p>51; 270</p>
+                          <p>De volledige akte is uitgegeven in ONB I, 1; nr 481.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1300. Nederlandse vertaling, kopie, (eind 16e eeuw).
+                            <lb/> Akte waarbij hertog Jan (II) van Brabant aan de inwoners van Mierlo gemene gronden uitgeeft tegen een jaarcijns van 4 pond leuvens
+                          </head>
+                          <p>123</p>
+                          <p>Uitgegeven in ONB I, 2; nr 601.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Akte waarbij hertog Jan (III) van Brabant de deken van de St. Jan te Luik, Goeswijn Model, bevestigt in al zijn rechten, 1335. Authentieke kopieën, 1597 en (eind 16e eeuw), en een eenvoudig kopie, (eind 16e eeuw)</head>
+                          <p>117 R; 125 R en 146 R</p>
+                          <p>Het kopie van 1597 is genomen van het authentieke kopie op 146 R.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1351. Kopie, (eind 16e, begin 17e eeuw).
+                            <lb/> Vidimus door Henricus, deken van de St. Elizabethskerk te Luik, van een akte van belening uit 1337 door hertog Jan (III) van Brabant van Otto, heer van Cuijck, met de molen van Coll met toebehoren
+                          </head>
+                          <p>146 V</p>
+                          <p>De molen van Coll was later leengoed van Mierlo, zie MIERLO, 152-153.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>(c.. 1650).
+                            <lb/> Aantekening over de verpachting in 1344 door hertog Jan (III) van Brabant aan de kinderen van Hendrik Willems van Hoorne en Altena van de woeste gronden tussen Mierlo en Heeze voor één pond zwarte tournooise per jaar,
+                          </head>
+                          <p>119-120</p>
+                          <p>Zie ook Heeze, 216-217.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1377. Authentiek kopie, 164(9).
+                            <lb/> Akte van kwijting door hertogin Johanna van Brabant voor de inwoners van Mierlo vanwege de betaling van de bede
+                          </head>
+                          <p>196-199</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Fundatie door Jacob van Beerse, geheten van der Horst, en Hendrik Dicbier van een altaar in de kerk van Mierlo in 1392. Kopieën, (16e en 17e eeuw)</head>
+                          <p>147-151</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1397. Kopie, (1e helft 17e eeuw).
+                            <lb/> Akte van beleing door hertogin Johanna van Brabant aan Hendrik Dicbier met de heerlijkheid Mierlo en alle toebehoren
+                          </head>
+                          <p>128-129</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1397. Authentieke kopieën, 1597 en (eind 16e eeuw).
+                            <lb/> Akte waarbij hertogin Johanna van Brabant aan Hendrik Dicbier, heer van Mierlo, toestemming verleent tot het houden van twee jaarmarkten in Mierlo
+                          </head>
+                          <p>117 R; 146 R</p>
+                          <p>Kopie van 1597 genomen van kopie op 146.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Arbitrale uitspraak door Johan van Berlaer, heer van Helmond, als scheidsman inzake het geschil tussen Hendrik Dicbier, heer van Mierlo, en de inwoners van Helmond over de verdeling van de houtschat, 1405. Kopie, (c. 1650)</head>
+                          <p>130-131</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Akte van overdracht voor het Leenhof van Brabant door Hendrik Dicbier aan zijn broer Jan van de heerlijkheid Mierlo met alle toebehoren en de molen te Coll, 1429. Kopie, (1e helft 17e eeuw)</head>
+                          <p>152-153</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Akte waarbij Jan van Megen, heer van Mierlo, aan Jan Vaerlaer, kapelaan en rector van de slotkapel van Mierlo, en aan diens opvolgers dezelfde rechten, vrijheden en privileges toekent als zijn huisgezin heeft, 1475. Kopie, (eind 16e, begin 17e eeuw)</head>
+                          <p>154-155</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Brief van de hertog van Brabant aan jonker Jan Dicbier, zijn leenman, met een oproep om naar Leuven te komen voor beraadslagingen, (eerste helft 15e eeuw, ná 1429)</head>
+                          <p>172</p>
+                          <p>Jan Dicbier krijgt de heerlijkheid Mierlo in 1429 van Hendrik Dicbier; zie boven, 152-153.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1526-1539. Kopieën &lt;Datering&gt; 1615 en (midden 17e eeuw).
+                            <lb/> Geschil tussen de heren van Mierlo en Helmond over de grens tussen hun beider gebied
+                          </head>
+                          <p>134-5; 198-200 R</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Uittreksel uit het register van denombrementen van het Leenhof van Brabant met de volledige beschrijving van de heerlijkheid Mierlo met alle lasten door Raes van Grevenbroeck in 1531 gemaakt, (c. 1650)</head>
+                          <p>156-164</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Akte waarbij Elisabeth van Enckevoirt, zuster van WIllem van Enckevoirt, na diens dood in 1531 de fundatie van een godshuis met kapel voor 12 oude mannen hernieuwt. Authentiek kopie, (1e helft 17e eeuw)</head>
+                          <p>173-191</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1586. Kopie, (eind 16e eeuw).
+                            <lb/> Verzoekschrift door de inwoners van Mierlo aan de hertog van Parma om vermindering van belasting vanwege het wegtrekken der rijke boeren naar Helmond. Met gunstige beschikking
+                          </head>
+                          <p>132</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1592. Authentiek kopie, (1e helft 17e eeuw).
+                            <lb/> Vonnis door de hertog van Brabant inzake het beroep dat de ingezetenen van Mierlo hebben gedaan op bijzondere omstandigheden als reden voor het niet-betalen van de belastingen
+                          </head>
+                          <p>136-143</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1594. Gelijktijdig kopie.
+                            <lb/> Vonnis door het Leenhof van Brabant in het proces tussen jonkvrouw Marie van Brecht en jonker Erasmus van Grevenbroeck over het betalen van achterstallige rente aan eiseres
+                          </head>
+                          <p>168-171</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1594.
+                            <lb/> Geschil tussen Erasmus van Grevenbroeck, heer van Mierlo, en de heer van Helmond, over het jagen van de laatste op gebied van de heer van Mierlo
+                          </head>
+                          <p>194-197</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1613.
+                            <lb/> Brief van Geor. de Louw te 's-Hertogenbosch aan Johan van Grevenbroeck, heer van Mierlo, met het verzoek om stukken betreffende de jaarmarkten te Mierlo te mogen ontvangen
+                          </head>
+                          <p>192-193</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1617. Kopie, (c. 1650).
+                            <lb/> Advies door mr. Puteanus over de erkenning van de titel 'Heer van Mierlo' met de daarbij behorende rechten, i.c. het recht van collatie en de hoge jurisdictie
+                          </head>
+                          <p>144-145</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1647.
+                            <lb/> Opmeting door Cornelis Joosts de Groof, gezworen landmeter, van de heerlijkheid Mierlo
+                          </head>
+                          <p>164-167</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1641.
+                            <lb/> Akte waarbij een aantal 'knapen' een verklaring afleggen omtrent de jurisdictie in Mierlo, ongedateerd. Authentiek kopie
+                          </head>
+                          <p>133-133 bis</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Reglement van de schutterij van Mierlo gewijd aan de H. Catharina en de H. Barbara, ongedateerd. Kopie, (midden 17e eeuw)</head>
+                          <p>200 V-201 R</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Rixtel</head>
+                        <odd type="regest">
+                          <head>1300. Kopie, (begin 16e eeuw).
+                            <lb/> Akte waarbij hertog Jan (II) van Brabant aan de inwoners van Aarle, Rixtel en Beek gemene gronden uitgeeft die liggen tussen deze plaatsen en Gemert, tegen een erfelijke jaarcijns van 40 schellingen leuvens
+                          </head>
+                          <p>290 R, a</p>
+                          <p>Uitgegeven in ONB I, 2; nr 604.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1337. Kopieën, (eind 15e eeuw en begin 16e eeuw).
+                            <lb/> Akte waarbij hertog Jan (III) van Brabant aan de inwoners van Aarle, Rixtel en Beek de gemene gronden die gelegen zijn tussen deze drie plaatsen en Gemert, uitgeeft
+                          </head>
+                          <p>290 R, b; 291 R-291 V, a</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1377. Kopie, (eind 16e eeuw).
+                            <lb/> Akte waarbij hertogin Johanna van Brabant de schout van 's-Hertogenbosch en al haar rechters beveelt om Diederick de Rovere in het ongestoord bezit te laten van het omschreven gebied dat behoort tot het Huis te Rixtel
+                          </head>
+                          <p>282</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1379. Kopie, (eind 15e eeuw).
+                            <lb/> Akte waarbij Wenceslaus van Bohemen, hertog van Brabant, de dorpen Aarle, Rixtel en Beek bevestigt in al hun bezittingen en rechten
+                          </head>
+                          <p>291 V, b-294</p>
+                          <p>Folio 294 in zeer slechte staat.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1386. Kopie, (eind 16e eeuw).
+                            <lb/> Akte waarbij hertogin Johanna van Brabant ten behoeve van Diederick de Rovere het gebied en alle rechten van het Huis te Rixtel omschrijft en hem in het bezit daarvan bevestigt
+                          </head>
+                          <p>282 V-285</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>(c. 1650).
+                            <lb/> Aantekening over de besluiten in 1609 genomen door de ingezetenen van Aarle en Rixtel ten aanzien van de belastingheffing in die plaatsen,
+                          </head>
+                          <p>286-287</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Schijndel</head>
+                        <odd type="regest">
+                          <head>1619. Kopie, (na 1620).
+                            <lb/> Akte waarbij Albert en Isabella, aartshertogen van Brabant, de inwoners van Schijndel op zekere voorwaarden ontheffing van belasting verlenen
+                          </head>
+                          <p>335-336</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Stiphout</head>
+                        <odd type="regest">
+                          <head>1352. Kopie, (eind 16e eeuw).
+                            <lb/> Akte waarbij hertog Jan (III) van Brabant aan de inwoners van Stiphout gemene gronden uitgeeft tegen een jaarlijkse cijns van 40 ponden oude groten
+                          </head>
+                          <p>270 R</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1352. Kopie, (eind 16e eeuw).
+                            <lb/> Akte waarbij hertog Jan (III) van Brabant aan de inwoners van Stiphout de gemene gronden tussen Stiphout en Mierlo opnieuw uitgeeft, vermeerderd met het recht een schutter voor de gemeint aan te stellen
+                          </head>
+                          <p>273</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Akte van belening door het Leenhof van Brabant van Everart van Boschuijsen met de heerlijkheid Stiphout en het kasteel Croy. Authentiek kopie, (midden 17e eeuw)</head>
+                          <p>276-277</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Aantekeningen betreffende de jurisdictie over de gemeint tussen Stiphout en Mierlo. Kopieën, (eind 16e eeuw)</head>
+                          <p>273 V-274</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Pentekening van het kasteel Croy in Stiphout, 39 x 32 cm</head>
+                          <p>275</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                    </odd>
+                    <odd>
+                      <head>Kwartier Kempenland, afzonderlijke plaatsen</head>
+                      <odd>
+                        <head>Aalst</head>
+                        <p>zie Valkenswaard-Waalre</p>
+                      </odd>
+                      <odd>
+                        <head>Bergeijk</head>
+                        <odd type="regest">
+                          <head>1645. Kopie, (c. 1650).
+                            <lb/> Akte waarbij schepenen van Bergeijk de verkiezingsprocedure van de burgemeesters en hun taken en rechten zoals die door de gewoonte gegroeid zijn, vastleggen
+                          </head>
+                          <p>469-470</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Eckart</head>
+                        <odd type="regest">
+                          <head>Aantekeningen door Philips van Leefdael over de heerlijkheid Eckart, (c. 1650)</head>
+                          <p>481-482</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Oerle</head>
+                        <odd type="regest">
+                          <head>1645. Kopie, (c. 1650).
+                            <lb/> Akte waarbij de schepenen van Oerle op verzoek van twee ingezetenen van Oirschot een beschrijving geven van de gebruikelijke gang van zaken bij de benoeming van burgemeesters in Oerle en van de wijze waarop zij verantwoording af moeten leggen
+                          </head>
+                          <p>473-474</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Oirschot</head>
+                        <odd type="regest">
+                          <head>1378. Authentiek kopie, 1648..
+                            <lb/> Akte waarbij hertogin Johanna van Brabant voor de vrijheid Oirschot de aanstelling en salariëring van een schutter voor de gemeint en de benoeming der schepenen regelt,
+                          </head>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Akte waarbij Maximiliaan van Oostenrijk de vrijheid Oirschot toestemming verleent om in ieder van de acht gehuchten der vrijheid één van de ingezetenen gedurende een jaar het gehucht te laten besturen, 1484. Kopie, (c. 1650)</head>
+                          <p>452-455</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Inventaris van de comme van Oirschot, opgemaakt door de schepenen in het jaar (15)56. Authentiek kopie, 1646</head>
+                          <p>444-447</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Jaarkeurboek van Oirschot uit het jaar (15)71. Kopie, (c. 1650)</head>
+                          <p>430-443</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1590. Afdschrift, (c. 1650).
+                            <lb/> Beschikking door Philips II op een verzoekschrift van de schepenen en ingezetenen van Oirschot, waarbij de heer van Oirschot, Hendrik van Merode, gelast wordt de achtmannen en de schepenen ongestoord hun werk te laten doen
+                          </head>
+                          <p>456-459</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Geschil tussen de achtmannen of schatheffers en de schepenen over hun competentie, (begin 17e eeuw). Kopie, (c. 1650)</head>
+                          <p>460-465</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Kopie van de costuimen der vrijheid Oirschot, (c. 1650)</head>
+                          <p>413-429</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Valkenswaard-Waalre (Aalst)</head>
+                        <odd type="regest">
+                          <head>Uittreksel uit een leenregister van het Leenhof van Brabant, (het Bosch Strick-Grefier), over de periode 1521-1614 betreffende Aalst, Valkenswaard en Waalre, (midden 17e eeuw)</head>
+                          <p>233-234</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1645. Kopie, (c. 1650).
+                            <lb/> Akte waarbij schepenen van Waalre en Valkenswaard op verzoek van twee ingezetenen van Oirschot een beschrijving geven van de gebruikelijke gang van zaken bij de benoeming van burgemeesters en van de wijze waarop zij verantwoording af moeten leggen
+                          </head>
+                          <p>477-478</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                    </odd>
+                    <odd>
+                      <head>Kwartier Oisterwijk, afzonderlijke plaatsen</head>
+                      <odd>
+                        <head>Boxtel</head>
+                        <p>zie ook Esch</p>
+                        <odd type="regest">
+                          <head>1587. Kopie, (c. 1600).
+                            <lb/> Beschikking door de hertog van Parma op een verzoekschrift door de inwoners van Boxtel en Liempde om belastingvermindering
+                          </head>
+                          <p>485</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>(c. 1600-1650).
+                            <lb/> Memorie met een puntsgewijze argumentatie ter verdediging van de brouwerijen in Boxtel tegen pogingen van eenighe steden des Lants van Brabant om deze brouwerijen te doen sluiten,
+                          </head>
+                          <p>486-489</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1634. Kopie, (c. 1650).
+                            <lb/> Reglement voor de baronie Boxtel, opnieuw door de schout en de schepenen van Boxtel vastgesteld in verband met de groeiende schuldenlast van de baronie
+                          </head>
+                          <p>490-495</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1645. Kopie, (c. 1650).
+                            <lb/> Akte waarbij de schepenen van Boxtel op verzoek van de ingezetenen van Oirschot een beschrijving geven van de gebruikelijke gang van zaken bij de benoeming van burgemeesters en van de wijze waarop zij verantwoording moeten afleggen
+                          </head>
+                          <p>496-497</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Drunen</head>
+                        <odd type="regest">
+                          <head>1330. Kopie, (c. 1650).
+                            <lb/> Akte waarbij de rentmeester der Domeinen in stad en meierij van 's-Hertogenbosch, Engelbert Luydinck van den Dijck, aan de inwoners van Drunen de gemene gronden uitgeeft tegen een vóórheffing van 50 pond zwarte tournooise en een jaarlijkse cijns van 6 oude groten, franse tournooise, gevolgd door een akte van bevestiging door hertog Jan (III) van Brabant van deze akte
+                          </head>
+                          <p>568-569</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1387. Kopie, (c. 1650).
+                            <lb/> Akte van schenking door hertogin Johanna van Brabant aan Pauwels van Haastrecht van de dorpen Tilburg, Goirle en Drunen met de hoge, middelbare en lage jurisdictie en alle rechten en toebehoren, alsmede de tol in Loon op Zand, met uitzondering van klokslag en bede
+                          </head>
+                          <p>570-571</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Esch</head>
+                        <odd type="regest">
+                          <head>1615. Authentiek kopie, 1616.
+                            <lb/> Uittreksel uit de tekst van een akkoord gesloten tussen pastoor, kerkmeesters en H. Geestmeesters van de parochie Esch enerzijds, en jonker Richard van Vlierden, schout van Boxtel en Esch, anderzijds na een geschil over het afhoren van de rekeningen van de kerkfabriek en van de Tafel van de H. Geest
+                          </head>
+                          <p>498-499</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Goirle</head>
+                        <p>zie Drunen, 570-571</p>
+                      </odd>
+                      <odd>
+                        <head>Helvoirt</head>
+                        <odd type="regest">
+                          <head>1315. Kopie, (eind 16e eeuw).
+                            <lb/> Akte van verkoop door Johannes Biscop, (rentmeester der Domeinen in 's-Hertogenbosch), aan de inwoners van Helvoirt van alle woeste gronden in het grensgebied van Helvoirt
+                          </head>
+                          <p>553</p>
+                          <p>Johannes Biscop wordt in de akte aangeduid als 'receptor'.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1560. Authentiek kopie, (eind 16e eeuw).
+                            <lb/> Akte van verkoop door Philips II aan Henrick Bloeymans van de heerlijkheid Helvoirt met hoge, middel en lage jurisdictie
+                          </head>
+                          <p>554-559</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>(begin 17e eeuw).
+                            <lb/> Aantekening betreffende de procuratiestelling in 1576 van Hendrik Bloeymans, heer van Helvoirt, tot executeur-testamentair van Anna van Vijgen, weduwen van Aelbrecht van Deventer,
+                          </head>
+                          <p>600</p>
+                          <p>Zie ook St. Michielsgestel 601-602.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1593. Kopie, (begin 17e eeuw).
+                            <lb/> Akte van transport door de abt en het convent van Tongerloo aan Elisabeth Lombarts, weduwe van Henrick Bloeymans, van een erfcijns van 7 mud rogge uit de molen te Helvoirt
+                          </head>
+                          <p>564-565</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1618.
+                            <lb/> Akte van attestatie voor schepenen van Helvoirt ten behoeve van Cornelis van Grevenbroeck, heer van Helvoirt, betreffende de jurisdictie van Helvoirt ten opzichte van Haren en Udenhout
+                          </head>
+                          <p>560-563</p>
+                          <p>Opgedrukt dorpszegel onder cachet; in slechte staat.</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Hilvarenbeek</head>
+                        <odd type="regest">
+                          <head>1328. Kopie, (begin 17e eeuw).
+                            <lb/> Akte van verkoop door Gerard van Hoorne en zijn vrouw Irmgard van Kleef aan Rogier van Leefdael van de dorpen Hilvarenbeek en Diessen met de hoge en lage jurisdictie en alle toebehoren
+                          </head>
+                          <p>581-582</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Liessel</head>
+                        <odd type="regest">
+                          <head>1569. Kopie, (c. 1650).
+                            <lb/> Vidimus door schepenen van 's-Hertogenbosch van een akte uit 1516 waarbij Karel V aan Everard van Deurne toestemming verleent tot het oprichten van een 'blockhuys' te Liessel als bescherming tegen de Geldersen
+                          </head>
+                          <p>33-34</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Loon op zand</head>
+                        <p>zie ook Drunen 570-571</p>
+                        <odd type="regest">
+                          <head>(begin 17e eeuw).
+                            <lb/> Brief van Dirrick van Grevenbroeck, heer van Loon op Zand, aan de kanselier en raadsheer des konings over het vonnis uitgesproken in het proces tussen hemzelf en de stad 's-Hertogenbosch over de Loonse Vaart, ongedateerd. Concept,
+                          </head>
+                          <p>574-578</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Sint-michielsgestel</head>
+                        <odd type="regest">
+                          <head>(eind 16e eeuw).
+                            <lb/> Uittreksel uit een akte van leenverheffing uit 1544 door Anna van Vijgen, weduwe van Aelbrecht van Deventer, in handen van Francois van Rijswijk, stadhouder van de heer van Merode van de leengoederen van Nieuw-Herlaar onder de parochie van St. Michielsgestel,
+                          </head>
+                          <p>601-602</p>
+                          <p>Zie ook Helvoirt 600.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>(eind 16e eeuw).
+                            <lb/> Uittreksel uit het leenregister van Oud-Herlaar, ressorterend onder het prinsbisdom Luik, met aantekeningen betreffende de bezitters en de omvang van het leengoed Nieuw-Herlaar in de periode (c. 1440-c. 1575)
+                          </head>
+                          <p>603-609</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Tilburg</head>
+                        <odd type="regest">
+                          <head>zie ook Drunen 570-571</head>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1641. Kopie, (c. 1650).
+                            <lb/> Vonnis en processtukken van het proces voor de Raad van Brabant tussen de kinderen en erfgenamen van mr. Jan de Roij enerzijds en het bestuur van Tilburg anderzijds over ten onrechte geïnde belasting
+                          </head>
+                          <p>595-596</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Waalwijk</head>
+                        <odd type="regest">
+                          <head>Akte waarbij hertog Jan (II) van Brabant aan de inwoners van Waalwijk dezelfde vrijheden binnen hun stad verleent als de poorters van Leuven en 's-Hertogenbosch hebben binnen de hunne, 1303. Authentiek kopie, (1649). Met vertaling in het Middelnederlands, kopie, (eind 15e eeuw) en vertaling in 17e-eeuws Nederlands, 1612, authentiek kopie, 1649</head>
+                          <p>502; 503; 506 R, a</p>
+                          <p>Uitgegevenin ONB I, 2; nr 658.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1303. Middelnederlandse vertaling. Kopie, (eind 15e eeuw).
+                            <lb/> Akte waarbij hertog Jan (II) van Brabant aan Waalwijk het recht verleent om drie jaarmarkten te houden,
+                          </head>
+                          <p>506 R, b</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1406. Authentiek kopie, (1649).
+                            <lb/> Vidimus door Poelscalcus de Veen, abt van Berne, van de akte uit 1303 waarbij hertog Jan (II) van Brabant aan Waalwijk het recht verleent om drie jaarmarkten te houden,
+                          </head>
+                          <p>504</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1538. Kopie, 1650.
+                            <lb/> Aantekening over de stichting in 1471 van het klooster Nazareth te Waalwijk en de verdere geschiedenis daarvan
+                          </head>
+                          <p>529-530</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1516. Authentiek kopie, 1649.
+                            <lb/> Beschikking door Karel V om, op verzoek van Lambrecht Millinck, heer van Waalwijk, naast de drie bestaande, nóg een jaarmarkt én een weekmarkt in te stellen
+                          </head>
+                          <p>509-512</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1527. Kopieën, (begin 17e eeuw en c. 1650).
+                            <lb/> Akte waarbij Karel V verklaart aan schepenen van Waalwijk dat ook niet-Brabanders van geboorte een officiersambt mogen bekleden, mits dat ambt vervuld wordt onder een heer van Brabantse origine
+                          </head>
+                          <p>32 V; 513-514</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1530. Authentiek kopie, (c. 1650).
+                            <lb/> Beschikking van Karel V op een verzoekschrift door de heer en de inwoners van Waalwijk waarbij hij de gezworenen van Sprang en Besoijen beveelt de personen die zij uit vergelding voor het heffen van weggeld vastgezet hebben, vrij te laten en de inwoners van Waalwijk ongehinderd het weggeld te laten heffen
+                          </head>
+                          <p>515-518</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>(15)34. Kopie, (eind 16e eeuw).
+                            <lb/> Reglement van de schutterij van Waalwijk. Met eedsformulier,
+                          </head>
+                          <p>520-522</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1579. Authentiek kopie, 1601.
+                            <lb/> Akte waarbij Herman van Wittenhorst en Alijt van Assendelft aan Philips en Rogier van Leefdael beloven een aantal genoemde stukken met betrekking tot Waalwijk over te leveren
+                          </head>
+                          <p>367-368</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Aantekeningen over de bezittingen van de heren van Waalwijk, Eethen en Meeuwen in en buiten Waalwijk, (eind 16e eeuw)</head>
+                          <p>365-366</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1607. Authentiek kopie, 1649.
+                            <lb/> Akte van bevestiging door de aartshertogen Albert en Isabella van de privileges die Philips II aan Waalwijk had geschonken
+                          </head>
+                          <p>523-525</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1622.
+                            <lb/> Besluit door de heer en de magistraat van Waalwijk betreffende de taken en de gedragsregels van de burgemeesters van deze plaats
+                          </head>
+                          <p>531-540</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>(c. 1650)..
+                            <lb/> Uittreksel uit de rekening van Waalwijk, afgesloten op 30 september 1623, door de rentmeester voor de Rekenkamer van Brabant, betreffende de afdracht van 1 Karolusgulden ten behoeve van het weggeld in Waalwijk,
+                          </head>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>Kohier van de hoofdelijke omslag te heffen van 181 inwoners in het jaar 1626</head>
+                          <p>541-542</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1632. Authentiek kopie, 1632.
+                            <lb/> Akte van transport voor schout en schepenen van Besoijen door vertegenwoordigers van Waalwijk aan Adriana van Schagen, vrouwe van Sonsvelt, Drongelen, Gansoijen etc., van een stuk land De Somerdijck geheten, gelegen in het dorp Besoijen
+                          </head>
+                          <p>543-544</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1645.
+                            <lb/> Brief van Cornelis Buijs, (schout) in Waalwijk, aan Philips van Leefdael als heer van Waalwijk, waarin hij aandringt op een spoedige reglementering van de salarissen der ambtenaren
+                          </head>
+                          <p>545-546</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1651. Kopieën, (c. 1651).
+                            <lb/> Proces voor het Hof van Holland tussen Waalwijk en Baardwijk over de schuldvraag van de doorbraak van de Moerdijk en de daarop volgende overstroming
+                          </head>
+                          <p>547-550</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1653.
+                            <lb/> Akte waarbij schout, schepenen en burgemeesters van Waalwijk vrijdom van tol verlenen aan Johan de Molengraeff
+                          </head>
+                          <p>526/2</p>
+                          <p>Aanhangend 'vrijheids'zegel van Waalwijk in groene was, ontwikkeld met paardehaar; slechte staat.</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1652. Authentiek kopie, 1657.
+                            <lb/> Brief door Philips van Leefdael, heer van Waalwijk, aan zijn schout in Waalwijk over een aantal lopende zaken
+                          </head>
+                          <p>526/5</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>1657.
+                            <lb/> Eedsformulier voor de houders van een tolvrijbrief uit Waalwijk, ongedateerd. Authentiek kopie
+                          </head>
+                          <p>526/3</p>
+                          <p/>
+                        </odd>
+                        <odd type="regest">
+                          <head>16(..).
+                            <lb/> Brief van Jacob van Leefdael aan zijn broer Johan met een lijstje van wat in geld en door middel van reparaties aan de molen van Waalwijk ten behoeve van hun neef N.N. van Thielen is betaald
+                          </head>
+                          <p>376</p>
+                          <p>De brief is te strak ingebonden, zodat de laatste twee getallen van de datering niet zichtbaar zijn.</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                    </odd>
+                    <odd>
+                      <head>Kwartier Maasland, gehele kwartier</head>
+                      <p>Zie ook Peelland 56-58</p>
+                      <odd type="regest">
+                        <head>1633. Authentiek kopie, 1649. Kopie, (begin 17e eeuw).
+                          <lb/> Uittreksel uit het leenregister van stad en meierij van 's-Hertogenbosch over het verheffen van de secretarie van Maasland en de vorsterij van Oss door Jan van Berchem
+                        </head>
+                        <p>56 R, b; 59-61</p>
+                        <p/>
+                      </odd>
+                    </odd>
+                    <odd>
+                      <head>Kwartier Maasland, afzonderlijke plaatsen</head>
+                      <odd>
+                        <head>Geffen</head>
+                        <odd type="regest">
+                          <head>1364. Authentiek kopie, 1617.
+                            <lb/> Akte waarbij Wenceslaus en Johanna, hertogen van Brabant, verklaren dat na onderzoek door de onderschout van 's-Hertogenbosch duidelijk gebleken is dat Hendrick van Nuwelandt weliswaar wettig heer van Geffen is, maar de hoge jurisdictie niet heeft,
+                          </head>
+                          <p>621-622</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                      <odd>
+                        <head>Oss</head>
+                        <odd type="regest">
+                          <head>1592.
+                            <lb/> Akte waarbij schepenen en gezworen raadsmannen van Oss ten behoeve van Willem van Channu de costumen betreffende het erfrecht in Oss vastleggen
+                          </head>
+                          <p>617-618</p>
+                          <p>Met opgedrukt zegel der vrijheid Oss onder cachet.</p>
+                          <p/>
+                        </odd>
+                      </odd>
+                    </odd>
+                  </odd>
+                </odd>
+                <odd>
+                  <head>Stad en vrijdom van 's-Hertogenbosch</head>
+                  <odd type="regest">
+                    <head>1356. Kopie, (eind 16e eeuw).
+                      <lb/> Akte van vrijstelling door Wenceslaus en Johanna van Brabant ten behoeve van de poorters van 's-Hertogenbosch van het betalen van de houtschat in de gehele meierij,
+                    </head>
+                    <p>487</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>Akte waarbij hertogin Johanna van Brabant stad en meierij van 's-Hertogenbosch bevestigt in het vrije bezit van alles wat 30 jaar en 1 dag in hun bezit is geweest, 1384. Kopie, (eind 16e eeuw)</head>
+                    <p>488</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>1527. Kopie, waarvan het begin ontbreekt, (eind 16e eeuw).
+                      <lb/> Ordonnantie door (Karel V) waarbij hij het reglement voor het Grootgasthuis te 's-Hertogenbosch vaststelt. Met verslag van de publicatie
+                    </head>
+                    <p>161-162</p>
+                    <p/>
+                  </odd>
+                </odd>
+                <odd>
+                  <head>Graafschap Megen</head>
+                  <odd type="regest">
+                    <head>Akten waarbij Jan, graaf van Megen, en zijn oudste zoon Willem verklaren dat het kasteel van Megen met alle toebehoren 'open huis' zal zijn voor de hertogen van Brabant 1341; 1344. Authentiek kopie, gedrukt, (c. 1648) en een eenvoudig kopie, (1e helft 17e eeuw)</head>
+                    <p>267-268 R; 378-398</p>
+                    <p>Het is niet duidelijk of hier sprake is van twee verschillende akten; mogelijk is bij de datering een kopiistenfout gemaakt.</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>1356. Authentiek kopie, gedrukt, 1648.
+                      <lb/> Akte waarbij Willem, heer van Megen, verklaart dat hij de hertog en hertogin van Brabant, (Wenceslaus en Johanna), zal bijstaan om de grenzen van Brabant tegen de graaf van Vlaanderen te verdedigen,
+                    </head>
+                    <p>268 V</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>1357. Authentiek kopie, gedrukt, (c. 1648).
+                      <lb/> Akte van bevestiging door keizer Karel IV van Willem, graaf van Megen, in al zijn bezittingen en rechten,
+                    </head>
+                    <p>269</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>1368. Kopie, gedrukt, (c. 1648).
+                      <lb/> Akte van arbitrage door Albrecht, graaf van Holland, in het geschil tussen hertog Wenceslaus van Brabant en Jan van Merlaer, graaf van Megen, samen met hertog Adelbert van Gelre over de status van Megen,
+                    </head>
+                    <p>270-271 R</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>1648.
+                      <lb/> Akte waarbij hertogin Johanna van Brabant op verzoek van Jan, graaf van Megen, de schout van de stad en de meierij van 's-Hertogenbosch opdracht geeft behulpzaam te zijn bij het in staat van verdediging brengen van de stad Megen. Authentiek kopie, gedrukt
+                    </head>
+                    <p>271 V</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>1616. Authentiek kopie, gedrukt, (1648).
+                      <lb/> Akte waarbij de graaf van Megen aan de bisschop van 's-Hertogenbosch toestemming verleent om in zijn gebied de jurisdictie uit te oefenen, zonder daarbij echter de rechtsmacht van de graaf of van de bisschop van Luik, in wiens gebied Megen ligt, te verstoren
+                    </head>
+                    <p>272 V</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>1648.
+                      <lb/> Authentiek uittreksel uit een dagvaarding anno 1616 door de bisschop van 's-Hertogenbosch voor de Raad van Brabant van de schout en schepenen van Megen, waaruit moet blijken dat Megen niet in Brabant ligt
+                    </head>
+                    <p>272 R</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>Uittreksel uit het leenregister van Brabant, het Spechtboek, folio 183 V, betreffende Lithoyen en Megen</head>
+                    <p>399</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>Uittreksel uit het leenregister van Brabant, het Stootboek, folio 48 V, betreffende de heerlijkheid Megen</head>
+                    <p>400</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>Uittreksel uit het register van denombrementen van het Leenhof van Brabant, betreffende de verheffingen van Lithoyen en Megen</head>
+                    <p>401</p>
+                    <p/>
+                  </odd>
+                </odd>
+                <odd>
+                  <head>Heerlijkheid Nieuwkuijk</head>
+                  <odd type="regest">
+                    <head>(eerste helft 17e eeuw). (Gelijktijdige kopieën).
+                      <lb/> Kwestie of Nieuwkuijk tot de Meierij van 's-Hertogenbosch dan wel tot het Prinsbisdom Luik behoort,
+                    </head>
+                    <p>273-319</p>
+                    <p/>
+                  </odd>
+                </odd>
+              </odd>
+              <odd>
+                <head>Kwartier van Brussel</head>
+                <odd>
+                  <head>Stad Brussel</head>
+                  <odd type="regest">
+                    <head>1563-1573. Kopieën, (eind 16e eeuw en begin 17e eeuw).
+                      <lb/> Protesten door Brusselse ingezetenen tegen het voornemen van Philips II om de lasten van de stad Antwerpen te verminderen door middel van een verlaging van de aflossing van door Antwerpen geleende gelden
+                    </head>
+                    <p>120-139</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>(eind 16e eeuw).
+                      <lb/> Instructie door burgemeesters, schepenen en raden van Brussel voor de 'meerders' of grenspaalzetters bij geschillen over de grenzen van percelen binnen het rechtsgebied van Brussel. Kopie, fragment,
+                    </head>
+                    <p>70-79</p>
+                    <p/>
+                  </odd>
+                </odd>
+                <odd>
+                  <head>Land van Haasbeek</head>
+                  <odd type="regest">
+                    <head>1298. Kopie, (1e helft 15e eeuw).
+                      <lb/> Akte van verkoop door Philips van Vianden, heer van Rumst, en Sophie van Steurs aan de inwoners van Ruisbroek van de woeste gronden binnen het gebied van Ruisbroek,
+                    </head>
+                    <p>213-214</p>
+                    <p/>
+                  </odd>
+                </odd>
+                <odd>
+                  <head>Meierij van Grimbergen</head>
+                  <odd type="regest">
+                    <head>1275. Kopie, (1e helft 15e eeuw).
+                      <lb/> Akte waarbij Maria van Vianden, gravin van Grimbergen, haar oudste zoon Godevaert en Gerard van Aa, heer van Polanen, ten behoeve van de leenmannen van Grimbergen een keur vaststellen,
+                    </head>
+                    <p>177-179</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>1291. Kopie, (1e helft 15e eeuw).
+                      <lb/> Akte van minnelijke schikking tussen de beide heren van Grimbergen, Godevaert van Vianden en Gerard van Aa, heer van Polanen,
+                    </head>
+                    <p>182-183 R</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>1298. Kopie, (1e helft 15e eeuw).
+                      <lb/> Akte van verdeling tussen hertog Jan (II) van Brabant en de twee andere heren van Grimbergen, te weten Godevaert van Vianden en Gerard van Aa,
+                    </head>
+                    <p>180-181 V</p>
+                    <p/>
+                  </odd>
+                </odd>
+                <odd>
+                  <head>Meierij van Nijvel</head>
+                  <odd type="regest">
+                    <head>1634. Gedrukt.
+                      <lb/> Bekendmaking van de openbare verkoping van het land en de baronie van Rèves, het land en de heerlijkheid Seneffe en de heerlijkheid Thyberchamps
+                    </head>
+                    <p>419</p>
+                    <p>Gescheurd.</p>
+                    <p/>
+                  </odd>
+                </odd>
+                <odd>
+                  <head>Meierij van Vilvoorde</head>
+                  <odd type="regest">
+                    <head>1290. Kopie, (eind 16e eeuw).
+                      <lb/> Akte waarbij hertog Jan (I) van Brabant aan zijn seneschalk van Brabant, Egidius de Monte, alle rechten die hij heeft in de parochie en de 'villa' van Wilsele, uitgezonderd het recht van terdoodveroordeling, schenkt,
+                    </head>
+                    <p>344-345</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>1312. Kopie, (1e helft 15e eeuw).
+                      <lb/> Akte waarbij hertog Jan (II) van Brabant voor de meierij van Vilvoorde een reglement van orde vaststelt,
+                    </head>
+                    <p>195 R, b-200 V</p>
+                    <p>De tekst is dezelfde als die van de akte op 171-176 (1.1.3. openbare orde), zonder de glossen.</p>
+                    <p/>
+                  </odd>
+                </odd>
+              </odd>
+              <odd>
+                <head>Kwartier van Leuven</head>
+                <odd>
+                  <head>Stad Leuven</head>
+                  <odd type="regest">
+                    <head>1370. Kopie van een authentiek kopie uit (14)60, (1e helft 17e eeuw).
+                      <lb/> Akte waarbij hertog Wenceslaus en hertogin Johanna van Brabant bemiddelen in de strijd tussen de gegoede burgerij en de gilden van Leuven over de verdeling van de zetels in de magistraat.
+                    </head>
+                    <p>389-396</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>1515. Kopie, (16e eeuw).
+                      <lb/> Akte van bevestiging door Karel V van door Maximiliaan in 1495 aan de Universiteit van Leuven geschonken privileges op het gebied van overdracht van onroerend goed
+                    </head>
+                    <p>385-388</p>
+                    <p/>
+                  </odd>
+                </odd>
+                <odd>
+                  <head>Neerijse</head>
+                  <odd type="regest">
+                    <head>1612. Kopie, (c. 1650).
+                      <lb/> Dictum door de Raad van Brabant te Brussel in het proces tussen de nieuwe en de oude ingezetenen van Neerijse over het betalen van de hoofdelijke omslag
+                    </head>
+                    <p>585-586</p>
+                    <p/>
+                  </odd>
+                </odd>
+              </odd>
+              <odd>
+                <head>Kwartier Antwerpen</head>
+                <odd>
+                  <head>Roosendaal-Zundert</head>
+                  <odd type="regest">
+                    <head>1573. Authentiek kopie, (1582).
+                      <lb/> Beschikking door Philips II op een verzoekschrift van de inwoners van Roosendaal, Etten, Groot en Klein Zundert en Rijsbergen om een oplossing van hun financiële problemen ontstaan door de oorlogshandelingen
+                    </head>
+                    <p>587-589 R</p>
+                    <p/>
+                  </odd>
+                  <odd type="regest">
+                    <head>1575. Authentiek kopie, 1582.
+                      <lb/> Gunstige beschikking door de Raad van Brabant te Brussel op het verzoekschrift door Adriaan Philipsen en zijn weeskinderen om restitutie door de schepenen en belastinginners van Roosendaal van het door hem betaalde 'ruitergeld' en van de personele lasten
+                    </head>
+                    <p>589 V-590 R</p>
+                    <p/>
+                  </odd>
+                </odd>
+              </odd>
+            </odd>
+          </odd>
+          <odd>
+            <head>Hertogdom Gelre</head>
+            <odd type="regest">
+              <head>1471. Kopie, (eind 15e eeuw).
+                <lb/> Brief van Karel (de Stoute) van Bourgondië aan de steden Zutphen, Nijmegen, Arnhem en Roermond, waarin hij hen aanmaant hertog Arnold weer te erkennen als hertog van Gelre,
+              </head>
+              <p>321-324</p>
+              <p>Uitgegeven naar een kopie uit dezelfde tijd door Is. A. Nijhoff in Gedenkwaardigheden uit de geschiedenis van Gelderland door onuitgegeven oorkonden opgehelderd en bevestigd. Arnhem, 1830-1875. 6 Dln. in 8 bnd. dl. IV, nr 505, p. 441-446.</p>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>Aantekeningen betreffende de fundatie van het klooster Marienweerd bij Hemert aan de Maas in 1130 door Herman van Cuyk, (16e eeuw)</head>
+              <p>320</p>
+              <p>De eigenlijke datum moet 1128 zijn: vgl. v.d. Aa, Aardrijkskundig woordenboek der Nederlanden. Gorinchem, 1839-1851.</p>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>(eind 16e eeuw).
+                <lb/> Nota betreffende de vraag of de erfopvolging in het hertogdom Gelre ook in de vrouwelijke lijn geoorloofd was,
+              </head>
+              <p>5 V</p>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>Beschrijving door Philips van Leefdael van het gebied en de rechten van de heren van Goor in de heerlijkheid Meiel, (c. 1650)</head>
+              <p>342-343</p>
+              <p/>
+            </odd>
+          </odd>
+          <odd>
+            <head>Graafschap Holland</head>
+            <odd>
+              <head>Land van Heusden</head>
+              <odd>
+                <head>Drongelen</head>
+                <odd type="regest">
+                  <head>1341. Kopie, (1e helft 17e eeuw).
+                    <lb/> Akte waarbij hertog Jan (III) van Brabant een overeenkomst sluit met Jan van Drongelen, heer van Eethen, Meeuwen en Drongelen, betreffende de rechten die de burggraaf van Heusden, Jan Wijfleet, in het gerecht van Drongelen heeft,
+                  </head>
+                  <p>346-347</p>
+                  <p/>
+                </odd>
+              </odd>
+              <odd>
+                <head>Eethen en Meeuwen</head>
+                <odd type="regest">
+                  <head>1597. Kopie, (c. 1650).
+                    <lb/> Akte van schenking door Alijt van Assendelft, vrouwe van Waalwijk, Eethen en Meeuwen, aan Joost A. van Hedikhuizen van het beneficium van O.L. Vrouw van Smarten in de kerk van Meeuwen
+                  </head>
+                  <p>378</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1605. Kopieën, (begin 17e eeuw).
+                    <lb/> Lijst van aanspraken door Johanna van Schoonhoven gemaakt op gedeelten van de erfenis van de vrouwe van Sonsvelt
+                  </head>
+                  <p>372-375</p>
+                  <p>Bij het binden is een fout gemaakt: het bifolium 374/5 zit binnenste-buiten; men leze eerst 375, vervolgens 374.</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1612.
+                    <lb/> Aantekening betreffende het antwoord van de dorpen Eethen en Meeuwen aan de rekenmeester en de fiscaal in Heusden over het gemeenschappelijk onderhoud van de Maasdijk. Klad
+                  </head>
+                  <p>379</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>(c. 1612).
+                    <lb/> Concept-antwoord van de dorpen Eethen en Meeuwen betreffende het verzoek van de dijkgraaf en de heemraden van het Land van Heusden tot gemeenschappelijk dijkonderhoud van de hoge Maasdijk,
+                  </head>
+                  <p>380-382</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1614.
+                    <lb/> Akte waarbij de landmeter van Zuid-Holland Jan Laurissen de maten vaststelt van drie percelen, geheten De Capelcamp, De Keuckencamp en Het Scherp, alle gelegen aan de dussen achter het kasteel van Meeuwen
+                  </head>
+                  <p>369-371</p>
+                  <p>In tweevoud.</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1620. Authentiek kopie, (1620-1650).
+                    <lb/> Notariële akte waarbij Joost van Hedikhuizen, oud-rector van de beneficie van O.L. Vrouw van Smarten in de kerk van Meeuwen aan Henrik Leyten volmacht geeft de genoemde beneficie met alle inkomsten en rechten over te dragen aan Rogier van Leefdael
+                  </head>
+                  <p>377</p>
+                  <p>Zie ook: Eethen en Meeuwen, 378.</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>(begin 17e eeuw).
+                    <lb/> Uittreksel uit een inventaris van de bezittingen van Beatrix van Assendelft, vrouwe van Waalwijk, Eethen en Meeuwen, betreffende grond gelegen aan de Dussen (nabij het kasteel van Meeuwen),
+                  </head>
+                  <p>364</p>
+                  <p/>
+                </odd>
+              </odd>
+              <odd>
+                <head>Heusden</head>
+                <odd type="regest">
+                  <head>1619. Kopieën, (begin 17e eeuw).
+                    <lb/> Geschil tussen de geërfden van het Land van Heusden en de gedijkslaagden uit Wijk, Veen, Babiloniënbroek en een aantal andere plaatsen, betreffende de pakbaardingen en de daarvoor te betalen omslagen
+                  </head>
+                  <p>347-362</p>
+                  <p>Baardingen = rijswerk ter versterking van een dijk, in dit geval een pakdijk, dat wil zeggen een dijk die direct aan het water is gelegen, ook wel een 'naakte dijk' geheten. Gedijkslaagden: personen bezwaard met het onderhoud van een dijkslag of dijkgedeelte.</p>
+                  <p/>
+                </odd>
+                <odd type="regest">
+                  <head>1652.
+                    <lb/> Notitie door de secretaris van Vlijmen, Adriaen van Meerwijck, om aan de heer van Waalwijk te vragen of deze nog stukken heeft over de kwestie in 1619 tussen de geërfden van Heusden en de gedijkslaagden van de Maasdijk
+                  </head>
+                  <p>363</p>
+                  <p/>
+                </odd>
+              </odd>
+            </odd>
+            <odd>
+              <head>Baljuwschap Zuid-Holland</head>
+              <odd>
+                <head>Besoijen</head>
+                <odd type="regest">
+                  <head>1651. Authentiek kopie, 1651.
+                    <lb/> Akte van overdracht voor de Staten van Holland en West-Friesland door Simon du Fagel, echtgenoot van Margaretha van Assendelft en in deze optredende als gevolmachtigde van zijn schoonvader Gerard van Assendelft, aan Johan van Wittenhorst van de heerlijkheid Besoijen met alle toebehoren
+                  </head>
+                  <p>383-384</p>
+                  <p>Vergelijk Archief van de heerlijkheid Besoijen, nr. 31 (V.R.O.A. 1894, p. 150-151).</p>
+                  <p/>
+                </odd>
+              </odd>
+            </odd>
+          </odd>
+          <odd>
+            <head>Graafschap Vlaanderen en Henegouwen</head>
+            <odd type="regest">
+              <head>(eind 16e eeuw).
+                <lb/> Staat van obligaties uitgegeven door de Staten en de Vier Leden van Vlaanderen in 1577,
+              </head>
+              <p>483 R</p>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>1577-1578, (eind 16e eeuw).
+                <lb/> Staat van obligaties uitgegeven door de Staten van Artois, Henegouwen en Rijssel, Dowaai en Orchies
+              </head>
+              <p>479-482</p>
+              <p/>
+            </odd>
+          </odd>
+          <odd>
+            <head>Prinsbisdom Luik</head>
+            <odd>
+              <head>Land van Grevenbroek</head>
+              <odd>
+                <head>Hamont</head>
+                <odd type="regest">
+                  <head>1424. Kopie, (midden 15e eeuw).
+                    <lb/> Akte van minnelijke schikking door Willem van Loon, graaf van Blankenheim, en Jan van Schoonvoorst, burggraaf van Montjoie, tussen Jan van Heinsberg, bisschop van Luik en graaf van Loon, en Willem van Hoorne, en Altena enerzijds en Robbrecht van Grevenbroeck anderzijds inzake het geschil over het landschap Grevenbroek en de stad Hamont met alle toebehoren,
+                  </head>
+                  <p>325-327</p>
+                  <p/>
+                </odd>
+              </odd>
+            </odd>
+          </odd>
+          <odd>
+            <head>Varia</head>
+            <odd type="regest">
+              <head>1544. Kopie, (eind 16e eeuw).
+                <lb/> Brief van paus Paulus III aan Karel V waarin hij hem naar aanleiding van het verdrag van Spiers veroordeelt vanwege de aan de Duitse protestanten gedane concessies
+              </head>
+              <p>111-116 R</p>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>1544. Kopie, (eind 16e eeuw).
+                <lb/> Bul door paus Paulus III waarin hij het Concilie van Trente (1545-1563) opnieuw bijeenroept
+              </head>
+              <p>116 V-119</p>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>(1e helft 15e eeuw).
+                <lb/> Tekst van een geestelijke tractaat over de Goddelijke liefde. Kopie,
+              </head>
+              <p>201-203</p>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>1605. Gedrukt.
+                <lb/> Beschrijving van de aardlagen aangetroffen bij de boring van een waterput in het Oude-Mannenhuis te Amsterdam
+              </head>
+              <p>421</p>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>(c. 1650).
+                <lb/> Staat van bisdommen, parochies, kloosters en kapellen van de Rooms-Katholieke Kerk in Frankrijk en de inkomsten daarvan. Gedrukt,
+              </head>
+              <p>420</p>
+              <p/>
+            </odd>
+          </odd>
+        </odd>
+      </odd>
+    </odd>
+    <dsc type="combined">
+      <c01 level="series">
+        <did id="MF758083">
+          <unitid type="series_code"/>
+          <unitid type="guid">A0BE45913A9B4274B17FA5F43003F28B</unitid>
+          <unittitle>Van Leefdael, 1172 - 1686</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1172/1686"/>
+        </did>
+        <c02 level="file">
+          <did id="MF758084">
+            <unitid>1</unitid>
+            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758084&amp;miview=inv2</unitid>
+            <unitid type="guid">DFD964BA4C81480083AB4BD22A0A8CE2</unitid>
+            <unittitle>Kwartierstaten en genealogische aantekeningen, met korte inleiding in genealogie en heraldiek, 1654</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1654">1654</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Kwartierstaten en genealogische aantekeningen, met korte inleiding in genealogie en heraldiek, 1654</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758084&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF758085">
+            <unitid>2</unitid>
+            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758085&amp;miview=inv2</unitid>
+            <unitid type="guid">ABC6EF0CDFE44739ABDE57155EAE13EE</unitid>
+            <unittitle>Kwartierstaten van in hoofdzaak vrouwelijke kloostergeestelijken, aangevuld met aantekeningen over geschiedenis vrouwenkloosters, midden 17e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1640/1660">midden 17e eeuw</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Kwartierstaten van in hoofdzaak vrouwelijke kloostergeestelijken, aangevuld met aantekeningen over geschiedenis vrouwenkloosters, midden 17e eeuw</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758085&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF758086">
+            <unitid>3</unitid>
+            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758086&amp;miview=inv2</unitid>
+            <unitid type="guid">18A87243905F490A87008572B971FF0A</unitid>
+            <unittitle>Hoofdzakelijk huwelijkscontracten en testamenten adellijke geslachten, met index op familienamen, 15e - 17e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1400/1700">15e - 17e eeuw</unitdate>
+          </did>
+          <scopecontent>
+            <p>Gemerkt B</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Hoofdzakelijk huwelijkscontracten en testamenten adellijke geslachten, met index op familienamen, 15e - 17e eeuw</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758086&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF758087">
+            <unitid>4</unitid>
+            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758087&amp;miview=inv2</unitid>
+            <unitid type="guid">F1B02A2F2A5A4AE7BC33FA3AE1F6C236</unitid>
+            <unittitle>Hoofdzakelijk testamenten adellijke geslachten, met index op familienamen, 1261 - circa 1650</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1261/1660">1261 - circa 1650</unitdate>
+          </did>
+          <scopecontent>
+            <p>Gemerkt C</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Hoofdzakelijk testamenten adellijke geslachten, met index op familienamen, 1261 - circa 1650</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758087&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF758088">
+            <unitid>5</unitid>
+            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758088&amp;miview=inv2</unitid>
+            <unitid type="guid">C634D27DCF544FF98F50064F7C6F623F</unitid>
+            <unittitle>Genealogiën, aantekeningen over leven en fundatie kerk Sint-Oda in Sint-Oedenrode en diversen, met index op familienamen, 1236 - circa 1650</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1236/1660">1236 - circa 1650</unitdate>
+          </did>
+          <scopecontent>
+            <p>Gemerkt D</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Genealogiën, aantekeningen over leven en fundatie kerk Sint-Oda in Sint-Oedenrode en diversen, met index op familienamen, 1236 - circa 1650</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758088&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF758089">
+            <unitid>6</unitid>
+            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758089&amp;miview=inv2</unitid>
+            <unitid type="guid">EE8C9A672D41447FBBD075FD024DDD24</unitid>
+            <unittitle>Heerlijkheden en plaatsen in hoofdzaak in Brabant gelegen, 1172 - 1645</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1172/1645">1172 - 1645</unitdate>
+          </did>
+          <scopecontent>
+            <p>Gemerkt E. Zie voor een analytische inhoudsopgave rubriek 0.4 Bijlage 2 van de inleiding</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Heerlijkheden en plaatsen in hoofdzaak in Brabant gelegen, 1172 - 1645</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758089&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF758090">
+            <unitid>7</unitid>
+            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758090&amp;miview=inv2</unitid>
+            <unitid type="guid">D3D7E37BB84D495EBEA59DA97432DDC4</unitid>
+            <unittitle>Hertogdommen Brabant en hertogdom Gelre, graafschappen Holland, Vlaanderen en Henegouwen en prinsbisdom Luik, 1275 - circa 1650</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1275/1660">1275 - circa 1650</unitdate>
+          </did>
+          <scopecontent>
+            <p>Gemerkt G.  Zie voor een analytische inhoudsopgave rubriek 0.4 Bijlage 2 van de inleiding</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Hertogdommen Brabant en hertogdom Gelre, graafschappen Holland, Vlaanderen en Henegouwen en prinsbisdom Luik, 1275 - circa 1650</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758090&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF758091">
+            <unitid>8</unitid>
+            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758091&amp;miview=inv2</unitid>
+            <unitid type="guid">DC1D0687B1F8464483A6A28F2917E0AB</unitid>
+            <unittitle>Heerlijkheid Waalwijk, meest kerkelijke en politieke zaken, 16e - 17e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1500/1700">16e - 17e eeuw</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Heerlijkheid Waalwijk, meest kerkelijke en politieke zaken, 16e - 17e eeuw</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758091&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF758092">
+            <unitid>9</unitid>
+            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758092&amp;miview=inv2</unitid>
+            <unitid type="guid">215F84376F594C97A7C17A0EA9D2C3A0</unitid>
+            <unittitle>Informatie Rogier van Leefdael voor Prins van Oranje als heer van Breda over handhaving van hertogs-, heerlijke- en feodale rechten in Brabant, gelijktijdige kopie, 1679 april 26</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1679">1679 april 26</unitdate>
+          </did>
+          <scopecontent>
+            <p>Incompleet</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Informatie Rogier van Leefdael voor Prins van Oranje als heer van Breda over handhaving van hertogs-, heerlijke- en feodale rechten in Brabant, gelijktijdige kopie, 1679 april 26</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758092&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF758093">
+            <unitid>10</unitid>
+            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758093&amp;miview=inv2</unitid>
+            <unitid type="guid">1809710A0FEB46FE8F5A5182DBC187D6</unitid>
+            <unittitle>Informatie Rogier van Leefdael voor Raad van State over handhaving van hertogs-, heerlijke- en feodale rechten in Brabant en misbruiken Raad van Brabant van 16 juni 1679 Lastgeving Raad van State aan genoemde Rogier als rentmeester episcopale goederen in Stad en Meierij van 's-Hertogenbosch voor zijn actie tegen koopster heerlijkheid Heeswijk tot executie achterstallige domeinrechten uit genoemde heerlijkheid van 18 juli 1679, gelijktijdige kopie, 1679</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1679">1679</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Informatie Rogier van Leefdael voor Raad van State over handhaving van hertogs-, heerlijke- en feodale rechten in Brabant en misbruiken Raad van Brabant van 16 juni 1679 Lastgeving Raad van State aan genoemde Rogier als rentmeester episcopale goederen in Stad en Meierij van 's-Hertogenbosch voor zijn actie tegen koopster heerlijkheid Heeswijk tot executie achterstallige domeinrechten uit genoemde heerlijkheid van 18 juli 1679, gelijktijdige kopie, 1679</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758093&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF758094">
+            <unitid>11</unitid>
+            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758094&amp;miview=inv2</unitid>
+            <unitid type="guid">7DD23217C9C24EC4830F289972B1E7BD</unitid>
+            <unittitle>Verhandeling van stad 's-Hertogenbosch voor Staten-Generaal tot bewijs dat stad en Land van Ravenstein gehorig zijn onder Brabant en mede begrepen onder Meierij van 's-Hertogenbosch /  als boven over stad en Land van Megen /  titelenen &amp; documenten dienende tot verificatie soevereiniteit graafschap en Landen van Megen /  resolutie Staten-Generaal over soevereiniteit Verenigde Nederlanden over Ravenstein en Megen, gelijktijdige kopieën,  1657, 1686 en 1677</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1657/1677">1686 en 1677</unitdate>
+          </did>
+          <scopecontent>
+            <p>Op rugzijde: nr. 6.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verhandeling van stad 's-Hertogenbosch voor Staten-Generaal tot bewijs dat stad en Land van Ravenstein gehorig zijn onder Brabant en mede begrepen onder Meierij van 's-Hertogenbosch /  als boven over stad en Land van Megen /  titelenen &amp; documenten dienende tot verificatie soevereiniteit graafschap en Landen van Megen /  resolutie Staten-Generaal over soevereiniteit Verenigde Nederlanden over Ravenstein en Megen, gelijktijdige kopieën,  1657, 1686 en 1677</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758094&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_350/EF0603465AD948C89B31219BF94C5C56_oai_ead.xml-->
+</record>

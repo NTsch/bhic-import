@@ -1,0 +1,2803 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>CE7B1D1C715343DAACC87EC0D089DC66</identifier>
+    <datestamp>2026-09-04</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HtBHIC">2039</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Collectie charters van het Groot Seminarie te Haaren, 1238-1801</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+        <date calendar="gregorian" era="ce" normal="2021">2021</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF12815663">
+      <unittitle>Collectie charters van het Groot Seminarie te Haaren, 1238-1801</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-HtBHIC">2039</unitid>
+      <note label="#guid">
+        <p>CE7B1D1C715343DAACC87EC0D089DC66</p>
+      </note>
+      <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+      <note label="Vindplaats origineel">
+        <p>BHIC 's-Hertogenbosch</p>
+      </note>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Religie en Levensbeschouwing</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd>
+      <odd>
+        <head>Inleiding</head>
+        <odd>
+          <head>Historisch overzicht</head>
+          <p>De collectie is mogelijk al gevormd toen de Franse bezetter in 1797 de universiteit van Leuven sloot. Enkele professoren, onder wie Anthonius van Gils, hoogleraar in de theologie, namen toen de wijk naar het noorden, met meenemen van delen van het universiteitsarchief en een grote collectie oude boeken, handschriften en archieven, veelal afkomstig uit opgeheven religieuze instellingen in Nederland. Die stukken werden vermoedelijk vanaf 1798 bewaard in het Groot Seminarie te ’s-Hertogenbosch, dat een jaar later verplaatst werd naar kasteel Herlaer in Sint-Michielsgestel en dat vanaf 1839 in Haaren gevestigd was.
+            <lb/>De stukken van de universiteit van Leuven zijn via ruil teruggegeven aan de universiteit. Boeken en handschriften zijn verkocht aan de Theologische Faculteit in Tilburg. 
+            <lb/>De oude archieven zijn gesplitst in een collectie charters en een collectie papieren. Ze kunnen evenwel ook afzonderlijk gevormd zijn, omdat van de papieren duidelijk is dat een deel ervan nog in 1818-1819 bij het aartsbisschoppelijk kapittel in Mechelen bewaard werd. Bij de sluiting van het Groot Seminarie in 1967 zijn deze archiefstukken, samen met het archief van Groot Seminarie zelf, overgedragen aan het archief van het bisdom 's-Hertogenbosch. In 2012 heeft het bisdom de collectie charters in bewaring gegeven aan het Brabant Historisch Informatie Centrum. De papieren uit de tijd van de eerste bisschoppen (toegangsnummer 2152) volgden in 2018.
+            <lb/>
+          </p>
+        </odd>
+        <odd>
+          <head>Verantwoording van de inventarisatie</head>
+          <p>De collectie charters van het Groot Seminarie te Haaren is globaal beschreven in de inventaris van het archief van het seminarie, gemaakt door P. Harkx in of kort voor 1967. De nummering en indeling in deze inventaris is in de nieuwe inventaris gehandhaafd. Bij de overdracht van het archief aan het BHIC in 2012 en 2019 bleek inventarisnummer 81 te ontbreken. Omdat dat mogelijk nog teruggevonden wordt is in de inventaris daarvoor al plaats gereserveerd.
+            <lb/>De charters die geplaatst zijn in het onderdeel ‘Charters kapittel Sint-Jan te ’s-Hertogenbosch’ vormden oorspronkelijk één geheel met de charters van het kapittel in de Mechelse Aanwinsten (BHIC, 2006 Mechelse Aanwinsten van het bisdom Den Bosch, 1330-1719). De dorsale beschrijvingen zijn van dezelfde persoon en op dezelfde wijze aangebracht. De nummering van de Mechelse Aanwinsten met Romeinse cijfers ontbreekt echter bij de charters van het kapittel in de collectie van het Groot Seminarie. Veel van de charters uit de Mechelse Aanwinsten zijn terug te vinden in de inventaris die van dit deel van het kapittelarchief is opgemaakt in 1734, gepubliceerd door P. Polman, ‘Bossche archivalia in België. Een inventaris uit 1734’, Bossche Bijdragen 24 (1958-1959) 91-110, op p. 96-105. Daarin staan echter niet de beschrijvingen van bovengenoemde  charters van het Groot Seminarie. Het lijkt erop dat deze afkomstig zijn van het deel van het Bossche kapittelarchief dat bij het kapittel van Sint-Rombout in Mechelen gebleven was en waarvan geen eigentijdse inventaris bestaat. Mogelijk zijn ze daarna terechtgekomen bij de Universiteit van Leuven.
+            <lb/>Vrijwel alle charters werden in opgerolde vorm aangetroffen. Gezien de dorsale aantekening en vouwen waren ze voordien opgevouwen. In het BHIC zijn ze in 2015 gevlakt.
+            <lb/>
+          </p>
+        </odd>
+        <odd>
+          <head>Aanwijzingen voor het gebruik</head>
+          <p>Verwijzing naar archiefstukken uit dit archief geschiedt door
+            <lb/>(volledig):
+            <lb/>Brabants Historisch Informatie Centrum, toegangsnummer 2039 Collectie charters van het Groot Seminarie te Haaren, 1238-1801, inv.nr. ...
+            <lb/>(verkort): BHIC, 2039 charters Haaren, inv.nr. ...
+          </p>
+        </odd>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>Regesten</head>
+        <odd type="regest">
+          <head>1238-09-04.
+            <lb/> H., hertog van Brabant, staat zijn zuster M., voormalig keizerin van het Roomse Rijk, toe te Binderen op haar allodium een vrouwenklooster te bouwen en neemt dit klooster onder zijn bescherming.
+          </head>
+          <p>origineel inv.nr. 25</p>
+          <p>proximo sabbato ante Nativitatem Beate Virginis</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1247-04-00.
+            <lb/> Henricus, oudste zoon van de hertog van Brabant, staat aan het klooster Binderen al zijn recht af op de tienden te Arendonk en Tongelre, alsmede een broekland nabij het klooster, van Scepestal tot aan de brug, geheten Hobrucga. Gegeven te Leuven.
+          </head>
+          <p>origineel inv.nr. 26</p>
+          <p>datering: of 1248-04 tussen 1 en 18</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1249-01-00.
+            <lb/> Henricus III, hertog van Brabant, verzoekt Willelmus de Houthem, kanunnik van Sint-Oedenrode, af te zien van zijn voornemen een klooster te stichten, daar dit tot nadeel zou strekken van het klooster Binderen, en stelt hem voor zijn goederen aan het klooster Binderen te schenken.
+          </head>
+          <p>origineel inv.nr. 27</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1249-06-16.
+            <lb/> De prior van Postel en de abdis van Binderen verzoeken aan heer H., elect van Luik, hun ruil van de tienden van Arendonk en Aarle goed te keuren.
+          </head>
+          <p>origineel inv.nr. 28</p>
+          <p>feria quarta ante vigiliam Beati Johannis baptiste</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1254-07-20.
+            <lb/> Broeder W., abt van Villers, verklaart dat krachtens pauselijk privilege de cisterciënzerorde exempt is van het betalen van tienden, dat zij in de parochies waar zij de oude tienden int ook de novale tienden heeft naar verhouding van de oude tienden, en dat deze privileges evengoed gelden voor de vrouwenkloosters als voor de mannenkloosters.
+          </head>
+          <p>die lune ante festum Beate Marie Magdalene</p>
+          <p>origineel inv.nr. 29</p>
+          <p>met fragment van het zegel van de oorkonder</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1256-06-14.
+            <lb/> M., vroeger keizerin van het Heilige Roomse Rijk, oorkondt dat Elysabeth, dochter van Henricus Bindop, afstand gedaan heeft van de goederen die haar vader van het huis van Helmond in leen had, waartegenover de vroegere keizerin haar 20 pond heeft geschonken en een schuld van 100 penning heeft kwijtgescholden, en dat zij haar naderhand nog 11 pond heeft geschonken. Gedaan in aanwezigheid van Arnoldus, investiet van Bakel, Ywainus, investiet van Rixtel, Arnoldus de Bindere, zijn broer Boidekinus, Henricus de Bakele, Gerardus de Ricstela, ridders en anderen, met bevestiging van de schepenen van Helmond.
+          </head>
+          <p>feria quarta infra octavas Sancte Trinitatis mense iunio</p>
+          <p>origineel inv.nr. 30</p>
+          <p>met fragment van het zegel van keizerin Maria, met tegenzegel; van het zegel van (vermoedelijk) Ywainus van Rixtel resteren slechts enkele brokstukjes.</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1256-09-06.
+            <lb/> H., elect van Luik, hecht zijn goedkeuring aan de ruil van een derde van de tiende van Aarle tegen de tiende van Arendonk tussen het klooster Postel en het klooster Binderen.
+          </head>
+          <p>origineel inv.nr. 31</p>
+          <p>feria quarta ante Nativitatem Beate Marie virginis</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1259-08-00.
+            <lb/> Maria, vroeger keizerin van het Heilige Roomse Rijk, wijst broeder Willelmus de Eike, predikheer, haar bloedverwant Godefridus, scholasticus van Brussel, haar clericus Arnoldus, kanunnik van Tienen, en haar dienaar Deinodus aan als haar executeurs-testamentair en vermaakt, afgezien van enkele legaten ten bate van haar dienaren, aan het klooster Binderen haar sieraden, Franse boeken, huisraad, linnen, paarden en koeien, alsmede 'annonae' te Tongeren en te Helmond.
+          </head>
+          <p>origineel inv.nr. 32</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1323-01-06.
+            <lb/> Schepenen van 's-Hertogenbosch oorkonden dat hun medeburger Johannes Dicbier verkocht heeft aan hun medeschepen Johannes Aykini ten behoeve van het klooster Binderen een rente uit goederen van Johannes Dicbier te Hynen in Rosmalen.
+          </head>
+          <p>origineel inv.nr. 33</p>
+          <p>anno Domini millesimo CCCmo vicesimo secundo in festo Epiphanie Domini</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1337-01-31.
+            <lb/> Schepenen in Haarlem oorkonden dat Boeytiaen die Stratemaker Matten Man van den Waver overdroeg aan Allaert Wouterszoen een rente op een huis.
+          </head>
+          <p>origineel inv.nr. 1</p>
+          <p>des vridaghes na Sinte Pouwels dach in den winter</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1347-11-25.
+            <lb/> Jan, hertog van Brabant, oorkondt aan de schout van 's-Hertogenbosch het klooster Binderen te beschermen in de gemeinten, vooral tegen Helmond. Gegeven te Brussel.
+          </head>
+          <p>origineel inv.nr. 34</p>
+          <p>op Sunte Katherinen dach</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1377-09-07.
+            <lb/> Dirc uut den Broeke, schout van Rijswijk, oorkondt dat Willaem van Scoten Willaems Ryeghen zoen namens zijn vrouw Lanraed Claes Bollen dochter verkocht heeft aan heer Heynric Maertiins zoen, priester, als procureur van de gezellen van het koor van de parochiekerk van Haarlem, een rente.
+          </head>
+          <p>origineel inv.nr. 2</p>
+          <p>op Onser Vrouwen avond Nativitas</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1394-07-03.
+            <lb/> Schepenen in Haarlem oorkonden dat Jan Jan Mynneken Pons zoen verkocht heeft aan Florens Jalen een rente op zijn huis en erf in Lisen strate van Velsen.
+          </head>
+          <p>origineel inv.nr. 3</p>
+          <p>svridaghes na Sunte Pieter ende Sunte Pouwelsdach apostelen</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1398-06-30.
+            <lb/> Schepenen in Haarlem oorkonden dat Claes Jan Tartyaens soen verkocht heeft aan Heynric Dircs soen renten op het Cleyne Heilighe Lant aan de stadsmuur en op huizen daar.
+          </head>
+          <p>origineel inv.nr. 4</p>
+          <p>tsonnendaechs na Sinte Pieters ende Sinte Pauwelsdach apostolorum</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1402-01-08.
+            <lb/> Schepenen in Nieuwer-Amstel oorkonden dat Dirc Jan Haghens zoen verklaarde schuldig te zijn aan Lambert Jacobs zoen een rente uit land in Oetenwail in Jacobs van Barghen Zaet.
+          </head>
+          <p>origineel inv.nr. 14</p>
+          <p>des manendaghes nae dertienden dach</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1406-01-15.
+            <lb/> Schepenen van Amsterdam oorkonden dat Dirc Zael Jans soen overdroeg aan prior en convent van de regulieren van Sint-Jan evangelist te Amsterdam een goed in Tsheylichs Cruusstrate, een rente op een goed in Amsterdam en een rente op land in Nieuwer-Amstel, geheten Heynen Lant.
+          </head>
+          <p>origineel inv.nr. 15</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1409-09-25.
+            <lb/> Schout en schepenen in Abcoude oorkonden dat Claes Jonghe Willams soen van Maersen overdroeg en schonk aan de regulieren van Sint-Jan evangelist bij Amsterdam voor de ziel van hemzelf en zijn ouders land in Aelwijns Lant.
+          </head>
+          <p>origineel inv.nr. 16</p>
+          <p>des derden daghes na Sinte Mauricius dach</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1410-10-27.
+            <lb/> Schepenen in Haarlem oorkonden dat Wouter Engebrechts soen verkocht heeft aan de memoriemeesters van Haarlem twee renten op twee huizen in de Brede Strate in Haarlem.
+          </head>
+          <p>origineel inv.nr. 5</p>
+          <p>op Sinte Symon ende Juden avont apostelen</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1413-02-10.
+            <lb/> Schepenen in Haarlem oorkonden dat Zyburch Willem Gherijts soens weduwe overgedragen heeft aan de gezellen van het koor in de parochiekerk in Haarlem een rente op twee huizen in de Bat Jorijs strate in ruil voor een rente van de gezellen op haar huis en erf geheten Tmuyzenhol in de Beghinenstraet. Bovendien heeft ze hun een rente verkocht.
+          </head>
+          <p>origineel inv.nr. 6</p>
+          <p>svrydaechs na Sente Aechten dach</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1422-03-12.
+            <lb/> Zuster Hildegont, priorin, en convent van de reguliere kanunnikessen van Sint-Mariënvelde in Amsterdam, verlenen kwijtschelding aan de regulieren van Sint-Jan evangelist ter Aemstel van hun aandeel in land in Haer Roemers Grote Ness, in een half huis in de Apostelen Strate, in een erfpacht op een huis in die straat, wegens de afwikkeling van de verdeling van de boekerij van heer Ghijsbert met beloften over de rest van zijn boeken en de inboedel.
+          </head>
+          <p>origineel inv.nr. 17</p>
+          <p>Heer Gijsbert was Gijsbert Dou, biechtvader van Geert Groote en stichter van beide kloosters. De boedelscheiding was uitgevoerd door de prior van Windesheim.</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1423-07-02.
+            <lb/> Schepenen in Haarlem oorkonden dat Vrederic Vrederics zoen verkocht heeft aan de memoriemeesters ten behoeve van de memories in de parochiekerk van Haarlem een rente op een huis in de Ghierstraet, waarop ze al een rente van Vrederic bezaten.
+          </head>
+          <p>origineel inv.nr. 7</p>
+          <p>op Onser Vrouwen dach visitatio</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1438-12-20.
+            <lb/> Schepenen in Haarlem oorkonden dat Claes Kibben soen verkocht heeft aan de memoriemeesters ten behoeve van de memories in de parochiekerk van Haarlem een rente op een huis in de Zijlstrate - hoek Jacopinenkerchof.
+          </head>
+          <p>origineel inv.nr. 8</p>
+          <p>op Sinte Thomas avont apostel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1441-08-31.
+            <lb/> Broeder Willam van Schoonhoven, prior, en het convent van het regulierenklooster Nieuwlicht in Westerblocweer bij Hoorn oorkonden dat ze vroeger verkocht hadden aan de regulieren bij Amsterdam land in Heilo, verkregen van hun broeder Dirc van Alcmaer.
+          </head>
+          <p>origineel inv.nr. 18</p>
+          <p>opten laetsten dach in augusto</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1443-08-04.
+            <lb/> Schepenen in Haarlem oorkonden dat Gheryt van Adrichem verkocht heeft aan de memoriemeester van de memories van de parochiekerk in Haarlem ten behoeve van de memories een rente.
+          </head>
+          <p>origineel inv.nr. 9</p>
+          <p>des sonnendaghes na sunte Oloffs daghe</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1445-01-11.
+            <lb/> Bartholomeus die Wael, zoon van Gerardus (zoon van Giselbertus) en van Elizabeth dochter van Bartholomeus de Berghen, heeft overgedragen voor schepenen van 's-Hertogenbosch aan Gerardus de Tuyl, zoon van Gerardus, een erfcijns uit een huis en erf, geheten Die Cappel, over Die Loefbrugge in 's-Hertogenbosch en uit een hof daar.
+          </head>
+          <p>origineel inv.nr. 44</p>
+          <p>anno Domini millesimo quadringentesimo quadragesimo quarto</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1446-11-06.
+            <lb/> Laudovicus, kardinaal-priester met de titel van Sint-Cecilia, gewoonlijk genoemd van Arles, gezant van de generale synode van Basel in Germania, geeft toestemming aan heer Rudolphus Morgsner, priester van Meissen, een biechtvader te kiezen. Gegeven in Neuenburg in het bisdom Konstanz.
+          </head>
+          <p>origineel inv.nr. 20</p>
+          <p>VIII Idus novembris</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1452-03-08.
+            <lb/> Dirc Gherijts soen oorkondt dat hij verkocht heeft aan de memoriemeesters te Haarlem ten behoeve van de memories land in de ban van Westzanen in Claes Willemsoen Weer, met aankondiging van bezegeling door zijn oom Gherijt Claes zoen, priester.
+          </head>
+          <p>origineel inv.nr. 10</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1452-05-31.
+            <lb/> Vrouwe Hillegundis de Dynther, abdis, jonkvrouwe Heiliwigis de Beke, priorin, Katherina de Waterhalen, keldermeesteres, Elisabeth de Beke, Heilwigis de Lancvelt en Hadewigis de Eyck, receptrices, en Elisabeth de Eyndhouts en Jutta de Benheze, monialen van Binderen, hebben in erfpacht gegeven voor schepenen van 's-Hertogenbosch aan Willelmus, zoon van Gerardus die Weert, een stukje bouwland geheten Den Dijckecker in Helmond.
+          </head>
+          <p>origineel inv.nr. 35</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1458-04-10.
+            <lb/> Willelmus zoon van Arnoldus Houbraken heeft overgedragen voor schepenen van 's-Hertogenbosch aan Everardus de Doernen twee watermolens van Jutta dochter van Arnoldus van den Bergulen, waarvan één in Asten en één in Deurne staat en waarvan de een een korenmolen en de ander een oliemolen is, alsmede een eeuwsel en een akker daar, een beemd geheten Neggers Weert in Someren aan de Aa en een erfcijns.
+          </head>
+          <p>origineel inv.nr. 45</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1459-01-17.
+            <lb/> Heer Ywanus Vestarts, priester en rector van het altaar van Sint-Romoldus en Sint-Adrianus in de Sint-Jan in 's-Hertogenbosch, optredend tegen heer Henricus Voss, priester, Henricus Haywighen, verver in 's-Hertogenbosch, en Christina en Berta, dochters van Henricus Scraghen, aangezien vroeger Johannes de Minghen onder andere een hoeve met toebehoren inclusief de dieren, gelegen in Gestel en geheten Tgoet ten Enghel, als dos aan genoemd altaar had nagelaten en de andere partij hier nu inbreuk op maakt, verzoekt de officiaal hem in zijn rechten te bevestigen en de tegenpartij in de proceskosten te veroordelen.
+          </head>
+          <p>insertie in inv.nr. 49</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1461-09-16.
+            <lb/> In de zaak tussen heer Ywanus, priester, rector van het altaar van Sint-Rumoldus en Sint-Adrianus in de Sint-Jan in 's-Hertogenbosch, enerzijds en heer Henricus Voss, priester, Henricus Hawighen, verwer in 's-Hertogenbosch, Christina en Berta, dochters van Henricus Scraegen, anderzijds heeft de officiaal besloten wegens onvoldoende mandatering van de zijde van de aanlegger, de zaak niet in behandeling te nemen en de aanlegger te veroordelen tot de proceskosten.
+          </head>
+          <p>insertie in inv.nr. 49</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1462-04-26.
+            <lb/> Paus Pius II geeft opdracht aan de dekens van Sint-Jan en het Heilig Kruis in Luik, op verzoek van Ywanus Vestart, rector van het altaar van Sint-Romoldus en Sint-Adrianus in de Sint-Jan in 's-Hertogenbosch, in hoger beroep uitspraak te doen in de zaak tussen hem en Henricus Voss, minderbroeder, professor, Henricus Haywigen, leek, Christiana en Berta, gezusters, die zich goederen van hem als rector hadden toegeëigend, welke zaak behandeld is voor de officiaal in Luik.
+          </head>
+          <p>insertie in inv.nr. 49</p>
+          <p>sexto Kalendas maii</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1462-10-18.
+            <lb/> Willem Symons zoen, schout van Bergen in Kennemerland, oorkondt dat Brecht Rembrants Jan Gheyendochter verkocht heeft aan de regulieren van het Sint-Willibrordsklooster te Heyligeloe land, geheten Jutten Camp, in de ban van Bergen.
+          </head>
+          <p>origineel inv.nr. 21</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1462-11-15.
+            <lb/> Schepenen in Amsterdam oorkonden dat Myn en Dieduwe Doeden dochter verkocht hebben aan Jacob Doeden zoen een huis in de Oude Brugge Steghe.
+          </head>
+          <p>origineel inv.nr. 19</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1464-06-22.
+            <lb/> Gheymarus de Nijssem, deken van de kerk van het Heilig Kruis in Luik, samen met de deken van Sint-Jan in Luik rechter in de beroepszaak tussen Ywanus Vestarts, rector van het altaar van Sint-Rumoldus en Sint-Adrianus in de Sint-Jan in 's-Hertogenbosch, enerzijds en frater Henricus Voss, Henricus Haywighen en de gezusters Christina en Berta, dochters van Henricus Scraghen, anderzijds heeft voor zijn gerecht gedaagd heer Johannes de Vaerlaer, priester, namens de appellant, en frater Henricus Voss en zijn procurator Johannes de Brandeborch, vertegenwoordigend de tegenpartij, en wijst na onderzoek de betwiste hoeve in Gestel, geheten Tgoet ten Enghel, toe aan Ywanus, met insertie van de pauselijke bul van 1462-04-26, het verzoekschrift van Ywanus Vestarts aan de officiaal van 1459-01-17 en het vonnis van de officiaal van 1461 september 16. Gedaan in het claustrale huis van zijn woning binnen de immuniteit van het claustrum van de Heilig-Kruiskerk in Luik, met als getuigen meester Johannes de Myerle, baccalaureus in de theologie, en zijn broer (?) heer Petrus, kapelanen daar. De notarissen Lambertus Fabri de Berle en Johannes de Broechusen ondertekenen de akte.
+          </head>
+          <p>origineel inv.nr. 49</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1467-02-06.
+            <lb/> David van Bourgondië, bisschop van Utrecht, willigt het verzoek in van broeder Jacobus, prior, en broeder Bruno, profes van het convent van de kartuizers buiten Utrecht, aangezien laatstgenoemde voor zijn intrede in het klooster uit zijn eigen goederen drie missen in de parochiekerk van Sint-Nicolaas in Amsterdam aan het altaar van Sint-Pancratius gesticht had, deze kapelanie en de bijbehorende goederen en rechten over te dragen aan de augustijnen bij Amsterdam.
+          </head>
+          <p>origineel inv.nr. 24</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1470-12-27.
+            <lb/> Willem Tyman zoen, schout van Heilo, oorkondt dat Aernt Pieters zoen verkocht heeft aan prior en convent van de regulieren van het Sint-Willibrordsklooster te Heilo een land in de ban van Heilo.
+          </head>
+          <p>origineel inv.nr. 22</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>147.-03-04.
+            <lb/> [Richter en] laten in Escharen oorkonden dat Bade van Nyenhaven Aelberts soen en zijn echtgenote Mery overgedragen hebben aan Jacop Maessoen en Gerit van der Voort, toenmalige dekens van de Onze Lieve Vrouwe Broederschap van Grave, ten behoeve van die broederschap een roggepacht uit een huis en hofstad.
+          </head>
+          <p>origineel inv.nr. 37</p>
+          <p>met het zegel van Henrick Snavel, laat in Escharen</p>
+          <p>Het gedeelte van het charter waarop het jaartal geschreven stond is deels verdwenen.</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1472-04-13.
+            <lb/> Theodricus Clinckroede, proost van Sint-Wilherdus van Bremen, en Theodricus de Zomeren, kanunnik van Luik, doctores decretorum, commissarissen volgens opdracht van Paus Sixtus IV in het geschil tussen het kapittel van Sint-Jan in 's-Hertogenbosch en Everhardus de Berck, clericus van Luik, over een vicarie aan het altaar van Sint-Rumoldus en Sint-Adrianus in de Sint-Jan in 's-Hertogenbosch, doen uitspraak in deze kwestie. Krachtens indult van paus Calixtus III is het deken en kapittel toegestaan deze vicarie, die vacant gekomen is door het overlijden van Ywanus Vestarts, te geven aan een choraal van die kerk, terwijl op dit moment Gijsbertus Fuling of Vullinc deze kapelanie bezet. Uitgesproken te Rome in het woonhuis van Theodricus Clinckrode met als getuigen Tilmannus Everardi, Henricus de Mola en Reynerus Garstede, clerici van Keulen, Paderborn en Bremen. Notaris Johannes de Audenhoven ondertekent de akte.
+          </head>
+          <p>origineel inv.nr. 50</p>
+          <p>met restanten van het zegel van Theodricus de Zomeren</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1472-05-04.
+            <lb/> Theodericus Clinckrode, proost van Sint-Wilherdus van Bremen, en Theodricus de Zomeren, kanunnik van Luik, doctores decretorum, commissarissen volgens opdracht van Paus Sixtus IV in het geschil tussen het kapittel van Sint-Jan in 's-Hertogenbosch en Everhardus de Berck, clericus van Luik, over een vicarie aan het altaar van Sint-Rumoldus en Sint-Adrianus in de Sint-Jan in 's-Hertogenbosch oorkonden aan hertog Karel de Stoute, aan de aartsbisschop van Keulen en de bisschoppen van Luik en Kamerijk etc. etc. en vooral aan Everardus de Berck dat ze na hun uitspraak in deze kwestie, gedaan op 13-04-1472, een nieuwe pauselijke commissie in deze zaak hebben gekregen, ondanks hun eerdere en onherroepelijke uitspraak; dat ze Everardus en de zijnen nu opdragen te gehoorzamen aan hun uitspraak; en dat ze de wereldlijke en kerkelijke macht oproepen met de hun ten dienste staande middelen aan hun uitspraak van 1472-04-13 gevolg te geven. Uitgesproken te Rome met als getuigen Jacobus Cotthem, scolasticus van Sint-Petrus in Hilvarenbeek, en Henricus de Hecht, procurator bij de Curie, en Augustinus Wynandi, clericus van Luik. Notaris Johannes de Audenhoven ondertekent de akte.
+          </head>
+          <p>origineel inv.nr. 50</p>
+          <p>met het zegel van Theodricus de Zomeren, kanunnik van Luik</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1474-03-07.
+            <lb/> Schepenen in Haarlem oorkonden dat Brechte Jacob Reyers zoens weduwe verkoopt aan meester Wauter van Bekestein en heer Jan Willems zoen, priester en memoriemeester in de parochiekerk van Haarlem ten behoeve van de memories een pacht op twee huizen in de Aftercamp.
+          </head>
+          <p>origineel inv.nr. 11</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1479-06-17.
+            <lb/> Louis de Bourbon, bisschop van Luik, geeft zusters te Achel verlof tot verplaatsing van het altaar. Met in dorso bevestiging door bisschop Jan van Hoerne uit 1494.
+          </head>
+          <p>origineel inv.nr. 36</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1487-09-01.
+            <lb/> Schepenen in Haarlem oorkonden dat meester Jan Roepn, priester, verkoopt aan deken en vinders van het Onze-Lieve-Vrouwegilde op het hoogaltaar van de parochiekerk van Haarlem twee pachten op een huis op de Oude Graft.
+          </head>
+          <p>origineel inv.nr. 12</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1494-04-13.
+            <lb/> Richter en laten in Escharen oorkonden dat Balden van Rade en zijn echtgenote Barbara overgedragen hebben aan Jan Michielsssen en Jan van Triest, dekens van de Onze Lieve Vrouwe Broederschap in Grave, ten behoeve van die broederschap al hun rechten zoals beschreven in de getransfigeerde akte van 147.-03-04.
+          </head>
+          <p>origineel inv.nr. 37</p>
+          <p>met deel van het zegel van richter Engel van Berchuysen en met het zegel van laat Wynrick Snavel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1495-03-24.
+            <lb/> Johan van Renesse van Renouwen, ridder, en Johan van Renesse van Wuluen, leenmannen van de grafelijkheid van Holland, oorkonden dat meester Claes Raidt, doctor in de geestelijke rechten, verklaard heeft dat prior en convent van het klooster van Onze Lieve Vrouw ter Hemelpoort in Heemstede een losrente van hem afgelost hebben op een deel van een hofstad in Velzen.
+          </head>
+          <p>origineel inv.nr. 13</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1507-05-08.
+            <lb/> Rooms-koning Maximiliaan, hertog van Brabant, bekrachtigt op verzoek van heer Jacobus de Esch, priester, de uitspraak van de conservator van de privileges van de Universiteit van Leuven als gedelegeerd rechter in het geschil tussen Jacobus en meester Anthonius Crabbe over een canonicaat in de Sint-Jan in 's-Hertogenbosch, waarbij dit aan Jacobus werd toegewezen. Gedaan te Brussel.
+          </head>
+          <p>origineel inv.nr. 51</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1508-09-28.
+            <lb/> Gekozen Rooms-keizer Maximiliaan, hertog van Brabant, oorkondt aan deken, vicedeken en kapittel van Sint-Jan in 's-Hertogenbosch, dat hij toestemming geeft aan Colomannus Wellis, geprebendeerd kanunnik van Sint-Jan in 's-Hertogenbosch, zijn prebende te ruilen met meester Nicolaus Colen, rector van een kapelanie aan het altaar van Sint-Jan de doper, Sint-Michael en Maria Magdalena in de Sint-Jan in 's-Hertogenbosch. Gedaan te 's-Hertogenbosch.
+          </head>
+          <p>origineel inv.nr. 52</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1513-12-14.
+            <lb/> Gekozen Rooms-keizer Maximiliaan, hertog van Brabant, oorkondt aan deken en kapittel van Sint-Jan in 's-Hertogenbosch, dat hij toestemming geeft aan raadsheer en 'phisicus' van Karel (zijn kleinzoon) meester Johannes de Hees geheten de Hoerne, geprebendeerd kanunnik van Sint-Jan in 's-Hertogenbosch, en aan Gewardus de Doren, clericus van Luik, koster in Wespelaar, hun prebende en kosterij onderling te ruilen en verzoekt deken en kapittel Gewardus als kanunnik te installeren. Gedaan te Mechelen.
+          </head>
+          <p>origineel inv.nr. 53</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1534-07-18.
+            <lb/> Rooms-keizer Karel V, hertog van Brabant, oorkondt aan deken of vicedeken en kapittel van Sint-Jan in 's-Hertogenbosch dat hij Desiderius Pensart, clericus van Kamerijk, als kanunnik presenteert op de plaats die tevoren bezet werd door meester Guillhelmus Enckevoirt. Gedaan in Tervuren.
+          </head>
+          <p>origineel inv.nr. 54</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1534-11-11.
+            <lb/> Schepenen van Escharen oorkonden dat voor richter en voor hen gekomen zijn Peter Artzsoen, waldvorster van het Land van Cuijk, en zijn echtgenote Lyssken en dat zij overgedragen hebben aan Geertgen Lemkens weduwe een roggepacht uit een huis en hof in Escharen aan de Myllschen Wech.
+          </head>
+          <p>op Sinte Martens dach in den wynter</p>
+          <p>origineel inv.nr. 38</p>
+          <p>met het geschonden schependomszegel van Escharen</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1538-12-17.
+            <lb/> Schepenen in Alkmaar oorkonden dat Karssen (Yvens, Yiuns ?) zoen verkocht heeft aan (de regulieren) van Amsterdam, nu wonend in Heilo, weiland in de ban van Alkmaar.
+          </head>
+          <p>origineel inv.nr. 23</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1539-00-00.
+            <lb/> Notaris Hubertus Arnoldi Houtlois, priester, oorkondt dat Margareta, dochter van Arnoldus (?) (...) haar testament gemaakt heeft. Ze legateert aan de kerkfabriek van Luik, aan de (...) in de kerk van Mierlo, aan de pastoor en de koster geld; aan de broederschap van Onze Lieve Vrouw (...); aan de huisarmen  (...); aan de kerkfabriek voor een jaargetijde (...); aan diverse particulieren geld en roerende goederen. Aan kaarsen bij haar uitvaart moet 7 pond was gespendeerd worden.
+          </head>
+          <p>origineel inv.nr. 46</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1547-05-13.
+            <lb/> Rooms-keizer Karel V, hertog van Brabant, verzoekt deken en kapittel van Sint-Jan in 's-Hertogenbosch heer Godefridus de Doern, priester van Luik, als kanunnik te installeren in plaats van heer Paulus de Velthoven, priester van Kamerijk, omdat ze onderling dit canonicaat en een kapelanie aan het altaar van de Heilige Maria en Leonardus in de parochiekerk van Sint-Hubertus in Luik geruild hebben. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 55</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1550-04-27.
+            <lb/> Rooms-keizer Karel V, hertog van Brabant, verzoekt deken en kapittel van Sint-Jan in 's-Hertogenbosch heer Anthonius de Eechoute, priester van Luik, als kanunnik te installeren in plaats van meester Rudolphus Campincq, priester van Luik, omdat ze onderling dit canonicaat en een vicarie aan het altaar van de Heilige Georgius en Blasius in de Sint-Nicolaaskerk in Utrecht geruild hebben. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 56</p>
+          <p>Volgens aantekening in dorso is zijn installatie verricht op 5 mei met aanwijzing van zijn plaats aan de zuidzijde van het koor.</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1551-10-26.
+            <lb/> Schepenen in Escharen oorkonden dat voor richter en hen gekomen zijn Geertgen, weduwe van Lambert Gaessen, en dat zij overgedragen heeft aan Johan van Hollant, burgemeester in Grave, Jaexken, zijn echtgenote, en hun erfgenamen een roggepacht volgens inhoud van de aangehechte akte van 1534-11-11.
+          </head>
+          <p>origineel inv.nr. 38</p>
+          <p>met het schependomszegel van Escharen</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1558-01-22.
+            <lb/> Koning Filips II, hertog van Brabant, verzoekt deken en kapittel van Sint-Jan in 's-Hertogenbosch heer Renebertus de Malpas als kanunnik te installeren in plaats van heer Philippus de Spina, de laatste bezitter van dit canonicaat. Gegeven in Brussel.
+          </head>
+          <p>die vigesima secunda januarii anno Domini millesimo quingentesimo quinquagesimo septimo regnorum vero nostrorum videlicet Hispaniarum, Sicilie etc. tertio, Anglie autem Francie et Neapolis quinto</p>
+          <p>origineel inv.nr. 57</p>
+          <p>met deel van het zegel met tegenzegel van Filips II</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1559-09-23.
+            <lb/> Theodoricus Kanijs, doctor, Derick van Rijswijck en Jelijsken Kanijs, echtgenoten, Johan Verheijen en Lijsbet Kanijs, echtgenoten, Gerit Kanijs, Cornelis Uden en Geertruijt Kanijs, echtgenoten, Otto Kanijs, Gijsbert Kanijs en Luijtgen Melen, echtgenoten, Jaexken Kanijs, broers, zusters en zwagers, oorkonden dat ze overgedragen hebben aan Gerit Roelofssen, rentmeester van het klooster van Sint-Clara in Wamel in het ambt van Tussen Maas en Waal, een erfrente uit een huis en hofstad in Leeuwen.
+          </head>
+          <p>origineel inv.nr. 39</p>
+          <p>met de zegels van Theodoricus Kanijs, doctor, Derick van Rijswijck en Jelijsken Kanijs, echtgenoten, Johan Verheijen en Lijsbet Kanijs, echtgenoten, Gerit Kanijs, Cornelis Uden en Geertruijt Kanijs, echtgenoten, Otto Kanijs, Gijsbert Kanijs en Luijtgen Melen, echtgenoten, Jaexken Kanijs, en de erfpachters tussen Maas en Waal Wijchman van den Berge en Goert van Triest, respectievelijk hun oom en zwager</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1560-05-22.
+            <lb/> Koning Filips II, hertog van Brabant, verzoekt deken en kapittel van Sint-Jan in 's-Hertogenbosch heer Godefridus Vervoert, priester van Luik, als kanunnik te installeren in plaats van meester Ambrosius Boonen, clericus van Kamerijk, omdat ze onderling dit canonicaat en het rectoraat van het altaar van de Heilige Johannes de doper in de parochiekerk van Helmond geruild hebben. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 58</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1574-02-26.
+            <lb/> Clara Canis, abdis van Clarevelt te Wamel, met haar momber Henrick Stoer heeft namens het klooster verkocht aan Gerrit die Haes een losrente uit een huis en hofstad land in Zoelen in het ambt Neder-Betuwe, geheten Wormelen, uit die Haeswordt in Zoelen en uit alle andere goederen van het klooster in Zoelen en het ambt van Neder-Betuwe.
+          </head>
+          <p>origineel inv.nr. 40</p>
+          <p>met het zegel van het klooster en de gehavende zegels van Henrick Stoer en Johan Hubertssen</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1575-05-11.
+            <lb/> Prior, supprior, procurator en andere broeders van het convent van de Hemelse Poort binnen 's-Hertogenbosch verklaren dat ze vroeger toestemming hadden gekregen voor een windmolen en daarvoor altijd hadden betaald, maar dat ze dit document zijn kwijtgeraakt tijdens de Beeldenstorm en de molen nog niet hadden kunnen bouwen. Nu hebben ze een nieuwe pand gebouwd en van de Rekenkamer te Brussel toestemming gekregen op 28 januari 1575, omdat op deze plaats vroeger al een windmolen gestaan had (waardoor deze plaats Windmolenberg heet), welk recht en welke plaats ze gekocht hebben bij hun komst in de stad wegens de tocht van Maarten van Rossem. Daarom verleent de Rekenkamer aan hen nu een nieuw octrooi.
+          </head>
+          <p>origineel inv.nr. 47</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1577-08-10.
+            <lb/> Schepenen van Escharen oorkonden dat voor richter en voor hen gekomen zijn Jaexken Leydecker, weduwe van Jan van Hollandt, en dat zij overgedragen heeft aan Jan Geritzsoen en Jan Herman Diemerssoen, dekens van de Onze Lieve Vrouwe Broederschap in Grave, ten behoeve van die broederschap een roggepacht volgens inhoud van de aangehechte akte van 1534-11-11.
+          </head>
+          <p>origineel inv.nr. 38</p>
+          <p>met het schependomszegel van Escharen</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1583-10-10.
+            <lb/> Geertruijt van Randtwijck, vicarisse, en Anna Valckenborch, procuratrix van het klooster Claraveldt te Wamel, met hun momber Matheus van de Steeghen hebben namens het klooster verpand aan Allaert Rutgertsen en Rutger van Herwarden een akker land.
+          </head>
+          <p>op daghe Victoris et Gereonis</p>
+          <p>origineel inv.nr. 41</p>
+          <p>met het geschonden zegel van het klooster en een ander gehavend zegel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1585-06-05.
+            <lb/> Clemens Crabeels, bisschop van 's-Hertogenbosch, wil het verzoek inwilligen van deken en kapittel van 's-Hertogenbosch, belast met de zielzorg van de parochie Rosmalen, het altaar van de Heilige Maagd Maria, waarvan wijlen heer Arnoldus Doers de laatste bezitter was, te verenigen met de vicarie van Rosmalen wegens de geringe inkomsten van deze vicarie, met opdracht tot aankondiging hiervan op de kerkdeur ('ad valvas') van de Sint-Jan en de kerk van Rosmalen. Gegeven in 's-Hertogenbosch.
+          </head>
+          <p>origineel inv.nr. 59</p>
+          <p>met het geheim zegel van de bisschop</p>
+          <p>in dorso verklaringen over twee aankondigingen 'ad valvas', zowel in Rosmalen als in 's-Hertogenbosch</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1585-08-30.
+            <lb/> Clemens Crabeels, bisschop van 's-Hertogenbosch, besluit op verzoek van deken en kapittel van 's-Hertogenbosch, belast met de zielzorg van de parochie Rosmalen, het altaar van de Heilige Maagd Maria, waarvan wijlen heer Arnoldus Doers de laatste bezitter was, te verenigen met de vicarie van Rosmalen wegens de geringe inkomsten van deze vicarie, nu aankondiging hiervan hiervan op de kerkdeur ('ad valvas') van de Sint-Jan en de kerk van Rosmalen heeft plaatsgevonden en niemand gereageerd heeft, op voorwaarde dat de lasten die bij de stichting van het altaar vastgelegd waren, voortaan door de vicaris gedragen worden. Gegeven in 's-Hertogenbosch.
+          </head>
+          <p>origineel inv.nr. 59</p>
+          <p>met het zegel van de bisschop</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1590-07-28.
+            <lb/> Koning Filips II, hertog van Brabant, verzoekt deken en kapittel van Sint-Jan in 's-Hertogenbosch heer en meester Balduinus Trudonius, priester, als kanunnik te installeren in plaats van heer Godefridus Vervoirt, de laatste bezitter van dit canonicaat. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 60</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1590-10-10.
+            <lb/> Geertruijt van Randijck, vicarisse, en Anna Vallenborch, procuratrix van het clarissenklooster te Wamel, met hun momber Matheus van der Steeghe hebben verpand aan jonker Aerndt van Bronckhorst land in Wamel tegenover de 'hall' van het klooster.
+          </head>
+          <p>stilo antiquo</p>
+          <p>origineel inv.nr. 42</p>
+          <p>met de geschonden zegels van de momber en van de erfpachters Aelbert Rutgerssen en Herman Cornelissen</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1591-02-04.
+            <lb/> Geertruijdt van Randwijck, vicarisse, en Anna Falckenborch, procuratrix van het klooster van Sint-Clara te Wamel in het ambt van Tussen Maas en Waal, met hun rentmeester en voogd Matheus van der Steegh hebben verpand aan Arntt Evertssen en Merry van Dam, echtgenoten, een uiterwaardje in Wamel.
+          </head>
+          <p>origineel inv.nr. 43</p>
+          <p>met de geschonden zegels van het klooster en de momber</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1591-05-17.
+            <lb/> Koning Filips II, hertog van Brabant, verzoekt deken en kapittel van Sint-Jan in 's-Hertogenbosch heer Theodericus Gualterus a Veldingen van 's-Hertogenbosch, priester, als kanunnik te installeren in plaats van meester Balduinus Trudonis, omdat ze onderling dit canonicaat en het canonicaat in de Sint-Petruskerk in Kassel geruild hebben. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 61</p>
+          <p>met fragment van zegel en tegenzegel van Filips II</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1591-07-27.
+            <lb/> Heer en meester Jan Degens en heer Jan van Eijnthouts, priesters en kanunniken van het kapittel van Sint-Jan in 's-Hertogenbosch, en Jan Splinter van Voirne, licentiaat in beide rechten en rentmeester van dat kapittel, zijn voor schepenen van 's-Hertogenbosch overeengekomen dat het rentmeesterschap met vier jaar verlengd wordt.
+          </head>
+          <p>origineel inv.nr. 62</p>
+          <p>met de schepenzegels van Frans Henricxss van Gestel en Jacob van Balen</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1594-02-25.
+            <lb/> Koning Filips II, hertog van Brabant, verzoekt deken en kapittel van Sint-Jan in 's-Hertogenbosch Maximilianus van der Stegen als kanunnik te installeren in plaats van wijlen heer Cornelius Emberti, de laatste bezitter van dit canonicaat. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 63</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1599-11-15.
+            <lb/> Albert en Isabella Clara Eugenia, hertogen van Brabant, oorkonden aan hun functionarissen in Brabant en Overmaze op verzoek van de bisschop van 's-Hertogenbosch naar aanleiding van het geschil tussen de bisschop en deken en kapittel van Sint-Jan in 's-Hertogenbosch over de interpretatie van het Concilie van Trente, sessie 25, hoofdstuk 6 'De Reformatione', ter bekrachtiging van de uitspraak van de commissie in Rome die dergelijke geschilpunten behandelt, dat de rechtsmacht over de leden en functionarissen van het kapittel na dit concilie geheel bij de bisschop berust in plaats van bij het kapittel, na raadpleging van twee gecommitteerden van het kapittel. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 64</p>
+          <p>met fragment van het zegel en tegenzegel van koning Filips II</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1602-09-14.
+            <lb/> Ghisbertus Masius, bisschop van 's-Hertogenbosch, en de gegradueerde kanunniken van Sint-Jan in 's-Hertogenbosch, verzoeken deken of vicedeken en kapittel van Sint-Jan in 's-Hertogenbosch heer en meester Everardus a Ravensteijn, priester, licentiaat in beide rechten van de Universiteit van Leuven, als gegradueerde kanunnik te installeren in plaats van wijlen heer Michael Haller ab Hallersteijn, de laatste bezitter van dit canonicaat. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 65</p>
+          <p>met het op papier gedrukte zegel van de bisschop</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1602-12-20.
+            <lb/> Albert en Isabella Clara Eugenia, hertogen van Brabant, oorkonden aan hun functionarissen in Brabant en Overmaze op verzoek van heer Leonaert Bombergen, priester van 's-Hertogenbosch, wegens een canonicaat in de Sint-Jan in 's-Hertogenbosch, verkregen door ruil met heer en meester Jacob Franco op voordracht van de bisschop van 's-Hertogenbosch die van de hertogen het presentatierecht gekregen heeft, dat Leonaert deze ruil met instemming van de hertogen aangegaan is en dat hij in geval van geschillen ten possessoire moet procederen voor de Raad van Brabant en ten petitoire voor de geestelijk competente rechters in Brabant. Als de zaak in Rome terecht komt dient hij deze te delegeren aan competente rechters uit Brabant. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 66</p>
+          <p>met fragmenten van het zegel en contrazegel van de hertogen</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1603-05-09.
+            <lb/> Ghisbertus Masius, bisschop van 's-Hertogenbosch, hiertoe bevoegd vanwege de aartshertogen Albert en Isabella Clara Eugenia, verzoekt deken of vicedeken en kapittel van Sint-Jan in 's-Hertogenbosch Johannes Hermanni, clericus van 's-Hertogenbosch, als kanunnik te installeren in plaats van wijlen Jacobus Papenhoven, de laatste bezitter van dit canonicaat, met als getuigen kanunnik Petrus Stoters en Anthonius Molijn, clericus.
+            <lb/>
+          </head>
+          <p>origineel inv.nr. 65</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1603-05-14.
+            <lb/> Albert en Isabella Clara Eugenia, hertogen van Brabant, oorkonden aan hun functionarissen in Brabant en Overmaze op verzoek van Jan Hermans, clericus van 's-Hertogenbosch, wegens een canonicaat in de Sint-Jan in 's-Hertogenbosch, verkregen na het overlijden van Jacques Papenhoven op voordracht van de bisschop van 's-Hertogenbosch die vanaf 3 juli 1602 voor een periode van tien jaar van de hertogen het presentatierecht gekregen heeft, dat Jan dit canonicaat met instemming van de hertogen verworven heeft en dat hij in geval van geschillen ten possessoire moet procederen voor de Raad van Brabant en ten petitoire voor de geestelijk competente rechters in Brabant. Als de zaak in Rome terecht komt dient hij deze te delegeren aan competente rechters uit Brabant. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 67</p>
+          <p>met fragmenten van het zegel en contrazegel van de hertogen</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1604-11-24.
+            <lb/> Albert en Isabella Clara Eugenia, hertogen van Brabant, oorkonden aan hun functionarissen in Brabant en Overmaze op verzoek van Frederick Versteech, clericus van 's-Hertogenbosch, wegens een canonicaat in de Sint-Jan in 's-Hertogenbosch, verkregen na het overlijden van Jehan Havens op voordracht van de bisschop van 's-Hertogenbosch die van de hertogen het presentatierecht gekregen heeft, dat Frederick dit canonicaat met instemming van de hertogen verworven heeft en dat hij in geval van geschillen ten possessoire moet procederen voor de Raad van Brabant en ten petitoire voor de geestelijk competente rechters in Brabant. Als de zaak in Rome terecht komt dient hij deze te delegeren aan competente rechters uit Brabant. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 68</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1607-02-26.
+            <lb/> Albert en Isabella Clara Eugenia, hertogen van Brabant, oorkonden aan hun functionarissen in Brabant en Overmaze op verzoek van Peeter van der Schoot, priester van 's-Hertogenbosch, wegens een canonicaat in de Sint-Jan in 's-Hertogenbosch, verkregen door ruil met heer en meester Peter van Esch op voordracht van de bisschop van 's-Hertogenbosch die van de hertogen het presentatierecht gekregen heeft, dat Peeter dit canonicaat met instemming van de hertogen verworven heeft en dat hij in geval van geschillen ten possessoire moet procederen voor de Raad van Brabant en ten petitoire voor de geestelijk competente rechters in Brabant. Als de zaak in Rome terecht komt dient hij deze te delegeren aan competente rechters uit Brabant. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 69</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1610-05-19.
+            <lb/> Albert en Isabella Clara Eugenia, hertogen van Brabant, oorkonden aan hun functionarissen in Brabant en Overmaze op verzoek van Jan Garry, zoon van heer en meester Jan Garry, doctor en professor in de rechten aan de Universiteit van Leuven, wegens een canonicaat in de Sint-Jan in 's-Hertogenbosch, verkregen door ruil met heer en meester Jan Peelmans op voordracht van de bisschop van 's-Hertogenbosch, dat Peeter dit canonicaat met instemming van de hertogen verworven heeft en dat hij in geval van geschillen ten possessoire moet procederen voor de Raad van Brabant en ten petitoire voor de geestelijk competente rechters in Brabant. Als de zaak in Rome terecht komt dient hij deze te delegeren aan competente rechters uit Brabant. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 70</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1611-08-13.
+            <lb/> Albert en Isabella Clara Eugenia, hertogen van Brabant, oorkonden aan hun functionarissen in Brabant en Overmaze op verzoek van Johan Masius, subdiaken van 's-Hertogenbosch, wegens een canonicaat in de Sint-Jan in 's-Hertogenbosch, verkregen na het overlijden van heer Anthonis van Heeswijck op voordracht van de bisschop van 's-Hertogenbosch, die van de hertogen het presentatierecht gekregen heeft, dat Johan dit canonicaat met instemming van de hertogen verworven heeft en dat hij in geval van geschillen ten possessoire moet procederen voor de Raad van Brabant en ten petitoire voor de geestelijk competente rechters in Brabant. Als de zaak in Rome terecht komt dient hij deze te delegeren aan competente rechters uit Brabant. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 71</p>
+          <p>met fragment van het zegel van de hertogen</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1616-06-11.
+            <lb/> Albert en Isabella Clara Eugenia, hertogen van Brabant, verzoeken deken en kapittel van Sint-Jan in 's-Hertogenbosch meester Aegidius Waghenaer, subdiaken, als kanunnik te installeren in plaats van heer Andreas Baten, priester, omdat ze onderling dit canonicaat en de kapelanie aan het altaar van Sint-Andreas in de kerk van Papegem in de parochie Vlierzele, bisdom Gent, geruild hebben. Gegeven in Mariemont.
+          </head>
+          <p>origineel inv.nr. 72</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1624-07-04.
+            <lb/> Koning Filips IV, hertog van Brabant, verzoekt deken en kapittel van Sint-Jan in 's-Hertogenbosch meester Adrianus Gerardi van Boxtel als kanunnik te installeren in plaats van meester Joannes Guillermus Worcomius, priester, omdat ze onderling dit canonicaat en het rectoraat van de kapel, gefundeerd aan het altaar van Sint-Anthonius in 's-Hertogenbosch, geruild hebben. Gegeven in Brussel.
+          </head>
+          <p>origineel inv.nr. 73</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1625-02-24.
+            <lb/> Schepenen van de heerlijkheid Cantecrode, Mortsel en Edegem oorkonden dat Jehan Maes, heer van de heerlijkheid, overgedragen heeft aan zijn dochter Elisabeth, weduwe van heer Herman de Marnef, heer van Gesnes, een hoeve in Bevekom (Beauvechain) bij Leuven als huwelijksgift.
+          </head>
+          <p>origineel inv.nr. 48</p>
+          <p/>
+        </odd>
+      </odd>
+    </odd>
+    <dsc type="combined">
+      <c01 level="series">
+        <did id="MF12815667">
+          <unitid type="series_code"/>
+          <unitid type="guid">31083FE5B3F5422780EC1844466E42D8</unitid>
+          <unittitle>charters Haarlem</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+        </did>
+        <c02 level="file">
+          <did id="MF12815669">
+            <unitid>1</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E88A8CC6FB504452B7166CAF8ACBC6D8</unitid>
+            <unitid type="guid">E88A8CC6FB504452B7166CAF8ACBC6D8</unitid>
+            <unittitle>Akte van overdracht van een rente, 1337</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1337">1337</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van een rente, 1337</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815669&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815706">
+            <unitid>2</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F8E0611B98C24D57ACF0CDC08BA0904B</unitid>
+            <unitid type="guid">F8E0611B98C24D57ACF0CDC08BA0904B</unitid>
+            <unittitle>Akte van verkoop van een rente, 1377</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1377">1377</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een rente, 1377</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815706&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815715">
+            <unitid>3</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/09483B77ADF8427B9FBECE0D5A9D3049</unitid>
+            <unitid type="guid">09483B77ADF8427B9FBECE0D5A9D3049</unitid>
+            <unittitle>Akte van verkoop van een rente, 1394</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1394">1394</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>in dorso: In Lysen straet van Velsen, nu die Veerstraet</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een rente, 1394</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815715&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815742">
+            <unitid>4</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1315B4CB0ED747DC985D4136BCE71BAC</unitid>
+            <unitid type="guid">1315B4CB0ED747DC985D4136BCE71BAC</unitid>
+            <unittitle>Akte van verkoop van renten, 1398</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1398">1398</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van renten, 1398</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815742&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815746">
+            <unitid>5</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9039ACC5996146999A42D04AEABA28E4</unitid>
+            <unitid type="guid">9039ACC5996146999A42D04AEABA28E4</unitid>
+            <unittitle>Akte van verkoop van renten, 1410</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1410">1410</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>in dorso is sprake van de Ghierstraet</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van renten, 1410</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815746&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815749">
+            <unitid>6</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/006F5393B3BF4EEF8576D8AB39329B60</unitid>
+            <unitid type="guid">006F5393B3BF4EEF8576D8AB39329B60</unitid>
+            <unittitle>Akte van overdracht en verkoop van renten, 1413</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1413">1413</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht en verkoop van renten, 1413</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815749&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815756">
+            <unitid>7</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EC367548BE6B499C853AE9929F63813B</unitid>
+            <unitid type="guid">EC367548BE6B499C853AE9929F63813B</unitid>
+            <unittitle>Akte van verkoop van een rente, 1423</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1423">1423</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een rente, 1423</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815756&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815761">
+            <unitid>8</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5E82D0CC3117409CBFBA9DCA5B58C6EC</unitid>
+            <unitid type="guid">5E82D0CC3117409CBFBA9DCA5B58C6EC</unitid>
+            <unittitle>Akte van verkoop van een rente, 1438</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1438">1438</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een rente, 1438</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815761&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815766">
+            <unitid>9</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/88CF9F6E62694E9FAF3A61E8D0AB99BE</unitid>
+            <unitid type="guid">88CF9F6E62694E9FAF3A61E8D0AB99BE</unitid>
+            <unittitle>Akte van verkoop van een rente, 1443</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1443">1443</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een rente, 1443</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815766&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815770">
+            <unitid>10</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0DB7A1D3915846BFA04EC4A626793AAE</unitid>
+            <unitid type="guid">0DB7A1D3915846BFA04EC4A626793AAE</unitid>
+            <unittitle>Akte van verkoop van land, 1452</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1452">1452</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van land, 1452</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815770&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815772">
+            <unitid>11</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/42988AEDB00840EBA02FCD986DFFAA5B</unitid>
+            <unitid type="guid">42988AEDB00840EBA02FCD986DFFAA5B</unitid>
+            <unittitle>Akte van verkoop van een pacht, 1474</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1474">1474</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een pacht, 1474</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815772&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815789">
+            <unitid>12</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0E8FC32DDBC949979ADD9101AE2D5DBC</unitid>
+            <unitid type="guid">0E8FC32DDBC949979ADD9101AE2D5DBC</unitid>
+            <unittitle>Akte van verkoop van pachten, 1487</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1487">1487</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van pachten, 1487</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815789&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815791">
+            <unitid>13</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/ADBB954C9DF34B2A9529F6FD26940774</unitid>
+            <unitid type="guid">ADBB954C9DF34B2A9529F6FD26940774</unitid>
+            <unittitle>Akte van aflossing van een losrente, 1495</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1495">1495</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van aflossing van een losrente, 1495</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815791&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF12815792">
+          <unitid type="series_code"/>
+          <unitid type="guid">FD6880C573024A358BC2BD60B83FE176</unitid>
+          <unittitle>charters Amsterdam</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+        </did>
+        <c02 level="file">
+          <did id="MF12815794">
+            <unitid>14</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5E38E331B8074D6FBC32565DA22B5456</unitid>
+            <unitid type="guid">5E38E331B8074D6FBC32565DA22B5456</unitid>
+            <unittitle>Schuldbekentenis van een rente, 1402</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1402">1402</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Schuldbekentenis van een rente, 1402</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815794&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815802">
+            <unitid>15</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/56865BBE813744A28BD505793826746F</unitid>
+            <unitid type="guid">56865BBE813744A28BD505793826746F</unitid>
+            <unittitle>Akte van overdracht van een goed en renten, 1406</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1406">1406</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van een goed en renten, 1406</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815802&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815805">
+            <unitid>16</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E2B5A9A5AFB6418691B770A499172545</unitid>
+            <unitid type="guid">E2B5A9A5AFB6418691B770A499172545</unitid>
+            <unittitle>Akte van aankoop en schenking van land, 1409</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1409">1409</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van aankoop en schenking van land, 1409</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815805&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815807">
+            <unitid>17</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1919F356A4CC444EA89F5D6ABFF18329</unitid>
+            <unitid type="guid">1919F356A4CC444EA89F5D6ABFF18329</unitid>
+            <unittitle>Overeenkomst tussen het klooster Mariënveld en het klooster van Sint-Jan evangelist in Amsterdam, 1422</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1422">1422</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Overeenkomst tussen het klooster Mariënveld en het klooster van Sint-Jan evangelist in Amsterdam, 1422</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815807&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815809">
+            <unitid>18</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/561052725B6441F2A4A1C80E30E1B9B9</unitid>
+            <unitid type="guid">561052725B6441F2A4A1C80E30E1B9B9</unitid>
+            <unittitle>Verklaring van een vroegere overdracht van grond in Heilo, 1441</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1441">1441</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verklaring van een vroegere overdracht van grond in Heilo, 1441</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815809&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815818">
+            <unitid>19</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2010DD9C2C9446BCB26406512B91B94F</unitid>
+            <unitid type="guid">2010DD9C2C9446BCB26406512B91B94F</unitid>
+            <unittitle>Akte van verkoop van een huis, 1462</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1462">1462</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een huis, 1462</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815818&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF12815820">
+          <unitid type="series_code"/>
+          <unitid type="guid">88F4D0D0AC524AA9BAB2E2C8B28763F5</unitid>
+          <unittitle>charter Lud. d'Alleman, kardinaal van Arles</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+        </did>
+        <c02 level="file">
+          <did id="MF12815821">
+            <unitid>20</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/57F4F6014B3A41DB8FCA409125A529E5</unitid>
+            <unitid type="guid">57F4F6014B3A41DB8FCA409125A529E5</unitid>
+            <unittitle>Toestemming voor Rudolf Morgsner een biechtvader te kiezen, 1446</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1446">1446</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Toestemming voor Rudolf Morgsner een biechtvader te kiezen, 1446</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815821&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF12815830">
+          <unitid type="series_code"/>
+          <unitid type="guid">B0567293A3334D2081E54CB1130E4A00</unitid>
+          <unittitle>charters Heilo</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+        </did>
+        <c02 level="file">
+          <did id="MF12815835">
+            <unitid>21</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C1EA7DE91DE144D7B41F183D262DD4F4</unitid>
+            <unitid type="guid">C1EA7DE91DE144D7B41F183D262DD4F4</unitid>
+            <unittitle>Akte van verkoop van land, 1462</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1462">1462</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van land, 1462</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815835&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815838">
+            <unitid>22</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0904F82F7B1D42FC9F8844A0B6A281AD</unitid>
+            <unitid type="guid">0904F82F7B1D42FC9F8844A0B6A281AD</unitid>
+            <unittitle>Akte van verkoop van land, 1470</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1470">1470</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van land, 1470</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815838&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815840">
+            <unitid>23</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E5F2104E17504AD3B73AF9B67E3C1938</unitid>
+            <unitid type="guid">E5F2104E17504AD3B73AF9B67E3C1938</unitid>
+            <unittitle>Akte van verkoop van land, 1538</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1538">1538</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van land, 1538</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815840&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF12815842">
+          <unitid type="series_code"/>
+          <unitid type="guid">A06FADD01704410F84667E678800375F</unitid>
+          <unittitle>charter David van Bourgondië</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+        </did>
+        <c02 level="file">
+          <did id="MF12815874">
+            <unitid>24</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C5B1EB195DE44AF78EBBB09E091AC0CE</unitid>
+            <unitid type="guid">C5B1EB195DE44AF78EBBB09E091AC0CE</unitid>
+            <unittitle>Toestemming tot overdracht van een kapelanie, 1467</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1467">1467</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Toestemming tot overdracht van een kapelanie, 1467</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815874&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF12815875">
+          <unitid type="series_code"/>
+          <unitid type="guid">9071C985963348C693E04D387775E2CB</unitid>
+          <unittitle>charters Binderen</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+        </did>
+        <c02 level="file">
+          <did id="MF12815907">
+            <unitid>25</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/74AC2E6FAD934D96929B7C7AFB88DAA9</unitid>
+            <unitid type="guid">74AC2E6FAD934D96929B7C7AFB88DAA9</unitid>
+            <unittitle>Toestemming voor de bouw van een vrouwenklooster in Binderen, 1238</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1238">1238</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">charters Binderen 1</unitid>
+          </did>
+          <scopecontent>
+            <p>Uitgegeven in H.P.H. Camps, Oorkondenboek van Noord-Brabant tot 1312, I ('s-Gravenhage 1979) nr. 187</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Toestemming voor de bouw van een vrouwenklooster in Binderen, 1238</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815907&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815913">
+            <unitid>26</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/70734C03858D44188E2E48E429AAA1D2</unitid>
+            <unitid type="guid">70734C03858D44188E2E48E429AAA1D2</unitid>
+            <unittitle>Akte van afstand van tienden en land aan het klooster te Binderen, 1247 of 1248</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1247/1248">1247 of 1248</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">charters Binderen 2</unitid>
+          </did>
+          <scopecontent>
+            <p>Uitgegeven in H.P.H. Camps, Oorkondenboek van Noord-Brabant tot 1312, I ('s-Gravenhage 1979) nr. 227</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van afstand van tienden en land aan het klooster te Binderen, 1247 of 1248</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815913&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815917">
+            <unitid>27</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/52536B8FF9044C25BF5E31BDA3439745</unitid>
+            <unitid type="guid">52536B8FF9044C25BF5E31BDA3439745</unitid>
+            <unittitle>Verzoek van de hertog van Brabant aan Willem van Houthem zijn goederen niet voor een eigen kloosterstichting te gebruiken maar toe te voegen aan het klooster te Binderen, 1249</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1249">1249</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">charters Binderen 3</unitid>
+          </did>
+          <scopecontent>
+            <p>Uitgegeven in H.P.H. Camps, Oorkondenboek van Noord-Brabant tot 1312, I ('s-Gravenhage 1979) nr. 229</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verzoek van de hertog van Brabant aan Willem van Houthem zijn goederen niet voor een eigen kloosterstichting te gebruiken maar toe te voegen aan het klooster te Binderen, 1249</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815917&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815921">
+            <unitid>28</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A525B415E3834F8F974EEEB9361D3354</unitid>
+            <unitid type="guid">A525B415E3834F8F974EEEB9361D3354</unitid>
+            <unittitle>Verzoek van de kloosters van Postel en Binderen aan de hertog van Brabant hun ruil van tienden goed te keuren, 1249</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1249">1249</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">charters Binderen 4</unitid>
+          </did>
+          <scopecontent>
+            <p>Uitgegeven in H.P.H. Camps, Oorkondenboek van Noord-Brabant tot 1312, I ('s-Gravenhage 1979) nr. 233</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verzoek van de kloosters van Postel en Binderen aan de hertog van Brabant hun ruil van tienden goed te keuren, 1249</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815921&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815923">
+            <unitid>29</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/28F65870202443B4BB0C99F5C77EA03B</unitid>
+            <unitid type="guid">28F65870202443B4BB0C99F5C77EA03B</unitid>
+            <unittitle>Bevestiging van de privileges voor de abdij van Binderen betreffende de tienden, 1254</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1254">1254</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">charters Binderen 5</unitid>
+          </did>
+          <scopecontent>
+            <p>Uitgegeven in H.P.H. Camps, Oorkondenboek van Noord-Brabant tot 1312, I ('s-Gravenhage 1979) nr. 255</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Bevestiging van de privileges voor de abdij van Binderen betreffende de tienden, 1254</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815923&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815943">
+            <unitid>30</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E936B22BB8824FD7BE4E323FFE87FE71</unitid>
+            <unitid type="guid">E936B22BB8824FD7BE4E323FFE87FE71</unitid>
+            <unittitle>Akte van afstand door de dochter van Hendrik Bindorp van goederen, vroeger in leen van het huis van Helmond, 1256</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1256">1256</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">charters Binderen 6</unitid>
+          </did>
+          <scopecontent>
+            <p>Uitgegeven in H.P.H. Camps, Oorkondenboek van Noord-Brabant tot 1312, I ('s-Gravenhage 1979) nr. 261</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van afstand door de dochter van Hendrik Bindorp van goederen, vroeger in leen van het huis van Helmond, 1256</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815943&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815950">
+            <unitid>31</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7D04995A4CA94C4B99171F4DBEC1FF44</unitid>
+            <unitid type="guid">7D04995A4CA94C4B99171F4DBEC1FF44</unitid>
+            <unittitle>Goedkeuring van de bisschop van Luik betreffende de ruil van tienden tussen de kloosters Postel en Binderen, 1256</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1256">1256</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">charters Binderen 7</unitid>
+          </did>
+          <scopecontent>
+            <p>Uitgegeven in H.P.H. Camps, Oorkondenboek van Noord-Brabant tot 1312, I ('s-Gravenhage 1979) nr. 263</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Goedkeuring van de bisschop van Luik betreffende de ruil van tienden tussen de kloosters Postel en Binderen, 1256</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815950&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815962">
+            <unitid>32</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/003AE80F11EB421AA745B949754EF5B4</unitid>
+            <unitid type="guid">003AE80F11EB421AA745B949754EF5B4</unitid>
+            <unittitle>Codicil van de vroegere keizerin Maria, hoofdzakelijk met begunstiging van Binderen, 1259</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1259">1259</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">charters Binderen 8</unitid>
+          </did>
+          <scopecontent>
+            <p>Uitgegeven in H.P.H. Camps, Oorkondenboek van Noord-Brabant tot 1312, I ('s-Gravenhage 1979) nr. 274</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Codicil van de vroegere keizerin Maria, hoofdzakelijk met begunstiging van Binderen, 1259</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815962&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12815987">
+            <unitid>33</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/99ED8F8930404BB69E611A5581110C9E</unitid>
+            <unitid type="guid">99ED8F8930404BB69E611A5581110C9E</unitid>
+            <unittitle>Akte van verkoop van een rente aan het klooster Binderen, 1323</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1323">1323</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">charters Binderen 10</unitid>
+          </did>
+          <scopecontent>
+            <p>Uitgegeven in A.M. Frenken, 'De privilegebrieven der Abdij Binderen', Bossche Bijdragen 21 (1952) 123-125</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een rente aan het klooster Binderen, 1323</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815987&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12816009">
+            <unitid>34</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0BBA00FEA1664989A17FBC4F3DB81972</unitid>
+            <unitid type="guid">0BBA00FEA1664989A17FBC4F3DB81972</unitid>
+            <unittitle>Lastbrief van Hertog Jan III van Brabant aan schout van 's-Bosch om goederen van Binderen te beschermen tegen Helmond , 1347</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1347">1347</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">charters Binderen 10</unitid>
+          </did>
+          <scopecontent>
+            <p>Uitgegeven in A.M. Frenken, 'De privilegebrieven der Abdij Binderen', Bossche Bijdragen 21 (1952) 125</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Lastbrief van Hertog Jan III van Brabant aan schout van 's-Bosch om goederen van Binderen te beschermen tegen Helmond , 1347</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816009&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12816034">
+            <unitid>35</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/69AF3F39FD944A09B9E92980ACC955E8</unitid>
+            <unitid type="guid">69AF3F39FD944A09B9E92980ACC955E8</unitid>
+            <unittitle>Akte van verpachting door het klooster Binderen van land in Helmond, 1452</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1452">1452</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">charters Binderen 11</unitid>
+          </did>
+          <scopecontent>
+            <p>Uitgegeven in A.M. Frenken, 'De privilegebrieven der Abdij Binderen', Bossche Bijdragen 21 (1952) 125-126</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verpachting door het klooster Binderen van land in Helmond, 1452</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816034&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12818198">
+            <unitid>45</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6FD60EC3B5B14B3C840C990CC648A62B</unitid>
+            <unitid type="guid">6FD60EC3B5B14B3C840C990CC648A62B</unitid>
+            <unittitle>Akte van overdracht van twee watermolens in Asten en Deurne en ander goed, 1458</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1458">1458</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">charters Binderen 12</unitid>
+          </did>
+          <scopecontent>
+            <p>Dit stuk heeft verband met het klooster Binderen blijkens de dorsale aantekening: 'Van den molens tot Doerne ende Asten om Bijnderen met water niet te incommoderen'. Uitgegeven in A.M. Frenken, 'De privilegebrieven der Abdij Binderen', Bossche Bijdragen 21 (1952) 127-128</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van twee watermolens in Asten en Deurne en ander goed, 1458</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818198&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF12816826">
+          <unitid type="series_code"/>
+          <unitid type="guid">ECE27D4D48F64236BCC2EEEAD842CA4E</unitid>
+          <unittitle>charter Louis de Bourbon</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+        </did>
+        <c02 level="file">
+          <did id="MF12816827">
+            <unitid>36</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4DFD03B3C5C949A3A2765572B516247F</unitid>
+            <unitid type="guid">4DFD03B3C5C949A3A2765572B516247F</unitid>
+            <unittitle>Akte van toestemming door de bisschop van Luik aan de zusters te Achel tot verplaatsing van het altaar, 1479</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1479">1479</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van toestemming door de bisschop van Luik aan de zusters te Achel tot verplaatsing van het altaar, 1479</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816827&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF12816830">
+          <unitid type="series_code"/>
+          <unitid type="guid">5E06F9214DF84B558F6A7D57E146F355</unitid>
+          <unittitle>charters Grave</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+        </did>
+        <scopecontent>
+          <p>Bijgevoegde aantekening: "d.d. seminario F. Hendrikx, diaconus ex Besoyen. Forte chartae proveniunt ab ejus avo, P. Hendrikx, auctore operis: Beschrijving der Stad Grave, in 2 tomis, 3us nunquam editus est. 1911".</p>
+        </scopecontent>
+        <c02 level="file">
+          <did id="MF12816913">
+            <unitid>37</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DBD87B0023154852ACD9C7D3F19DBDC7</unitid>
+            <unitid type="guid">DBD87B0023154852ACD9C7D3F19DBDC7</unitid>
+            <unittitle>Aankomsttitel voor de Onze Lieve Vrouwe Broederschap in Grave, (1470-1479)-1494</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1470/1494">(1470-1479)-1494</unitdate>
+            <physdesc>2 charters, getransfigeerd</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Aankomsttitel voor de Onze Lieve Vrouwe Broederschap in Grave, (1470-1479)-1494</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816913&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12816939">
+            <unitid>38</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/80E582D151034F2EB4AFE78953F5D8B3</unitid>
+            <unitid type="guid">80E582D151034F2EB4AFE78953F5D8B3</unitid>
+            <unittitle>Aankomsttitel voor de Onze Lieve Vrouwe Broederschap in Grave, 1534-1577</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1534/1577">1534-1577</unitdate>
+            <physdesc>3 charters, getransfigeerd</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Aankomsttitel voor de Onze Lieve Vrouwe Broederschap in Grave, 1534-1577</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816939&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF12816954">
+          <unitid type="series_code"/>
+          <unitid type="guid">A0735511B9694881B51AF65292CC9C38</unitid>
+          <unittitle>charters Wamel</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+        </did>
+        <c02 level="file">
+          <did id="MF12816955">
+            <unitid>39</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A83792B4FA94440BAC45D0D94D42AD61</unitid>
+            <unitid type="guid">A83792B4FA94440BAC45D0D94D42AD61</unitid>
+            <unittitle>Overdracht van een rente aan het klooster van Sint-Clara in Wamel, 1559</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1559">1559</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>De overdragers, de familie Kanis of Canisius, waren vermoedelijk familie van Clara Kanis, de laatste abdis van het klooster.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Overdracht van een rente aan het klooster van Sint-Clara in Wamel, 1559</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816955&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12816957">
+            <unitid>40</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/954576E0389E4B7D8CC2CAF176AE93F5</unitid>
+            <unitid type="guid">954576E0389E4B7D8CC2CAF176AE93F5</unitid>
+            <unittitle>Verklaring van Henrick van Doornick dat de vicarisse van het klooster van Sint-Clara in Wamel een in 1574 gevestigde losrente afgelost heeft, met de vestiging als bijlage, 1606</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1574/1606">1606</unitdate>
+            <physdesc>1 charter en 1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verklaring van Henrick van Doornick dat de vicarisse van het klooster van Sint-Clara in Wamel een in 1574 gevestigde losrente afgelost heeft, met de vestiging als bijlage, 1606</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816957&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12818180">
+            <unitid>41</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9B13F5AA03C14A27BA74EB4A377642ED</unitid>
+            <unitid type="guid">9B13F5AA03C14A27BA74EB4A377642ED</unitid>
+            <unittitle>Verklaring van Alart Rutgerssen dat de vicarisse van het klooster van Sint-Clara te Wamel een in 1583 verpand stuk land in Wamel gelost hebben, met de verpanding als bijlage, 1602</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1583/1602">1602</unitdate>
+            <physdesc>1 charter en 1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verklaring van Alart Rutgerssen dat de vicarisse van het klooster van Sint-Clara te Wamel een in 1583 verpand stuk land in Wamel gelost hebben, met de verpanding als bijlage, 1602</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818180&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12818182">
+            <unitid>42</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EF6FE1447C964848BE27806210FF1ADD</unitid>
+            <unitid type="guid">EF6FE1447C964848BE27806210FF1ADD</unitid>
+            <unittitle>Verklaring van Willem Jansen Smit dat een door het klooster van Sint-Clara te Wamel in 1590 verpand stuk land gelost is, met de verpanding als bijlage, 1599</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1590/1599">1599</unitdate>
+            <physdesc>1 charter en 1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verklaring van Willem Jansen Smit dat een door het klooster van Sint-Clara te Wamel in 1590 verpand stuk land gelost is, met de verpanding als bijlage, 1599</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818182&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12818186">
+            <unitid>43</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C03BB2CB85F3403B9B3F9AF7B136E715</unitid>
+            <unitid type="guid">C03BB2CB85F3403B9B3F9AF7B136E715</unitid>
+            <unittitle>Verklaring van Aerndt Evertzoen dat een door het klooster van Sint-Clara te Wamel in 1591 verpande uiterwaard gelost is, met de verpanding als bijlage, 1605</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1591/1605">1605</unitdate>
+            <physdesc>1 charter en 1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verklaring van Aerndt Evertzoen dat een door het klooster van Sint-Clara te Wamel in 1591 verpande uiterwaard gelost is, met de verpanding als bijlage, 1605</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818186&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF12818189">
+          <unitid type="series_code"/>
+          <unitid type="guid">BF90881947F9403E84434748FC5AD78D</unitid>
+          <unittitle>diverse charters</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+        </did>
+        <c02 level="file">
+          <did id="MF12818193">
+            <unitid>44</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CDEFDC61345543BCB459C739196DD7A1</unitid>
+            <unitid type="guid">CDEFDC61345543BCB459C739196DD7A1</unitid>
+            <unittitle>Akte van overdracht van een erfcijns, 1445</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1445">1445</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van een erfcijns, 1445</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818193&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12818203">
+            <unitid>47</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E5AA2ED5154C4AF88584D823B41FCB7E</unitid>
+            <unitid type="guid">E5AA2ED5154C4AF88584D823B41FCB7E</unitid>
+            <unittitle>Octrooi voor het klooster Bazeldonk tot het oprichten van een windmolen, 1575</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1575">1575</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Octrooi voor het klooster Bazeldonk tot het oprichten van een windmolen, 1575</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818203&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12818211">
+            <unitid>48</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/18A0E11463DF414A877A6AC3DB6BC75C</unitid>
+            <unitid type="guid">18A0E11463DF414A877A6AC3DB6BC75C</unitid>
+            <unittitle>Akte van overdracht van een hoeve, 1625</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1625">1625</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van een hoeve, 1625</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818211&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF12818201">
+          <unitid type="series_code"/>
+          <unitid type="guid">27D5E3D4FCC142E4ABFFBDD02E5F96BD</unitid>
+          <unittitle>charters kapittel Sint-Jan te 's-Hertogenbosch</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+        </did>
+        <c02 level="file">
+          <did id="MF12820280">
+            <unitid>49</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3C7715996EAF4ABBAB25C8E06DCD50D7</unitid>
+            <unitid type="guid">3C7715996EAF4ABBAB25C8E06DCD50D7</unitid>
+            <unittitle>Uitspraak in het geschil van de rector van een altaar in de Sint-Jan in 's-Hertogenbosch over het bezit van een hoeve, 1464</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1459/1464">1464</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">in dorso onder andere: no. 12</unitid>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Uitspraak in het geschil van de rector van een altaar in de Sint-Jan in 's-Hertogenbosch over het bezit van een hoeve, 1464</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12820280&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12850273">
+            <unitid>50</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2F7BA56DE56A47E4B881609950B484DE</unitid>
+            <unitid type="guid">2F7BA56DE56A47E4B881609950B484DE</unitid>
+            <unittitle>Uitspraak in een geschil over de kapelanie van Sint-Rumoldus en Adrianus in de Sint-Jan in 's-Hertogenbosch, 1472</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1472">1472</unitdate>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>De charters zijn aan elkaar verbonden via het koord waaraan de zegels hangen.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Uitspraak in een geschil over de kapelanie van Sint-Rumoldus en Adrianus in de Sint-Jan in 's-Hertogenbosch, 1472</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850273&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12850296">
+            <unitid>51</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8962BBE8BFEF4D588A371FB8340FAFF8</unitid>
+            <unitid type="guid">8962BBE8BFEF4D588A371FB8340FAFF8</unitid>
+            <unittitle>Bekrachting van een uitspraak over het bezit van een canonicaat in de Sint-Jan, 1507</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1507">1507</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Bekrachting van een uitspraak over het bezit van een canonicaat in de Sint-Jan, 1507</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850296&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12850303">
+            <unitid>52</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/15CDCCA9BA7042DE8C490D58DFE2B58D</unitid>
+            <unitid type="guid">15CDCCA9BA7042DE8C490D58DFE2B58D</unitid>
+            <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1508</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1508">1508</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1508</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850303&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12850327">
+            <unitid>53</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F48D44A6C2274595B392FC50DF11CAB8</unitid>
+            <unitid type="guid">F48D44A6C2274595B392FC50DF11CAB8</unitid>
+            <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1513</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1513">1513</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1513</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850327&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12850341">
+            <unitid>54</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/018FBBE5D6C042FDA8A695F97F05CD11</unitid>
+            <unitid type="guid">018FBBE5D6C042FDA8A695F97F05CD11</unitid>
+            <unittitle>Presentatie door de hertog van Brabant van een kanunnik, 1534</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1534">1534</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Presentatie door de hertog van Brabant van een kanunnik, 1534</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850341&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12818200">
+            <unitid>46</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B2F64D3A38DE470C977408E084458370</unitid>
+            <unitid type="guid">B2F64D3A38DE470C977408E084458370</unitid>
+            <unittitle>Testament van een zekere Margriet, 1539</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1539">1539</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>De akte is slechts voor de helft bewaard gebleven. Blijkens de dorsale aantekening heeft dit stuk deel uitgemaakt van de stukken van het kapittel van 's-Hertogenbosch, maar behoorde het er niet toe.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Testament van een zekere Margriet, 1539</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818200&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12850344">
+            <unitid>55</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/37F5DE2DA3984DC1963CE9A2573D898E</unitid>
+            <unitid type="guid">37F5DE2DA3984DC1963CE9A2573D898E</unitid>
+            <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1547</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1547">1547</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1547</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850344&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12850352">
+            <unitid>56</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5EEFF24B75474A6CBD175612842F8D05</unitid>
+            <unitid type="guid">5EEFF24B75474A6CBD175612842F8D05</unitid>
+            <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1550</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1550">1550</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1550</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850352&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12850354">
+            <unitid>57</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F9E6DBC8CE214AE59828247DC44A96E3</unitid>
+            <unitid type="guid">F9E6DBC8CE214AE59828247DC44A96E3</unitid>
+            <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1558</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1558">1558</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1558</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850354&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12850356">
+            <unitid>58</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/10B72BA9DCFA4DC5904DD25E7609E3B9</unitid>
+            <unitid type="guid">10B72BA9DCFA4DC5904DD25E7609E3B9</unitid>
+            <unittitle>Presentatie door de hertog van Brabant van een kanunnik, 1560</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1560">1560</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Presentatie door de hertog van Brabant van een kanunnik, 1560</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850356&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12850723">
+            <unitid>59</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CBBD51ACABAC4FAF8945ABCF96BE5599</unitid>
+            <unitid type="guid">CBBD51ACABAC4FAF8945ABCF96BE5599</unitid>
+            <unittitle>Vereniging van een altaar in de kerk van Rosmalen met de vicarie daar, 1585</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1585">1585</unitdate>
+            <physdesc>2 charters, getransfigeerd</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Vereniging van een altaar in de kerk van Rosmalen met de vicarie daar, 1585</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850723&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12850725">
+            <unitid>60</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/648C6E178E6C49918EC42F1992AE00B0</unitid>
+            <unitid type="guid">648C6E178E6C49918EC42F1992AE00B0</unitid>
+            <unittitle>Presentatie door de hertog van Brabant van een kanunnik, 1590</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1590">1590</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Presentatie door de hertog van Brabant van een kanunnik, 1590</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850725&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12851490">
+            <unitid>61</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/787DD51EA7B64FAFB9A946CADBDE8250</unitid>
+            <unitid type="guid">787DD51EA7B64FAFB9A946CADBDE8250</unitid>
+            <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1591</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1591">1591</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1591</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12851490&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12851492">
+            <unitid>62</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C7297FDA2D07456BACCA64F488721339</unitid>
+            <unitid type="guid">C7297FDA2D07456BACCA64F488721339</unitid>
+            <unittitle>Verlenging voor de functie van rentmeester van het kapittel, 1591</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1591">1591</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verlenging voor de functie van rentmeester van het kapittel, 1591</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12851492&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852274">
+            <unitid>63</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E213CB46E4134A86BE1CB341DCBC8173</unitid>
+            <unitid type="guid">E213CB46E4134A86BE1CB341DCBC8173</unitid>
+            <unittitle>Presentatie door de hertog van Brabant van een kanunnik, 1594</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1594">1594</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Presentatie door de hertog van Brabant van een kanunnik, 1594</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852274&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852277">
+            <unitid>64</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7CC4A74626BA466F96FBAF20A5332F75</unitid>
+            <unitid type="guid">7CC4A74626BA466F96FBAF20A5332F75</unitid>
+            <unittitle>Bevestiging van de hertogen van Brabant dat de bisschop de rechtsmacht heeft over leden en functionarissen van het kapittel, 1599</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1599">1599</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Bevestiging van de hertogen van Brabant dat de bisschop de rechtsmacht heeft over leden en functionarissen van het kapittel, 1599</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852277&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852287">
+            <unitid>66</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5F4124E6800F4EA48BF756E6B3E7DDE1</unitid>
+            <unitid type="guid">5F4124E6800F4EA48BF756E6B3E7DDE1</unitid>
+            <unittitle>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1602</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1602">1602</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1602</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852287&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852284">
+            <unitid>65</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/57B92412CEE14C94AB12BF3D535ED2A3</unitid>
+            <unitid type="guid">57B92412CEE14C94AB12BF3D535ED2A3</unitid>
+            <unittitle>Presentatie door de bisschop van 's-Hertogenbosch van twee kanunniken, 1602-1603</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1602/1603">1602-1603</unitdate>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Deze charters zouden volgens de oude inventaris voorheen aan elkaar verbonden zijn.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Presentatie door de bisschop van 's-Hertogenbosch van twee kanunniken, 1602-1603</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852284&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852290">
+            <unitid>67</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D8C0DCBE67854B9EA986EDE2FEE4D15D</unitid>
+            <unitid type="guid">D8C0DCBE67854B9EA986EDE2FEE4D15D</unitid>
+            <unittitle>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1603</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1603">1603</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1603</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852290&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852292">
+            <unitid>68</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7B251117671E4C05A0B3F0E94FDA1752</unitid>
+            <unitid type="guid">7B251117671E4C05A0B3F0E94FDA1752</unitid>
+            <unittitle>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1604</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1604">1604</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1604</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852292&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852294">
+            <unitid>69</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B42D61F45FAF4AA98C782D02131BDFFD</unitid>
+            <unitid type="guid">B42D61F45FAF4AA98C782D02131BDFFD</unitid>
+            <unittitle>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1607</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1607">1607</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1607</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852294&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852296">
+            <unitid>70</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/49C57B49B1EE492999329E325645B14C</unitid>
+            <unitid type="guid">49C57B49B1EE492999329E325645B14C</unitid>
+            <unittitle>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1610</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1610">1610</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1610</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852296&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852310">
+            <unitid>71</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6ECFFB3CE64F4273BF9889C9EE24F0EF</unitid>
+            <unitid type="guid">6ECFFB3CE64F4273BF9889C9EE24F0EF</unitid>
+            <unittitle>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1611</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1611">1611</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1611</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852310&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852312">
+            <unitid>72</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1541184443AF4BB4AC1B59F59C6B8675</unitid>
+            <unitid type="guid">1541184443AF4BB4AC1B59F59C6B8675</unitid>
+            <unittitle>Toestemming van de hertogen van Brabant tot ruil van een canonicaat in de Sint-Jan, 1616</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1616">1616</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Toestemming van de hertogen van Brabant tot ruil van een canonicaat in de Sint-Jan, 1616</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852312&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852315">
+            <unitid>73</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5AD5E21B36264903A93BA59BED7C20A7</unitid>
+            <unitid type="guid">5AD5E21B36264903A93BA59BED7C20A7</unitid>
+            <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1624</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1624">1624</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1624</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852315&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF12852319">
+          <unitid type="series_code"/>
+          <unitid type="guid">890A21A3CC57461FB54481F64D033A9F</unitid>
+          <unittitle>diverse charters</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+        </did>
+        <c02 level="file">
+          <did id="MF12852328">
+            <unitid>74</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BB5A79E7CB774CB182EF9DF994EF9917</unitid>
+            <unitid type="guid">BB5A79E7CB774CB182EF9DF994EF9917</unitid>
+            <unittitle>Dispensatie door Judocus Houbraken, apostolisch vicaris van het bisdom 's-Hertogenbosch, voor de huwelijksbeletselen van Andreas Leonardi de Bondt  en Cornelia Petri Poisson in Loon op Zand, 1670 mei 4</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1670">1670 mei 4</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Dispensatie door Judocus Houbraken, apostolisch vicaris van het bisdom 's-Hertogenbosch, voor de huwelijksbeletselen van Andreas Leonardi de Bondt  en Cornelia Petri Poisson in Loon op Zand, 1670 mei 4</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852328&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852329">
+            <unitid>75</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/84795DF31A4B47508778C99B447D9273</unitid>
+            <unitid type="guid">84795DF31A4B47508778C99B447D9273</unitid>
+            <unittitle>Blad bevattende de gedeeltelijke tekst van een of twee sententies van het Hof van Holland in een geschil tussen nazaten van Wolfert van Brederode en nazaten van zijn rentmeester Josephus Coymans, heer van Nieuwaal, (1780-1790)</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1780/1790">(1780-1790)</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Blad bevattende de gedeeltelijke tekst van een of twee sententies van het Hof van Holland in een geschil tussen nazaten van Wolfert van Brederode en nazaten van zijn rentmeester Josephus Coymans, heer van Nieuwaal, (1780-1790)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852329&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852346">
+            <unitid>76</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3215D92BE3714F2C87360269583E2B2F</unitid>
+            <unitid type="guid">3215D92BE3714F2C87360269583E2B2F</unitid>
+            <unittitle>Akte van overdracht voor schepenen ten behoeve van vier kinderen van Jan Janssen van Bussel van Nuenen van goederen in Nuenen, 1681</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1681">1681</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht voor schepenen ten behoeve van vier kinderen van Jan Janssen van Bussel van Nuenen van goederen in Nuenen, 1681</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852346&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852348">
+            <unitid>77</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5B8FBA98C5914E939B620A49E6B2AA0B</unitid>
+            <unitid type="guid">5B8FBA98C5914E939B620A49E6B2AA0B</unitid>
+            <unittitle>Akte van opdracht voor schepenen van 's-Hertogenbosch aan Anthonij van Ravesteijn van renten op de beden van Brabant, 1704</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1704">1704</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van opdracht voor schepenen van 's-Hertogenbosch aan Anthonij van Ravesteijn van renten op de beden van Brabant, 1704</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852348&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852426">
+            <unitid>78</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BACBECB8A1C74B35997884D830F17765</unitid>
+            <unitid type="guid">BACBECB8A1C74B35997884D830F17765</unitid>
+            <unittitle>Volle aflaat, verleend door paus Clemens XI, bij bezoek aan de kerk van Sint-Michielsgestel, 1712 april 6</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1712">1712 april 6</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Volle aflaat, verleend door paus Clemens XI, bij bezoek aan de kerk van Sint-Michielsgestel, 1712 april 6</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852426&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852443">
+            <unitid>79</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6DC2BA1B64654060A16A01A434B3FED7</unitid>
+            <unitid type="guid">6DC2BA1B64654060A16A01A434B3FED7</unitid>
+            <unittitle>Volle aflaat, verleend door paus Clemens XII, bij bezoek aan de Willibrorduskapel te Eersel, 1734 december 16</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1734">1734 december 16</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Volle aflaat, verleend door paus Clemens XII, bij bezoek aan de Willibrorduskapel te Eersel, 1734 december 16</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852443&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852444">
+            <unitid>80</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4FD84D53C06247A585432CBBE82DE475</unitid>
+            <unitid type="guid">4FD84D53C06247A585432CBBE82DE475</unitid>
+            <unittitle>Benoeming van Melchior van Gorcom tot notarius en iudex ordinarius, 1759</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1759">1759</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>in dorso aantekening van eedaflegging aan de officiaal van Antwerpen</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF12852445">
+            <unitid>81</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D1735B9B29A5473FB3E8482F779560BE</unitid>
+            <unitid type="guid">D1735B9B29A5473FB3E8482F779560BE</unitid>
+            <unittitle>Dit stuk is niet mee overgedragen door het bisdom in 2012. De beschrijving in de inventaris van c. 1967 luidt: Huwelijksdispensatie door Pius VII, 1801 november</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1801">1801 november</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_2039/CE7B1D1C715343DAACC87EC0D089DC66_oai_ead.xml-->
+</record>

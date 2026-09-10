@@ -1,0 +1,1895 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>1ECA53335BE3425D994147545764B42E</identifier>
+    <datestamp>2026-09-02</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+      audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+      <eadheader countryencoding="iso3166-1" dateencoding="iso8601"
+        findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"
+        scriptencoding="iso15924">
+        <eadid countrycode="NL" mainagencycode="NL-HtBHIC">302</eadid>
+        <filedesc>
+          <titlestmt>
+            <titleproper>Erfsecretarie van Maasland, 1386 - 1801</titleproper>
+          </titlestmt>
+          <publicationstmt>
+            <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+            <date calendar="gregorian" era="ce" normal="2020">2020</date>
+          </publicationstmt>
+        </filedesc>
+        <profiledesc>
+          <langusage>
+            <language langcode="dut">Nederlands</language>
+          </langusage>
+        </profiledesc>
+      </eadheader>
+      <archdesc level="fonds" type="inventory">
+        <did id="MF911401">
+          <unittitle>Erfsecretarie van Maasland, 1386 - 1801</unittitle>
+          <unitid countrycode="NL" repositorycode="NL-HtBHIC">302</unitid>
+          <note label="#guid">
+            <p>1ECA53335BE3425D994147545764B42E</p>
+          </note>
+          <unitdate calendar="gregorian" era="ce" normal="1386/1801">1386-1801</unitdate>
+          <note label="Vindplaats origineel">
+            <p>BHIC 's-Hertogenbosch</p>
+          </note>
+        </did>
+        <controlaccess>
+          <controlaccess>
+            <head>Categorie</head>
+            <subject>Algemeen bestuur en Politiek</subject>
+          </controlaccess>
+        </controlaccess>
+        <odd>
+          <odd>
+            <head>
+              <emph render="bold">Historisch overzicht</emph>
+            </head>
+            <p>Op de 18de juli 1386 verkreeg Jan Roeverszoon van Vladeracken, schout van Maasland,
+              van hertogin Johanna ter vermeerdering van een leen van twee mudzaat land in Haaren
+              bij Oisterwijk het leen van de "voirsterijen van Osch met hueren toebehoirten, dats te
+              weeten van Berghem, van Heesch, van Nistelroy, van Littoyen metten schutterijen
+              aldaer, in dese voorschreven dorpe gelegen, ende metten schrijfampte onser meyerijen
+              van der Maesen met huere toebehoerten". <note>
+                <p>Zie in Inv. nr. 15, bijlage bij het eerste advocatenadvies en Reg.nr. 1.</p>
+              </note>
+            </p>
+            <p>Hierbij waren de vorsterijen met de schutterijen blijkbaar het voornaamste en was er
+              nog maar één ongedeeld schrijfambt. De secretaris moest nog alle dorpen bedienen of
+              zoals de landschrijver Otto van Bruhese het in een verklaring op verzoek van de
+              erfsecretaris Claes Steenwech in 1502 uitdrukte: hij had de schout gedurende 16 jaren
+              "opde dinghbancke van Maeslant van dorpe tot dorpe gevolght". <note>
+                <p>Inv. nr. 30, Reg. nr. 3.</p>
+              </note> Met de toenemende maatschappelijke en economische ontwikkeling groeide ook het
+              schrijfambt. Hieronder viel namelijk alles, waarbij voor een publieke
+              bestuursinstelling in geheel Maasland de pen gevoerd moest worden, derhalve de
+              secretarisambten bij de schepencolleges in de verschillende dorpen, naar gelang de
+              behoefte daaraan ontstond, uitgezonderd de heerlijkheden, die bij de uitgifte reeds
+              bestonden. Bovendien vielen hieronder ook het griffierschap van de
+              kwartiersvergadering en het dijkschrijverschap van Hoog Hemaal. Deze ambten werden
+              steeds door de secretaris van Oss waargenomen, waarschijnlijk omdat die colleges daar,
+              als zijnde de hoofdplaats, gewoonlijk vergaderden. Deze werden dan ook als ap- en
+              dependenties van dat secretarisambt beschouwd; ze werden althans nooit afzonderlijk in
+              de leenakten genoemd; de laatste beschrijving van het volledige leen voor Johan
+              Baptista Boonaerts in 1708 luidt "de schrijfambachten ofte secretarijen van Maesland
+              namentlijc Osch, Berchem, Heesch, Nistelroy, Maren, Littoyen, Rosmalen, Berlcum en
+              Nieulant mette vorstereijen aldaer met henne toebehoor ten, ap- en dependentien van
+              dien". <note>
+                <p>Leenregister in archief Raad van Brabant Inv.nr. 1324 fol. 10.</p>
+              </note> Het ambt van schutter wordt hierin niet meer afzonderlijk genoemd en is
+              waarschijnlijk in dat van vorster opgegaan. </p>
+            <p>Bovendien was het leen ondertussen losgemaakt van het land in Haaren, wat geschied
+              was bij de belening van Margriet van Outheusden na de dood van haar broeder Jan van
+              Outheusden in 1600 en de op dezelfde dag plaats hebbende verkoop aan Gijsbrecht van
+              Berchem. <note>
+                <p>Bosch-Strick-griffier, archief Raad van Brabant, Inv. nr. 1322, fol. LV.</p>
+              </note>
+              <lb/>Vervolgens werd het leen verminderd en wel in 1715, toen Johan Baptista Boonaerts
+              de erfsecretarieën met de vorsterschappen van Rosmalen en Nuland aan Herman Cremers
+              verkocht. <note>
+                <p>Leenregister archief Raad van Brabant, Inv. nr. 1324, fol. 52. Zie ook jhr.mr.
+                  A.F.O. van Sasse van Ysselt, De voorname huizen en gebouwen van 's-Hertogenbosch,
+                  dl.II blz. 200, waar echter gelezen moet worden, dat Gijsbert Boonaerts, de vader
+                  van de verkoper, ze had verkregen van zijn tante Judith van Berchem.</p>
+              </note>
+              <lb/>
+              <lb/>Een slechts tijdelijke deling heeft blijkbaar in 1614 plaats gehad tussen de
+              zoons van Gijsbrecht van Berchem Jan en Jacob, <note>
+                <p>Zie Van Sasse van Ysselt als boven dl. I blz. 128.</p>
+              </note> welke deling bij de dood van eerstgenoemde in 1651 weer werd opgeheven. Jan
+              van Berchem zou de erfsecretarieën van Oss, Lithoyen en Maren hebben gehad, Jacob die
+              van Berchem, Heesch, Nistelrode, Berlicum, Rosmalen en Nuland. Hoewel de
+              leenregisters, zowel Strick-griffier in 1610 als het register van de Raad van Brabant
+              te 's-Gravenhage (Inv. nr. 1324) in 1633 slechts Jan van Berchem als opvolger van zijn
+              vader Gijsbrecht vermelden en pas in 1651 Jacob met het leen bij dode van zijn broeder
+              Jan werd beleend, zijn er toch wel aanwijzingen voor een gedeeld bezit in de
+              aangegeven jaren. <note>
+                <p>Bijvoorbeeld in Inv.nrs. 12, 48 en 50.</p>
+              </note>
+            </p>
+            <p>De bezitters van dit leen zullen niet alleen de vorsterambten, doch ook het
+              schrijfambt van den beginne af aan door anderen hebben doen waarnemen, zij behoorden
+              immers tot adellijke geslachten, voor wie dit niet een passend beroep geacht kon
+              worden. Hierboven werd reeds Otto van Bruhese genoemd. In 1561 werd het secretarisambt
+              van Maasland door Jan van Outheusden aan Hanrick Symonsz. verpacht. <note>
+                <p>Inv. nr. 13, reg. nr. 5; in Inv.nr. 31 wordt c.1581 gezegd, dat de overleden
+                  Hendrik Loeyen ruim 20 jaren dit ambt had gepacht; Henrick Symonsz. zal met hem
+                  identiek zijn.</p>
+              </note> De Van Berchems namen echter het secretarisschap van Oss zelf waar, doch daar
+              zij katholiek bleven en na de vrede van Munster de secretarissen etc. lidmaten van de
+              Ned. Gereformeerde kerk moesten zijn, moesten ook zij weer tot verpachting overgaan,
+              hetgeen trouwens ook steeds noodzakelijk was geweest, wanneer vrouwen of minderjarigen
+              ermede waren beleend. <lb/>
+              <lb/>De bezitters hebben hun recht op het erfsecretarisschap van geheel Maasland bij
+              het ontstaan van de behoefte aan meer secretarissen of andere penvoerders
+              herhaaldelijk moeten verdedigen tegen de pogingen van kwartierschouten en
+              schepenbanken om de benoemingen aan zich te trekken. Het was immers in deze streken
+              een uitzonderlijke figuur, dat het schrijfambt van een geheel kwartier in leen was
+              uitgegeven, slechts de uitgifte van dat van afzonderlijke schepenbanken kwam meer
+              voor. <lb/>Een ander geschilpunt betrof dat van de archieven: de erfsecretarissen
+              achtten zich de bewaarders van de bestuursarchieven, al moesten de pachters daarover
+              tijdelijk de beschikking hebben. Voor de besturen zelf was dit een ongewenste
+              toestand, waaraan zij enige malen een eind trachtten te maken. Een groot deel van de
+              aanwezige stukken gaan dan ook over al deze geschillen. </p>
+            <p>Aangezien het leen uitsluitend bestond uit het recht secretarissen en vorsters aan te
+              stellen, ging het tengevolge van de Franse omwenteling geheel teniet; de erven van
+              Johannes Petrus van Meeuwen verkregen hiervoor in 1824/25 schadeloosstelling. <note>
+                <p>Archief Prov. Griffie Inv.nr.1705; zie ook lijsten in 1704 a.</p>
+              </note>
+              <lb/>Het bleek niet mogelijk een volledige lijst van de bezitters samen te stellen,
+              aangezien de gegevens uit de hier aanwezige leenregisters <note>
+                <p>Raad van Brabant Inv.nrs.1322, 1324, 1334, 1344, 1346 en 1620.</p>
+              </note> niet verder terugreiken dan tot 1485. Uit het archief zelf, waarin slechts
+              enkele leenbrieven berusten, konden nog enige daaraan voorafgaande gegevens worden
+              ontleend. <lb/>
+              <lb/>1386 Jan Roeverszoon van Vladeracken. <note>
+                <p>Zie Inv.nr.15, 1ste bijlage bij een advies van een advocaat (Reg.nr. 1).</p>
+              </note>
+              <lb/>
+              <lb/>Vóór 1419 Goeswijn Moedel van der Donck als man van Gertruyde van Vladeracken. <note>
+                <p>Idem Reg.nr. 2.</p>
+              </note>
+              <lb/>
+              <lb/>Vóór 1455 Claes Loenman. <note>
+                <p>Inv.nr. 1. Volgens Bosch protocol R1231 fol. 284 is zijn moeder Hilleken een
+                  dochter van Goossen Moedel.</p>
+              </note>
+              <lb/>
+              <lb/>1458 Goossen Steenwech Arntszoon bij dode van Claes Loenman zijn grootvader. <note>
+                <p>Inv.nr.2.</p>
+              </note>
+              <lb/>
+              <lb/>1464 Gheertrude Steenwech, vrouw van Henrick Celen, bij koop van haar broeder
+              Goossen. <note>
+                <p>Inv.nr .3.</p>
+              </note>
+              <lb/>
+              <lb/>1485 Henrick en Jan Celen bij overgifte van hun moeder Gheertrude Steenwech. <lb/>
+              <lb/>1485 Claes Steenwech bij koop van Henrick en Jan Celen. <lb/>
+              <lb/>1504 Henrick Steenwech bij dode van zijn vader Claes. <lb/>
+              <lb/>1532 Wouter, Claes, Jan, Florys, Anna en Marie van Outheusden bij opdracht van
+              heer Henrick Steenwech. </p>
+            <p>1582 Jonker Jan van Outheusden bij dode van zijn vader Jan bovengenoemd. <lb/>
+              <lb/>1600 Margriet van Outheusden bij dode van haar broeder Jan. <lb/>
+              <lb/>1600 Gijsbrecht van Berchem Jacobszoon bij koop van Margriet van Outheusden. <lb/>
+              <lb/>1610 Jan van Berchem bij dode van zijn vader Gijsbrecht voor het Leenhof te
+              Brussel. <lb/>
+              <lb/>1633 idem voor de Raad van Brabant te 's-Gravenhage. <lb/>
+              <lb/>1651 Jacob van Berchem bij dode van zijn broeder Jan. <lb/>
+              <lb/>1653 Judith van Berchem bij dode van haar broeder Jacob. <lb/>
+              <lb/>1674 Gijsbert Boonaerts bij gifte van zijn tante Judith van Berchem. <lb/>
+              <lb/>1708 Johan Baptista Boonaerts bij dode van zijn vader Gijsbert. <lb/>
+              <lb/>1709 4 achtste delen voor Lucas Biedijcx als voogd over zijn kinderen bij zijn
+              overleden huisvrouw Anna Catharina Boonaerts, Johan Clingh als man van Maria Anna
+              Boonaerts, Johan François en Alexander Boonaerts, alle kinderen en kleinkinderen van
+              Gijsbert Boonaerts. <note>
+                <p>Waarschijnlijk in verband met hun aanspraken op de erfenis; alleen Johan Baptista
+                  oefent de rechten van erfsecretaris uit. Johan Clingh en zijn vrouw Maria Anna
+                  Boonaerts zullen via hun dochter Maria Clingh de grootouders van de laatste
+                  bezitter Johannes Petrus van Meeuwen worden.</p>
+              </note>
+              <lb/>
+              <lb/>1725 Maria Gijsbertina van Berckel, weduwe van Johan Baptista Boonaerts, als
+              voogdes van Gijsbertus Josephus Boonaerts bij dode van zijn vader Johan Baptista; hij
+              doet zelf eed in 1735. <lb/>
+              <lb/>1778 Maria Elisabeth Boonaerts bij dode van haar broeder Gijsbertus Josephus. </p>
+            <p>1778 Johannes Petrus van Meeuwen <note>
+                <p>Hij sterft 3 december 1794 (zie Ned. Adelsboek 1949 blz. 81), zodat het niet
+                  waarschijnlijk is, dat nog één van zijn kinderen ermede beleend is. J.Cunen noemt
+                  namelijk in zijn "Geschiedenis van Oss" blz. 11, noot 2 nog zijn zoon jhr. mr.
+                  Petrus Andreas v. Meeuwen, doch niet alleen deze, maar ook zijn andere zoon
+                  Franciscus Matthias en zijn beide dochters Johanna Elisabeth, gehuwd met mr.
+                  Bernardus Storm, en Theresia Josepha, weduwe van Augustinus Tilmanus van
+                  Rijckevorsel, ontvingen in 1824/25 een vergoeding (zie Prov. Griffie Inv. nrs.
+                  1704a en 1705.)</p>
+              </note> bij testament van (zijn achternicht) M.E. Boonaerts. <lb/>
+              <lb/>De losse stukken uit dit archief werden verkregen uit het in 1960 van het
+              Provinciaal Genootschap van Kunsten en Wetenschappen in bruikleen ontvangen gedeelte
+              van zijn Handschriftenverzameling en wel de cat. nrs. 231 bis, 446, 447, 460 en 461, <note>
+                <p>Jhr. mr. A.F.O. van Sasse van Ysselt, Nieuwe Catalogus der Oorkonden en
+                  Handschriften berustende in .... het Provinciaal Genootschap van Kunsten en
+                  Wetenschappen in Noord-Brabant, 1900, afd. II Handschriften.</p>
+              </note> doch ook in de reeds eerder in bruikleen ontvangen Oorkonden-verzameling
+              bleken nummers te zitten, die ongetwijfeld eens deel van het archief van het
+              erfsecretarisschap hadden uitgemaakt, verleibrieven, octrooien tot testeren,
+              eigendomsbewijzen van andere familiegoederen etc. Het lag voor de hand deze beide
+              gedeelten in één inventaris op te nemen. </p>
+            <p>Een punt van overweging maakten hierbij de stukken van jonker Dirk van Oss uit. Deze
+              was reeds vóór 1601 <note>
+                <p>Zie Van Sasse van Ysselt, Voorname gebouwen, I blz. 128.</p>
+              </note> gehuwd met Wouterken van Berchem, zuster van Gijsbrecht, de eerste
+              erfsecretaris uit die familie; het huwelijk bleef kinderloos en blijkens het testament
+              van dit echtpaar d.d. 1636 <note>
+                <p>Inv. nr. 67.</p>
+              </note> zou de helft van de goederen, staande huwelijk verworven, aan haar familie
+              komen. De aanwezige eigendomsbewijzen van land zijn alle gedurende die periode
+              opgemaakt en bovendien blijkt uit de leenregisters, dat een deel van het leen van 25
+              morgen land onder Lithoyen op Gijsbert Boonaerts via Judith van Berchem is overgegaan; <note>
+                <p>De belening in 1640 (Inv. nr. 62) is voor de Raad van State 's-Gravenhage; een
+                  vroegere belening te Brussel had al in 1614 plaats gehad blijkens het register
+                  Strick-griffier.</p>
+              </note> de retro-acta betreffende dit leen zijn op die grond ook hierbij opgenomen. <lb/>
+              <lb/>Hoewel de nummers, uit de Handschriftenverzameling overgenomen, bij eerste
+              beschouwing een zeer verwarde indruk maakten, was een restant van een oude ordening
+              nog wel te onderkennen: zo bevatten de cat. nrs. 446 en 447 uitsluitend stukken
+              betreffende respectievelijk Lithoyen en Maren, nr. 231 bis had een kern van stukken
+              betreffende het ambt van griffier van het kwartier met verder veel familiepapieren,
+              nr. 460 bevatte hoofdzakelijk stukken betreffende het secretaris- en vorsterambt van
+              Oss, terwijl cat. nr. 461 weer meer familiepapieren bevatte. Op deze onderscheidingen
+              is de indeling van de inventaris gebaseerd. </p>
+            <p>Men treft hierbij talrijke afschriften aan, die meer dan eens in geschillen zijn
+              gebruikt, doch eigenlijke procesdossiers zijn niet gevonden. Daarom zijn deze stukken
+              gelegd bij het geschil, waarvoor ze blijkens het jaar van vervaardiging voor het eerst
+              zijn gebruikt. Originele stukken, die blijkens een nummering of een aantekening ook
+              wel eens zijn overlegd, zijn op hun oorspronkelijke plaats gelegd. <lb/>
+              <lb/>Aangezien jhr. Van Sasse van Ysselt in zijn Nieuwe Catalogus der Oorkonden etc.
+              een beschrijving in regestvorm heeft gegeven, leek het overbodig dit nogmaals te doen.
+              Eventuele vergissingen en drukfouten zijn bij de beschrijving in een noot aangegeven.
+              Slechts van de in de nummers van de voormalige Handschriften-verzameling aangetroffen
+              kopieën van oorkonden is hierachter een regestenlijst gemaakt; als grens is het jaar
+              1600 aangenomen, toen Gijsbrecht van Berchem met het erfsecretarisschap beleend werd
+              na koop van Margriet van Outheusden. <lb/>De charters uit de nog niet opnieuw
+              geinventariseerde oorkondenverzameling van het Provinciaal Genootschap zijn wel in
+              deze nieuwe beschrijving opgenomen, doch voorlopig op de oude plaatsen gelaten. <lb/>
+              <lb/>Elis.H. Korvezee, 1975 </p>
+          </odd>
+        </odd>
+        <odd>
+          <odd>
+            <head>
+              <emph render="bold">Aanwijzingen voor de gebruiker</emph>
+            </head>
+            <p>Verwijzing naar archiefstukken uit dit archief geschiedt door <lb/>(volledig): <emph
+                render="italic">Brabants Historisch Informatie Centrum, toegangsnummer 302
+                Erfsecretarie van Maasland, 1386 - 1801 </emph>, inv.nr. ... <lb/>(verkort): <emph
+                render="italic">BHIC, 302 Erfsecretarie Maasland </emph>, inv.nr. ... </p>
+          </odd>
+        </odd>
+        <odd>
+          <odd>
+            <head>
+              <emph render="bold">Regesten</emph>
+            </head>
+            <odd type="regest">
+              <head>1386-07-14. <lb/> 1386 juli 14 <lb/>Johanna, hertogin van Luxemburg, geeft aan
+                Jan Reuverszn van Vladeracken, ter vermeerdering van leen van 2 mudden saatland in
+                Haaren bij Oisterwijk: <lb/>vorsterijen van Oss namelijk die van Berghem, Heesch,
+                Nistelrode en Lithoijen, met schutterijen aldaar en met schrijfambt Meierij van de
+                Maas <lb/>Geïnsereerd in oorkonde van 1419 mei 21 </head>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>1419-05-21. <lb/> 1419 mei 21 <lb/>Jan, hertog van Lotharingen, van Brabant,
+                geeft aan Gooswijn Moedel van der Donk, als man van Gertrud van Vladeracken, kopie
+                van hierin opgenomen oorkonde van 1386 juli 14, die door brand in 's-Hertogenbosch
+                verloren is geraakt, en verklaart, dat deze de verbrande akte in alle opzichten zal
+                vervangen <lb/>Kopie-authentieke kopie uit register van kamer rekeningen in Brabant
+                van stukken, daarheen overgebracht in 1498 en 1500 <lb/>In inventarisnr 15
+                <lb/>Bijlage bij 1e advocatenadvies </head>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>1528-05-28. <lb/> 1502 mei 28 <lb/>Schepenen van 's-Hertogenbosch oorkonden, dat
+                verscheidene personen, op verzoek van Klaas Steenweg, verklaringen hebben afgelegd
+                over recht van vorster van Oss, waterlopen en afscheidingen te schouwen <lb/>Kopie
+                in inventarisnr 30 </head>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>1561-07-06. <lb/> 1561 juli 6 <lb/>Schepenen van Oss staan als getuigen over
+                verpachting vorsterij van Oss, door Jan van Oudheusden, op voorwaarden, aan Jacob
+                Gerits <lb/>Kopie in inventarisnr 13 </head>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>1561-07-06. <lb/> 1561 juli 6 <lb/>Schepenen van Oss staan als getuigen over
+                verpachting secretarisambt van Maasland, door Jan van Oudheusden, aan Henrik
+                Simonsz, op voorwaarden <lb/>Kopie in inventarisnr 13 </head>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>1580-04-27. <lb/> 1580 april 27 <lb/>Lucia van Hees, weduwe Jan van Oudheusden,
+                en naaste magen van haar kinderen Jan, Margaretha en Jenneke, verklaren
+                secretarisambt van Oss, zoals Henrik Loeyen dat heeft bediend, te hebben verpacht
+                aan Peter de Kok Petersz, onder andere op voorwaarde dat hij aan Henrik Loeyen zal
+                terugbetalen de 250 carolusgulden, die deze bij het verwerven van dat ambt had
+                voorgeschoten <lb/>Origineel in 2 exemplaren, elk door één der partijen ondertekend,
+                in inventarisnr 13 <lb/>Kopieën in inventarisnrs 14 en 25 </head>
+              <p/>
+            </odd>
+            <odd type="regest">
+              <head>1583-01-24. <lb/> 1583 januari 24 <lb/>Schepenen van Oss staan als getuigen over
+                deling van 2 vorderingen door Henrik Loyen, in leven pachter secretarisambt van
+                Maasland, nagelaten, en wel zodanig dat Sebert Jansz van Berghem, als voogd van
+                Anneke, zijn vrouw, het hem beleende schrijfambt zal behouden, met eraan verbonden
+                vordering van 250 carolusgulden, door Henrik Loyen bij aanvaarden van dit ambt aan
+                Jan van Oudheusden voorgeschoten, en dat Metke en Jan, onmondige kinderen van Henrik
+                Loyen, de obligatie van 500 carolusgulden op vrijheid Oss zullen krijgen <lb/>Kopie
+                in inventarisnr 14 </head>
+              <p/>
+            </odd>
+          </odd>
+        </odd>
+        <dsc type="combined">
+          <c01 level="series">
+            <did id="MF911402">
+              <unitid type="series_code"/>
+              <unitid type="guid">587F5B274A8A418AAF6A930AE53731D8</unitid>
+              <unittitle>Erfsecretarie van Maasland, periode 1386 - 1801, inventarisnrs 1 -
+                50</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1386/1801"/>
+            </did>
+            <c02 level="file">
+              <did id="MF911403">
+                <unitid>1</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911403&amp;miview=inv2</unitid>
+                <unitid type="guid">0232381D27F14858AC1A36D8A88ADCD1</unitid>
+                <unittitle>Akte van volmacht, voor Klaas Loenman, om bij testament over leengoederen
+                  te mogen beschikken, 1455</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1455">1455</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 255, waarvan datering 1464 foutief
+                  is.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911404">
+                <unitid>2</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911404&amp;miview=inv2</unitid>
+                <unitid type="guid">BCD9ED7CEEE94ED392B7E902944F7A74</unitid>
+                <unittitle>Akte van belening van 2 mudzaat land onder Haren, vorsterij van Oss en
+                  schrijfambacht van Maasland voor Goossen Steenwech, 1458</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1458">1458</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 238</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911405">
+                <unitid>3</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911405&amp;miview=inv2</unitid>
+                <unitid type="guid">11AC53E488FA4184B12A5D4CB9C0D20C</unitid>
+                <unittitle>Akte van verklaring, door hertog van Brabant, dat in 1464 Goossen
+                  Steenwech onder bepaalde voorwaarden aan zijn zuster Geertrude, echtgenote van
+                  Henrik Celen, 2 mudzaat land en schrijfambacht van Maasland heeft verkocht en dat
+                  zij daarmee beleend is geworden, 1472</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1472">1472</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 280, waar niet blijkt dat de handeling
+                  al 1464 juni 21 heeft plaatsgehad.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911406">
+                <unitid>4</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911406&amp;miview=inv2</unitid>
+                <unitid type="guid">7C997846DDC24928A7A4700C21456790</unitid>
+                <unittitle>Akte van volmacht, voor Jacob van Berchem, door Peter Adriaansz als man
+                  van Margrita, dochter van Jan van Outheusden, tot verkoop secretarisambt en
+                  vorsterijen in Maasland, 1596</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1596">1596</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 712.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911407">
+                <unitid>5</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911407&amp;miview=inv2</unitid>
+                <unitid type="guid">DB43ABAD217948939FA0A769A0EE2291</unitid>
+                <unittitle>Akte van volmacht voor Gijsbrecht van Berchem en zijn echtgenote
+                  Peterken, dochter van Jan van Antwerpen, om bij testament over leengoederen te
+                  mogen beschikken, 1607</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1607">1607</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 753.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911408">
+                <unitid>6</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911408&amp;miview=inv2</unitid>
+                <unitid type="guid">7DE4257A6FF2417C9017F0E3357046A5</unitid>
+                <unittitle>Akte van volmacht voor Jan van Berchem en Magdalena van Oss, om bij
+                  testament over leengoederen te mogen beschikken, 1640</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1640">1640</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 967.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911409">
+                <unitid>7</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911409&amp;miview=inv2</unitid>
+                <unitid type="guid">6E0A242174C54427B55C78085FE973EE</unitid>
+                <unittitle>Akte van volmacht voor Judith van Berchem, om bij testament over
+                  leengoederen te mogen beschikken, 1653</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1653">1653</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 1032.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911410">
+                <unitid>8</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911410&amp;miview=inv2</unitid>
+                <unitid type="guid">A94D3C772BA7413297FADD331BE3653A</unitid>
+                <unittitle>Akten van volmacht, voor Gijsbert Boonaerts en zijn echtgenote Agnes van
+                  Meerwijk en voor Gijsbert Boonaerts, als weduwnaar, om bij testament over hun
+                  leergoederen te mogen beschikken, 1679 en 1689</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1679/1689">1679 en 1689</unitdate>
+                <physdesc>2 charters</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nrs 1129 en 1159. In de datering van
+                  catalogusnr 625 is 25 april een drukfout voor 20 april.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911411">
+                <unitid>9</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911411&amp;miview=inv2</unitid>
+                <unitid type="guid">22B3F8E7A85A41818B23FF64B4278E04</unitid>
+                <unittitle>Akten van belening en overdracht erfsecretarieschap, kopieën van 1682 -
+                  1691 en ongedateerd, 1464 - 1674</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1464/1674">1464 - 1674</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911412">
+                <unitid>10</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911412&amp;miview=inv2</unitid>
+                <unitid type="guid">6C1A1315607343E9936459976D135EA5</unitid>
+                <unittitle>Gerechtelijke bezitshandhaving in rechten erfsecretaris van Maasland van
+                  Raad van Brabant in Brussel voor Gijsbrecht van Berchem, 1610</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1610">1610</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 768. Zie ook inventarisnr 27.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911413">
+                <unitid>11</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911413&amp;miview=inv2</unitid>
+                <unitid type="guid">6101764484424AB6AF48B2A78605F87C</unitid>
+                <unittitle>Akte van verbod van Philips IV, als hertog van Brabant, om in dorpen
+                  kwartier Maasland verkopen te houden buiten aanwezigheid van 2 schepenen en
+                  secretaris, en gerechtelijke akten af te geven, die niet door secretaris zijn
+                  geschreven en getekend, 1635</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1635">1635</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 942.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911414">
+                <unitid>12</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911414&amp;miview=inv2</unitid>
+                <unitid type="guid">46F067C6DEC1444B81A4AC55FF32DF98</unitid>
+                <unittitle>Vonnis van Raad van Brabant in Brussel, in proces van Jan en Jacob, zonen
+                  van Gijsbrecht van Berchem, in leven erfsecretaris van Maasland, over hun recht op
+                  bezit ambten van secretaris en vorster in Rosmalen, Nuland en Maren, tegen Arnout
+                  van Vladeracken, kwartierschout van Maasland / schepenen van Rosmalen en Nuland /
+                  Jan van Vladeracken, gepretendeerde secretaris van deze dorpen / Goort Jan Damen,
+                  secretaris van Maren, 1616</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1616">1616</unitdate>
+                <physdesc>2 charters</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nrs 490 - 491.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911415">
+                <unitid>13</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911415&amp;miview=inv2</unitid>
+                <unitid type="guid">BF760CE4B66A4ABB965DD47CB12385DC</unitid>
+                <unittitle>Uitgifte eerst ambt van secretaris van Maasland, later van daaruit
+                  voortvloeiende combinatie van griffier van Maasland, dijkschrijver van Hoog Hemaal
+                  en secretaris van Oss, 1561 - 1797 en ongedateerd</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1561/1797">1561 - 1797 en
+                  ongedateerd</unitdate>
+              </did>
+              <scopecontent>
+                <p>Voor regesten zie regestenlijst nrs 4 - 6 .</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911416">
+                <unitid>14</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911416&amp;miview=inv2</unitid>
+                <unitid type="guid">F9D58BF710394327AE25F2D11D75179A</unitid>
+                <unittitle>Akte van overeenkomst tussen erfgenamen Hendrik Loeyen, in leven pachter
+                  secretarisambt van Maasland, over vorderingen wegens dit ambt op erfsecretaris en
+                  op vrijheid van Oss, met gelijktijdige kopie-akte van verpachting secretarisambt
+                  van Oss aan Peter de Cok Peterszn van 1580, 1583</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1575/1600">1583</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <scopecontent>
+                <p>Voor regesten zie regestenlijst nrs 6 - 7.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911417">
+                <unitid>15</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911417&amp;miview=inv2</unitid>
+                <unitid type="guid">438B243DBECF48B5AF8F9AE36FE8E204</unitid>
+                <unittitle>Geschil over recht van Gijsbert Boonaerts, om griffier kwartier Maasland
+                  en dijkschrijver Hoog Hemaal te benoemen na overlijden van Engelbert de Man, 1691
+                  - 1693&lt;br/&gt;Met kopie-akten , 1386 - circa 1700</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1386/1700"/>
+                <physdesc>1 charter en 1 omslag</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 646. Voor regesten zie ook
+                  regestenlijst nrs 1 - 2.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>Scans beschikbaar</p>
+              </odd>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Geschil over recht van Gijsbert Boonaerts, om griffier kwartier Maasland en
+                    dijkschrijver Hoog Hemaal te benoemen na overlijden van Engelbert de Man, 1691 -
+                    1693&lt;br/&gt;Met kopie-akten , 1386 - circa 1700</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc
+                  xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911417&amp;miview=ldt"
+                  xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start"
+                  xlink:to="reference"/>
+              </daogrp>
+            </c02>
+            <c02 level="file">
+              <did id="MF911418">
+                <unitid>16</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911418&amp;miview=inv2</unitid>
+                <unitid type="guid">3A09B9B2663940F988CAE1B38713DD22</unitid>
+                <unittitle>Geschil over recht van Gijsbert Boonaerts, om griffier kwartier Maasland
+                  en dijkschrijver Hoog Hemaal te benoemen na overlijden Jan van Davervelt en
+                  aanspraak van diens erfgenamen op terugbetaling van gelden, 1706 -
+                  1710&lt;br/&gt;Met kopie-adviezen van advocaten van 1692, 1707 en
+                  ongedateerd</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1706/1710"/>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911419">
+                <unitid>17</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911419&amp;miview=inv2</unitid>
+                <unitid type="guid">08FF9F5A0988487684A1E1EA7A5A6266</unitid>
+                <unittitle>Geschil over recht van Gijsbertus J. Boonaerts, om griffier kwartier
+                  Maasland en dijkschrijver Hoog Hemaal te benoemen, 1738 - 1739</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1738/1739">1738 - 1739</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911420">
+                <unitid>18</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911420&amp;miview=inv2</unitid>
+                <unitid type="guid">F1D4D4C44E6E4E25B84CDB3968B2A7E7</unitid>
+                <unittitle>Geschil over termijn aanstelling griffier van Maasland, tevens
+                  dijkschrijver Hoog Hemaal en secretaris van Oss, 1729 - 1732</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1729/1732">1729 - 1732</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911421">
+                <unitid>19</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911421&amp;miview=inv2</unitid>
+                <unitid type="guid">D88C236142EC438C9A797DF173EB4BB5</unitid>
+                <unittitle>Inbreuk kwartierschout op rechten griffierschap van Maasland,
+                  1695</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1695">1695</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911422">
+                <unitid>20</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911422&amp;miview=inv2</unitid>
+                <unitid type="guid">9B2F5AD8AA1E45368890FC2F1CE4E425</unitid>
+                <unittitle>Eis van kwartiersvergadering aan Gijsbert J. Boonaerts mogelijk onder hem
+                  berustende archivalia terug te geven, 1738 - 1739&lt;br/&gt;Met oudere
+                  bewijsstukken en bijlagen, 1694 - 1738 en ongedateerd</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1694/1739"/>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911423">
+                <unitid>21</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911423&amp;miview=inv2</unitid>
+                <unitid type="guid">C8C29443C4404A13BD93F086048BAF40</unitid>
+                <unittitle>Kwitantie van griffier Thomas Coets wegens ontvangst ½ inkomsten
+                  gedurende geschil met kwartier, 1747</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1747">1747</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911424">
+                <unitid>22</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911424&amp;miview=inv2</unitid>
+                <unitid type="guid">41D45BE034EE425DBD4CF2567E5BC571</unitid>
+                <unittitle>Verzoek aan kanselier van Brabant van Jan van Berchem over recht om
+                  substituut-secretaris in Oss aan te stellen, met beschikking, 1619</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1619">1619</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911425">
+                <unitid>23</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911425&amp;miview=inv2</unitid>
+                <unitid type="guid">DB5B06D5CE7044F88BACC3079C84E6A3</unitid>
+                <unittitle>Pogingen van schepenen van Oss bij Staten-Generaal, om invloed uit te
+                  oefenen op benoeming secretaris, 1651 en 1675</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1651/1675">1651 en 1675</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911426">
+                <unitid>24</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911426&amp;miview=inv2</unitid>
+                <unitid type="guid">792144A03F0441B6AE7B13B3DA64E709</unitid>
+                <unittitle>Geschil van Magdalena van Oss, weduwe Jan van Berchem, en Jacob van
+                  Berchem met Abraham Hendriks, pachter secretarisambt van Oss, over beëindiging van
+                  diens pacht, 1651</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1651">1651</unitdate>
+                <physdesc>1 charter en 1 omslag</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 574.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911427">
+                <unitid>25</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911427&amp;miview=inv2</unitid>
+                <unitid type="guid">54CFCA962AE44750809D4ABF24A73B59</unitid>
+                <unittitle>Geschil van Gijsbert Boonaerts met Engelbert de Man, over opzeggen pacht
+                  secretarisambt van Oss, en verlenen van dit aan een ander, 1681&lt;br/&gt;Met
+                  kopieën van aanstellingen van 1580 - 1682</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1580/1682"/>
+              </did>
+              <scopecontent>
+                <p>Voor regest zie regestenlijst nr 6</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911428">
+                <unitid>26</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911428&amp;miview=inv2</unitid>
+                <unitid type="guid">FB9B50D6B43E496F842EDD7EE7E2CA7E</unitid>
+                <unittitle>Verzoek aan Raad van Brabant van Johannes Devenijns, als secretaris van
+                  Oss, en Gijsbert Boonaerts, als erfsecretaris, over inbreuken op rechten
+                  secretarisschap, 1692&lt;br/&gt;Met bijlagen van 1677 - 1692 en
+                  ongedateerd</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1677/1692"/>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911429">
+                <unitid>27</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911429&amp;miview=inv2</unitid>
+                <unitid type="guid">B5F3B433BB19413AA988EBBB2A94AE62</unitid>
+                <unittitle>Geschil van Jan van Berchem met kwartierschout en schepenen van Oss, over
+                  bewaarplaats archieven secretarie van Oss, 1618 - 1619 en ongedateerd</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1618/1619">1618 - 1619 en
+                  ongedateerd</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911430">
+                <unitid>28</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911430&amp;miview=inv2</unitid>
+                <unitid type="guid">BD57EB21797E4460974EAB9D97940AA4</unitid>
+                <unittitle>Gerechtelijke aanzegging aan weduwe secretaris ongenoemde dingbank, om
+                  archieven daarvan terug te geven, 1616&lt;br/&gt;Kopie van 1706</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1616"/>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <scopecontent>
+                <p>Waarschijnlijk aangemaakt in verband met geschil na overlijden Jan van Davervelt,
+                  secretaris van Oss.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911431">
+                <unitid>29</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911431&amp;miview=inv2</unitid>
+                <unitid type="guid">34E864AF5EA048EEB78DD47FA92CF06B</unitid>
+                <unittitle>Akte van verpachting vorsterambt van Oss, door erfsecretaris, met akte
+                  van goedkeuring van aanstelling daartoe door Staten-Generaal, 1609&lt;br/&gt;Met
+                  bijlagen, 1656</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1609/1656"/>
+              </did>
+              <scopecontent>
+                <p>Zie voor de pachtakte van 1561 inventarisnr 13.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911432">
+                <unitid>30</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911432&amp;miview=inv2</unitid>
+                <unitid type="guid">1210F35414444FF5A4C1B7F79F3C48F7</unitid>
+                <unittitle>Getuigenverklaring over bevoegdheid tot houden schouw vorster van Oss
+                  tegen gepretendeerde rechten van schout van Maasland, kopie uit 17e eeuw,
+                  1502</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1502/1700">1502</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <scopecontent>
+                <p>Voor regest zie regestenlijst nr 3.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911433">
+                <unitid>31</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911433&amp;miview=inv2</unitid>
+                <unitid type="guid">0E786814584F44A38812C5B5816F2BAD</unitid>
+                <unittitle>Verzoekschrift aan kanselier van Brabant, over recht onmondige kinderen
+                  van Jan van Outheusden, om secretaris van Berlicum te benoemen, concept, circa
+                  1581</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1571/1591">circa 1581</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911434">
+                <unitid>32</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911434&amp;miview=inv2</unitid>
+                <unitid type="guid">FEB286DA6176440A8EE577FE89939EFB</unitid>
+                <unittitle>Geschil met Hendrik Carel van Sevenhoven, secretaris van Berlicum, over
+                  opzeggen van diens pacht, 1723 - 1728</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1723/1728">1723 - 1728</unitdate>
+                <physdesc>2 charters en 1 stuk</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nrs 687 - 688.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911435">
+                <unitid>33</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911435&amp;miview=inv2</unitid>
+                <unitid type="guid">F0D072DC6D64487BA52004F1D60AFAFD</unitid>
+                <unittitle>Oproep voor gegadigden voor vorsterij van Berlicum, 1691</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1691">1691</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911436">
+                <unitid>34</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911436&amp;miview=inv2</unitid>
+                <unitid type="guid">40C5B3AAE3464FAF95E266C8E7BE0610</unitid>
+                <unittitle>Akte van verpachting secretarie van Heesch, 1694</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1694">1694</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911437">
+                <unitid>35</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911437&amp;miview=inv2</unitid>
+                <unitid type="guid">FEFB9A0E396E414DBC8FB8D3365126EF</unitid>
+                <unittitle>Verklaringen van Gijsbert Boonaerts, over ontvangen pachtsommen van
+                  vorster van Heesch, 1686 - 1690</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1686/1690">1686 - 1690</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911438">
+                <unitid>36</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911438&amp;miview=inv2</unitid>
+                <unitid type="guid">E35D774BA36E4F55A87F0153A04BB708</unitid>
+                <unittitle>Akten van verpachting en lastgeving door erfsecretaris, akten van
+                  goedkeuring door Staten-Generaal en andere stukken over uitgifte secretarisambt
+                  van Lithoijen, originelen en kopieën, 1660 - 1686</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1660/1686">1660 - 1686</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911439">
+                <unitid>37</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911439&amp;miview=inv2</unitid>
+                <unitid type="guid">180F3B6C1A3C43E38916F24286D5BC3D</unitid>
+                <unittitle>Ordonnantie op salarissen secretarissen in Meierij van 's-Hertogenbosch,
+                  gelijktijdige kopie, 1662 januari 19</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1662/1710">1662 januari
+                  19</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911440">
+                <unitid>38</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911440&amp;miview=inv2</unitid>
+                <unitid type="guid">D1F9CA360CBC4DBEAA3F132C085ECE94</unitid>
+                <unittitle>Geschillen bij benoeming secretaris van Lithoijen, 1663 - 1665 en
+                  1711</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1663/1721">1663 - 1665 en
+                  1711</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911441">
+                <unitid>39</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911441&amp;miview=inv2</unitid>
+                <unitid type="guid">C5C86B8DEC5846B19249E15217C335AD</unitid>
+                <unittitle>Kwitantie van Jan van Brugel, weduwnaar Magdalena van Oss, eerder vrouw
+                  van Jan van Berchem, voor betaling pachtsom secretarie van Lithoijen periode 1648
+                  - 1654, gelijktijdige authentieke kopie, 1654</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1644/1664">1654</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911442">
+                <unitid>40</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911442&amp;miview=inv2</unitid>
+                <unitid type="guid">3D94E5F4C22641169B01478A73E3FF46</unitid>
+                <unittitle>Akten van verpachting door erfsecretaris en andere stukken, over uitgifte
+                  vorsterambt in Lithoijen, originelen en kopieën, 1610 - 1766</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1610/1766">1610 - 1766</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911443">
+                <unitid>41</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911443&amp;miview=inv2</unitid>
+                <unitid type="guid">FE2B505B44164ECD876DD05BBFF4B152</unitid>
+                <unittitle>Bevelschrift van daagsel van Raad van Brabant, voor schout van Maasland
+                  en een door hem aangestelde vorster van Lithoijen, met deurwaardersrelaas,
+                  gelijktijdige kopie, 1648</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1648">1648</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911444">
+                <unitid>42</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911444&amp;miview=inv2</unitid>
+                <unitid type="guid">9C16430B41014946B839EE39CCB67C8F</unitid>
+                <unittitle>Akten van verpachting en lastgeving, door erfsecretaris / akten van
+                  goedkeuring van Staten-Generaal / andere stukken over uitgifte secretarisambt van
+                  Maren, met gelijktijdige kopieën, 1614 - 1793&lt;br/&gt;Met akten van afstand van
+                  1730, 1758 en 1767</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1614/1793"/>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911445">
+                <unitid>43</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911445&amp;miview=inv2</unitid>
+                <unitid type="guid">38B504B8FB2D4DF580E68BA25E7B5D34</unitid>
+                <unittitle>Verklaring van inwoners Maren, over recht van erfsecretaris, secretarie
+                  te verpachten, met gelijktijdige kopie, 1692</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1692">1692</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911446">
+                <unitid>44</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911446&amp;miview=inv2</unitid>
+                <unitid type="guid">48810D11BFF649F1B1EEAE0B2F65BA00</unitid>
+                <unittitle>Uitspraak van Raad van Brabant in zaak tegen Gijsbertus J. Boonaerts en
+                  schepenen van Maren, aanhangig gemaakt door ex-secretaris Johan van Nouhuys,
+                  gelijktijdige kopie, 1729</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1729">1729</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911447">
+                <unitid>45</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911447&amp;miview=inv2</unitid>
+                <unitid type="guid">F8C2F9FAAAF449C0A9DB6051AAADF098</unitid>
+                <unittitle>Gerechtelijke aanzeggingen, gewisseld tussen Gijsbert J. Boonaerts, en
+                  secretaris van Maren, over achterstallen in betaling pachtsommen, 1736</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1736">1736</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911448">
+                <unitid>46</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911448&amp;miview=inv2</unitid>
+                <unitid type="guid">5B8CBBF1D33048D899F0731CC67A2C7D</unitid>
+                <unittitle>Proces van Gijsbert Boonaerts, tegen kinderen overleden secretaris van
+                  Maren, Nicolaas de Cok, onder andere over archieven, 1708 en
+                  ongedateerd</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1708">1708 en ongedateerd</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911449">
+                <unitid>47</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911449&amp;miview=inv2</unitid>
+                <unitid type="guid">8EF3DE4825314B99A1D3BFB00790197E</unitid>
+                <unittitle>Akten van verpachting en lastgeving, door erfsecretaris / akten van
+                  goedkeuring van Staten-Generaal / andere stukken over uitgifte vorsterambt in
+                  Maren, originelen en kopieën, 1616 - 1787&lt;br/&gt;Met akte van afstand,
+                  1736</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1616/1787"/>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911450">
+                <unitid>48</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911450&amp;miview=inv2</unitid>
+                <unitid type="guid">44CE4ADF94C34980B3D71B3637F1EFFE</unitid>
+                <unittitle>Gerechtelijke bezitshandhaving in recht op secretarie van Nistelrode, van
+                  Raad van Brabant in Brussel, voor Jacob van Berchem, 1635</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1635">1635</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 550.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911451">
+                <unitid>49</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911451&amp;miview=inv2</unitid>
+                <unitid type="guid">E5423E2A2C5E4E6580627B8E8616FB93</unitid>
+                <unittitle>Verzoek van Gijsbert J. Boonaerts aan Staten-Generaal, over zijn recht,
+                  vorster van Nistelrode te benoemen, gelijktijdig kopie, circa 1755</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1745/1765">circa 1755</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911452">
+                <unitid>50</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911452&amp;miview=inv2</unitid>
+                <unitid type="guid">9D07B944BB394ED4BEA104DBC3DC7E71</unitid>
+                <unittitle>Akte van verpachting door Jacob van Berchem, van vorsterij van Nuland,
+                  1629</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1629">1629</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+          </c01>
+          <c01 level="series">
+            <did id="MF911453">
+              <unitid type="series_code"/>
+              <unitid type="guid">F1758A57167C40849EECB407657067E1</unitid>
+              <unittitle>Families Van Oss en Boonaerts, periode 1525 - 1778, inventarisnrs 51 - 62
+                en 71 - 76</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1386/1801"/>
+            </did>
+            <c02 level="file">
+              <did id="MF911454">
+                <unitid>51</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911454&amp;miview=inv2</unitid>
+                <unitid type="guid">157EDDA44DCB428DBC14C57E147D96C0</unitid>
+                <unittitle>Eigendomsbewijs van 5 vaatzaat land in De Roijen onder Oss, voor Dirk van
+                  Oss, 1602</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1602">1602</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 454.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911455">
+                <unitid>52</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911455&amp;miview=inv2</unitid>
+                <unitid type="guid">50983BE5ED424D20B3A22431EAFCEA35</unitid>
+                <unittitle>Eigendomsbewijs van 7 vaatzaat land in De Royen op de Langbraek onder
+                  Oss, voor Dirk van Oss, 1610</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1610">1610</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 475, waar de datum van 2 november een
+                  drukfout moet zijn voor 23 november.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911456">
+                <unitid>53</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911456&amp;miview=inv2</unitid>
+                <unitid type="guid">9EA0736220E6407ABD27FAC6E3248220</unitid>
+                <unittitle>Eigendomsbewijs van 4½ vaatzaat land in Oss buiten Klaphek aan de Doelen,
+                  voor Dirk van Oss, 1626</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1626">1626</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 524.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911457">
+                <unitid>54</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911457&amp;miview=inv2</unitid>
+                <unitid type="guid">4415FE85465D401A8ADBC254CC6FA56B</unitid>
+                <unittitle>Eigendomsbewijs van 1½ morgen land in Hoolbeemden onder Oss, voor
+                  Gijsbert Boonaerts, 1654</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1654">1654</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 585; 14 december is een drukfout voor
+                  1 december, Goossens voor Goossen.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911458">
+                <unitid>55</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911458&amp;miview=inv2</unitid>
+                <unitid type="guid">F987281B4B814BC184E477A4982E368D</unitid>
+                <unittitle>Eigendomsbewijs van huis en hof, groot 6 vaatzaat, op Hatwijk onder Oss,
+                  voor Johan B. Boonaerts, 1691</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1691">1691</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 644.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911459">
+                <unitid>56</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911459&amp;miview=inv2</unitid>
+                <unitid type="guid">E7A7E401BF0641C5989F72A2353482B4</unitid>
+                <unittitle>Eigendomsbewijzen van 2½ morgen op Kleine Paalakker onder Oss, voor
+                  Gijsbert Boonaerts, 1692 en 1694</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1692/1694">1692 en 1694</unitdate>
+                <physdesc>2 charters</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nrs 645 en 648. De datering van het
+                  laatste nr moet zijn 27 januari 1694.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911460">
+                <unitid>57</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911460&amp;miview=inv2</unitid>
+                <unitid type="guid">F6CB1B20351A4E938FDCF1DAEEC642B1</unitid>
+                <unittitle>Eigendomsbewijs huis De Arendsvlucht voor Johannes Boonaerts, 1699, met
+                  bijlagen van 1698&lt;br/&gt;Met oudere bewijsstukken, 1687 - 1696&lt;br/&gt;Met
+                  notariële kopie-voorwaarden van verkoop, 1696</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1687/1699"/>
+                <physdesc>4 charters en 1 omslag</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nrs 623, 638, 659 en 667.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911461">
+                <unitid>58</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911461&amp;miview=inv2</unitid>
+                <unitid type="guid">3E0477131E2B4B9FB926B3402CBC21E3</unitid>
+                <unittitle>Eigendomsbewijs van 1 morgen land onder Teeffelen in Cleverbeemden, voor
+                  Dirk van Oss, 1616</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1616">1616</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 488.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911462">
+                <unitid>59</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911462&amp;miview=inv2</unitid>
+                <unitid type="guid">A8C7BD9EECA143C2BE615C5795C49799</unitid>
+                <unittitle>Akte van verpanding van ½ van 2 morgen land onder Teeffelen in
+                  Cleverbeemden, door Catharina Heerenhoven, weduwe Dirk van Oss, voor Jacob van
+                  Berchem, 1647</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1647">1647</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 569.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911463">
+                <unitid>60</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911463&amp;miview=inv2</unitid>
+                <unitid type="guid">3D49C0FF554D499ABF8D16746B467CC4</unitid>
+                <unittitle>Akte van machtiging, voor Dirk Janszn van Oss, om over zijn lenen te
+                  mogen beschikken, 1525</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1525">1525</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 288.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911464">
+                <unitid>61</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911464&amp;miview=inv2</unitid>
+                <unitid type="guid">3AE3FB81CE11413FBBA741297B249CC2</unitid>
+                <unittitle>Akte van verklaring van Dirk Janszn van Oss, verleden voor schepenen van
+                  Lithoijen, opgenomen achter hun vidimus van bovengenoemde machtiging, dat hij
+                  Klaas Rutten Klaaszn, die van hem ½ morgen land uit leengoed van 26 morgen heeft
+                  gekocht, met die machtiging, indien nodig, in rechten zal bijstaan,
+                  1525</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1525">1525</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Vidimus = legalisatie. Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus
+                  ...Noordbrabants Genootschap, 1900, afdeling I Oorkonden, nr 289.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911465">
+                <unitid>62</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911465&amp;miview=inv2</unitid>
+                <unitid type="guid">B72F64B8E1FB405EBB262F73D1D49CA7</unitid>
+                <unittitle>Akte van belening met 25 morgen land onder Lithoijen, voor Dirk van Oss,
+                  1640</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1640">1640</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 556.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911466">
+                <unitid>71</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911466&amp;miview=inv2</unitid>
+                <unitid type="guid">AEC4D1AED97145E9A40566622AF6D0FB</unitid>
+                <unittitle>Proces over betaling som, door gecommitteerden van de Groenendijk
+                  verschuldigd aan dorp Berghem, welke vordering overgedragen was op Gijsbert
+                  Boonaerts, als rentmeester kwartier Maasland, 1678 - 1679</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1678/1679">1678 - 1679</unitdate>
+              </did>
+              <scopecontent>
+                <p>Zoon van Alexander en Anna van Berchem, trouwt Agnes van Meerwijk; rentmeester
+                  van het kwartier van Maasland.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911467">
+                <unitid>72</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911467&amp;miview=inv2</unitid>
+                <unitid type="guid">6AD9A15C9E1E42DBBDA32571C7F73003</unitid>
+                <unittitle>Geschil tussen Gijsbert Boonaerts, als rentmeester van Maasland, en
+                  regenten van Maren, over voorgeschoten oorlogskosten, 1704</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1704">1704</unitdate>
+              </did>
+              <scopecontent>
+                <p>Zoon van Alexander en Anna van Berchem, trouwt Agnes van Meerwijk.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911468">
+                <unitid>73</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911468&amp;miview=inv2</unitid>
+                <unitid type="guid">E33714FF26DD4079A13AE67E2204846E</unitid>
+                <unittitle>Geschil over nalatenschap van Gijsbert Boonaerts, met kopieën, 1532 -
+                  1711 en ongedateerd</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1532/1711">1532 - 1711 en
+                  ongedateerd</unitdate>
+              </did>
+              <scopecontent>
+                <p>Zoon van Alexander en Anna van Berchem, trouwt Agnes van Meerwijk.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911469">
+                <unitid>74</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911469&amp;miview=inv2</unitid>
+                <unitid type="guid">1AC0BE800525460E967224CEFC91CA86</unitid>
+                <unittitle>Schuldbekentenis voor 500 carolus guldens, van Johan B. Boonaerts, voor
+                  Roelof Tibosch, 1705</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1705">1705</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Roelof Tibosch is zoon van Gijsbert en Agnes van Meerwijk, trouwt Maria
+                  Gijsbertina van Berkel.&lt;br/&gt;Regest zie A.F.O. van Sasse van Ysselt, Nieuwe
+                  Catalogus ...Noordbrabants Genootschap, 1900, afdeling I Oorkonden, nr 708, aldaar
+                  foutief opgenomen bij het jaar 1750.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911470">
+                <unitid>75</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911470&amp;miview=inv2</unitid>
+                <unitid type="guid">2CF79C9FB0EB49F2B251BE7508F643ED</unitid>
+                <unittitle>Kwitanties voor M.G. van Berkel, weduwe Jan J.B. Boonaerts, haar zoon en
+                  dochter, G.J. en M.E. Boonaerts, voor betaalde schulden, afgeloste cijns en
+                  afgeloste schuldbrieven, 1734 - 1747</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1734/1747">1734 - 1747</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911471">
+                <unitid>76</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911471&amp;miview=inv2</unitid>
+                <unitid type="guid">A380D6FD292443CFB4625DCCF50A70C3</unitid>
+                <unittitle>Akte van volmacht, van M.E. Boonaerts, voor Johannes P. van Meeuwen, tot
+                  afwikkelen erfenis van haar broer G.J. Boonaerts, gelijktijdige authentieke kopie,
+                  1778</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1778">1778</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+          </c01>
+          <c01 level="series">
+            <did id="MF911472">
+              <unitid type="series_code"/>
+              <unitid type="guid">806E3B3A5C244FC5A3DB4C0F0C5FFFC1</unitid>
+              <unittitle>Familie Van Berchem, periode 1598 - 1675, inventarisnrs 63 - 70</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1386/1801"/>
+            </did>
+            <c02 level="file">
+              <did id="MF911473">
+                <unitid>63</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911473&amp;miview=inv2</unitid>
+                <unitid type="guid">BF845C06F7AE4F50AD828B92BD83B3E7</unitid>
+                <unittitle>Akte van aanstelling tot stadhouder hoogschout in Maasland, voor Jacob
+                  van Berchem, 1598</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1598">1598</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Jacob van Berchem: zoon van Jacob Jan Gieliszn van Berchem; huwt Anna Gijsselen;
+                  schout van Maasland. Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus
+                  ...Noordbrabants Genootschap, 1900, afdeling I Oorkonden, nr 443.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911474">
+                <unitid>64</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911474&amp;miview=inv2</unitid>
+                <unitid type="guid">B78290CE5B2841018141F094F72F7B2C</unitid>
+                <unittitle>Akte van verdeling nalatenschap Jacob van Berchem en zijn echtgenote Anna
+                  Gijsselen, 1611</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1611">1611</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 476.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911475">
+                <unitid>65</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911475&amp;miview=inv2</unitid>
+                <unitid type="guid">3CE40014691F4CABB47AF9FDAFC4DB50</unitid>
+                <unittitle>Volmacht van vergadering kwartier van Maasland op auditeurs, onder andere
+                  Gijsbrecht van Berchem, secretaris van kwartier, tot afhoren rekeningen wegens
+                  oorlogslasten, 1601</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1601">1601</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <scopecontent>
+                <p>Zoon van mr Jacob en Anna Gijsselen, huwt Peterken, dochter van Jan van
+                  Antwerpen.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911476">
+                <unitid>66</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911476&amp;miview=inv2</unitid>
+                <unitid type="guid">B0AB82A9A55B4EF097D48927FF545601</unitid>
+                <unittitle>Testament van Gijsbrecht van Berchem en zijn vrouw Peterken, dochter van
+                  Jan van Antwerpen, 1610</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1610">1610</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Regest zie A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants
+                  Genootschap, 1900, afdeling I Oorkonden, nr 473.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911477">
+                <unitid>67</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911477&amp;miview=inv2</unitid>
+                <unitid type="guid">DDD6B19C0ED6474FA1E43D5A6C2A4F4B</unitid>
+                <unittitle>Testament van Dirk van Oss en zijn echtgenote Wouterken van Berchem,
+                  1636&lt;br/&gt;Authentieke kopie, 1675</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1636/1675"/>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <scopecontent>
+                <p>Dochter van mr Jacob en Anna Gijsselens; trouwt jonker Dirk van Oss. Deze
+                  hertrouwt met Catharina Heerenhoven.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911478">
+                <unitid>68</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911478&amp;miview=inv2</unitid>
+                <unitid type="guid">0EB3D9F863BE4BCCB89B2019AC062070</unitid>
+                <unittitle>Akte van benoeming tot notaris, uitgegeven door Raad van Brabant in
+                  Brussel, voor Jan van Berchem, 1619</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1619">1619</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <scopecontent>
+                <p>Jan van Berchem is zoon van Gijsbrecht en Peterken Jansdr van Antwerpen; notaris;
+                  trouwt Margaretha van Oss; zij hertrouwt met Jan van Brugel.&lt;br/&gt;Regest zie
+                  A.F.O. van Sasse van Ysselt, Nieuwe Catalogus ...Noordbrabants Genootschap, 1900,
+                  afdeling I, 500. Datering daar is fout. Moet zijn 6 oktober.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <odd type="REDEN GEEN UITLEEN">
+                <p>ontbreekt</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911479">
+                <unitid>69</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911479&amp;miview=inv2</unitid>
+                <unitid type="guid">23ACC98B836A459E9A800CEE7521F916</unitid>
+                <unittitle>Testament van Anna van Berchem, dochter van Gijsbrecht en Peterken J. van
+                  Antwerpen, echtgenote van Alexander Boonaerts, gelijktijdige authentieke kopie,
+                  1636</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1636">1636</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911480">
+                <unitid>70</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911480&amp;miview=inv2</unitid>
+                <unitid type="guid">DE2B1275153144638428D44024C88CDD</unitid>
+                <unittitle>Codicil bij testament van Judith van Berchem, dochter van Gijsbrecht en
+                  Peterken Jansdr van Antwerpen, over boeken en koets, afkomstig van haar broers,
+                  1659</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1659">1659</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+          </c01>
+          <c01 level="series">
+            <did id="MF911481">
+              <unitid type="series_code"/>
+              <unitid type="guid">B8F99F9749A849DD84D22C489BA9FD10</unitid>
+              <unittitle>Familie Van Meeuwen, periode 1675 - 1783, inventarisnrs 77 - 80</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1386/1801"/>
+            </did>
+            <c02 level="file">
+              <did id="MF911482">
+                <unitid>77</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911482&amp;miview=inv2</unitid>
+                <unitid type="guid">6649138C678C42B6A6E4FFF3D7B2B727</unitid>
+                <unittitle>Testament van Johannes P.s van Meeuwen en Johanna M. Potters,
+                  echtelieden, authentieke kopie, 1783</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1783">1783</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <scopecontent>
+                <p>Johannes Petrus is gedoopt in 's-Hertogenbosch in 1730 december 14, als zoon van
+                  Franciscus van Meeuwen en Elisabeth Maria Clingh, dochter van Johan en Maria A.
+                  Boonaerts. Hij overlijdt aldaar 1794 december 3, huwt aldaar 1755 september 21
+                  Johanna Maria de Pottere, gedoopt aldaar 1732 februari 20, overleden aldaar 1799
+                  januari 15.&lt;br/&gt;Hij erft erfsecretarisschap van zijn achternicht M.E.
+                  Boonaerts, dochter van zijn oudoom J.B. Boonaerts, die dus niet zijn tante is,
+                  zoals Van Sasse Van Ysselt in 'Voorname Huizen en Gebouwen van 's-Hertogenbosch,
+                  deel III, 574, zegt.</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911483">
+                <unitid>78</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911483&amp;miview=inv2</unitid>
+                <unitid type="guid">C59630B659634721813E9268749DF578</unitid>
+                <unittitle>Afrekening gemeenschappelijk bezit erfgenamen van Johannes P. van Meeuwen
+                  en weduwe Van der Borght, circa 1801</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1791/1811">circa 1801</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911484">
+                <unitid>79</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911484&amp;miview=inv2</unitid>
+                <unitid type="guid">4361744B1BE844208C2261B6ADC40854</unitid>
+                <unittitle>Lijst van schulden van Hendrik van Meeuwen, uittreksel, circa 1675 -
+                  1700</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1675/1700">circa 1675 -
+                  1700</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+            <c02 level="file">
+              <did id="MF911485">
+                <unitid>80</unitid>
+                <unitid audience="internal" type="handle"
+                  >http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=302&amp;minr=911485&amp;miview=inv2</unitid>
+                <unitid type="guid">653B5F9AF75944D1B880F498941DA95F</unitid>
+                <unittitle>Testament onbekend echtpaar, fragment, kopie, 17e eeuw</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1600/1700">17e eeuw</unitdate>
+                <physdesc>1 stuk</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c02>
+          </c01>
+        </dsc>
+      </archdesc>
+    </ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_302/1ECA53335BE3425D994147545764B42E_oai_ead.xml-->
+</record>
