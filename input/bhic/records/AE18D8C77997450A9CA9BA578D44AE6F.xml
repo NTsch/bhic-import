@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>AE18D8C77997450A9CA9BA578D44AE6F</identifier>
-    <datestamp>2026-09-02</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -36,6 +36,11 @@
       </note>
     </did>
     <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
       <controlaccess>
         <head>Categorie</head>
         <subject>Algemeen bestuur en Politiek</subject>
@@ -2447,6 +2452,14 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>24 sep 1700-21 aug 1722 x)</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/2487562B8A2642C4938545BD78C93299" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
             </c04>
             <c04 level="file">
               <did id="MF9934704">
@@ -2825,6 +2838,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Akte, waarbij hertogin Johanna van Brabant aan haar goede lieden van Erp het recht verleent om keuren en breuken vast te stellen, een schutter aan te stellen en stukken van de gemeint te mogen uitgeven met goedvinden van de schepenen en geburen, tegen een erfelijke cijns van een oude groot, 1379</p>
@@ -2852,6 +2871,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Akte, waarbij hertoging Johanna van Brabant toestaat om voor Purificatio (2 februari) 6 personen aan te stellen om de schutter bij te staan bij zijn taak, 1379</p>
@@ -2879,6 +2904,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Jonkheer Walraven van Erp, Walravens zoon, bevestigt als heer van Erp en Veghel openlijk, doch onverkort het recht van de Staten Generaal als opvolgers van de hertogen van Brabant, de oude rechten en privileges, keuren en ordonnantien der ingezetenen van Erp en belooft Aa-schouwing te laten doen, alsmede calanges over het turven op de heide op turfdagen, 1612</p>
@@ -2906,6 +2937,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Vidimus waarbij schepenen van Den Bosch verklaren te hebben gezien het privilege van Hertogin Johanna van Brabant van 20 november 1379 om keuren en breuken vast te stellen en een schutter te benoemen, 1618</p>
@@ -2930,6 +2967,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF9934737">
@@ -2946,6 +2989,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF9934738">
@@ -2962,6 +3011,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF9934739">
@@ -3009,6 +3064,12 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                 </c06>
                 <c06 level="file">
                   <did id="MF9934743">
@@ -3049,6 +3110,12 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                 </c06>
                 <c06 level="file">
                   <did id="MF9934746">
@@ -3068,6 +3135,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Schepenakte van Erp en Veghel, waarbij de grens opnieuw wordt vastgesteld, lopende van craenmeersgat naar de palen in hooidonk, in een berg in de heide genaamd den sloppert, naar het mervel en hoeve lanckvelt, 1717</p>
@@ -3092,6 +3165,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Stukken betreffende de vaststelling van de grensscheiding van Erp met Veghel, 1791-1794</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/52A35D0DCC2B4CFF83D1ABAF246D6033" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
               </c05>
               <c05 level="subseries">
@@ -3177,6 +3258,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Stukken betreffende het geschil van de regenten van Erp met die van Lieshout over de grensscheidingen, 1792-1794</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/B36F2064FCA74040AC0BD054DB5D06C4" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF9934754">
@@ -3190,6 +3279,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Stukken betreffende het geschil van de regenten van Erp met die van Beek en Donk over de grensscheidingen, 1792-1794</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/E340BB82D60A47A68EBF7020A458ACEB" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF9934755">
@@ -3203,6 +3300,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Specificatie van percelen, gelegen in de nabijheid van Lieshout, Beek en Donk en Veghel, 1794</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/AB6C52D436AC4AA993261D0DB4A5AE7D" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
               </c05>
             </c04>
@@ -3441,6 +3546,12 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <controlaccess>
+                      <controlaccess>
+                        <head>OAI-PMH set</head>
+                        <subject>MONASTERIUM</subject>
+                      </controlaccess>
+                    </controlaccess>
                     <daogrp xlink:type="extended">
                       <daodesc>
                         <p>Akte, waarbij de Aartshertogen Albert en Isabel, op verzoek van de ingezetenen van Erp Verklaren, dat de verkopen uit de gemeynt van voor 23 jaren geleden, ongeldig zijn geweest, 1606</p>
@@ -3928,6 +4039,12 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                 </c06>
                 <c06 level="file">
                   <did id="MF9934808">
@@ -8476,6 +8593,12 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <controlaccess>
+                      <controlaccess>
+                        <head>OAI-PMH set</head>
+                        <subject>MONASTERIUM</subject>
+                      </controlaccess>
+                    </controlaccess>
                     <daogrp xlink:type="extended">
                       <daodesc>
                         <p>Akte waarbij aartshertogen Albert en Isabel aan het corpus van Erp octrooi verlenen tot het sluiten van een geldlening van 6000 gulden tegen de penning 16 (61/4 %), 1600</p>
@@ -8503,6 +8626,12 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <controlaccess>
+                      <controlaccess>
+                        <head>OAI-PMH set</head>
+                        <subject>MONASTERIUM</subject>
+                      </controlaccess>
+                    </controlaccess>
                     <daogrp xlink:type="extended">
                       <daodesc>
                         <p>Akte, waarbij de raad der aartshertogen Albert en Isabel, de rentevoet van de geldlening van 6000 gulden verhogen tot 7 %, 1600</p>
@@ -8530,6 +8659,12 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <controlaccess>
+                      <controlaccess>
+                        <head>OAI-PMH set</head>
+                        <subject>MONASTERIUM</subject>
+                      </controlaccess>
+                    </controlaccess>
                     <daogrp xlink:type="extended">
                       <daodesc>
                         <p>Akte, waarbij de Raad van Brabant aan het corpus van Erp octrooi verleent om een geldlening van 4000 gulden te sluiten, 1634</p>
@@ -8644,6 +8779,12 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <controlaccess>
+                      <controlaccess>
+                        <head>OAI-PMH set</head>
+                        <subject>MONASTERIUM</subject>
+                      </controlaccess>
+                    </controlaccess>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935150">
@@ -8660,6 +8801,12 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <controlaccess>
+                      <controlaccess>
+                        <head>OAI-PMH set</head>
+                        <subject>MONASTERIUM</subject>
+                      </controlaccess>
+                    </controlaccess>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935151">
@@ -8689,6 +8836,12 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <controlaccess>
+                      <controlaccess>
+                        <head>OAI-PMH set</head>
+                        <subject>MONASTERIUM</subject>
+                      </controlaccess>
+                    </controlaccess>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935153">
@@ -8705,6 +8858,12 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <controlaccess>
+                      <controlaccess>
+                        <head>OAI-PMH set</head>
+                        <subject>MONASTERIUM</subject>
+                      </controlaccess>
+                    </controlaccess>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935154">
@@ -9368,6 +9527,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Arndt Leijten, Laurens van Hoogenhuijsen. Jan Huijbert Queens, Handrick Handrick Aerts, Hendrick de Witte, Jan Hermense ende Jan Willems schepenen; Peter Wouters, Jan Huijberts van Dommelen, Jan Goorts en Delis Anthonis Martens, borgemeesters; Laurens Jansen en Delis Lucas, kerkmeesters; Gerrit Lamberts en Dirck Munnixhof, armmeesters, representerende het gehele corpus van Erp, bekennen tot last van de gemeente opgenomen te hebben van Arndt Leijten, 550 gulden. Akte op perkament: gecasseerd blijkens aantekening in dorso op 30 juli 1716. Uithangend schepenzegel en zegelstaart verloren, 1672</p>
@@ -9392,6 +9557,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Arndt Leijten, Laurens van Hoogenhuijsen. Jan Huijbert Queens, Handrick Handrick Aerts, Hendrick de Witte, Jan Hermens en Jan Willems, schepenen; Peter Wouters, Jan Huijberts, Jan Goorts en Delis Anthonis Martens, borgemeesters; Laurens Jansen en Delis Lucass., kerkmeesters; Gerrit Lamberts en Dirk Munnix-hof, armmeesters, representerende het corpus van Erp, bekennen tot last van de gemeente geleend te hebben van Arndt Leijten, president schepen, 700 gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso. Uithangend zegel en zegelstaart verloren, 1673</p>
@@ -9416,6 +9587,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Arndt Leijten, Laurens van Hoogenhuijsen, Jan Huijbert Queens, Handrick Handrick Aerts, Hendrick de Witte, Jan Hermens en Jan Willems, schepenen; Peter Wouters, Jan Huijberts, Jan Goorts en Delis Anthonis Martens, borgemeesters; Laurens Jansen en Delis Lucass., kerkmeesters; Gerrit Lamberts en Dirck Munnixhof, armmeesters representerende het corpus van Erp, hebben tot last van de gemeente Erp geleend van Jenneke Adams de somme van 500 gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 18 maart 1774. Uithangend zegel en zegelstaart verloren, 1673</p>
@@ -9440,6 +9617,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Arndt Leijten, Laurens van Hoogenhuijsen. Jan Huijbert Queens, Handrick Handrick Aerts, Hendrick de Witte, Jan Hermense en Jan Willems, schepenen, Peter Wouters, Jan Jansen, Jan Goorts en Delis Anthonis Martens, borgemeesters, Laurens Jansen en Delis Lucas, kerkmeesters, Dirck Munnixhof en Gerrit Lamberts, armmeesters, hebben geleend van Arndt Leijten een somme van 173 gulden en 11 stuivers. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 4 juli 1715. Uithangend zegel en zegelstaart verloren, 1673</p>
@@ -9464,6 +9647,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Arndt Leijten, Laurens van Hoogenhuijsen. Jan Huijbert Queens, Handrick Handrick Aerts, Hendrick de Witte, Jan Hermens en Jan Willems, schepenen, Jan Lucas, Gerrit Lamberts, Lambert Jan Aerts en Arndt Jaspers, borgemeesters, Delis Lucas en Laurens Janse, kerkmeesters, Gerrit Lamberts en Dirck Munnixhof, armmeesters, hebben geleend van Jan Lamberts een somme van 100 gulden. Akte op perkament; blijkens aantekeningen in de marge gecasseerd op 23 november 1685. Uithangend zegel en zegelstaart verloren, 1673</p>
@@ -9488,6 +9677,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Arndt Leijten, Laurens van Hoogenhuijsen. Jan Huijbert Queens, Handrick, Handrick Aerts, Hendrick de Witte, Jan Hermens en Jan Willens, schepenen. Peter Wouters, Jan Huijberts, Jan Goorts, Delis Anthonis Martens, borgemeesters, Laurens Jansen en Delis Lucas, kerkmeesters, Gerrit Lamberts en Dirck Munnixhof, armmeesters, hebben geleend van Hendrick Hendrickx, Willem Hendrickx en Niclaes Peters een somme van 500 gulden. Akte op perkament. Uithangend zegel en zegelstaart verloren, 1673</p>
@@ -9512,6 +9707,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Arndt Leijten, Laurens van Hoogenhuijsen. Jan Huijbert Queens, Handrick Handrick Aerts, Hendrick de Witte, Jan Hermens en Jan Willems, schepenen, Jan Lucas, Gerrit Lamberts, Lambert Jan Aerts en Aerdt Jaspers, borgemeesters, Delis Lucas en Laurens Jansen, kerkmeesters, Dirck Munnixhof en Gerrit Lamberts, armmeesters, hebben geleend van Anthonis Jansen wonende tot Uden, land van Ravesteijn, een somme van 300 gulden. Akte op perkament; gecasseerd blijkens aantekeningen in de marge op 7 december 1685. Uithangend zegel en zegelstaart verloren, 1673</p>
@@ -9536,6 +9737,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Arndt Leijten, Laurens van Hoogenhuijsen. Jan Huijbert Queens, Handrick Handrick Aerts, Hendrick de Witte, Jan Hermens en Jan Willems, schepenen, Jan Lucas, Gerrit Lamberts, Lambert Jan Aerts en Aerdt Jaspers, borgemeesters, Delis Lucas en Laurens Jansen, kerkmeesters, Dirck Munnixhof en Gerrit Lamberts, armmeesters, hebben geleend van Anthonis Jansen wonende tot Uden, land van Ravesteijn, een somme van 300 gulden. Akte op perkament; gecasseerd blijkens aantekeningen in de marge op 7 december 1685. Uithangend zegel en zegelstaart verloren, 1673</p>
@@ -9560,6 +9767,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Arndt Leijten, Laurens Jansen, Jan Huijbert Queens, Handrick Handrick Aerts, Hendrick de Witte, Jan Hermensen en Jan Willems, schepenen, Jan Lucas, Gerrit Lamberts, Lambert Jan Aerts en Arndt Jaspers, borgemeesters, Laurens Jansen en Delis Lucas, kerkmeesters, Gerrit Lamberts en Dirck Munnixhof, armmeesters, hebben geleend van Jan Willem Hendrick Deckers, wonende op Boeckel, lande van Ravesteijn, een somme van 60 gulden. Akte op perkament; gecasseerd op 23 november 1685, 1673</p>
@@ -9584,6 +9797,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte ten overstaan van schepenen van 's-Bosch. Aert Leijten, president, Laurens van den Berch, Henrick Henricx Witte, Jan Hermans, schepenen van Erp, Ancem Jansen van Haendel en Dries Ariens, borgemeesters van Erp, mr. Johan Louis van Cattenburch, secretaris te 's-Hertogenbosch tot behoef van Catharina Verwiel weduwe van Anthonij de Vlieger, bode van deze stad op 's-Gravenhage, geleend de somme van 2000 car. gulden. Akte op perkament; blijkens aantekeningen in dorso gedeeltelijke aflossingen. Uithangen zegel en zegelstaart verloren, 1675</p>
@@ -9608,6 +9827,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Andries Ariens, borgemeester en Laurens van den Bergh, schepen, Arndt Leijten, Laureijns Jansen van Hoogenhuijsen, Jan Huijbert Queens, Handrick Handrick Aerts, Hendrick de Witte, Jan Hermensen, schepenen, Ansem Janssen van Haendel, Jan Laurensse en Welt Welten, borgemeesters, Dirck Munnixhoff en Hendrick Anthonis, armmeesters, Delis Lucas en Huijbert Gerrits, kerkmeesters, hebben geleend van de heer Victor van Beugen tot behoef van juffr. Maria Catharina van Beugen, een somme van 2000 car. gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 1 juli 1715. Uithangende zegels en zegelstaarten verloren, 1675</p>
@@ -9632,6 +9857,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Aert Leijten, Laurens Jansen, Hendrik Hendrik Aerts, Jan Huijbert Queens, Hendrik de Witte en Jan Hermens, schepenen, Gerrit Lamberts, Jan Lucassen, Lambert Jan Aerts en Aert Jaspers, borgemeesters, Delis Luijcas, kerkmeester, en Dirk Munnixhoff, armmeester, Willem Jan Penninx, Hendrik Jan Aerts, Jacob Joorden Donkers, Jan Teunis Martens, Jan Huijbers van Dommelen, Jan Goorts, Jan Aerts, Jan Peters van den Heuvel, Laurens van den Berg, Hendrik Antonies Martens, Jan Lambers, Jan Aert Jaspers, Jan Teunis Martens in den Hoeck, Delis Teunis Martens, Joseph Jansen, Gerrit Ansems, Peter Wouters, Huijbert Gerrit Scheepers, Huijbert Tomas, A. Melis van den Else, Laurens Jan Aerts, Gerrit Peter Rutten, Ansem van Haendel, Lambert Hermens, Willem Jan Tielemans en Corstiaen Lau-rense van Roij, ingezetenen en regeerders van Erp, hebben geleend van Francois Blommers, borger der stad Grave, een somme van 2000 gulden. Akte op perkament. Uithangend zegel gedeeltelijk aanwezig., 1678</p>
@@ -9656,6 +9887,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte ten overstaan van schepenen van 's-Hertogenbosch. Arnoldus Leijten, president, Laureijns van den Berch, schepen, en Adriaen Jan Martens, borgemeester van Erp, hebben geleend van juffr. Elisabeth van Beugen weduwe Suijskens, een somme van 1000 carolus gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 1 juni 1715. Uithangende zegels en zegelstaarten verloren, 1679</p>
@@ -9680,6 +9917,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte ten overstaan van schepenen van 's-Hertogenbosch. Aert Jaspers, Goiert van Roeij, de heer Advocaet, Jan Aert Leijten, schepenen en borgemeester, Laureijnss Janssen van Hoogenhuijsen, Ansem van Haendel en Hendrick Jan Aerts, schepenen, Jan Jan Pauwels, Jan Hendrick Aert Hermens en Ansem Melissen van den Eisen, borgemeesters, Hendrick Teunis Martens en Jan Lamberts, armmeesters, Laureijns Jan Jan Aerts en Gerrit Ansem, kerkmeesters, representerende het corpus van Erp, hebben geleend van Sr. Roeloff Tibosch, de somme van 1000 carolus gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso. Uithangende zegels en zegelstaarten verloren., 1680</p>
@@ -9704,6 +9947,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Jan Leijten, Laurens van Hoogenhuijsen, Goiaert van Roij, Hendrick Jan Aarts, Dirck Paulussen, Willem van den Berg en Adriaan Jan Martens, schepenen van Erp, gemachtigd door andere regenten, hebben tot betaling van de grote quote in de extra ordinairen omslag, geleend van Harmen Bijmans wonende te Vechel de somme van 500 gulden. Akte op perkament; gedeeltelijk gecasseerd blijkens aantekeningen in dorso. Uithangend schepenzegel aanwezig., 1683</p>
@@ -9728,6 +9977,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Laurens van Hoogenhuijsen, Goiart van Roij, Hendrick Jan Aerts, Dirck Paulussen, Ariaen Jan Martens en Willem van den Berg, schepenen, Teunis Jan Aerts, Cornelis Lamberts en Peter Laurenss van den Berg, borgemeesters, Hendrick teunis Martens en Jan Jan Lamberts, armmeesters. Jan Teunis Martens en Gerard Ansems, kerkmeesters, mitsgaders Laurens van den Berg, Laurens Jan Aerts, Peter Hendricks, Jan Gerrits Smits, Willem Penninx, Aert Jaspers, Aart Willems en Jacob Joorden Donkers, naburen en ingezetenen van Erp, Jan Leijten, president-schepen, Goort Willems, borgemeester en Jacob Boor, secretaris, machtigen om 750 gulden te lenen van mr. David Bel, als momboir van de kinderen Willem Reckers verwekt bij Anna Maria dochter Michiel Winters, tot aflossing van diverse leningen en obligaties. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 10 januari 1726. Uithangend zegel verloren, 1685</p>
@@ -9752,6 +10007,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte ten overstaan van schepenen van 's-Hertogenbosch waarbij Jan Leijtten, advocaet en Jacob Boor, president-schepen en secretaris, Laureijns van Hoogenhuijsen. Goijaert van Roij, Hendrick Jan Aerts, Dirck Paulusse, Ariaen Jan Martens en Willem van den Bergh, schepenen, Teunis Jan Aerts, Cornelis Lamberts en Peeter Laureijnssen van den Bergh, borgemeesters, Hendrick Teunis Martens en Jan Jan Lamberts, armmeesters, Jan Teunis Martens en Gerard Ancems, kerkmeesters, mitsgaders Laurens van den Bergh, Jan Teunis Marttens, Peter Hendrix, Jan Gerrit Smits, Willem Pennincx, Aert Jaspers, Aert Willems en Jacob Joorden Donckers naburen en ingezetenen van Erp, hebben geleend van Grietie dochter van Christiaen van Kleeff, de somme van 1000 carolus guldens. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 5 april 1741. Uithangend zegel gedeeltelijk aanwezig., 1685</p>
@@ -9776,6 +10037,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte ten overstaan van schepenen van 's-Hertogenbosch waarbij Laurens van Hoogenhuijsen, Goiart van Roij, Hendrick Jan Aerts, Dirck Paulussen, Ariaen Jan Martens, en Willem van den Berg, schepenen, Teunis Jan Aerts, Cornelis Lamberts en Peter Laurensen van den Berg, borgemeesters, Hendrick Teunis Martens en Jan Jan Lamberts, armmeesters, Jan Teunis Martens en Gerard Ansems, kerkmeesters, mitsgaders Laurens van den Berg, Laurens Jan Aerts, Peter Hendricks, Jan Gerrit Smits, Willem Penninx, Aert Jaspers, Aert Willeasen en Jacob Joorden Donckers, naburen en ingezetenen van Erp, machtiging geven aan Jan Leijten, president-schepen, Goort Willems, borgemeester en Jacob Boor, secretaris, om te lenen van Juffrouw Margarita en Catarina Brouckhuijsen de somme van 1000 gulden tot aflossing van diverse geldleningen. Akte op perkament; gecasseerd. Fragment uithangend zegel, 1685</p>
@@ -9800,6 +10067,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte ten overstaan van schepenen van 's-Hertogenbosch waarbij Leonaert Claessen van Lieshout, borgemeester, Johan Leijtten, Laureijns van Hoogenhuijsen, Hendrick Jan Aerts, Adriaen Jan Marttens, Dierck Paulus Roeffs, Jan Jan Paulus Smits en Aert Willems, schepenen, Hendrick Willem Molders, Huijbert Peter Franssen en Huijbert Dierck Aerts, borgemeesters, Jan Melisse en Goort Willems, kerkmeesters, alsmede Gerrit Ansems en Laureijns van den Bergh, armmeesters, Willem Penninx, Willem Eijken, Jacob Joorden Donckers, Jan Gerrit Lamberts, Jan Everts, Jan Lamberts, Jan Teunis Marttens, Joris Peeters, Jan Hoesen, Matthijs Willems, Jan Jacob Aerts, Willem van den Bergh en Jan Willem Jansse, ingezetenen en naburen van Erp, hebben geleend en schuldig zijn aan Catharina Verwiel weduwe van Anthonij de Vlieger, wonende in Erp, een somme van 1000 carolus gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 2 maart 1723. Uithangend zegel en zegelstaart verloren., 1689</p>
@@ -9824,6 +10097,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte, verleden voor schepenen van 's-Hertogenbosch, waarbij Adriaen Jan Marttens, schepen en Jan Willem Jansse, borgemeester van Erp, alsmede in name en gemachtigd door Hendrick Jan Aarts, Dirck Paulus Roefs. Jan Jan Pauwelss Smits en Aart Willems, schepenen, Joris Peter Jan Smits, Jan Jacob Aarts en Aart Janssen, borgemeesters, alsmede Laureijns van den Bergh, Gerrit Ansems, armmeesters, Jacob Joorden Donckers, Huijbert Dirck Aarts, Jan Peter Theunissen, Jan Everts, Huijbert Peter Franssen, Jan Theunis Martens, Hendrick Peters van den Eisen, Jan Hoeben, Arien Hendrick Ariens, Willem aarts van Diepen-beeck, Peter Swarts, Jan van den Eisen, Laureijns Jan Aarts, Willem Pennincx, Willem Rijcken, Willem van den Bergh, Jan Gerrith Lamberts, Willem Jan Luijcassen, Jan Gerrith van Beeck, Cornelis Lamberts, Peter Willem Thielemans, Jan Jan Laureijnssen en Ansem van Haendel, ingezetenen en naburen van Erp, schuldig zijn aan Gerardus van den Eeckert, de somme van 1000 carolus gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 17 oktober 1725. Uithangende zegels verloren., 1689</p>
@@ -9848,6 +10127,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte ten overstaan van schepenen van 's-Hertogenbosch, waarbij Adriaen Jan Martens, schepen en Jan Willem Jansse, borgemeester van Erp, in naam en gemachtigd door Hendrick Jan Aerts, Dirck Paulus Roefs. Jan Jan Pauels Smith en Aert Jansse, borgemeesters, Laurens van den Berch en Gerrit Ansems, armmeesters, Jacob Joorden Donckers, Huijbert Dircz Aerts, Jan Peter Theunissen, Jan Everts, Huijbert Peter Franssen, Jan Theunis Martens, Hendrick Peter van den Eisen, Jan Hoeben, Arien Hendrick Ariens, Willem Aerts van Diepenbeeck, Peter Swarts, Jan van den Eisen, Laurens Jan Aerts, Willem Pennincx, Willem Eijcken, Willem van den Bergh, Jan Gerrit Lamberts, Willem Jan Luijcassen, Jan Gerrit van Beeck, Cornelis Lamberts, Peter Willen Tielemans, Jan Jan Laureijnssen en Ansem van Haendel, ingezetenen en naburen van Erp, hebben geleend de somme van 700 carolus gulden van Willem Vos, notaris en klerk van 's-Hertogenbosch alsmede ten behoeve van zijn drie zusters. Akte op perkament; gecasseerd. Uithangend zegel en zegelstaart verloren., 1689</p>
@@ -9872,6 +10157,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Jan Paulus Smits en Aart Willems, Joris Peters van Hout en Ariaan Jan Martens schepenen van Erp en Jan Willem Jans, borgemeester, gemachtigd door Hendrick Jan Aarts, Jan Jacob Aarts, Aart Jansen, Jan Melissen en Goort Willems, kerkmeesters, Gerrit Anseros en Laurens van den Berg, armmeesters, alsmede Jacob Joorden Donckers, Dirck Janss, Jan Teunis Martens, Hendrick Peters van den Eisen, Arien Hendrick Ariens, Willem Aart Hendricks van Dieperbeeck, Tij s Willems, Jan Lamberts, Hendrick Teunis Martens, Laurens Jan Aarts, Willem Penninx, Willem Eijcken, Jan Gerrit Lamberts, Willem Jan Luijcassen, Hendrick Gerrits, Leendert Claassen, Cornelis Lamberts, Jan Gerrits de Smit, Peter Willems, Huijbert Dircks, Jan Evers en Huijbert Peters, ingezetenen van Erp, een lening aan gaan van Peerken wed. Goort Lamberts, van een somme van 300 gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 27 maart 1744. Uithangend zegel en zegelstaart verloren., 1690</p>
@@ -9899,6 +10190,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte Erp, waarbij Peeter Willera Rutte te Boerdonk, weduwnaar van Jenneke, weduwe van Jan Hendrix van Aarle, overdraagt (cessie) de geldlening van 50 gulden aan de armen van Erp. Akte op perkament. Met zegelstaart verbonden aan inv.nr. 418 -31. Inv.nr. 426 -7, 1709</p>
@@ -9923,6 +10220,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Jan Leijten, Laurens van Hoogenhuijsen, Hendrick Jan Aarts, Aart Willems, Jan Pauluss Smits, en Adriaan Jan Martens, schepenen van Erp en Jan Willem Jans, Joris Peters van Houdt, Jan Jacob Aerts en Aart Janssen, borgemeesters, Jan Melissen en Goort Willems, kerkmeesters, Gerrit Ansems en Laurens van den Berg, armmeesters, alsmede Jacob Joorden Donckers, Dirck Jansen, Jan Teunis Martens, Hendrick Peters van den Eisen, Arien Hendrick Ariens, Willem Aart Hendricks van Dieperbeeck, Tijs Willems, Jan Lamberts, Hendrick Teunis Martens, Laurens Jan Aarts, Willem Penninx, Willem Eijcken, Jan Gerrit Lamberts, Willem Jan Luijcassen, Hendrick Gerrits, Leendert Claassen, Cornelis Lamberts, Jan Gerrits de Smit, Peter Willems, Huijbert Dircks, Jan Evers en Huijbert Peters ingezetenen van Erp, hebben geleend van Huijbert Claassen de somme van 50 gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 6 juli 1715. Uithangend zegel en zegelstaart verloren., 1691</p>
@@ -9947,6 +10250,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Jan Leijten, Laurens van Hoogenhuijsen, Hendrick Jan aarts, Dirck Paulus Roefs, Aart Willems en Jan Jan Paulus Smits, schepenen alsmede burgemeesters en armmeesters. Ariaan Jan Martens, medeschepen en Jan Willem Jans, borgemeester, machtigen om van Willem Eijcken de somme van 1273 gulden en 10 stuivers te lenen. Akte op perkament; gecasseerd. Fragment uithangend schepenze- gel., 1691</p>
@@ -9971,6 +10280,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte ten overstaan van Jan Leijten, Laurens van Hoogenhuijsen, Hendrick Jan Aerts, Jan Paulus Smits en Aert Willems, schepenen van Erp, waarbij Ariaan Jan Martens en Jan Willem Jans, borgemeesters, gemachtigd door Hensriek Jan Aarts, Jan Paulus Smits, Aart Willems, alsmede Joris Peters, Jan Jacob Aerts en Aart Jansen, borgemeesters, Jan Melissen en Goort Willems, kerkmeesters, Gerrit Ansems en Laurens van den Berg, armmeesters, Jacob Joorden Donckers, Dirck Jansen, Jan Thonis Mar-tens, Hendrick Peters van den Eisen, Arien Hendrick Ariens, Willem Aart Hendricks van Dieperbeeck, Tijs Willems, Jan Lamberts, Hendrick Teunis Martens, Laurens Jan Aerts, Willem Penninx, Willem Eijcken, Jan Gerrit Lamberts, Willem Jan Luijcass., Hendrick Gerrits, Leendert Claessen, Cornelis Lamberts, Jan Gerrits de Smit, Peter Willems, Huijbert Dircks, Jan Evers en Huijbert Peters, ingezetenen van Erp, bekennen ontvangen te hebben en schuldig te zijn aan Jan Evers int Hool, de somme van 400 gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 21 maart 1755. Uithangend zegel met zegelstaart verloren, 1691</p>
@@ -9995,6 +10310,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Jan Leijten, Laurens van Hoogenhuijsen, Hendrick Jan Aarts, Jan Jan Paulus Smits, Aart Willems, Joris Peters van Hout en Ariaan Jan Martens, schepenen van Erp, alsmede Jan Willem Jans, Joris Peters, Jan Jacob Aarts en Aart Jansen, borgemeesters, Jan Melissen en Goort Willems, kerkmeesters, Gerrit Ansems en Laurens van den Berg, armmeesters, Jacob Joorden Donckers, Dirck Jansen, Jan Teunis Martens, Hendrick Peters van den Eisen, Arien Hendrick Ariens, Willem Aart Hendricks van Dieperbeeck, Thijs Willems, Jan Lamberts, Hendrick Teunis Martens, Laurens Jan Aarts, Willem Penninx, Willem Eijcken, Jan Gerrit Lamberts, Willem Jan Luijcassen, Hendrick Gerrits, Leendert Claassen, Cornelis Lamberts, Jan Gerrits de Smit, Geert Willems, Huijbert Dircks, Jan Evers en Huijbert Peters, ingezetenen van Erp, hebben geleend van Jacob Joorden Donckers een somme van 500 gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 27 maart 1745. Uithangend zegel., 1691</p>
@@ -10019,6 +10340,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Zie regestnr. 132. Geleend van Anneken Laurense tot Beeck een somme van 100 gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 27 maart 1745. Uithangend zegel gedeeltelijk aanwezig, 1691</p>
@@ -10043,6 +10370,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Jan Leijten, Laurens van Hoogenhuijsen, Hendrick Jan Aarts, Aart Willems, Jan Paulus Smits en Ariaan Jan Martens, schepenen, Jan Willem Jans, Joris Peters, Jan Jacob Aerts en Aart Jansen, borgemeesters, Jan Melissen en Goort Willems, kerkmeesters, Gerrit Ansems en Laurens van den Berg, armmeesters alsmede Jacob Joorden Donckers, Dirck Jansen, Jan Teunis Martens, Hendrick Peter van den Eisen, Arien Hendrick Ariens, Willem aart Hendricks van Diepenbeeck, Thijs Willems, Jan Lamberts, Hendrick Teunis Martens, Laurens Jam Aerts, Willem Pennincx, Willem Eijcken, Jan Gerrit Lamberts, Willem Jan Luijcassen, Hendrick Gerrits, Leendert Claassen, Cornelis Lamberts, Jan Gerrits de Smit, Peter Willems, Huijbert Dircks, Jan Evers en Huijbert Peters ingezetenen van Erp, hebben geleend van Willem Aart Hendricks een somme van 90 gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 11 december 1725. Uithangend zegel en zegelstaart verloren, 1691</p>
@@ -10067,6 +10400,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Jan Leijten, Hendrick Jan Aarts, Adriaan Jan Martens, Laurens Jan Aarts, Aart Willems en Willem van den Berg, schepenen van Erp, bekennen geleend te hebben van Jacob Joorden Donckers een somme van 400 gulden ter voldoening van de ontvanger der verpondingen. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 17 maart 1773. Uithangend zegel en zegelstaart verloren, 1695</p>
@@ -10091,6 +10430,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Jan Leijten, Hendrick Jan Aarts, Ariaan Jan Martens, Laurens Jan Aerts, Willem van den Berg en Aart Willems, schepenen van Erp, bekennen geleend te hebben van Hendrick Hendricks van Volckel, een somme van 500 gulden, ten behoeve van de gemeente ter voldoening van de ontvanger der verpondingen. Akte op perkament; gecasseerd. Uithangend zegel en zegelstaart verloren., 1695</p>
@@ -10115,6 +10460,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Jan Leijten, Hendrick Jan Aarts, Aart Willems, Laurens Jan Aarts, Ariaan Jan Martens en Willem van den Berg, schepenen van Erp, bekennen geleend te hebben van Lambert Jansen van den Berg een somme van 200 gulden, ter voldoening van de ontvanger der verpondingen. Akte op perkament; gecasseerd. Uithangend zegel en zegelstaart verloren, 1695</p>
@@ -10139,6 +10490,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Jan Leijten, Hendrick Jan Aarts, Ariaan Jan Martens, Laurens Jan Aarts, Willem van den Berg en Aart Willems, schepenen van Erp, bekennen geleend te hebben van Jasper Aart Jaspers een somme van 150 gulden, ter voldoening van de ontvanger der verpondingen. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 22 maart 1756. Uihangend zegel en zegelstaart verloren, 1695</p>
@@ -10163,6 +10520,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Jan Leijten, Hendrick Jan Aarts, Ariaan Jan Martens, Aart Willems, Laurens Jan Aarts en Willem van den Berg schepenen van Erp, bekennen geleend te hebben van Jan Gerrit Lamberts van den Berg, een somme van 300 gulden en 2 stuivers, ter voldoening van de ontvanger der verpondingen. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 10 februari 1714. Uithangend zegel en zegelstaart verloren, 1695</p>
@@ -10187,6 +10550,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Jan Leijten, Hendrick Jan Aarts, Ariaan Jan Martens, Laurens Jan Aarts, Aert Willems en Willem van den Berg, schepenen van Erp, bekennen geleend te hebben van Jan Peters de Leeuw, een somme van 100 gulden, ter voldoening van de ontvanger der verpondingen. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 4 juli 1715. Uithangend zegel en zegelstaart verloren., 1695</p>
@@ -10211,6 +10580,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Jan Leijten, Hendrick Jan Aarts, Ariaan Jan Martens, Laurens Jan Aarts, Willem van den Berg en Aart Willems, schepenen van Erp, bekennen geleend te hebben van Arien Hendrick Ariens, een somme van 100 gulden, ter voldoening van de ontvanger der verpondingen. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 19 maart 1773. Uithangende zegels en zegelstaarten verloren., 1695</p>
@@ -10235,6 +10610,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Jan Leijten, Hendrick Jan Aarts, Ariaan Jan Martens, Laurens Jan Aarts, Aart Willems en Willem van den Berg, schepenen van Erp, bekennen geleend te hebben van Huijbert Claasen, een somme van 50 gulden, ter voldoening van de ontvanger der verpondingen. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 1 juli 1715. Uithangend zegel en zegelstaart verloren, 1696</p>
@@ -10259,6 +10640,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Marten Janssen van Hoeck en Jan Hendrix van Velthoven wonende te Erp, gemachtigd door Jan Leijten, Dirk Janssen van Osch, Willem van den Berg, Jan Cornelis van Schijndel, Corst Welten van Hooft, Lambert Cornelis van Schijndel, Marten Jan Lucasse, Dirk Lamberts, Peter Jan Leunis, Aldaert Jan Peters, Jan Jan Lamberts van den Berg, Willem van Rosmalen, Jan Janssen van dommelen, Anthonij Peter Swarts, Jan van den Oever, Huijbert Theunis Gijsberts, Adriaen van Rosmalen, Willem Jan Lucassen, Hendrick van Dommelen, Jacob Hendrix van Deurssen, Jacob Gerrit Smits, Willem Peters van den Bergh, Gerrit Janssen, Peter Gerrit Rutten, Gerrit Ancems van Dijck, Marten Gerrit Tielemans, Lambert Dirx, Aert Willems, Jan Willemsse, Heijmen Aert Jaspers, Jan Claessen van Lieshout, Jan Hendrix de Witte, Goort Goorts van Oudevelt en Jan Jan Huijberts, alle inwoners van Erp, in procuratiebrieve voor Aert Willems van der Aa en Jan Willem Janssen, schepenen van Erp en H. Bijmans subs. secretaris van Erp, een somme van 2500 gulden hebben geleend met intrest van 4% van Sr. Johan van den Eekart wonende te Sint Michielsgestel. Akte op perkament; gecasseerd 27 maart 1760. Uithangende zegels en zegelstaarten verloren., 1709</p>
@@ -10286,6 +10673,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte van Erp ten overstaan van Willem Peters van Lanckvelt en Aert Willems van der Aa, schepenen van Erp, waarbij Jan Leijten, Marten Jan Theunis Martens, Jan Willem Janse, Peter Janse Smits, Ariaen van Roosmaelen, Willem Peters, Willem Jan Luijcasse, Jan Cornelis Lambers, Corst Welten, Jan Claessen van Lieshout, Peter Gerrits, Hendrik Hendriks Vermeer, Marten Gerrits, Peter Willem Peters, Dirk Janse van Os, Willem Philipse, Jan Willem scheepers, Jacob Hendrik van velthoven, Roeff Willem Scheepers, Hendrik Jan Huijbers, Joris Peters van Hout, Jasper Aert Jaspers, Jan Laurense van den Bergh, Jan Huijbert Arlens, Tonie Peter Swarts, Teunis Leenders, Adriaen Driesse, Lambert Jacob Cleijne, Hendrik Hendrik Teunisse, Aert Janse, Willem van Deure, Gerrit Jan Teunisse, Jan van der Asdonck, Jacob Gerrits de Smith, Matheus Janse, Hendrick van Dommelen, Jacob van Deurse, Jasper Aert Jaspers, Huijbert Teunisse, Maria wed. v. Jan Melisse van den Eisen, Peter Peter Leunis, wed. Teunis Jan Scheepers, Hendrik Hendrik Jan Emonts, Hendrik Jorissen, Willem Laurense van den Bergh, Willem Janse van Roosmaelen, Hendrik Jorissen, Jan Hendriks van Velthoven, Jan Jan Huijbers, wed. Goort Huijbers, Tijs Dielissen, wed. Cornelis Lambers, Lambert Cornelisse van Schijndel, Jan Heeren, Lambert Dircks, Gerrit Hendrik Jan Emonts, Elisabeth Leijten wed. v. Willem Eijcken, Willem Vermeulen, Jan Delis Janse, Peter Jan teunis, Jan Hendriks de Witte, Heijmen Aert Jaspers, Jan Jan Lambers van den Bergh, Wilbert Hendriks, Evert Janse van Roosmaelen, Ariaen Teunis Jan Aerts, Ariaan Delis Ariens, Hendrik Aert Otten, Dirk Lambers, Willem Peters van den Elsen, Arnoldus Eijcken, Nicolaes Leijten, machtigen Jan Willem Janse en Lambert Dirck Lambers om 1500 gulden te lenen van Sr. Johan van Eeckaert te Sint Michielsgestel. Akte op papier. Opgedrukt zegel grotendeels verloren gegaan., 1709</p>
@@ -10334,6 +10727,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Gerardus de Jongh, secretaris van Erp, gemachtigde van Jan Willem Janss, Adriaen van Roosmalen, Peter Janssen Smits, Marten Geerit Tielemans, Jasper Aerts, Adriaen Driessen van Keldonck en Hendrick van Dommelen, schepenen; Hendrick van Meer, Adriaen Tonis, Jan Aerts, Jan Huijbert Ariens ende Jan Evers, borgemeesters, leent 373 gulden van Jan Willem Janssen tot aflossing van een geldlening. , 1715</p>
@@ -10358,6 +10757,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte ten overstaan van schepenen van 's-Hertogenbosch. Gerardus de Jongh, secretaris, gemachtigd door Jan Willem Janssen, Adriaen van Roosmalen, Peter Jansse Smits, Marten Gerrit Tielemans, Jasper Aerts, Adriaen Driessen van Kelsdonk, Hendrik van Dommelen, schepenen; Hendrik van de Meer, Adriaen Teunis, Jan Aerts, Jan Huijbert Ariens en Jan Everts, borgemeesters, hebben van vrouwe Johanna Minten huisvrouw van den heer Menno Coehoorn, major der stad Roermond, geleend een somme van 1000 carolus gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 22 maart 1765. Uithangende zegels en zegelstaarten verloren, 1715</p>
@@ -10382,6 +10787,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Gerardus de Jongh gemachtigde van Jan Willem Janssen, Adriaen van Roosmalen, Peter Janssen Smits, Marten Gerrit Tielemans, Jasper Aerts, Adriaen Driessen van Keldonk, Hendrik van Dommelen; schepenen; Hendrik van der Meer, Adriaen Teunis Jan Aerts, Jan Huijbert Ariens en Jan Everts: borgemeesters, in procuratie van den 6 juni 1715, ondertekend door Jan Willem Janssen, president; heeft geleend van de heer mr. Johan Ignatius van den Eeckaert, advocaat alhier, ten behoeve van Me-chlina Maria van Beugen verwekt bij Maria Johanna van den Eeckaert, minderjarige, een kapitale somme van 1650 car. gulden mette intrest van 3 gulden, 10 st. van 't honderd. Akte op perkament: gecasseerd volgens aantekeningen in dorso op 1 juli 1715. Met opgedrukt zegel. Uithangende zegels met zegelstaart verloren., 1715</p>
@@ -10406,6 +10817,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte 's-Hertogenbosch, waarbij Henrick van Dommelen, president en Marten Gerrit Tielemans, schepen, namens Gerrit Anselmis van Dijck, Adriaen van Rosmalen, mr. Jan van der Asdoncq, Hendrik van der Meer en Adriaen Driesse van Keldoncq, schepenen; Willem Jan Luijcas, Nicolaes Leenders, Andries Tonis Jan Aarts en Corst Welten, borgemeesters; Jan Henriex, kerkmeester; Jan Ariens van de Laer en Gerits Jans, armmeesters; Huijbert Peter Gerits van den Berg, Jan Martens, Tonis Aerts, Jacob Jan Gommers, Jacob Willems van den Tillaer, Willem Gerrit Henrick Jans, Aert Henricx, Jan Aerts, Aert Dirck Lamers, Marten Dikkissen, Adriaen Henrick Jan Aerts, Adriaen Jan Tonisse, Dielis Jan Dilisse, Willem Peters van den Berg, Cornelis Peters, Jan Peter Jan Tonis, Dirck Gijsberts, Jan Adams, de wed. Roeloff Willems, Jan Willem Scheepers, Jan Dircx Lambert Jans, Dirck Jans van Osch, Jan de Lauw, Marten Luijcasse, Peter Joris (Boute), Jan Dirx, Antonij Goorts, Antonij Peter Henrix, Goort Willems, Ancem Jacobs, Matijs Teeuwens, Jan Laurijns Jansse, Marten Janssen, Henrick Henricks, Jan Lamers, Jacob van Deurse, Antonij Delissen, Willem van Duere, Matheus Jans, Tonij Goossens, Willem Jans van Rosmalen, Willem Claessen, D. Bel (schoolmeester). Jan Henrick Gerit Schepers, Jan Goort Goorts, Jan Henricx, Luijcas Henrix, Jan Henrix van Velthoven, Peter Cornelis van Schijndel, Luijcas Delis, Simon Jan Luijcassen, Marten Jan Luijcassen, Jan Jansse van Oeveren, Henrick Huijberts en Jasper Aerts, alle naburen en ingezetenen van Erp, 550 gulden lenen van sr. Wilhelmus van Heeswijk, coopman te 's-Hertogenbosch. Akte op perkament., 1717</p>
@@ -10430,6 +10847,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Adriaen Jan Martens en Willem van den Bergh, schepenen van Erp, 200 gulden lenen van Lambert Janss. van den Bergh, tot aflossing van een gecesseerde geldlening. Akte op perkament., 1718</p>
@@ -10454,6 +10877,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte van 's-Hertogenbosch, waarbij Adriaen van Rosmalen, president en Willem Jurrien, burgemeester, namens Adriaen van Kilsdoncq, Marten Gerit Tielemans, Henrick van Meer, Jan Delissen Jans, Aert Deckers en Peter Jan Smits, schepenen; Tonis Leenders, Ancem Coijmans en Marten Dictussen, burgemeesters, 500 gulden lenen van Paulus van Geulen te 's-Hertogenbosch, alsmede 600 gulden lenen tot betaling van de houtschat en andere kosten, zoals vermeld in het request van 28 april 1719. Akte op perkament., 1719</p>
@@ -10478,6 +10907,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte van 's-Hertogenbosch, waarbij Adriaen van Rosmalen, president en Dirk Jan Hendrikx Versteegden, burgemeester, namens Adriaen Driessen van Keldonk, Aert Beckers, Willem Peters van den Bergh, Jasper Aerts. Jan Dilis Jans, Hendrik Hendrik Theunisse, schepenen; Antonij Gosens, Jan hendrix, Jan Gerit Schepers en Peter Willem Peters, burgemeesters; Jan Martens en Jan Hendrix Gerit Schepers, armmeesters; alsmede Willem Jans van Rosmalen, kerkmeester, bekennen schuldig te zijn aan Johannes Paulus van Keulen ten behoeve van zijn zuster Maria Adriana Elisabeth van Keulen, de som van 1600 gulden. Akte op perkament. Uithangende zegels met zegelstaart verdwenen., 1721</p>
@@ -10502,6 +10937,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte verleden voor schepenen van 's-Hertogenbosch, waarbij Adriaan van Rosmalen, president schepen namens Adriaen Driessen van Keldonck, Willem Jan Luijcas, Peter Teunis, Jan Schepers, Henrik Henrix van Haendel, Jan Delissen, Dirk Jans van Osch, Jan Willem Schepers, Lambert Jacobs Cleijne en Laurijns Peters van de Luijtelaer, schepenen en burgemeesters van Erp, bekennen schuldig te zijn aan Anna Bosch, weduwe van Peter van den Endepoel de som van 850 gulden. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 21 maart 1771. Uithangende zegels en zegelstaarten verloren., 1722</p>
@@ -10526,6 +10967,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte te 's-Hertogenbosch, waarbij Adriaën van Rosmalen, president, namens burgemeesters, H.Geestmeesters en kerkmeesters, 1800 gulden leent van juffrouw Aldegonda van Wamel, weduwe van Antonij Hee, tot aflossing van kapitalen. Akte op perkament., 1722</p>
@@ -10550,6 +10997,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte te 's-Hertogenbosch, waarbij Adriaën van Rosmalen, president en Corst Welten, burgemeester namens schepenen, burgemeesters, H.Geestmeesters en kerkmeesters, 1000 gulden leent van juffrouw Maria van Wamel te 's-Hertogenbosch. Akte op perkament., 1723</p>
@@ -10574,6 +11027,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte te 's-Hertogenbosch, waarbij Adriaën van Rosmalen, president en Hendrik Cornelis van Schijndel, burgemeester, namens schepenen, burgemeesters, H.Geestmeesters en kerkmeesters, 1000 gulden lenen van sr. Adriaën van de Keer ten behoeve van Anthonetta Abengelis. Akte op perkament., 1723</p>
@@ -10598,6 +11057,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte te 's-Hertogenbosch, waarbij Gerardus de Jongh, openbaar notaris te Erp, namens Adriaen van Rosmalen, president, Willem Jan Lucas, Willem Peters van den Bergh, Peter Teunisse, Claes Leenders, Aert Beckers en Jan Delisse, schepenen, 300 gulden leent van Willem Wijnants, coopman in wijnen te 's-Hertogenbosch. Akte op perkament., 1724</p>
@@ -10752,6 +11217,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte van Erp waarbij, Arndt Leijten, Laurens Jansen, Jan Huijbert Queens, Hendrik Hendrik Aerts, Hendrik de Witte, Jan Hermense en Jan Willems, schepenen; Jan Lucas, Geerit Lambers, Lambert Jan Aerts en Aert Jaspers, borgemeesters; Laurens Jansen, kerkmeester; Delis Luijcas, Gerit Lambers en Dirck Munnincxhoff, armmeesters, 200 gulden lenen van Josep Janssen in 1673, in 1729 schuldig aan Herman Bijmans. Actum Erp desen 27 februarij sestienhondert drie ent seeventig. Acte op papier, blijkens dorsiale aantekening gecasseerd in 1729, 1673, 1729</p>
@@ -10776,6 +11247,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij, Aert Leijten, Laureijns Jansse van Hoogenhuijsen, Jan Huijbert Queens, Jan Dirck Handrickx, Aert Handrick de Witte en Jan Hermense, schepenen, Ansem Janssen van Haendel, Jan Laureijnssen en Welt Welten, borgemeesters, Dirck Munnincxhoff en Hendrick Anthonis, armmeesters, Dielis Luijcas en Huijbert Gerits, kerkmeesters, cessie verlenen van de geldlening van de heer Adriaen van Goor als man en momboir van juffrouw Maria Catharina van Beugen, van 9 november 1675, ter grootte van 2000 gulden, aan Elisabeth Anna en Colleta van Wamel, vertegenwoordigd door meester Victor van Beugen. Akte op perkament. Uithangende zegels en zegelstaarten verloren, 1680</p>
@@ -10800,6 +11277,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Laurens van Hogenhuijsen, Goiart van Roij, Hendrick Jan Aerts, Dirck Paulussen, Willem van den Berg en Ariaen Jan Martens, schepenen, Teunis Jan Aerts, Cornelis Lamberts en Peter Laurensen van den Berg, borgemeesters, Hendrick Teunis Martens en Jan Jan Lamberts, armmeesters, Jan Teunis Martens en Gerrit Ansems, kerkmeesters, alsmede Laurens van den Berg, Laurens Jan Aerts, Peter Hendricks, Jan Gerit Smits, Willem Penninx, Aart Jaspers, Aart Willems en Jacob Joorden Donckers, ingezetenen van Erp, hebben volmacht gegeven aan Jan Leijten, president-schepen, Goort Willems, borgemeester en Jacob Boor, secretaris, om ten behoeve van de gemeente Erp een bedrag van 3250 gulden te lenen van Gerrit Philipsen van der Cruijs, inwoner en molenaar van Gemert, om daarmee diverse schulden af te lossen ten behoeve van Hendrick Hendricks C.B. wonende tot Volckel lande van Ravesteijn, Antonis Jans wonende tot Uden lande van Ravesteijn, Willem Vos als hebbende actionem cessam van Jan Claesen van Lieshout en Jan Leijten als erfgenaam van Aart Leijten. Akte op perkament; gecasseerd. Uithangend zegel verloren, 1685</p>
@@ -10824,6 +11307,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Cessie van geldlening van schepenen van Erp, Hendrik de Wilde als man en momboir van Elisabeth dochter van Lambert Gerrits van den Bergh als erfgenaam van Peerken Gerrit Lambers van den Bergh aan Geertruij weduwe van Jan Gerrit Lambers van den Bergh, van een obligatie van 100 gulden, staande tot laste van de gemeijnte van Erp, van dato 5 mei 1673; item een obligatie van 200 gulden van dato 6 april 1691. Akte op perkament. Uithangend schepenzegel grotendeels aanwezig, 1700</p>
@@ -10848,6 +11337,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Cessie geldlening van schepenen van Erp. Johannes Hendricks van Berlicum inwoner van Gemert, man en momboir van Maria dochter van Willem van Dinther, als erfgenaam van Megtelt weduwe van Hendrick Jagers zijns vrouwen grootmoeder, laten aan Adriaen van Rosmalen en Willem van den Berg, armmeesters van Erp, de geldlening van 500 gulden van 6 januari 1673, geleend van Jenneken Adams van der Hagen tot Gemert. Getuigen waren hierover Aert Willems van der Aa en Jan Willem Mulders, schepenen en H. Bijmans secretaris. Akte op perkament. Uithangend zegel en zegelstaart verloren, 1708</p>
@@ -10884,6 +11379,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte waarbij Jan Willem Janssen, schepen en Marten Jan Luij-casse, borgemeester, gemachtigd door Jan Leijten, Aert Willems van der Aa, Peter Janssen Smits, Dirk Janssen van Osch, Marten Janssen en Willem Peters van Lankvelt, schepenen, Marten Gerrits, Willem Peters van den berg en Lambert Dirx, borgemeesters, Adriaen van Rosmalen en Willem Jan Luijcasse, armmeesters, Corst Welten en Jan van Dommelen, kerkmeesters, representerende het corpus van Erp, een somme van 1050 carolus gulden hebben geleend van Sr. Johannes van den Eekart te Sint Michielsgestel, ter aflossing van een gelijke somme die het voors. corpus verschuldigd is aan Gerrit Ansems. Akte op perkament; gecasseerd blijkens aantekeningen in dorso op 24 maart 1763. Uithangende zegels met zegelstaart verloren, 1709</p>
@@ -10932,6 +11433,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte ten overstaan van mr. Abraham Daasdonk en Johan van Sevenhoven, schepenen in 's-Hertogenbosch, waarbij Gerardus de Jongh, gemachtigd door Jan Willem Janssen, Adriaen van Roosmalen, Peter Janssen Smits, Marten Gerrit Tielemans, Jasper Aerts, Adriaen Driessen van Kelsdonck, Hendrik van Dommelen, schepenen; Hendrik van de Meer, Adriaen Teunis Jan Aerts, Jan Huijbert Ariens en Jan Everts, borgemessters, alsmede ondertekend door Jan Willem Janssen, president, leent een kapitale somme van 2.000 caroli guldens van vrouwe Eufaemia Minten, gehuwd met heer Louis Montfoort, tegen 31/2 %, teneinde daarna een kapitaal met hogere intrest af te lossen. Akte op perkament. Uit aantekeningen in dorso blijkt dat de akte ter secretarie van 's-Hertogenbosch is gecasseerd op 20 maart 1769. Uithangende zegels en zegelstaarten verloren, 1715</p>
@@ -10956,6 +11463,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Akte ten overstaan van Jan Willem Jans en Hendrik van Dommelen, schepenen in Erp, waarbij Gerardus de Jongh secretaris van Erp, gemachtigd door Jan Willem Jans, Adriaen van Roosmalen, Peter Jan Smits, Marten Gerrit Tielemans, Jasper Aerts, Adriaen Driessen van Keldonck en Hendrik van Dommelen, schepenen; Hendrik van de Meer, Adriaen Tonis Jan Aerts, Jan Huijbert Ariens en Jan Evers, borgemeesters van Erp, 550 gulden leent van de kerkfabriek te Erp, vertegenwoordigd door Jan Hendrik Brugmans, kerkmeester, tegen 31/2 % rente, teneinde daarmee een gelijke lening af te lossen aan juffr, Elisabeth Leijten weduwe Willem Eijcken, geleend bij akte van 4 november 1672. Akte op perkament. Uit aantekeningen in dorso blijkt dat de lening in twee leningen is afgelost, nl. 20 maart 1761 en 18 maart 1767. Uithangend zegel met zegelstaart verloren, 1716</p>
@@ -11007,6 +11520,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte van Erp, waarbij Adriaen van Roosmalen en Adriaen Driessen van Keldonck een geldlening van 50 gulden ten laste van het corpus van Erp, geleend van Maria Geerit Ancems van Dijk, wed. van Jan van Dommelen, wordt gecedeerd aan David Bel, schoolmeester. Akte op perkament. Gedeelte zegel aanwezig., 1720</p>
@@ -11034,6 +11553,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Copie Schepenakte Erp waarbij, heer Antonij Martini, professor en bedienaar des Goddelijk woord, te 's-Bosch, als executeur van de boedel van Jacob Boor z.g., heeft gecedeerd aan de armentafel van Erp een geldlening van 150 gulden ten laste van het corpus van Erp, in 1692 geleend van juffr. Geertruij Leijten. Actum Erp seventien daegen der maend van november des jaers seventienhondert ende seven. Akte op papier, blijkens aantekeningen gecasseerd in 1763., 1726</p>
@@ -11061,6 +11586,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte van Erp betreffende de cessie van geldlening aan Gerardus de Jong, secretaris, in 1689 geleend door Jan, broer van Teunis Jacob Aarts te Keldonk. Claas Leenders, Peeter Teunisse, Willem Jurie en Adriaan van Roosmalen schepenen van Erp. Gegeven deesen vijffden maart seventienhondert agtentwintig. Akte op papier met opgedrukte schepenzegels., 1728</p>
@@ -11088,6 +11619,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte van 's-Hertogenbosch, waarbij signeur Aelbert Sam, gehuwd met Johanna dochter van Hermen Beijmans, bekent van de schepenen van Erp te hebben ontvangen een bedrag van 200 gulden ter aflossing van de geldlening, die in 1673 is gesloten met Joseph Janssen. Akte op papier met opgedrukte schepenzegels., 1729</p>
@@ -11112,6 +11649,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte Erp, waarbij cessie van geldlening wordt verleend ten laste van Adriaen van Roosmalen en Peter Teunisse, schepenen, Francis van den Bosch en Delis Jan Delisse, armmeesters, van 373 gulden, geleend van Jan Willem Jansse aan de armen van Erp. Akte op perkament, 1729</p>
@@ -11133,6 +11676,12 @@
                       <odd type="VINDPLAATS ORIGINEEL">
                         <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                     </c08>
                     <c08 level="file">
                       <did id="MF10787814">
@@ -11149,6 +11698,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte van Erp, waarbij cessie van geldlening wordt verleend ten overstaan van Hendrik Jansen en Jan Goort Huijberts, schepenen, ten laste van het corpus van Erp, van 90 gulden, geleend van Antonij Jansen van de Laar, mitsgaders Hendrick Jan Daaten gehuwd met Elisabeth Jansen van de Laar. Geldlening eertijds van Willem Aart Hendrix, overgegeven aan Jan Hendrik Brugmans en Antonij Willems van Lanckvelt, armmeesters. Akte op perkament., 1735</p>
@@ -11173,6 +11728,12 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                       <daogrp xlink:type="extended">
                         <daodesc>
                           <p>Schepenakte van Erp, waarbij Gerard de Jong, heer van Beek en Donk en secretaris van Erp, volgende geldleningen ten laste van het corpus van Erp, cedeert aan de armen van Erp: van Jan van Osch, 50 gulden; van Teunis Jacob Hurks, 50 gulden; van Jan Roeffen, 50 gulden; van Jan en Peter zonen van Jan Poulus Smits, 50 gulden. Akte op perkament, 1750</p>
@@ -11194,6 +11755,12 @@
                       <odd type="VINDPLAATS ORIGINEEL">
                         <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                       </odd>
+                      <controlaccess>
+                        <controlaccess>
+                          <head>OAI-PMH set</head>
+                          <subject>MONASTERIUM</subject>
+                        </controlaccess>
+                      </controlaccess>
                     </c08>
                   </c07>
                 </c06>
@@ -11613,6 +12180,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Register van eedaflegging door gezworenen en de schutter, 1732-1749; keuren en breuken, 1732-1749 en een ordonnantie op het schoonhouden van de rivier de Aa, met verdeling der belastende eigenaren of gebruikers en vermelding van hun gronden, 1736</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/618F85C0DD1B482E8A35370BFFD600A6" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
               </c05>
               <c05 level="subseries">
@@ -11845,6 +12420,12 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935219">
@@ -12124,6 +12705,12 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935241">
@@ -12825,6 +13412,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1688</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/A5E088C6D82441DD9D8A632906E09F41" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935296">
@@ -13163,6 +13758,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1714</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/3B12218C1E4647D8B202998010D4DD46" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935319">
@@ -13201,6 +13804,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1716</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/0DFA96B9A132478792CB40B93CE90016" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935321">
@@ -13259,6 +13870,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1719</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/DD1C9B43DD624E8AAF6DB3A3521DD823" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935324">
@@ -13271,6 +13890,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1720</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/D30B17E9737444F49D914AB5E6E07294" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935325">
@@ -13283,6 +13910,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1721</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/06A314F914404EF6B232FD30092C6FC0" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935326">
@@ -13295,6 +13930,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1722</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/53AF76D429C74FEE95514D0A46DC1EBA" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935327">
@@ -13307,6 +13950,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1723</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/F5D32FD317A24CD5A2D629EB8318D57F" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935328">
@@ -13319,6 +13970,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1724</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/AF2304D9271D403C8E5C59B100A42848" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935329">
@@ -13367,6 +14026,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1728</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/B7B3811D75DB4E6B8713FBBC680DB397" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935333">
@@ -13402,6 +14069,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1730</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/2F11510F916D4F8183200175EE496F33" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935335">
@@ -13414,6 +14089,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1731</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/9A4209C055964546B5AA5EEDB0AEB711" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF9935336">
@@ -15401,6 +16084,12 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935485">
@@ -15637,6 +16326,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Maatboekje van landerijen, gelegen te Boerdonk, opgenomen door de landmeters gebroeders Heelygs en Sander van Seelst, 1629</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/E743DBC309EC4C38B87F59510DD67BFF" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935503">
@@ -15699,6 +16396,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Kohier van verpondingen betreffende Keldonk en Boerdonk, 1695</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/21F0CC7FC6904FD5A36C0F43E86C8E70" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935507">
@@ -15730,6 +16435,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Kohier van verpondingen, beschrijvende tevens de percelen, betreffende Dieperscant, Horsken, Hevelbergh, Hoeck, Erpse Bordonck, Donck (Keldonk), 1702</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/3B8E88473EAA46FEAA0F9055DBAEB4E0" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935509">
@@ -16269,6 +16982,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Gedeelte (fragment) van het maatboek, c. 1809</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/29400FC7B7F843ADB4327522FE94CA49" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935539">
@@ -17907,6 +18628,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Schouwverbalen over rivieren Aa, Leijgraaf en andere waterlopen, 1762-1787</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/565CB9FB8B2841DE86089CFD6E141EA3" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935664">
@@ -17920,6 +18649,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Correspondentie met Willem C. Ackerdijck te 's-Hertogenbosch betreffende het schoonhouden en verbreden van rivier De Aa, 1776</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/7623775120D14DEB97539CAD6321E68E" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935665">
@@ -17959,6 +18696,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Publicatie, waarbij de watermolenaars worden gelast tot het ruimen van de dammen in de rivier De Aa, 1794</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/CE9A55DF4B37427CB594757021E30F41" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935668">
@@ -17975,6 +18720,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Stukken betreffende de zorg voor de waterstand van de rivier de Aa, 1799-1813</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/DC3BE22FE29944AE840135DAC8779BCF" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
               </c05>
               <c05 level="subseries">
@@ -18028,6 +18781,12 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                 </c06>
               </c05>
             </c04>
@@ -18063,6 +18822,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>De rentmeester der Domeinen bevestigt het pootrecht door hertogin Johanna bij privilege van 20 november 1379 verleend en geeft daarbij het recht om te planten tegen betaling van zekere proceskosten en een jaarlijkse cijns van 4 kapuinen, 1644</p>
@@ -18176,6 +18941,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Schouwverbalen van wegen, herbanen, straten, stegen en cautergaten door de collecteur van de houtschat, geassisteerd door de schepenen en secretaris, 1757-1783</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/268B2370164D4E359F412423B0EA9BBC" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935684">
@@ -18550,6 +19323,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF9935713">
@@ -18605,6 +19384,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF9935717">
@@ -18760,6 +19545,20 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Schepenakte Erp, waarbij zij ordonneren, dat alle getrouwde inwoners, wederzijds van buiten Erp afkomstig, hun kinderen; alle weduwnaars en weduwen van buiten Erp afkomstig en minder dan 12 jaren in Erp wonen, een attestatie van goed gedrag moeten overleggen en binnen 4 weken een borgsom betalen van 150 gulden per persoon, dat aan deze personen geen landerijen mogen worden verhuurd voordat dat bedrag is voldaan; Voorts dat niemand hutten e.d. mag bouwen op de gemeinte, 1685</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/9EC8A87D80904333996099EA178B2720" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935730">
@@ -18826,6 +19625,14 @@
                       <odd type="VINDPLAATS ORIGINEEL">
                         <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                       </odd>
+                      <daogrp xlink:type="extended">
+                        <daodesc>
+                          <p>1741-1760 34- 91</p>
+                        </daodesc>
+                        <resource xlink:type="resource" xlink:label="start"/>
+                        <daoloc xlink:href="https://proxy.archieven.nl/235/AB2DC801093E48F2B15ED5B6EA49443C" xlink:type="locator" xlink:label="reference"/>
+                        <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                      </daogrp>
                     </c08>
                     <c08 level="file">
                       <did id="MF9935736">
@@ -18839,6 +19646,14 @@
                       <odd type="VINDPLAATS ORIGINEEL">
                         <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                       </odd>
+                      <daogrp xlink:type="extended">
+                        <daodesc>
+                          <p>1761-1775 92-165</p>
+                        </daodesc>
+                        <resource xlink:type="resource" xlink:label="start"/>
+                        <daoloc xlink:href="https://proxy.archieven.nl/235/8A43D4F6C98B4548A41AA4DC6BF7AAD1" xlink:type="locator" xlink:label="reference"/>
+                        <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                      </daogrp>
                     </c08>
                     <c08 level="file">
                       <did id="MF9935737">
@@ -19681,6 +20496,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Authentiek geschreven en ondertekende opdracht van generaal Daendels aan de magistraat van Erp om twee afgevaardigden naar de vergadering in Sint-Oedenrode te zenden i.v.m. leveranties van hooi en haver, z.j. ca. 1794</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/397D3DB521004C34AD526B20F85ACCDB" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935797">
@@ -19982,6 +20805,12 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                 </c06>
                 <c06 level="file">
                   <did id="MF9935819">
@@ -20193,6 +21022,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Schepenakte van 's-Hertogenbosch, waarbij Lucas zoon van wijlen Lucas Lucassen heeft verkocht aan heer Laurentius Cuypers, priester, zoon van Nicolaus Cuypers van Uden, een huis met aangelag genaamd in Sint Anthonis te Erp, 1548</p>
@@ -20219,6 +21054,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte waarbij aartshertogen Albert. en Isabella besluiten, dat de dingbank van Erp een rechtszaak opnieuw moet openen over betaling van een rente door Andries Gommaerts aan Gerardsoens Aarts Delis, 1609</p>

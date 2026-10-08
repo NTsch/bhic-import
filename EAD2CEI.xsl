@@ -102,7 +102,16 @@
     
     <xsl:template match="ead:controlaccess"/>
     
-    <xsl:template match="ead:odd"/>
+    <xsl:template match="ead:odd[not(@type)]"/>
+    
+    <xsl:template match="ead:odd[@type='REDEN GEEN UITLEEN']"/>
+    
+    <xsl:template match="ead:odd[@type='VINDPLAATS ORIGINEEL']">
+        <cei:p>
+            <xsl:text>Vindplaats origineel: </xsl:text>
+            <xsl:apply-templates select=".//text()"/>
+        </cei:p>
+    </xsl:template>
     
     <xsl:template match="ead:unitid[@type='handle']">
         <cei:ref>
@@ -124,12 +133,22 @@
         </cei:abstract>
     </xsl:template>
     
+    <xsl:template match="ead:scopecontent">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="ead:p">
+        <cei:p>
+            <xsl:apply-templates/>
+        </cei:p>
+    </xsl:template>
+    
     <xsl:template match="ead:*[@level='file']">
         <cei:text type='charter'>
             <cei:front/>
             <cei:body>
                 <cei:idno>
-                    <xsl:value-of select="ead:did/ead:unitid[1]"/>
+                    <xsl:value-of select="ead:did/ead:unitid[not(@type)]"/>
                 </cei:idno>
                 <cei:chDesc>
                     <xsl:apply-templates select="ead:did/ead:unittitle"/>
@@ -152,6 +171,10 @@
                             <xsl:apply-templates select="ead:did/ead:physdesc"/>
                         </cei:physicalDesc>
                     </cei:witnessOrig>
+                    <cei:diplomaticAnalysis>
+                        <xsl:apply-templates select="ead:odd"></xsl:apply-templates>
+                        <xsl:apply-templates select="ead:scopecontent"/>
+                    </cei:diplomaticAnalysis>
                 </cei:chDesc>
             </cei:body>
         </cei:text>

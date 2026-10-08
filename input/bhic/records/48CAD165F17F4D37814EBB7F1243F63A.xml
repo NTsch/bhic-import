@@ -1,0 +1,1152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>48CAD165F17F4D37814EBB7F1243F63A</identifier>
+    <datestamp>2026-09-14</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HtBHIC">246</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Klooster van de Wilhelmieten in Huijbergen, 1305 - 1805</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+        <date calendar="gregorian" era="ce" normal="2020">2020</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF899780">
+      <unittitle>Klooster van de Wilhelmieten in Huijbergen, 1305 - 1805</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-HtBHIC">246</unitid>
+      <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/48CAD165F17F4D37814EBB7F1243F63A</unitid>
+      <unitdate calendar="gregorian" era="ce" normal="1305/1805">1305-1805</unitdate>
+      <note label="Vindplaats origineel">
+        <p>BHIC 's-Hertogenbosch</p>
+      </note>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Religie en Levensbeschouwing</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd>
+      <odd>
+        <head>Inleiding</head>
+        <p>Het klooster werd in 1278 gesticht. De laatste kloosterling verliet Huijbergen in 1847. De stukken zijn in de jaren 1933, 1953, 1956 en 1958 door het Brabants Historisch Informatie Centrum verworven en zijn beschreven door E. Korvezee.</p>
+        <p>Andere archiefstukken bevinden zich in het Bisschoppelijk Instituut Sainte-Marie te Huijbergen en in het Bisschoppelijk Archief van Breda.</p>
+        <p>Literatuur 
+          <lb/>- De geschiedenis van het Wilhelmietenklooster en van het Bisschoppelijk Instituut St.-Marie te Huijbergen door enige Oud-leerlingen (1906); 
+          <lb/>- K. Elm, Beiträge zur Geschichte des Wilhelmitenordens (Keulen/Graz 1962); 
+          <lb/>- Der Ordo Eremitarum S. Guillielmi. Entstehung, Eigenart, Wirksamkeit und Nachleben einer Toskanischen Eremitengemeinschaft (Huijbergen 1977); 
+          <lb/>- C. v.d. Walle, Siardus Bogaerts. De prior en zijn monasterium te Huijbergen 1614-1670 (Tilburg 1980).
+          <lb/>
+          <lb/>Rijksarchief in Noord-Brabant, 1995
+        </p>
+        <odd>
+          <head>
+            <emph render="bold">Aanwijzingen voor de gebruiker</emph>
+          </head>
+          <p>Verwijzing naar archiefstukken uit dit archief geschiedt door
+            <lb/>(volledig): 
+            <emph render="italic">Brabants Historisch Informatie Centrum, toegangsnummer 246 Klooster van de Wilhelmieten in Huijbergen, 1305-1805</emph>, inv.nr. ...
+            <lb/>(verkort): 
+            <emph render="italic">BHIC, 246 Wilhelmieten Huijbergen</emph>, inv.nr. ...
+          </p>
+        </odd>
+      </odd>
+    </odd>
+    <dsc type="combined">
+      <c01 level="series">
+        <did id="MF899781">
+          <unitid type="guid">F160BE20BBCE4578BFAD935AACAE8D5F</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Klooster Beatae Mariae Virginis der Wilhelmieten in Huijbergen,  1305 - 1805</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1305/1805"/>
+        </did>
+        <c02 level="file">
+          <did id="MF899782">
+            <unitid type="guid">9F0DC3067901407E915316B7E8361D82</unitid>
+            <unitid>1</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9F0DC3067901407E915316B7E8361D82</unitid>
+            <unittitle>Akte van overeenkomst tussen prior Huijbergen als pastoor Putte en pastoor Ettenhove over schuilkerk op laatstgenoemd gebied, met goedkeuring bisschop van Antwerpen, 1655</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1655">1655</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overeenkomst tussen prior Huijbergen als pastoor Putte en pastoor Ettenhove over schuilkerk op laatstgenoemd gebied, met goedkeuring bisschop van Antwerpen, 1655</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9F0DC3067901407E915316B7E8361D82" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899783">
+            <unitid type="guid">8C71E0F9E651491584347858184046E0</unitid>
+            <unitid>2</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8C71E0F9E651491584347858184046E0</unitid>
+            <unittitle>Lastgeving voor visitatoren, onder andere prior Huijbergen, van kloosters Wilhelmieten door provinciaal orde, 1686</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1686">1686</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Lastgeving voor visitatoren, onder andere prior Huijbergen, van kloosters Wilhelmieten door provinciaal orde, 1686</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/8C71E0F9E651491584347858184046E0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899784">
+            <unitid type="guid">3EE3A7E1DA4F4C4BB0CBB19D02948696</unitid>
+            <unitid>3</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3EE3A7E1DA4F4C4BB0CBB19D02948696</unitid>
+            <unittitle>Akte van opdracht door bisschop van Antwerpen van bediening pastoraat kerk Hoogerheide aan Cornelius van de Bogaert, religieus in Huijbergen, 1713</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1713">1713</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van opdracht door bisschop van Antwerpen van bediening pastoraat kerk Hoogerheide aan Cornelius van de Bogaert, religieus in Huijbergen, 1713</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3EE3A7E1DA4F4C4BB0CBB19D02948696" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899785">
+            <unitid type="guid">2DAD8ED203CB45E7BC7F5C523816D607</unitid>
+            <unitid>4</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2DAD8ED203CB45E7BC7F5C523816D607</unitid>
+            <unittitle>Bedankbrief van kardinaal Ganganelli aan prior-generaal orde op diens felicitatie naar aanleiding van zijn benoeming tot protector orde, gelijktijdige kopie, 1760</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1760">1760</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Bedankbrief van kardinaal Ganganelli aan prior-generaal orde op diens felicitatie naar aanleiding van zijn benoeming tot protector orde, gelijktijdige kopie, 1760</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2DAD8ED203CB45E7BC7F5C523816D607" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899786">
+            <unitid type="guid">E5C52A36F44045EFA0FBE5C8FB79AB83</unitid>
+            <unitid>5</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E5C52A36F44045EFA0FBE5C8FB79AB83</unitid>
+            <unittitle>Toestemming bisschop van Antwerpen aan Albertus Geens, religieus in Huijbergen, om te prediken en biecht te horen, 1779 - 1791</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1779/1791">1779 - 1791</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Toestemming bisschop van Antwerpen aan Albertus Geens, religieus in Huijbergen, om te prediken en biecht te horen, 1779 - 1791</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E5C52A36F44045EFA0FBE5C8FB79AB83" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899787">
+            <unitid type="guid">CF29AABD9BCE4479BA9DBFCAB64A0796</unitid>
+            <unitid>6</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CF29AABD9BCE4479BA9DBFCAB64A0796</unitid>
+            <unittitle>Brief aan paus met verzoek om bevestiging keuze Antonius Meeuw tot prior, minuut, 1795</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1795">1795</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Brief aan paus met verzoek om bevestiging keuze Antonius Meeuw tot prior, minuut, 1795</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CF29AABD9BCE4479BA9DBFCAB64A0796" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899788">
+            <unitid type="guid">DB5288473F724261A1698AFD66E514B8</unitid>
+            <unitid>7</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DB5288473F724261A1698AFD66E514B8</unitid>
+            <unittitle>Brief nieuw benoemde abt Brabants klooster aan zijn kloosterlingen, gelijktijdige kopie, 1805</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1805">1805</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Brief nieuw benoemde abt Brabants klooster aan zijn kloosterlingen, gelijktijdige kopie, 1805</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DB5288473F724261A1698AFD66E514B8" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899789">
+            <unitid type="guid">B5CAD1914AEB4417AC1A4FCCBB0A7B0D</unitid>
+            <unitid>8</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B5CAD1914AEB4417AC1A4FCCBB0A7B0D</unitid>
+            <unittitle>Lastgeving koning Philips IV aan predikant en voorlezer in Huijbergen gebouwen klooster te ontruimen voor conventualen, 1652</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1652">1652</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Lastgeving koning Philips IV aan predikant en voorlezer in Huijbergen gebouwen klooster te ontruimen voor conventualen, 1652</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B5CAD1914AEB4417AC1A4FCCBB0A7B0D" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899790">
+            <unitid type="guid">F2FC9B0ED0C34668BD5A4ACF44295DC5</unitid>
+            <unitid>9</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F2FC9B0ED0C34668BD5A4ACF44295DC5</unitid>
+            <unittitle>Verbod koning Philips IV aan Raad van State gebouw en goederen klooster te verpachten, met akte van gerechtelijke aanzegging in Huijbergen tot indaging voor Raad van Brabant te Brussel, 1654</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1654">1654</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Met aangehecht stuk</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verbod koning Philips IV aan Raad van State gebouw en goederen klooster te verpachten, met akte van gerechtelijke aanzegging in Huijbergen tot indaging voor Raad van Brabant te Brussel, 1654</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F2FC9B0ED0C34668BD5A4ACF44295DC5" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899791">
+            <unitid type="guid">4E8122C65B1149A8B04CE9AC65B51C86</unitid>
+            <unitid>10</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4E8122C65B1149A8B04CE9AC65B51C86</unitid>
+            <unittitle>Bevel keizerin Maria Theresia aan administrateur markies Bergen op Zoom en anderen zich te onthouden van rechtshandelingen in het door hertogdom Brabant opgeëiste gedeelte Huijbergen, 1755</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1755">1755</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Bevel keizerin Maria Theresia aan administrateur markies Bergen op Zoom en anderen zich te onthouden van rechtshandelingen in het door hertogdom Brabant opgeëiste gedeelte Huijbergen, 1755</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/4E8122C65B1149A8B04CE9AC65B51C86" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899792">
+            <unitid type="guid">D0F8CA079BA8424AAC6F3E9B1A2D3D58</unitid>
+            <unitid>11</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D0F8CA079BA8424AAC6F3E9B1A2D3D58</unitid>
+            <unittitle>Resolutie schepenbank Huijbergen over verwijderen schout van abt Tongerloo en aannemen schout van markies Bergen op Zoom, uittreksel, 1758</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1758">1758</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Resolutie schepenbank Huijbergen over verwijderen schout van abt Tongerloo en aannemen schout van markies Bergen op Zoom, uittreksel, 1758</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D0F8CA079BA8424AAC6F3E9B1A2D3D58" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899793">
+            <unitid type="guid">0B15A29F285748BE99D38684D460C387</unitid>
+            <unitid>12</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0B15A29F285748BE99D38684D460C387</unitid>
+            <unittitle>Weigering om in lasten bij te dragen, door Franse legers in 1796 in Zuidelijke Nederlanden geheven, met aantekeningen over dergelijke weigeringen, gelijktijdige kopieën, 1792 en 1794</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1792/1800">1792 en 1794</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Weigering om in lasten bij te dragen, door Franse legers in 1796 in Zuidelijke Nederlanden geheven, met aantekeningen over dergelijke weigeringen, gelijktijdige kopieën, 1792 en 1794</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0B15A29F285748BE99D38684D460C387" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899794">
+            <unitid type="guid">95E9A321DE584782B6241B6494376FEE</unitid>
+            <unitid>13</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/95E9A321DE584782B6241B6494376FEE</unitid>
+            <unittitle>Verzoekschrift Putte aan markies om goedkeuring van waarnemen kerkelijke zorg door religieuzen van klooster en om degene die parochie bedient, in bezit te stellen van tienden, met beschikking, 1633</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1633">1633</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verzoekschrift Putte aan markies om goedkeuring van waarnemen kerkelijke zorg door religieuzen van klooster en om degene die parochie bedient, in bezit te stellen van tienden, met beschikking, 1633</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/95E9A321DE584782B6241B6494376FEE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899795">
+            <unitid type="guid">40B14C29FA7442D9BD739F78F92AE6FA</unitid>
+            <unitid>14</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/40B14C29FA7442D9BD739F78F92AE6FA</unitid>
+            <unittitle>Verzoekschrift van prior en convent Huijbergen aan markies om wegens dienst in Putte pastorale tienden te mogen ontvangen, minuut, circa 1642</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1632/1652">circa 1642</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verzoekschrift van prior en convent Huijbergen aan markies om wegens dienst in Putte pastorale tienden te mogen ontvangen, minuut, circa 1642</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/40B14C29FA7442D9BD739F78F92AE6FA" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899796">
+            <unitid type="guid">08B5EB2F4F7B4DAD8983D0CD887F9593</unitid>
+            <unitid>15</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/08B5EB2F4F7B4DAD8983D0CD887F9593</unitid>
+            <unittitle>Verzoekschrift prior en convent Huijbergen aan Koning-Stadhouder Willem III, als heer Bergen op Zoom, om hun door overleden markiezin toegekende beloning voor bediening pastoorsambt in Putte te doen uitbetalen, met afwijzende beschikking, 1694</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1694">1694</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verzoekschrift prior en convent Huijbergen aan Koning-Stadhouder Willem III, als heer Bergen op Zoom, om hun door overleden markiezin toegekende beloning voor bediening pastoorsambt in Putte te doen uitbetalen, met afwijzende beschikking, 1694</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/08B5EB2F4F7B4DAD8983D0CD887F9593" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899797">
+            <unitid type="guid">F762D2A39E1845D48CE8B2096FA17CAD</unitid>
+            <unitid>16</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F762D2A39E1845D48CE8B2096FA17CAD</unitid>
+            <unittitle>Verzoekschrift klooster Huijbergen aan Staten-Generaal wegens dreigende vermeerdering lasten van kant ontvanger in Breda, met bijlagen, 1702</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1702">1702</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verzoekschrift klooster Huijbergen aan Staten-Generaal wegens dreigende vermeerdering lasten van kant ontvanger in Breda, met bijlagen, 1702</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F762D2A39E1845D48CE8B2096FA17CAD" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899798">
+            <unitid type="guid">A86EC38CF0A941C4BE5BAB616E28D3CC</unitid>
+            <unitid>17</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A86EC38CF0A941C4BE5BAB616E28D3CC</unitid>
+            <unittitle>Brief raden-fiscaal in Brussel waarbij kloosters gelast wordt aalmoezeniers voor leger aan te wijzen, 1776</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1776">1776</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Brief raden-fiscaal in Brussel waarbij kloosters gelast wordt aalmoezeniers voor leger aan te wijzen, 1776</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A86EC38CF0A941C4BE5BAB616E28D3CC" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899799">
+            <unitid type="guid">59768A168A0C485196087DF547BBB753</unitid>
+            <unitid>18</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/59768A168A0C485196087DF547BBB753</unitid>
+            <unittitle>Verklaring prior en convent Huijbergen dat deze door verdrijving uit hun klooster door Franse troepen niet in staat zijn belastingen te voldoen, gelijktijdige kopie, 1799</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1799">1799</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verklaring prior en convent Huijbergen dat deze door verdrijving uit hun klooster door Franse troepen niet in staat zijn belastingen te voldoen, gelijktijdige kopie, 1799</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/59768A168A0C485196087DF547BBB753" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899800">
+            <unitid type="guid">440FF0C8370043C593A21E3328368E4C</unitid>
+            <unitid>19</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/440FF0C8370043C593A21E3328368E4C</unitid>
+            <unittitle>Resoluties Staten-Generaal niet speciaal klooster betreffende, 1669 en 1748</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1669/1748">1669 en 1748</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Resoluties Staten-Generaal niet speciaal klooster betreffende, 1669 en 1748</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/440FF0C8370043C593A21E3328368E4C" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899801">
+            <unitid type="guid">EE8F4D0628DA4EA69984A70C851992BE</unitid>
+            <unitid>20</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EE8F4D0628DA4EA69984A70C851992BE</unitid>
+            <unittitle>Opgave bezittingen met inkomsten en jaarlijkse lasten, eind 18e eeuw</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1775/1800">eind 18e eeuw</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Opgave bezittingen met inkomsten en jaarlijkse lasten, eind 18e eeuw</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/EE8F4D0628DA4EA69984A70C851992BE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899802">
+            <unitid type="guid">DB00A944F74F4355BC95EF75B4242C30</unitid>
+            <unitid>21</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DB00A944F74F4355BC95EF75B4242C30</unitid>
+            <unittitle>Ingekomen brieven hoofdzakelijk over financiën, 1e helft 17e eeuw en 1774 - 1827</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1600/1827">1e helft 17e eeuw en 1774 - 1827</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Ingekomen brieven hoofdzakelijk over financiën, 1e helft 17e eeuw en 1774 - 1827</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DB00A944F74F4355BC95EF75B4242C30" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899803">
+            <unitid type="guid">3CC560FD5E884495BC1C41C05E28482A</unitid>
+            <unitid>22</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3CC560FD5E884495BC1C41C05E28482A</unitid>
+            <unittitle>Akte van overdracht door Cornelis Noytss voor zijn broeder Hugo, geprofeste in klooster Huijbergen, van al zijn (on)roerende goederen, 1509</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1509">1509</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 3</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht door Cornelis Noytss voor zijn broeder Hugo, geprofeste in klooster Huijbergen, van al zijn (on)roerende goederen, 1509</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3CC560FD5E884495BC1C41C05E28482A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899804">
+            <unitid type="guid">DD9E23DB6A5741408223266CDBEB0850</unitid>
+            <unitid>23</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DD9E23DB6A5741408223266CDBEB0850</unitid>
+            <unittitle>Uitspraak provinciaal en definitores orde Wilhelmieten in geschil tussen kloosters Beveren en Huijbergen over betaling huur landerijen, gelijktijdige kopie, 1655</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1655">1655</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Uitspraak provinciaal en definitores orde Wilhelmieten in geschil tussen kloosters Beveren en Huijbergen over betaling huur landerijen, gelijktijdige kopie, 1655</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DD9E23DB6A5741408223266CDBEB0850" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899805">
+            <unitid type="guid">F7059C81A43F4B669B43A710C239D1A3</unitid>
+            <unitid>24</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F7059C81A43F4B669B43A710C239D1A3</unitid>
+            <unittitle>Akte van opdracht door abt Tongerloo aan klooster Huijbergen van hoeve Creytenberg onder Kalmthout tegen jaarlijkse cijns, 1652</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1652">1652</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van opdracht door abt Tongerloo aan klooster Huijbergen van hoeve Creytenberg onder Kalmthout tegen jaarlijkse cijns, 1652</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F7059C81A43F4B669B43A710C239D1A3" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899806">
+            <unitid type="guid">C7DE20F6782A443F98A67CBB43BDD095</unitid>
+            <unitid>25</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C7DE20F6782A443F98A67CBB43BDD095</unitid>
+            <unittitle>Verklaring schepenen Turnhout over onbezwaardheid goederen Anthonius Boucquet, 1686</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1686">1686</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verklaring schepenen Turnhout over onbezwaardheid goederen Anthonius Boucquet, 1686</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C7DE20F6782A443F98A67CBB43BDD095" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899807">
+            <unitid type="guid">BF62B4BF7C5A4F1B8434A75823D04CCB</unitid>
+            <unitid>26</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BF62B4BF7C5A4F1B8434A75823D04CCB</unitid>
+            <unittitle>Akte van afstand door erfgenamen Barbara Boucquet en Wilhelmieten voor klooster Huijbergen van alle rechten op nalatenschap Barbara Boucquet en van schuldvorderingen op weduwe Gijsbert van Arentsma in Oisterwijk, met bevelschrift van uitvoering, 1696</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1696">1696</unitdate>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van afstand door erfgenamen Barbara Boucquet en Wilhelmieten voor klooster Huijbergen van alle rechten op nalatenschap Barbara Boucquet en van schuldvorderingen op weduwe Gijsbert van Arentsma in Oisterwijk, met bevelschrift van uitvoering, 1696</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/BF62B4BF7C5A4F1B8434A75823D04CCB" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899808">
+            <unitid type="guid">566B6E84A3A740779BD6AF365996028C</unitid>
+            <unitid>27</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/566B6E84A3A740779BD6AF365996028C</unitid>
+            <unittitle>Akte van verkoop huis in Herentalsestraat in Turnhout voor schepen Jan Pauwels, 1641</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1641">1641</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop huis in Herentalsestraat in Turnhout voor schepen Jan Pauwels, 1641</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/566B6E84A3A740779BD6AF365996028C" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899809">
+            <unitid type="guid">8BBE7619AB634F728E5515C1A7CE3179</unitid>
+            <unitid>28</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8BBE7619AB634F728E5515C1A7CE3179</unitid>
+            <unittitle>Akte van verkoop aan Barbara Boucquet van dries "De Kempeneer" aan Klein-Heike onder Turnhout, met akte van vestiging rente onder andere op deze dries uit 1651, 1653</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1651/1653">1653</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop aan Barbara Boucquet van dries "De Kempeneer" aan Klein-Heike onder Turnhout, met akte van vestiging rente onder andere op deze dries uit 1651, 1653</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/8BBE7619AB634F728E5515C1A7CE3179" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899810">
+            <unitid type="guid">EBE8BF76706A4B74A95504D2B3305EC6</unitid>
+            <unitid>29</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EBE8BF76706A4B74A95504D2B3305EC6</unitid>
+            <unittitle>Akte van verkoop aan Barbara Boucquet van beemd aan Voort onder Turnhout, 1655</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1655">1655</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop aan Barbara Boucquet van beemd aan Voort onder Turnhout, 1655</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/EBE8BF76706A4B74A95504D2B3305EC6" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899811">
+            <unitid type="guid">DF4CF9F504F447A88077098B169A3A27</unitid>
+            <unitid>30</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DF4CF9F504F447A88077098B169A3A27</unitid>
+            <unittitle>Akte van verkoop aan Barbara Boucquet van akker in "Broeksijakker" onder Turnhout, 1656</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1656">1656</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop aan Barbara Boucquet van akker in "Broeksijakker" onder Turnhout, 1656</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DF4CF9F504F447A88077098B169A3A27" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899812">
+            <unitid type="guid">A536A721691B4BA1B5E9D165648DA6EB</unitid>
+            <unitid>31</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A536A721691B4BA1B5E9D165648DA6EB</unitid>
+            <unittitle>Akte van verkoop aan Barbara Boucquet van weg "De Vonderdijk" onder Turnhout, 1657</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1657">1657</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop aan Barbara Boucquet van weg "De Vonderdijk" onder Turnhout, 1657</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A536A721691B4BA1B5E9D165648DA6EB" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899813">
+            <unitid type="guid">42C3F813C6FD498ABDE81A144AE8C9B1</unitid>
+            <unitid>32</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/42C3F813C6FD498ABDE81A144AE8C9B1</unitid>
+            <unittitle>Akte van verkoop aan Barbara Boucquet van akker aan Kruisweg naar Broeksijde onder Turnhout, 1661</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1661">1661</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop aan Barbara Boucquet van akker aan Kruisweg naar Broeksijde onder Turnhout, 1661</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/42C3F813C6FD498ABDE81A144AE8C9B1" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899814">
+            <unitid type="guid">1DDCB2DCF71241FE85937601A2B95EA6</unitid>
+            <unitid>33</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1DDCB2DCF71241FE85937601A2B95EA6</unitid>
+            <unittitle>Eigendomsbewijs voor Barbara Boucquet van beemd aan Oudendijk onder Turnhout, door ruiling verkregen, 1664</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1664">1664</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Eigendomsbewijs voor Barbara Boucquet van beemd aan Oudendijk onder Turnhout, door ruiling verkregen, 1664</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1DDCB2DCF71241FE85937601A2B95EA6" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899815">
+            <unitid type="guid">3E2F1607C61D47D4A18AD70B9C43A6D0</unitid>
+            <unitid>34</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3E2F1607C61D47D4A18AD70B9C43A6D0</unitid>
+            <unittitle>Akte van verkoop aan Barbara Boucquet van hoeve en land in Papenbrugge en heide in Herselingen, 1662</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1662">1662</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop aan Barbara Boucquet van hoeve en land in Papenbrugge en heide in Herselingen, 1662</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3E2F1607C61D47D4A18AD70B9C43A6D0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899816">
+            <unitid type="guid">37473ADCAE2742CC8F1D77F1B3473A09</unitid>
+            <unitid>35</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/37473ADCAE2742CC8F1D77F1B3473A09</unitid>
+            <unittitle>Akte van verkoop aan Barbara Boucquet van dries in Papenbrugge, 1622</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1622">1622</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop aan Barbara Boucquet van dries in Papenbrugge, 1622</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/37473ADCAE2742CC8F1D77F1B3473A09" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899817">
+            <unitid type="guid">2F4C2AD4732647C8BC4DFC27B4F97CB6</unitid>
+            <unitid>36</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2F4C2AD4732647C8BC4DFC27B4F97CB6</unitid>
+            <unittitle>Eigendomsbewijs voor Barbara Boucquet van stuk land in Papenbrugge, door ruiling verkregen, 1664</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1664">1664</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Eigendomsbewijs voor Barbara Boucquet van stuk land in Papenbrugge, door ruiling verkregen, 1664</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2F4C2AD4732647C8BC4DFC27B4F97CB6" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899818">
+            <unitid type="guid">86DA9D46336747FC86EF946DAB60503B</unitid>
+            <unitid>37</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/86DA9D46336747FC86EF946DAB60503B</unitid>
+            <unittitle>Akte van verkoop aan Barbara Boucquet van dries "Het Vonneken" in Papenbrugge, 1665</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1665">1665</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop aan Barbara Boucquet van dries "Het Vonneken" in Papenbrugge, 1665</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/86DA9D46336747FC86EF946DAB60503B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899819">
+            <unitid type="guid">F9D921B597C443A4825E367EB90D2CE9</unitid>
+            <unitid>38</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F9D921B597C443A4825E367EB90D2CE9</unitid>
+            <unittitle>Akte van verkoop aan Barbara Boucquet van hoeve met toebehoren en land in Papenbrugge, 1668</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1668">1668</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop aan Barbara Boucquet van hoeve met toebehoren en land in Papenbrugge, 1668</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F9D921B597C443A4825E367EB90D2CE9" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899820">
+            <unitid type="guid">EB9EF2F6786A4D17856BBC34E2D313A7</unitid>
+            <unitid>39</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EB9EF2F6786A4D17856BBC34E2D313A7</unitid>
+            <unittitle>Akte van benoeming namens Koning Philips II door prins Willem I als stadhouder van Holland en Zeeland voor Blasius Bucquet als raad en generaal-meester Munt in Holland en Zeeland, 1573</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1573">1573</unitdate>
+          </did>
+          <scopecontent>
+            <p>Dat familie Boucquet tevens in bezit was van één van de muntersplaatsen in munt te Dordrecht blijkt uit de inventaris archief van het Serment .... van de munt van Holland, verslagen 1914, deel I, blz. 441 en volgende, inv.nrs 70 en 80.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van benoeming namens Koning Philips II door prins Willem I als stadhouder van Holland en Zeeland voor Blasius Bucquet als raad en generaal-meester Munt in Holland en Zeeland, 1573</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/EB9EF2F6786A4D17856BBC34E2D313A7" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899821">
+            <unitid type="guid">E1BB3C70D79143BDAF944A30CC9428CB</unitid>
+            <unitid>40</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E1BB3C70D79143BDAF944A30CC9428CB</unitid>
+            <unittitle>Vestiging jaarlijkse cijns op huis in de Veterstraat voor Claeus Olivier, 1385</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1385">1385</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 2</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Vestiging jaarlijkse cijns op huis in de Veterstraat voor Claeus Olivier, 1385</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E1BB3C70D79143BDAF944A30CC9428CB" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899824">
+            <unitid type="guid">8A87A97D77584BC28A04C3E596CFDDCE</unitid>
+            <unitid>41</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8A87A97D77584BC28A04C3E596CFDDCE</unitid>
+            <unittitle>Vestiging jaarlijkse cijns voor Wouter die Baerdmakre en gaande uit een hem vroeger toebehorend erf, 1305</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1305">1305</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 1</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="file">
+          <did id="MF899822">
+            <unitid type="guid">FAB957F52F8140F2A0DE38820BEDDEDE</unitid>
+            <unitid>41.A</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FAB957F52F8140F2A0DE38820BEDDEDE</unitid>
+            <unittitle>Brief van Christina Chuts, priorin Norbertinessen in Antwerpen, 1664</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1664">1664</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Brief van Christina Chuts, priorin Norbertinessen in Antwerpen, 1664</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/FAB957F52F8140F2A0DE38820BEDDEDE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899823">
+            <unitid type="guid">FF328865D6ED452AA5E9F7DCBB0C3524</unitid>
+            <unitid>41.B</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FF328865D6ED452AA5E9F7DCBB0C3524</unitid>
+            <unittitle>Schuldbekentenis van Petrus Labritius voor erfgenamen Siardus Bogaerts wegens voorgeschoten gelden bij gelegenheid verteringen door prelaten, 1667</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1667">1667</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Schuldbekentenis van Petrus Labritius voor erfgenamen Siardus Bogaerts wegens voorgeschoten gelden bij gelegenheid verteringen door prelaten, 1667</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/FF328865D6ED452AA5E9F7DCBB0C3524" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF899825">
+            <unitid type="guid">2CA980389FC24ED5B017ED2AE2B53FCC</unitid>
+            <unitid>42</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2CA980389FC24ED5B017ED2AE2B53FCC</unitid>
+            <unittitle>Akte van toelating Petrus Roeloffs als rector altaar Sint-Barbara in kerk van Etten, met akte van inbezitneming, 1595</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1595">1595</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van toelating Petrus Roeloffs als rector altaar Sint-Barbara in kerk van Etten, met akte van inbezitneming, 1595</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2CA980389FC24ED5B017ED2AE2B53FCC" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF1143716">
+          <unitid type="guid">32E67B2356FA41A99759087392706307</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Regesten</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1305/1805"/>
+        </did>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142079">
+            <unitid type="guid">0F8F78E548E64D6992653472AD079F1E</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">1</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1305-07-04.&lt;br/&gt; 4 juli 1305 (sondaghes na sinte Pieters dach ende sinte Pauwels)&lt;br/&gt;Schepenen van Steenbergen oorkonden, dat Jan de Brouwer schuldig is aan Wouter de Baardmaker:&lt;br/&gt;jaarlijkse erfcijns van 5 pond, verschuldigd over erf aldaar, dat van Wouter geweest was en waarop Jan de Brouwer nu woont&lt;br/&gt;Origineel inventarisnr 41</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1305" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142080">
+            <unitid type="guid">B7CD0CD446074841BB82F86BFD38BAE3</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1385-09-24.&lt;br/&gt; 24 september 1385&lt;br/&gt;Schepenen van Bergen op Zoom oorkonden, dat Gerard Klaas Gerardsznszn schuldig is aan Klaas Olivier:&lt;br/&gt;jaarlijkse erfcijns van 2 schellingen groten Vlaams uit huis aan oostzijde Veterstraat&lt;br/&gt;Origineel inventarisnr 40</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1385" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1142081">
+            <unitid type="guid">B8B092455F84416FABC51ABC2DA78E89</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">3</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1509-05-30.&lt;br/&gt; 30 mei 1509&lt;br/&gt;Notaris Leonardus Johannis instrumenteert, dat Cornelius Noyts, aan zijn broer Hugo, profes in klooster Beatae Marie van Huijbergen al zijn roerende en onroerende goederen overdraagt&lt;br/&gt;Origineel inventarisnr 22&lt;br/&gt;Met signet notaris</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1509" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_246/48CAD165F17F4D37814EBB7F1243F63A_oai_ead.xml-->
+</record>

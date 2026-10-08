@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>B7B854B912404CBEB8B80E1271B09FEE</identifier>
-    <datestamp>2026-09-02</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -36,6 +36,11 @@
       </note>
     </did>
     <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
       <controlaccess>
         <head>Categorie</head>
         <subject>Families en Personen</subject>
@@ -97,6 +102,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte in latijn, waarbij schepenen van Grave oorkonden dat Gerard, zoon van Brustijn aan heer Gijsbert, priester, verkoopt  ten behoeve van zijn kinderen:  een jaarlijkse erfcijns van zeven schelling minus vier penning, gevestigd op zijn hele erfgoed naast het kerkhof (te Grave).&lt;br/&gt;Transcriptie overgenomen uit Oorkondenboek van G. van Synghel:&lt;br/&gt; Universisa presentes litteras visuris et audituris Willelmus Albus et Ghiselbertus, filius Rutgheri, scabini in Grauia, salutem cum agnitione veritatis.&lt;br/&gt;Noveritis quod Gerardus, filius Brusteni, coram nobis et aliis constitutus fidedignis legitime vendidit ad hereditatem suam totam, sitam iuxta cymiterium retro hereditatem Fyssie de Keynt, domino Ghiselberto, sacerdoti, presentium conservatori, ad opus puerorum suorum annuum et hereditarium censum septem solidorum parvorum denariorum legalium et bonorum quatuor denariis minus, anno quolibet in die beati Remigii dicto domino Ghiselberto ad opus puerorum suorum, ut predictum est, de dicta hereditate perpetuo solvendum eo iure penitus quo annui et hereditarii census domini de Kuyc in eodem opido de Grauia sunt solvendi. Et hec prescripta dictus Gerardus dicto domino Ghiselberto rite stabilivit et firmavit omni stabilitate et iure quibus talia solent stabiliri et firmari, presentium nostrarum testimonio litterarum.&lt;br/&gt;&lt;br/&gt;Datum anno Domini Mo CCo XCo quinto, feria tercia post Martini hyemalis.&lt;br/&gt;&lt;br/&gt;Aantekening op de achterzijde: 1o door 14e-eeuwse hand: Gerardus [***]. – 2o door 16e-eeuwse hand: Huysingen.&lt;br/&gt;&lt;br/&gt;Bezegeling: S1 uithangend bevestigd zegel van Willem Albus, schepen van Grave, randschrift licht beschadigd, van groene was. – S2 uithangend bevestigd zegel van Gijsbert, zoon van Rutger, schepen van Grave, randschrift beschadigd, van groene was, 15 nov 1295</p>

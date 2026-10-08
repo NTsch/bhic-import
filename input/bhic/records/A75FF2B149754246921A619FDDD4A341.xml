@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>A75FF2B149754246921A619FDDD4A341</identifier>
-    <datestamp>2026-09-02</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -29,15 +29,18 @@
     <did id="MF911676">
       <unittitle>Hoeve Stroobol in Sint-Oedenrode, 1356 - 1943</unittitle>
       <unitid countrycode="NL" repositorycode="NL-HtBHIC">380</unitid>
-      <note label="#guid">
-        <p>A75FF2B149754246921A619FDDD4A341</p>
-      </note>
-      <unitdate calendar="gregorian" era="ce" normal="1356/1943"/>
+      <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A75FF2B149754246921A619FDDD4A341</unitid>
+      <unitdate calendar="gregorian" era="ce" normal="1356/1943">1356-1943</unitdate>
       <note label="Vindplaats origineel">
         <p>BHIC 's-Hertogenbosch</p>
       </note>
     </did>
     <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
       <controlaccess>
         <head>Categorie</head>
         <subject>Algemeen bestuur en Politiek</subject>
@@ -120,6 +123,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van belening, door Wenceslaus en Johanna, hertogen van Brabant, van W. van Bobnagel (?) met hoeve Stroetbolle, gelijktijdige kopie, 1356</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C303F923B15841B59811FBA266DC3502" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF911679">
@@ -139,6 +156,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Vonnis van Leenhof van Brabant in Brussel, waarbij hoeve Stroetbolle, op grond van wanbetaling erfrenten door Jan van Erp, tijdelijk aan hem wordt ontnomen en in handen gesteld van Ambrosius van Dinter, 1454</p>
@@ -163,6 +186,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF911681">
@@ -182,6 +211,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overeenkomst, tussen A. van Dinter en Jan van Erp, over voorwaarden, waarop Van Dinter beheer over hoeve Stroetbolle weer overdraagt aan Van Erp, 1457</p>
@@ -209,6 +244,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Vonnis van Leenhof van Brabant in Brussel, waarbij hoeve Stroetbolle, op grond van niet nakomen voorwaarden, zoals vastgesteld in akte van 1457 (inventarisnr 4), aan Jan van Erp wordt ontnomen en definitief in handen gesteld van A. van Dinter, 1458 - 1459&lt;br/&gt;Met oudere bewijsstukken, waarin schout van Peelland verklaart Jan van Erp tot betaling van hun schulden te hebben aangemaand danwel (voorlopig) vonnis van Leenhof te hebben aangezegd</p>
@@ -235,6 +276,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van belening, door Leenhof van Brabant in Brussel, van A. van Dinter met hoeve Stroetbolle, 1459</p>
@@ -262,6 +309,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overeenkomst, tussen enerzijds A. van Dinter, en anderzijds M. van Bouchem en zijn echtgenote H. van Dinter, waarbij laatstgenoemden, in plaats van de aan hen door A. van Dinter en zijn vrouw bij de huwelijksvoorwaarden toegezegde erfrenten, hoeve Stroetbolle in leen krijgen, 1461</p>
@@ -286,6 +339,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van ruiling, door Aart die Juede, heer van Hardinxvelt, en J. Millinck, van hoeve Stroetbolle met grondrenten, gevestigd op goed Hardinxvelt, 1545&lt;br/&gt;Onderhandse akte, waarbij Floris en Ambrosius die Juede zich garant stellen voor correcte afhandeling genoemde ruil, 1545</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CA36BFB0B5EA4F6DA3B59F1A9C1F3D50" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF911686">
@@ -305,6 +372,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overdracht, door Aart die Juede en zijn 2 broers, aan J. Millinck, van hoeve Stroetbolle, 1545</p>
@@ -326,6 +399,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Kwitantie van Aart die Juede en zijn 2 broers, voor J. Millinck, wegens voldoen in inventarisnr 8 vermelde bijbetaling, 1545</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A9E7181F19EE41158932DEC7167C9A1A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF911688">
@@ -342,6 +423,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte uit leenregister Leenhof van Brabant in Brussel, waarbij J. Millinck beleend wordt met hoeve Stroetbolle, gelijktijdige authentieke kopie, 1547</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7BD019A95D5044B5B254D5BAB2E394D6" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF911689">
@@ -358,6 +453,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop, door Walraven van Nuynhem, aan J. Millinck, en akte van verklaring, door Van Nuynhem, dat Millinck hem volledig heeft betaald en dat hij de nog achterstallige erfrenten ten gunste van kapittel van Sint-Oedenrode, waarmee Hertogshuis was belast, alsnog zal betalen, 1552</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C2E3C80FA3D64CD59D0CB2B29B53EA3F" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF911690">
@@ -377,6 +486,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overdracht, door Walraven van Nuynhem, aan J. Millinck, van Hertogshuis, met ouder bewijsstuk, 1552</p>
@@ -401,6 +516,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overeenkomst tussen gemachtigde van H. van Malssen, heer van Tilburg, en timmerman Adriaan D. Hermansen, over bouw woonhuis op hoeve Stroetbolle, 1598</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B45DD36A191C49A8B60127250ACC324A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF911692">
@@ -420,6 +549,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van belening, door Leenhof van Brabant in Brussel, van Otto van Hargen, vrouwe van Tilburg, dochter van Splinter, en echtgenote van Huijbert van Malsen, met hoeve Stroetbolle, tiende Ten Houte in Oirschot en Sint-Oedenrode, en Hertogshuis, 1614</p>
@@ -444,6 +579,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte uit leenregister Leenhof van Brabant in Brussel, waarbij Adriaan van Malsen, heer van Tilburg en Goirle, wegens dood van zijn moeder Otto van Hargen, beleend wordt met hoeve Stroetbolle, tiende Ten Houte in Oirschot en Sint-Oedenrode, en Hertogshuis, 1616&lt;br/&gt;Authentieke kopie van 1629</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E37187DC1F104E77AA7C57078CCF30DC" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF911694">
@@ -463,6 +612,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van belening, door Raad van Brabant in Den Haag, van J. Baptista Larchier en zijn vrouw C. van den Campe, met hoeve Stroetbolle, 1662</p>
@@ -490,6 +645,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van belening, door Raad van Brabant in Den Haag, van M.J. van Lalaing en zijn vrouw M.C.J. d'Larchier, met hoeve Stroetbolle, 1708</p>
@@ -517,6 +678,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van belening, door Raad van Brabant in Den Haag, van C.J. van Lalaing, met hoeve Stroetbolle, 1764</p>
@@ -544,6 +711,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van belening, door Raad van Brabant in Den Haag, van M. van Lalaing, met hoeve Vogelsank, 1772</p>
@@ -571,6 +744,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van belening, door Raad van Brabant in Den Haag, van J. Kien, met hoeve Vogelsank, 1775</p>
@@ -606,6 +785,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Vertalingen en analyses van teksten uit periode 1465 - 1804 over hoeven Coeveringse Molen en Hertogshuis, in 'Bosch Strick Grefier', Leenregister van Peelland en schepenbankprotocollen van 's-Hertogenbosch, circa 1930</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/989E4EF350F94B7FAC67CE324096E802" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF911701">
@@ -672,6 +859,12 @@
               <date normal="1356" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143646">
@@ -688,14 +881,12 @@
               <date normal="1454" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1454-08-26.&lt;br/&gt; 1454 augustus 26 (26 dage in oighst)&lt;br/&gt;Philips, hertog van Bourgondië, oorkondt dat het leenhof van Brabant in Brussel Stroetbolle, op grond van 4 jaar achterstallige erfrenten, à 50 Rijnse guldens per jaar, veronderpand op de hoeve, tijdelijk aan Jan van Erp, wijlen Lucaszn, heeft ontnomen en zolang in handen gesteld van Ambrosius van Dinter totdat deze laatste de door Van Erp aan hem verschuldigde erfrenten, door middel van exploitatie van de hoeve, heeft terugverdiend&lt;br/&gt;Stadhouder der lenen en leden Leenhof: Henrik Magnus, Goossen van der Rijt, Arnt van Pede, Jan van Edingen heer van Kestergate, Jan van Erp alias Ostonis, Jan de Groot, Geldolf van der Noot&lt;br/&gt;Origineel (inventarisnr 2)&lt;br/&gt;Zegel 2 gaaf, 3-6 zwaar beschadigd, fragment zegel oorkonde</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/0B0B5541EA434C72BCCE6F47E3BD5B51" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143647">
@@ -712,6 +903,12 @@
               <date normal="1456" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143648">
@@ -728,14 +925,12 @@
               <date normal="1457" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1457-08-07.&lt;br/&gt; 1457 augustus 7&lt;br/&gt;Beoorkond wordt dat de rekening, opgemaakt door Louis van Lankveld ter verantwoording beheer hoeve Stroetbolle, voor Ambrosius van Dinter van 30 augustus 1456 tot 6 augustus 1457, is afgehoord door Jan van Erp, Ambrosius van Dinter, Melis van Bouchem en Jan de Rode, pachter van de hoeve&lt;br/&gt;Origineel (inventarisnr 3)&lt;br/&gt;Met opgedrukte zegel van Van Dinter, zegel van Van Erp ontbreekt</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/04D161C1100144AD94D96A83C4AFB797" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143649">
@@ -752,14 +947,12 @@
               <date normal="1457" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1457-09-27.&lt;br/&gt; 1457 september 27&lt;br/&gt;Philips, hertog van Bourgondië, oorkondt dat, ten overstaan van het Leenhof van Brabant in Brussel, Jan van Erp Lucaszn en Ambrosius van Dinter zijn overeengekomen dat Van Dinter, nu hij een groot deel van de door Van Erp aan achterstallige erfrenten door middel van exploitatie van de Stroetbolle heeft kunnen innen, het beheer over hoeve weer aan Van Erp overdraagt, op voorwaarde dat laatstgenoemde de nog verschuldigde 300 Rijnse guldens, binnen 3 jaar in 6 termijnen zal afbetalen en de hoeve, zolang hij zijn schulden nog niet heeft afgelost, niet zal verwaarlozen, en met de restrictie dat waneer Van Erp nogmaals nalatig zal worden hij de hoeve definitief aan Van Dinter zal verbeuren&lt;br/&gt;Stadhouder der lenen en leden leenhof: Henrik Magnus, Goossen van der Rijt, Peter van der Eiken, Jan de Groote, Peter van Thielt, Engelbrecht van Dielbeke, Willem Schilt&lt;br/&gt;Origineel (inventarisnr 4)&lt;br/&gt;Geïnsereerd in akte van 1459 april 6 (inventarisnr 5)</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/324633626955450E92A06C9FD693BEFB" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143650">
@@ -776,14 +969,12 @@
               <date normal="1458" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1458-09-04.&lt;br/&gt; 1458 september 4&lt;br/&gt;Gerit van Brakel, schout kwartier Peelland, verklaart dat hij Agnes van Sompeke, vrouw van Jan van Erp, en pachter van Stroetbolle, tot betaling van 50 Rijnse guldens en het nakomen van de van 27 september 1457 tussen Van Erp en Ambrosius van Dinter overeengekomen voorwaarden, heeft aangemaand&lt;br/&gt;Getuigen: leenmannen Reiner Die Gruyter, Willem Houbrakens&lt;br/&gt;Origineel (inventarisnr 5)&lt;br/&gt;Met fragment-zegels oorkonder en getuigen</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/13773464AD3940D8AC7D999728E0C3C1" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143651">
@@ -800,14 +991,12 @@
               <date normal="1459" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1459-01-23.&lt;br/&gt; 1459 januari 23 (dijnsdage voer Sunte Pauwelsdage 1458)&lt;br/&gt;Gerit van Brakel, schout kwartier Peelland, verklaart dat hij Agnes van Sompeke, vrouw van Jan van Erp, en pachter Stroetbolle, tot betaling van al hetgeen Van Erp aan Ambrosius van Dinter schuldig was, heeft aangemaand&lt;br/&gt;Getuigen: leenmannen Pauwels van Haastricht Roelofszn, Reiner van Gruter&lt;br/&gt;Origineel (inventarisnr 5)&lt;br/&gt;Met zegel schout en fragment-zegels getuigen, opgedrukt</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/5BB16149E70A4F06B86607A0E373B033" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143652">
@@ -824,6 +1013,12 @@
               <date normal="1459" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143653">
@@ -840,14 +1035,12 @@
               <date normal="1459" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1459-03-16.&lt;br/&gt; 1459 maart 16 (1458 na gewoenten van scriven des hoefs van Brabant)&lt;br/&gt;Gerrit van Brakel, schout kwartier Peelland, verklaart dat hij Jan Gijsens, pachter van de hoeve, en Agnes van Sompeke, vrouw van Jan van Erp, heeft aangezegd dat, krachtens vonnis van Leenhof, Melis van Bochem, in bezit is gesteld van Stroetbolle, tenzij men binnen 14 dagen kon aantonen dat schuld was afgelost&lt;br/&gt;Getuigen: leenmannen Reiner van Gruyter, Willem van Herthem&lt;br/&gt;Origineel (inventarisnr 5)&lt;br/&gt;Geïnsereerd in akte van 1459 april 9 (inventarisnr 5)</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/AF19287EF05A48E9BA707A1D0E150323" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143654">
@@ -864,6 +1057,12 @@
               <date normal="1459" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143655">
@@ -880,6 +1079,12 @@
               <date normal="1459" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143656">
@@ -896,6 +1101,12 @@
               <date normal="1461" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143657">
@@ -912,14 +1123,12 @@
               <date normal="1545" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1545-04-20.&lt;br/&gt; 1545 april 20&lt;br/&gt;Aart de Jude, heer van Hardinxveld, en Jan Millinck ruilen respectievelijk een hoeve, op dat moment verhuurd aan Goort Horrix, en grondrenten, die Splinter van Hargen, Millincks' zwager, heft van het goed Hardinxvelt, met bijbetaling van 1182 carolusguldens en 10 stuivers door Millinck&lt;br/&gt;Origineel (inventarisnr 8)</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/5B8621576C474A149D90444068A7BA4B" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143658">
@@ -936,6 +1145,12 @@
               <date normal="1545" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143659">
@@ -952,14 +1167,12 @@
               <date normal="1545" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1545-06-11.&lt;br/&gt; 1545 juni 11&lt;br/&gt;Cornelis van Gent, ambachtsheer van 's-Grevelduin tot Capelle en Waspik, en Jan van Werdenborch, heer van Gansoijen, oorkonden, als leenmannen van de hertog van Brabant, dat, ten overstaan van hen, Aart de Jude, heer van Hardinxvelt, en zijn broers Floris en Ambrosius, hebben overgedragen aan Jan, zoon wijlen Jan Millinck in leven heer van Waalwijk:&lt;br/&gt;hoeve Stroobol, zoals broers deze geerfd hadden van hun grootmoeder Barbara van Bochem&lt;br/&gt;Origineel (inventarisnr 9)&lt;br/&gt;Met zegels&lt;br/&gt;Ondertekend door Ambrosius en, in verband met een "quetzuur", van Floris de Jode, door Dirk Willemsen, secretaris van Hardinxvelt&lt;br/&gt;Op rugzijde: "Dit transport en is van gheender waerden geweest, hebben daeromme een ander gedaen voirden Stadthouder van den leenen in Brabant eerdat Jan Millinck verlij crijgen kondt, alst blijct bij bescheyt hierbij liggende dat autenthik is onderteyckent Middelburch" (bedoeld wordt inventarisnr 11)</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/B5D15D902F53480EBB81504AF5C614B3" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143660">
@@ -976,6 +1189,12 @@
               <date normal="1547" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143661">
@@ -992,14 +1211,12 @@
               <date normal="1552" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1552-10-23.&lt;br/&gt; 1552 oktober 23&lt;br/&gt;Walraven van Nuynhem verkoopt aan Jan Millinck beide boerderijen rondom kerkhof van Sint-Oedenrode en belast met jaarlijkse erfrenten en erfcijns ten gunste van kapittel&lt;br/&gt;Getuigen: Frans van Houthem, Jan Loeyen tot Brogel&lt;br/&gt;Origineel (inventarisnr 12)</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/8425A2389D154D7E9C5ACDDDBCD3E1A0" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143662">
@@ -1016,14 +1233,12 @@
               <date normal="1552" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1552-12-15.&lt;br/&gt; 1552 december 15&lt;br/&gt;Leonart, zoon van Roelof van Haastrecht, draagt over voor schepenen van 's-Hertogenbosch, aan Walraven, zoon van Philips van Nuenhem:&lt;br/&gt;huis, hofstad ( = bouwkavel), naast kerkhof van Sint-Oedenrode en Borchgreve, zoals deze bij testament door Goyart van Schijnveld, priester en scholaster in Sint-Oedenrode, waren nagelaten aan kinderen van Everard van Amerzoeyen, en van 25 maart 1552 door Everard, zoon van genoemde Everard en zijn vrouw Katharijne, dochter van Jan de Gruyter, in eigen persoon en als gemachtigde voor zijn broers en zusters, hun echtgenoten, ten overstaan van schepenen van 's-Hertogenbosch, waren overgedragen aan voornoemde Leanart&lt;br/&gt;Machtgevers: Henrik -, Elizabeth -, Margriet -, Mathijs van Strijp, als man van Jut -, Adriaan Daniëlssen, als man van Anna -, Henrik, zoon van Henrik Goyaarts in 't Dekerscot, als man van Agnes -, Adriaan, zoon van Jan van Luyteler, als man van Katharina van Haastrecht&lt;br/&gt;Schepenen 15 december: Willem de Borchgreve, Jan van den Water&lt;br/&gt;Origineel (inventarisnr 13)&lt;br/&gt;Met schepenzegels</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/6FE4695E639E446CA8D8F1826997963B" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143663">
@@ -1040,14 +1255,12 @@
               <date normal="1552" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1552-12-16.&lt;br/&gt; 1552 december 16&lt;br/&gt;Walraven, zoon van Philips van Nuenhem, draagt over voor schepenen van 's-Hertogenbosch, aan Jan, zoon van Jan Millinck:&lt;br/&gt;"beyde die hoffsteden metten huisingen" rondom kerkhof van Sint-Oedenrode, leenroerig aan en belast met 6 carolusguldens erfrenten en 2 hoenders erfcijns voor hertog van Brabant&lt;br/&gt;Schepenen: Roelof van Eik, Willem de Borchgreve&lt;br/&gt;Origineel (inventarisnr 13)&lt;br/&gt;Met schepenzegels</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/9348DA4B885C4638B6EBEDF08A7AEE04" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143664">
@@ -1064,14 +1277,12 @@
               <date normal="1598" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1598-01-18.&lt;br/&gt; 1598 januari 18&lt;br/&gt;Schepenen van Sint-Oedenrode bekrachtigen een onderhandse akte van 10 januari 1598, waarin Jan de Roy, secretaris van Tilburg, als gemachtigde van Huibert van Malsen, heer van Tilburg, Goirle, met timmerman Adriaan Dirk Hermansen, de voorwaarden overeenkomt voor bouw woonhuis, voor Van Malsen, op de Stroysbol, waarbij onder andere bepaald wordt dat Jan Servaaszn, pachter van de hoeve, hand- en spandiensten bij bouw zal verrichten&lt;br/&gt;Getuigen 10 januari: Hugo van Berkel, Jan Woutersen de Gruyter&lt;br/&gt;Schepenen 18 januari: Jan Rutten, Roelof Daniëls&lt;br/&gt;Origineel (inventarisnr 14)</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/30FA254EF23E4258931A2A8C329A5923" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143665">
@@ -1088,14 +1299,12 @@
               <date normal="1614" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1614-05-09.&lt;br/&gt; 1614 mei 9&lt;br/&gt;Leenhof van Brabant in Brussel oorkondt dat Adriaan Coomans, als gemachtigde van Otto, dochter wijlen Splinter van Hargen, en weduwe Huibrecht van Malsen, ten overstaan het Leenhof, heeft verheven, wegens dood van Otto's broer Andries:&lt;br/&gt;hof te Strootbolle / tiende Ten Houte in parochies Oirschot en Sint-Oedenrode, met 4 bunders beemd in "ouden ederen" van boerderij Ten Houte, op Vloet, en gedeelten van gebouwen in Ganselaar / 2/3 delen Hertogshuis / andere 3e deel Hertogshuis&lt;br/&gt;Stadhouder lenen en leden Leenhof: Charles van Bourgondië, heer van Breda / Guille de Goor / Peter Floris&lt;br/&gt;Origineel (inventarisnr 15)&lt;br/&gt;Met handtekening griffier F. van Asbroek</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/704953FD219142B59573A8B7F45BD519" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143666">
@@ -1112,6 +1321,12 @@
               <date normal="1616" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143667">
@@ -1128,6 +1343,12 @@
               <date normal="1662" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143668">
@@ -1144,14 +1365,12 @@
               <date normal="1708" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1708-06-14.&lt;br/&gt; 1708 juni 14&lt;br/&gt;Raad van Brabant in Den Haag oorkondt dat Johan Cranen, rentmeester in Sint-Oedenrode, als gevolmachtigde van Maximiliaan Joseph van Lalaing, burggraaf van Oudenaarde, graaf van Tildonk, heer van Croix, Aumont, en zijn vrouw Maria Catarina Josephina d'Larchier, gravin van Tildonk, ten overstaan van Raad, hof van Stroobol heeft verheven&lt;br/&gt;Stadhouder der lenen en overige leden Raad: Maurits le Leu de Wilhem, Quirijn van Strijen, Willem van Persijn&lt;br/&gt;Origineel (inventarisnr 18)&lt;br/&gt;Met fragment-zegel Raad</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/13EAB56708B04219BEB2AF306165CBD0" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143669">
@@ -1168,6 +1387,12 @@
               <date normal="1764" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143670">
@@ -1184,6 +1409,12 @@
               <date normal="1772" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1143671">
@@ -1200,6 +1431,12 @@
               <date normal="1775" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
       </c01>
     </dsc>

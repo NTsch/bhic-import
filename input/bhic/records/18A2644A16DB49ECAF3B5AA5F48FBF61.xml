@@ -1,0 +1,1720 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>18A2644A16DB49ECAF3B5AA5F48FBF61</identifier>
+    <datestamp>2026-09-14</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HtBHIC">2171</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Consulentschappen op het gebied van het natuurbehoud en de openluchtrecreatie in de provincie Noord-Brabant &lt;br/&gt;van het Ministerie van Landbouw, Natuur en Voedselkwaliteit&lt;br/&gt;(1981) 1984 - 1994 &lt;br/&gt;</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+        <date calendar="gregorian" era="ce" normal="2024">2024</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF21548448">
+      <unittitle>Consulentschappen op het gebied van het natuurbehoud en de openluchtrecreatie in de provincie Noord-Brabant &lt;br/&gt;van het Ministerie van Landbouw, Natuur en Voedselkwaliteit&lt;br/&gt;(1981) 1984 - 1994 &lt;br/&gt;</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-HtBHIC">2171</unitid>
+      <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/18A2644A16DB49ECAF3B5AA5F48FBF61</unitid>
+      <unitdate calendar="gregorian" era="ce" normal="1981/1994">(1981) 1984-1994</unitdate>
+      <note label="Vindplaats origineel">
+        <p>Depot NA Emmen</p>
+      </note>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Natuur en Milieu</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd>
+      <odd>
+        <head>Geschiedenis van de archiefvormer</head>
+        <p>
+          <emph render="italic">Archiefvormers:</emph>
+          <lb/>- Consulentschap Openluchtrecreatie, (1981) 1984 – 1992 (1993)
+          <lb/>- Consulentschap Openluchtrecreatie regio Zuid, 1992 – 1994
+          <lb/>- Consulentschap Natuur, Milieu en Faunabeheer, (1983) 1984 – 1991
+          <lb/>- Consulentschap Bos- en Landschapsbouw, 1985 – 1991
+          <lb/>- Consulentschap Natuur, Bos, Landschap en Fauna, (1990) 1991 - 1994
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Algemeen</emph>
+          <lb/>Vanaf 1983 droeg de minister van Landbouw en Visserij de verantwoordelijkheid voor het totale openluchtrecreatiebeleid. In dat jaar werd de hoofddirectie Natuurbehoud en Openluchtrecreatie, als gevolg van een departementale herindeling, van het Ministerie van Cultuur, Recreatie en Maatschappelijk Werk (CRM) overgebracht naar het Ministerie van Landbouw en Visserij. In eerste instantie was men geneigd om het openluchtrecreatiebeleid, vanwege het welzijnsaspect, onder te brengen bij het nieuwe Departement van Welzijn, Volksgezondheid en Maatschappelijk Werk, maar de ruimtelijke problematiek van de openluchtrecreatie bleek in dit geval zwaarder te wegen dan de maatschappelijke. Omdat het landelijk gebied ook een aandachtspunt van het Ministerie van Landbouw en Visserij was, werd gekozen voor dit laatste ministerie. Met de overbrenging van het beleid naar het Ministerie van Landbouw en Visserij werden geleidelijk aan de deelbeleidsterreinen, die altijd al onder dit ministerie ressorteerden (o.a. paardensport, gezelschapsdieren, volkstuinieren en sportvisserij) aan het openluchtrecreatiebeleid toegevoegd. (1)
+        </p>
+        <p>Als gevolg hiervan werd het noodzakelijk om de behartiging van de verschillende belangen tot uiting te laten komen in de organisatiestructuur. Conform de strekking van de motie De Vries-Nijpels (2)  werd het ministerie hervormd in twee directoraten-generaal: het Directoraat-generaal (DG) Landbouw en Voedselvoorziening en het DG Landelijke Gebieden en Kwaliteitszorg. Hierdoor kregen de provinciale apparaten te maken met enerzijds de belangen van de agrarische productie, verwerking en afzet (via het DG Landbouw en Voedselvoorziening), en anderzijds de belangen van natuur- en landschapsbehoud, bos- en landschapsbouw, faunabeheer en openluchtrecreatie (via het DG Landelijke Gebieden en Kwaliteitszorg). Elk DG kreeg een eigen vertegenwoordiger in de provincie: een directeur Landbouw en Voedselvoorziening en een directeur Landelijke Gebieden en Kwaliteitszorg. Door de hervormingen werden de functies van hoofdingenieur-directeur voor de Bedrijfsontwikkeling, hoofdingenieur-directeur voor de Landinrichting, Grond- en Bosbeheer en van inspecteur Natuurbehoud en Openluchtrecreatie opgeheven. De veranderingen gingen in per 1 januari 1984. (3)
+          <lb/>
+        </p>
+        <p>Omdat de ‘nieuwe’ hoofddirectie Natuurbehoud en Openluchtrecreatie op provinciaal niveau goed met het Staatsbosbeheer en de Directie Natuur, Milieu en Faunabeheer diende samen te werken, zonder dat dit ten koste ging van de zelfstandigheid binnen het DG Landelijke Gebieden en Kwaliteitszorg, werd er in 1984 voor gekozen om op provinciaal niveau voor een aantal beleidsterreinen eigen vertegenwoordigers te benoemen. In elke provincie werden de consulentschappen Natuur, Milieu en Faunabeheer; Bos- en Landschapsbouw en Openluchtrecreatie ingesteld, terwijl de functie van natuurbeschermingsconsulent verdween. (4) 
+          <lb/>In 1986 werd in de Ministerraad besloten over de afslanking van de rijksoverheid in de periode 1988-1990. Voor het Ministerie van Landbouw en Visserij betekende dit onder andere dat werd besloten om onderzoek te verrichten naar de mogelijke privatisering van de eerstelijns landbouwvoorlichting. Tevens werd besloten om per provincie te komen tot één directeur met één staf en één beheersapparaat. (5) Dit betekende dat met ingang van 1 april 1987 de functies van directeur Landbouw en Voedselvoorziening en directeur Landelijke Gebieden en Kwaliteitszorg werden opgeheven en er in elke provincie een directeur Landbouw, Natuur en Openluchtrecreatie werd aangesteld. Deze provinciale directies vielen onder het DG Landelijke Gebieden en Kwaliteitszorg, maar ontvingen ook aanwijzingen van het DG Landbouw en Voedselvoorziening. (6)
+        </p>
+        <p>In verschillende regelingen speelde de directeur Landbouw, Natuur en Openluchtrecreatie een niet onbelangrijke rol (zoals bijvoorbeeld het beslissen over de toekenning van dierlijke EG-premies). Taak van dit provinciale apparaat was het op provinciaal niveau behartigen van de belangen op het gebied van agrarische productie, verwerking en afzet, openluchtrecreatie, natuur- en landschapsbehoud, bos- en landschapsbouw, faunabeheer, beheer van landbouwgronden en kwaliteitszorg. De directeur Landbouw, Natuur en Openluchtrecreatie heeft op het terrein landinrichting de taken van de directeur Landelijke Gebieden en Kwaliteitszorg ten aanzien van diverse bijdrageregelingen in zijn portefeuille gekregen. (7) Op 30 juni 1994 werd besloten tot een verdere concentratie van het regionale apparaat, zodat er voortaan nog maar vijf regiokantoren van het Ministerie van Landbouw, Natuurbeheer en Visserij overbleven (8) :
+          <lb/>-Regio Noord, met als vestigingsplaats Groningen
+          <lb/>-Regio Oost, met als vestigingsplaats Deventer
+          <lb/>-Regio Noord-West, met als vestigingsplaats Diemen-Zuid
+          <lb/>-Regio Zuid-West, met als vestigingsplaats Dordrecht
+          <lb/>-Regio Zuid, met als vestigingsplaats Eindhoven (9)
+          <lb/>
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Consulentschappen onder de Directie Landelijke Gebieden en Kwaliteitszorg</emph>
+          <lb/>Voor de oorlog was het Ministerie van Onderwijs, Kunsten en Wetenschappen (OKW) verantwoordelijk voor natuurbescherming. Het Ministerie van Landbouw was verantwoordelijk voor de Boswet en de Natuurschoonwet 1928. In 1947 kwamen de Departementen van Landbouw en van OKW overeen dat natuurbescherming voortaan geheel onder OKW ging ressorteren. Voor de uitvoering van het beleid maakte OKW gebruik van de dienst Staatsbosbeheer van het Ministerie van Landbouw. Voor de aansturing van de natuurbeschermingsconsulenten en de landschapsconsulenten werd in 1948 de afdeling Natuurbescherming en Landschap bij Staatsbosbeheer opgericht, die financieel ten laste kwam van het Ministerie van OKW. Het Staatsbosbeheer deed over het beheer verslag in zijn jaarverslagen. 
+          <lb/>In 1965 ging de afdeling Oudheidkunde en Natuurbescherming op in het Ministerie van Cultuur, Recreatie en Maatschappelijk Werk (CRM). Natuurbescherming en Openluchtrecreatie werden daarna samengevoegd tot de (hoofd)directie Natuurbescherming en Openluchtrecreatie. In 1978 versterkte Natuurbescherming en Openluchtrecreatie zijn beleidsmatige invloed op regionaal niveau door de instelling van inspecteurs Natuurbescherming en Openluchtrecreatie, die leiding gaven aan de natuurbeschermingsconsulenten en aan de openluchtrecreatieconsulenten. De natuurbeschermingsconsulenten bleven binnen Staatsbosbeheer belast met het beheer van de staatsnatuurmonumenten en de uitvoering van beheersregelingen. De Natuurbeschermingswet stelde in 1968 de Natuurbeschermingsraad in, een nieuw algemeen adviescollege als opvolger van de sinds 1946 bestaande Voorlopige Natuurbeschermingsraad.
+        </p>
+        <p>In 1982 besloot het kabinet-Lubbers dat het Ministerie van Landbouw en Visserij de verantwoordelijkheid zou krijgen voor de beleidsterreinen Natuurbehoud en Openluchtrecreatie. Het DG Landinrichting, Grond- en Bosbeheer van dit ministerie werd daartoe sterk uitgebreid en heringericht. Naast de al bestaande directies werden onder meer de directies Openluchtrecreatie en Natuur, Milieu en Faunabeheer ingesteld. Het nieuwe DG, dat de naam Landelijke Gebieden en Kwaliteitszorg kreeg, belichaamde de verbreding van het takenpakket van het ministerie buiten de strikt landbouwkundige en landbouweconomische sfeer.
+          <lb/>Staatsbosbeheer als beleidsuitvoerende dienst viel altijd al onder dit ministerie, zodat met het besluit om de beleidsportefeuilles voor natuurbehoud en openluchtrecreatie samen te voegen met die voor de landbouw, de politieke verantwoordelijkheid met betrekking tot Natuur, Groene Ruimte en Openbare recreatie in één hand kwam.
+          <lb/>In 1985 ging het beheerbeleid van Staatsbosbeheer over naar de directie Natuur en Landschapsbescherming. Pas op 7 november 1989, bij de installatie van het derde kabinet-Lubbers, werd het het Ministerie Landbouw, Natuurbeheer en Visserij genoemd. Deze naamsverandering werd nog extra geaccentueerd door de aanstelling van een staatssecretaris voor natuurbeheer. Het gaf de bedoeling weer om in het ministerie het ‘groen’ van de boeren en tuinders te verenigen met het ‘groen’ van de natuur- en milieubeschermers. (10)
+        </p>
+        <p>In 1984 werd het Structuurschema Openluchtrecreatie vastgesteld. Het beleid voor de jaren tachtig zou zich hoofdzakelijk gaan richten op het landelijk gebied. Centraal stonden de vermindering van de spanning tussen vraag en aanbod van mogelijkheden voor de openluchtrecreatie. De afstand tussen de woonplaatsen van recreanten en de recreatievoorzieningen moest worden beperkt ten behoeve van een terugdringing van overbodige verkeersstromen.
+          <lb/>Het landelijk aspect werd recht gedaan in de aanleg van de voorzieningen, waarbij de ruimtelijke structuur van het landelijk gebied als uitgangspunt wordt gekozen. Door een adequate vormgeving kon landschapsbouw ertoe bijdragen, dat de recreatieve functies in harmonie met hun omgeving tot ontwikkeling komen. Zo werden de mogelijkheden tot recreatief medegebruik verder onderzocht. Dit leidde tot een herziening van de bijdragen aan particuliere bosbezitters en tot een verdere ontsluiting van nationale landschappen en rijksdomeinen, waaronder militaire oefenterreinen. Speciale aandacht ging uit naar die gebieden waar de tekortkomingen op recreatief en toeristisch gebied het grootst waren. In dit geval sprak men van de toeristisch- recreatieve aandachtsgebieden (TRAG’s) De maatregelen betroffen vooral verbetering van de infrastructuur.
+        </p>
+        <p>Daarnaast won het begrip kwaliteit terrein. Er zou een voldoende kwalitatief en gedifferentieerd aanbod aan recreatiemogelijkheden in stand moeten worden gehouden en zo mogelijk worden vergroot. Milieuzorg en zorgvuldige afstemming met de natuurbelangen speelden hierbij een rol. Het departement was al verantwoordelijk voor de paardensport, het volkstuinieren, de sportvisserij en de gezelschapsdieren, zodat de overbrenging tot een belangrijke bundeling van het beleid leidde. Het aan het begin van de jaren tachtig ingezette beleid inzake het “Landelijk gebied” had ook zijn weerslag op de organisatie van het ministerie. In 1985 wordt het Directoraat-generaal Landelijke Gebieden en Kwaliteitszorg ingesteld, waaronder de directies Openluchtrecreatie en Natuurbehoud ressorteren. Het Directoraat-generaal Landelijke Gebieden en Kwaliteit werd in 1994 opgeheven. Het openluchtrecreatiebeleid werd na de opheffing van het Directoraat-generaal ondergebracht bij de directie Groene Ruimte en Recreatie. (11)
+          <lb/>
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Consulentschap Openluchtrecreatie</emph>
+          <lb/>De Consulentschappen Openluchtrecreatie fungeerden oorspronkelijk als buitendienst van de hoofdafdeling Openluchtrecreatie van het Ministerie van Cultuur, Recreatie en Maatschappelijk Werk. Zij hielden zich bezig met het vormen en ontwikkelen van het beleid, waaronder het beoordelen en bevorderen van de mogelijkheden tot intergemeentelijke samenwerking. De consulentschappen gingen, samen met de Hoofddirectie Natuurbehoud en Openluchtrecreatie (NBOR), over naar het Ministerie van Landbouw en Visserij in 1983.
+          <lb/>Per 1 april 1984 werd de voormalige Hoofddirectie Natuurbehoud en Openluchtrecreatie opgeheven en de Directie Openluchtrecreatie werd rechtstreeks geplaatst onder de Directeur-generaal Landelijke Gebieden en Kwaliteitszorg. (12)  In iedere provincie werd een Consulentschap voor Openluchtrecreatie (COR) ingesteld. Deze consulentschappen vielen onder de Directie Openluchtrecreatie. Het Consulentschap voor de Openluchtrecreatie had diverse taken. Het consulentschap coördineerde het rijksbeleid ten aanzien van de openluchtrecreatie. Verder bevorderde het consulentschap het tot stand brengen van voorzieningen en het verrichten van activiteiten op het gebied van de openluchtrecreatie. Tenslotte leverde het consulentschap bijdragen aan de meerjarenplannen openluchtrecreatie.  (13)
+          <lb/>
+        </p>
+        <p>Het besluit tot uitvoering van het beleidsvoornemen met betrekking tot de organisatie van de centrale eenheden van de Directie Openluchtrecreatie (12 juli 1985 O&amp;E 85/438) geeft een uitgebreidere omschrijving van de taken van het consulentschap op twee gebieden. Op het gebied van bos- en landschapsbouw werd het Consulentschap voor de Openluchtrecreatie ondersteund door het Consulentschap Bos- en Landschapsbouw. Ondersteuning werd geleverd bij de voorbereiding en uitvoering van openluchtrecreatieobjecten inzake de landschappelijke vormgeving, het beplantingsplan en de daaruit voortvloeiende consequenties voor het beheer en de beheerskosten. De Consulent voor de Openluchtrecreatie droeg zorg voor de inbreng van de openluchtrecreatiebelangen in het provinciale bosbeleid en landschapsbouwbeleid van het Staatsbosbeheer. Voorts toetste de consulent voor de Openluchtrecreatie de beoogde functies van bossen en natuurterreinen, zoals aangegeven in (concept-)beheersplannen van het Staatsbosbeheer (Terreinbeheer), aan het algemene beleid inzake de openluchtrecreatie van de Directie Openluchtrecreatie.
+          <lb/>
+        </p>
+        <p>Verder was er op het gebied van cultuurtechnische maatregelen en besteksbegrotingen ondersteuning van de gedeconcentreerde dienstonderdelen van de Landinrichtingsdienst in de provincie. Deze dienstonderdelen ondersteunden andere rijksdiensten bij de voorbereiding en uitvoering van openluchtrecreatieobjecten, met uitzondering van landinrichtingsprojecten, Staatsbosbeheerprojecten en projecten van andere rijksdiensten, zoals de Rijksdienst voor de IJsselmeerpolders (RIJP). Los daarvan bleef de consulent zorgdragen voor de inbreng van de openluchtrecreatiebelangen in de overlegkaders in de provincie met betrekking tot landinrichtingsprojecten in de verschillende stadia, waarin begrepen het opstellen van het recreatieadvies.
+          <lb/>
+        </p>
+        <p>Per 1 juli 1985 werden taken op het gebied van sportvisserij van de Hoofdafdeling Sport- en Beroepsvisserij van de directie van de Visserij overgedragen aan de Directie Openluchtrecreatie. (14) Naar aanleiding hiervan werd de functie van visserijkundig ambtenaar (VA) opgesplitst in de volgende twee functies:
+          <lb/>-Visserijkundig Ambtenaar Sportvisserij ressorterend onder het Consulentschap Openluchtrecreatie in de provincie
+          <lb/>-Visserijkundig Ambtenaar Beroepsvisserij ressorterend onder de Afdeling Voorlichting van de Hoofdafdeling Binnenvisserij en Cultures van de Directie van de Visserijen. Functioneel was deze functie verbonden met de Provinciale Directie Landbouw en Voedselvoorziening.
+          <lb/>Binnen het consulentschap droeg de consulent de eindverantwoordelijkheid voor een goede behartiging van de taken op het gebied van de sportvisserij. De visserijkundig ambtenaar voor de sportvisserij ondersteunde en adviseerde de consulent. Al bij instelling van de functie werd voorzien dat de inhoud van de functie mogelijk zou worden verbreed met andere taken/onderwerpen op het gebied van de openluchtrecreatie. (15) Dit gebeurde op 1 april 1989 toen de beheersvoorlichting op het gebied van visstandbeheer door het Rijk werd afgestoten en de functie van visserijkundig ambtenaar werd verbreed naar dat van medewerker openluchtrecreatie. 
+          <lb/>
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Consulentschap Openluchtrecreatie Regio Zuid</emph>
+          <lb/>In 1992 werden de consulentschappen gereorganiseerd: de consulentschappen ‘nieuwe stijl’ werden opgedeeld in vier regio’s: Noord (Groningen, Friesland, Drenthe en Flevoland), Oost (Overijssel en Gelderland), Zuid (Zeeland, Noord-Brabant en Limburg) en West (Utrecht, Noord-Holland en Zuid-Holland). (16)
+          <lb/>Het consulentschap viel onder het Directoraat-generaal Landelijke Gebieden en Kwaliteitszorg, Directie Openluchtrecreatie. De taak van het consulentschap ‘nieuwe stijl’ was het vormgeven en uitdragen van het recreatiebeleid. Het consulentschap leverde kennis en informatie aan de doelgroepen over onderwerpen als de verbetering van de recreatieve gebruiks- en belevingsmogelijkheden van het landelijk gebied. Dit gebeurde onder meer door recreatie te koppelen aan natuurontwikkeling en bijzondere aandacht te besteden aan waardevolle cultuurlandschappen. Ook werd de recreatiemobiliteit aangepast en werden er (internationale) netwerken ontwikkeld. Daarnaast werden doelgroepen geïnformeerd over de (grens)overschrijdende samenwerking op het gebied van recreatie en toerisme. Als laatste werden kennis en informatie geleverd over de inzet van instrumenten zoals onderzoek, voorlichting en onderwijs. (17)
+          <lb/>
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Consulentschap Natuur, Milieu en Faunabeheer</emph>
+          <lb/>Met ingang van 1 april 1984 kreeg iedere provincie een Consulentschap Natuur, Milieu en Faunabeheer. Dit consulentschap viel onder de Directie Natuur, Milieu en Faunabeheer.Het Consulentschap Natuur, Milieu en Faunabeheer kreeg verschillende taken opgelegd. Een van deze taken was het vertalen en uitvoeren van het landelijk overheidsbeleid van de Directie Natuur, Milieu en Faunabeheer naar en in de provinciale situatie. Het consulentschap droeg daarnaast bij aan de beleidsvoorbereiding en –evaluatie vanuit de provinciale situatie. Het adviseerde en ondersteunde de Directie Landbouw, Natuur en Openluchtrecreatie in de provincie op het werkgebied van de directie. Een ander onderdeel van de taak van het Consulentschap Natuur, Milieu en Faunabeheer was het opstellen van adviezen en het leveren van een inbreng in plannen ten behoeve van het beleid op de verschillende bestuurlijke niveaus. Tevens toetste het consulentschap plannen van derden en paste deze zo nodig aan de eigen doelstellingen aan. Het bevorderen van natuur- en milieueducatie en van voorlichting op het terrein van natuur, milieu en faunabeheer door derden behoorde eveneens tot de taken van het Consulentschap Natuur, Milieu en Faunabeheer. Behalve het bevorderen van voorlichting door derden gaven medewerkers van het consulentschap ook zelf voorlichting over aspecten van natuur, milieu en faunabeheer.
+          <lb/>
+        </p>
+        <p>In samenwerking met het hoofd Terreinbeheer hield het Consulentschap Natuur, Milieu en Faunabeheer zich bezig met het verwerven van natuurterreinen namens het Ministerie van Landbouw en Visserij en het leveren van bijdragen aan het beleid inzake het verwerven van terreinen door particuliere natuurbeschermingsorganisaties. In overleg met het hoofd Terreinbeheer bereidde het consulentschap beleid met betrekking tot de verwerving van natuurwetenschappelijk waardevolle terreinen voor. En voerde dit, in het kader van de Relatienota, ook uit. Dit hield onder andere in dat het consulentschap voorstellen deed voor plaatsing van wenselijke grondaankopen op het (provinciaal) aankoopplan en dat het consulentschap prioriteiten/aankoopurgentie aangaf. In samenwerking met het dienstonderdeel Terreinbeheer verrichtte het Consulentschap Natuur, Milieu en Faunabeheer inventarisatie-onderzoek om zo de natuurwetenschappelijke waarde van een terrein vast te stellen. Tevens gaf het consulentschap samen met Staatsbosbeheer aan wat de doelstelling en het beoogde gebruik van het terrein, de beheerbaarheid en logische begrenzingen, de houdbaarheid, de eventueel te accepteren aankoopvoorwaarden en de te verwachten baten en lasten van een object aan. Daarnaast stelde het Consulentschap Natuur, Milieu en Faunabeheer richtlijnen op ten aanzien van aankopen, wat betreft de leveringstermijn, maximale aankoopprijs, zakelijke rechten, jachtrechten en de eventueel te accepteren bijkomende aankoopvoorwaarden bij de verwerving van gronden. Tenslotte gaf het consulentschap advies met betrekking tot de subsidiëring van de verwerving van terreinen door particuliere natuurbeschermingsorganisaties en het opstellen van subsidievoorwaarden.
+          <lb/>
+        </p>
+        <p>Het bijdragen aan het beheer van natuurterreinen door Terreinbeheer/Staatsbosbeheer, particuliere natuurbeschermingsorganisaties en de Dienst der Domeinen behoorde eveneens tot de taken van het Consulentschap Natuur, Milieu en Faunabeheer. Dit betekende onder andere het toetsen van de beoogde functies van (individuele) bossen en natuurterreinen, zoals aangegeven in de (concept) beheersplannen van het Staatsbosbeheer (Terreinbeheer), aan het algemene beleid van de Directie Natuur, Milieu en Faunabeheer. En het toetsen van beheersplannen met betrekking tot natuurterreinen, die door particuliere natuurbeschermingsorganisaties met subsidie van het Ministerie van Landbouw en Visserij zijn verworven. Daarnaast adviseerde het Consulentschap Natuur, Milieu en Faunabeheer de Dienst der Domeinen met betrekking tot de jacht in natuurgebieden en andere uit een oogpunt van natuurbehoud en faunabeheer belangrijke gebieden in het beheer bij deze dienst.
+          <lb/>
+        </p>
+        <p>Het Consulentschap Natuur, Milieu en Faunabeheer hield zich ook met het stimuleren van het natuurontwikkelingsbeleid. Dit hield in dat het consulentschap inbreng leverde in de planvorming en ontwikkeling van grote eenheden natuurgebied, grote landschapseenheden, grote wateren en nationale parken. Daarnaast gaf het advies over natuurbouw en natuurtechnische mogelijkheden in het kader van het landschapsbouwbeleid en het openluchtrecreatiebeleid, alsmede het terzake adviseren van lagere overheden. En tenslotte het bevorderen van de ontwikkeling van natuurwaarden in het kader van de planning en uitvoering van cultuurtechnische, civieltechnische werken en de ontwikkeling van dergelijke waarden in de stedelijke omgeving.
+          <lb/>In 1990 werden er nieuwe organisaties opgericht voor de vergaring van kennis en informatie. Voor de vergaring van kennis en informatie op het gebied van natuurbeheer werd het Kennis- en Informatiecentrum Natuurbeheer opgericht. Met ingang van 1 september 1991 gingen de Directie Bos- en Landschapsbouw en de Directie Natuur Milieu en Faunabeheer samen tot een nieuwe Directie Natuur, Bos, Landschap en Fauna. Een aantal taken, met name de op uitvoering gerichte taken, van de twee voormalige directies gingen naar de Landinrichtingsdienst. In het kader van de reorganisatie van 1991 werd het Consulentschap voor Natuur, Milieu en Faunabeheer opgeheven. Tegelijkertijd werd er een nieuw Consulentschap Natuur, Bos, Landschap en Fauna opgericht.
+          <lb/>
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Consulentschap Bos- en Landschapsbouw</emph>
+          <lb/>Op 1 april 1984 werd er in iedere provincie een Consulentschap Bos- en Landschapsbouw ingesteld. (18) Dit consulentschap viel onder het Directoraat-generaal Landelijke Gebieden en Kwaliteitszorg, Directie Bos- en Landschapsbouw. Het Consulentschap Bos- en Landschapsbouw had diverse taken. Het consulentschap vertaalde het landelijke overheidsbeleid op het gebied van de bos- en landschapsbouw naar de provinciale situatie. Ook voerde het consulentschap het landelijke beleid in de provincie uit. Daarnaast ondersteunde het consulentschap de directie van het Staatsbosbeheer ten aanzien van de beleidsvoorbereiding en –evaluatie vanuit de provinciale situatie. Tevens adviseerde en ondersteunde de consulent de directeur Landelijke Gebieden en Kwaliteitszorg in de provincie op de werkgebieden bos- en landschapsbouw. Het consulentschap stelde adviezen op en leverde een inbreng in de plannen ten behoeve van het beleid op verschillende bestuurlijke niveaus. De medewerkers van het Consulentschap Bos- en Landschapsbouw toetsten plannen van derden en pasten deze zo nodig aan de eigen doelstellingen aan. Tevens stelde het consulentschap plannen in het kader van de bos- en landschapsbouw op en voerde deze uit. Tenslotte gaf het consulentschap voorlichting over bos(bouw) en landschap(sbouw). Het consulentschap gaf niet alleen voorlichting, het bevorderde ook voorlichting door derden.
+          <lb/>
+        </p>
+        <p>In samenwerking met het hoofd Terreinbeheer van Staatsbosbeheer bereidde het consulentschap beleid voor met betrekking tot de verwerving van bosterreinen. Behalve het voorbereiden van dit beleid, voerde het consulentschap dit beleid ook uit. Dit hield onder andere in dat het consulentschap voorstellen deed tot de aankoop van bosterreinen. In overleg met het dienstonderdeel Terreinbeheer gaf het Consulentschap Bos- en Landschapsbouw de doelstelling en het beoogde gebruik van het terrein, de beheerbaarheid en logische begrenzingen, de eventueel te accepteren aankoopvoorwaarden en de te verwachten baten en lasten van een object aan. Daarnaast leverde het consulentschap een inbreng in het provinciale aankoopoverleg.
+          <lb/>Het consulentschap verwierf niet alleen bosterreinen, of te bebossen terreinen of landbouwgronden, namens het Ministerie van Landbouw en Visserij. Het leverde tevens bijdragen aan het beheer van de bossen door het dienstonderdeel Terreinbeheer/ Staatsbosbeheer en de overige beheerders van bosterreinen waaronder andere overheden en particuliere organisaties. Het Consulentschap Bos- en Landschapsbouw deed dit door het toetsen van beoogde functies van bossen, zoals deze aangegeven waren in (concept)beheersplannen van het Staatsbosbeheer (Terreinbeheer), aan het algemene beleid met betrekking tot het bos, de bos- en de landschapsbouw. Daarnaast gaf het consulentschap technische voorlichting aan de Dienst der Domeinen en de beheerders van de bosterreinen, bijvoorbeeld over subsidiemaatregelen, beheersmethoden en bedrijfseconomische aspecten. 
+          <lb/>
+        </p>
+        <p>Tenslotte hield het Consulentschap Bos- en Landschapsbouw zich bezig met onderzoek in het kader van de bos- en landschapsbouw. Op dit gebied was de belangrijkste taak van het consulentschap het bevorderen van onderzoek. Het consulentschap probeerde dit doel in de eerste plaats te bereiken door het opstellen van voorstellen van landelijk relevant onderzoek. En, in de tweede plaats, door het initiëren van onderzoek ten behoeve van de provinciale situatie, het zo nodig begeleiden van dergelijk onderzoek en het interpreteren van de onderzoeksresultaten. 
+          <lb/>In 1990 werden er Informatie- en Kenniscentra opgericht, waaronder één voor de beleidsterreinen natuur, bos en landschap. Per 1 september 1991 gingen de Directie Bos- en Landschapsbouw en de Directie Natuur Milieu en Faunabeheer samen tot een nieuwe Directie Natuur, Bos, Landschap en Fauna. Een aantal taken, met name de op uitvoering gerichte taken, van de twee voormalige directies gingen naar de Landinrichtingsdienst. De reorganisatie van september 1991 betekende niet alleen het einde voor de Directie Bos- en Landschapsbouw, maar ook het einde voor het Consulentschap Bos- en Landschapsbouw. Er werd met ingang van 1 september 1991 een nieuw Consulentschap Natuur, Bos, Landschap en Fauna opgericht.
+          <lb/>
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Consulentschap Natuur, Bos, Landschap en Fauna</emph>
+          <lb/>Per 1 september 1991 gingen de Directie Bos- en Landschapsbouw en de Directie Natuur Milieu en Faunabeheer samen tot een nieuwe Directie Natuur, Bos, Landschap en Fauna. Een aantal taken, met name de op uitvoering gerichte taken, van de twee voormalige directies gingen naar de Landinrichtingsdienst. De reorganisatie van september 1991 betekende niet alleen het einde van de twee directies. Ook het Consulentschap Bos- en Landschapsbouw en het Consulentschap Natuur, Milieu en Faunabeheer werden opgeheven. Er werd met ingang van 1 september 1991 een nieuw Consulentschap Natuur, Bos, Landschap en Fauna opgericht.
+        </p>
+        <p>De diverse taken van het Consulentschap Natuur, Bos, Landschap en Fauna hadden allemaal betrekking op de beleidsvelden natuur, bos, landschap (inclusief stedelijk groen), flora en fauna. Tot de taken van het consulentschap behoorde onder andere het binnen de kaders van het landelijk beleid van de Directie Natuur, Bos, Landschap en Fauna ontwikkelen en (doen) uitvoeren van een beleid met betrekking tot de gewenste ontwikkeling van de betrokken bedrijfsvelden in de provincie. En het bijdragen vanuit de provinciale situatie aan de beleidsontwikkeling en –evaluatie bij de Directie Natuur, Bos, Landschap en Fauna.</p>
+        <p>Daarnaast droeg het consulentschap, vanuit het werkgebied van de Directie Natuur, Bos, Landschap en Fauna, bij aan de gecoördineerde bestuurlijke standpuntbepaling van de directeur Landbouw, Natuur en Openluchtrecreatie. Het Consulentschap Natuur, Bos, Landschap en Fauna stelde adviezen op en leverde een inbreng in plannen en activiteiten ten behoeve van het beleid op de verschillende bestuurlijke niveaus (onder meer streek-, structuur- en bestemmingsplannen, beheers- en inrichtingsplannen, provinciale en gemeentelijke milieu, natuur- en waterhuishoudingsplannen, gemeentelijke groenstructuurplannen en recreatieplannen). Daarnaast droeg en verklaarde het consulentschap het overheidsbeleid richting de lagere overheden, organisaties, particulier bedrijfsleven en particulieren. Ook gaf het consulentschap bedrijfsmatige voorlichting aan beheerders van bos en beplantingen, natuurterreinen en stedelijk groen. Tevens stimuleerde het Consulentschap Natuur, Bos, Landschap en Fauna maatregelen en activiteiten door andere overheden, privaatrechtelijke organisaties, bedrijfsleven en particulieren die gericht waren op de instandhouding, beheer, ontwikkeling respectievelijk uitbreiding van natuur, bos en beplantingen, landschap (inclusief stedelijk groen), flora en fauna alsmede het voorlichten en adviseren terzake. Tenslotte beïnvloedde het consulentschap programma’s van (regionaal) onderzoek, voorlichting en onderwijs vanuit een (beleidsmatige) visie op de gewenste ontwikkeling van de diverse beleidsvelden.
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Noten</emph>
+          <lb/>1. Openluchtrecreatie; een institutioneel onderzoek naar het beleidsterrein openluchtrecreatie in de periode 1945-1996 (Den Haag 1998).
+          <lb/>2. Tweede Kamer, zitting 1982-1983, 17555, nr. 33.
+          <lb/>3. Ook de functie van Hoofd van de Landinrichtingsdienst werd opgeheven. Deze werd vervangen door een Inspecteur Landinrichting. 
+          <lb/>4. Beleidsvoornemen met betrekking tot het apparaat van de directie Natuur, Milieu en Faunabeheer, de directie Openluchtrecreatie en het Staatsbosbeheer in de provincies, 8 februari 1984, O&amp;E 84/62. 
+          <lb/>5. Brief van de Secretaris-generaal aan de directeuren van het Ministerie van Landbouw en Visserij van 23 december 1986, met kenmerk K 5395.
+          <lb/>6. Staatsalmanak 1989, S12. 
+          <lb/>7. Met rede gekaveld; een institutioneel onderzoek naar taken en handelingen van actoren op het terrein van de landinrichting, 1945-1993 (Den Haag 2000). 
+          <lb/>8.Beleidsbesluit voor de vestigingsplaatsen van de LNV regionale beleidsdirecties en de regiokantoren van de Dienst Uitvoering Regelingen, 30 juni 1994, PBV 94380. 
+          <lb/>9. Beleidsbesluit voor de vestigingsplaatsen van de LNV regionale beleidsdirecties en de regiokantoren van de Dienst Uitvoering Regelingen, 30 juni 1994, PBV 94380.
+          <lb/>
+        </p>
+        <p>10. Natuur- en landschapsbeheer en relatienotabeleid; een institutioneel onderzoek naar taken en handelingen van actoren op de beleidsterreinen natuur- en landschapsbeheer (1945-) en relatienotabeleid (1974-) (Den Haag 2006) 16-17.
+          <lb/>11. Openluchtrecreatie; een institutioneel onderzoek naar het beleidsterrein openluchtrecreatie in de periode 1945-1996 (Den Haag 1998).
+          <lb/>12. Besluit tot uitvoering van het beleidsvoornemen tot reorganisatie van de hoofddirectie Natuurbehoud en Openluchtrecreatie en van de directie Faunabeheer, 30 maart 1984, O&amp;E 84/229.
+          <lb/>13.Openluchtrecreatie; een institutioneel onderzoek naar het beleidsterrein openluchtrecreatie in de periode 1945-1996 (Den Haag 1998).
+          <lb/>14. Besluit tot uitvoering van het beleidsvoornemen met betrekking tot de overdracht van taken en personeel van de hoofdafdeling Sport- en Beroepsvisseriij van de directie van de Visserijen aan de directie Openluchtrecreatie, 12 juli 1985, O&amp;E 85/437.
+          <lb/>15. Besluit tot uitvoering van de het beleidsvoornemen met betrekking tot de organisatie van de centrale eenheden van de directie Openluchtrecreatie, 12 juli 1985, O&amp;E 85/438. 
+          <lb/>16. Brief van de Directie Openluchtrecreatie aan de directeuren LNO van 20 november 1992, met het kenmerk OR 923702.
+          <lb/>17. Organisatie, doel, taken en medewerkers van. Brochure van het Consulentschap voor de Openluchtrecreatie Oost. (Den Haag 1993).
+          <lb/>18. Bijlage 2a van het Besluit tot uitvoering van het beleidsvoornemen met betrekking tot de nadere uitwerking van de organisatie van het consulentschap Natuur, Milieu en Faunabeheer in de provincie en de nadere uitwerking van de organisatie van het Staatsbosbeheer in de provincie, 9 november 1984, O&amp;E 84/862.
+          <lb/>
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>Geschiedenis van het archief</head>
+        <p>
+          <emph render="bold">Beschrijving van het archief</emph>
+          <lb/>
+          <lb/>
+          <emph render="italic">Omvang</emph>: 2 meter
+          <lb/>
+          <lb/>
+          <emph render="italic">Samenvatting van de inhoud van het archief:</emph>
+          <lb/>Het archief bevat:
+          <lb/>1.de archiefbescheiden gevormd door het Consulentschap Openluchtrecreatie in de periode (1981) 1984 – 1992 (1993)
+          <lb/>2.de archiefbescheiden gevormd door het Consulentschap Openluchtrecreatie regio Zuid in de periode 1992 – 1994
+          <lb/>3.de archiefbescheiden gevormd door het Consulentschap Natuur, Milieu en Faunabeheer in de periode (1983) 1984 – 1991
+          <lb/>4.de archiefbescheiden gevormd door het Consulentschap Bos- en Landschapsbouw in de periode 1985 – 1991
+          <lb/>5.de archiefbescheiden gevormd door het Consulentschap Natuur, Bos, Landschap en Fauna in de periode (1990) 1991 – 1994
+          <lb/>
+          <lb/>
+          <emph render="italic">Taal van het archiefmateriaal</emph>: Nederlands
+          <lb/>Incidenteel kunnen er stukken in andere talen worden aangetroffen.
+          <lb/>
+          <lb/>
+          <emph render="italic">Soort archiefmateriaal:</emph> Normale geschreven en getypte documenten, geen bijzondere handschriften. Het archief bestaat uit dossiers. Hierin kunnen zich foto’s, negatieven en kaarten bevinden.
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Geschiedenis van het archiefbeheer</emph>
+          <lb/>De archieven van de Consulentschappen op het gebied van het natuurbehoud en de openluchtrecreatie in de provincie Noord-Brabant konden als zij de statische fase bereikten, door de archiefvormer overgedragen worden aan de regionale archiefbewaarplaats. Er is eerder uit het archief vernietigd. De aangetroffen vernietigingsverklaringen zijn in de inventaris opgenomen. De archieven zijn in … door het Ministerie van Landbouw, Natuur en Voedselkwaliteit te Den Haag overgebracht naar de Centrale Archief Selectiedienst te Winschoten. Voorafgaande aan de overdracht heeft een materiële toets plaatsgevonden, waarbij geen schade is aangetroffen. De archieven zijn door de Centrale Archief Selectiedienst bewerkt in 2008 en 2009.
+          <lb/>
+          <lb/>
+          <emph render="bold">Verwerving door het Brabants Historisch Informatiecentrum</emph>
+          <lb/>De archieven zijn in 2022 krachtens wettelijk voorschrift door de Centrale Archief Selectiedienst aan het Brabants Historisch Informatiecentrum in ’s-Hertogenbosch overgedragen.
+          <lb/>
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>Verantwoording inventarisatie</head>
+        <p>
+          <emph render="bold">Oorspronkelijke en aangebrachte orde</emph>
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Bewerking</emph>
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Selectie en vernietiging</emph>
+          <lb/>De vigerende selectielijsten zijn gebruikt. Het selecteren voor vernietiging heeft plaatsgevonden op basis van de volgende selectielijsten:
+        </p>
+        <p>-Selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuurbeheer en Visserij binnen het beleidsterrein bosbouw over de periode 1945-1995. Deze lijst is vastgesteld in de Staatscourant 1998, nr. 51 / p. 8. 
+          <lb/>
+          <lb/>
+        </p>
+        <p>-Selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuurbeheer en Visserij en de onder hem ressorterende actoren op het beleidsterrein ’openluchtrecreatie’ over de periode 1945-1996. Deze lijst is vastgesteld in de Staatscourant 1999, nr. 216 / p. 7.
+          <lb/>
+          <lb/>
+        </p>
+        <p>-Selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het beleidsterrein Landinrichting over de periode 1945–1993. Deze lijst is vastgesteld in de Staatscourant van 10 januari 2006, nr. 7 / p. 11.
+          <lb/>
+          <lb/>
+        </p>
+        <p>-Selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuurbeheer en Visserij als vakminister en de onder hem als vakminister ressorterende actoren op het deelbeleidsterrein arbeidsverhoudingen bij de overheid over de periode 1945-1995 (1997). Deze lijst is gepubliceerd in de Staatscourant van 16 oktober 2001, nr. 200 / p. 10. Bij het gebruik van deze lijst is rekening gehouden met de publicatie van het Basisselectiedocument voor de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het deelbeleidsterrein van personeelszaken, t.w. het personeelsdossier. Deze lijst is gepubliceerd in de Staatscourant van 20 november 2007, nr. 225 / p. 15, rekening houdend met de gepubliceerde rectificatie in de Staatscourant van 18 december 2007, nr. 245 / p. 26.
+          <lb/>
+          <lb/>
+        </p>
+        <p>-Selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuurbeheer en Visserij als vakminister en de onder hem als vakminister ressorterende actoren op het deelbeleidsterrein formatiebeleid, arbeidsmarktbeleid en personeelsontwikkeling en mobiliteit over de periode 1945-1996. Deze lijst is gepubliceerd in de Staatscourant van 17 oktober 2001, nr. 201 / p. 10. Bij het gebruik van deze lijst is rekening gehouden met de publicatie van het Basisselectiedocument voor de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het deelbeleidsterrein van personeelszaken, t.w. het personeelsdossier. Deze lijst is gepubliceerd in de Staatscourant van 20 november 2007, nr. 225 / p. 15, rekening houdend met de gepubliceerde rectificatie in de Staatscourant van 18 december 2007, nr. 245 / p. 26.
+          <lb/>
+          <lb/>
+        </p>
+        <p>-Selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuurbeheer en Visserij en de onder hem ressorterende actoren op het beleidsterrein natuur- en landschapsbeheer over de periode vanaf 1945. Deze lijst is gepubliceerd in de Staatscourant van 10 november 2000, nr. 219 / p. 8.
+          <lb/>
+          <lb/>
+        </p>
+        <p>-Selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het beleidsterrein Overheidsinformatievoorziening over de periode 1945–1999. Deze lijst is gepubliceerd in de Staatscourant van 20 oktober 2003, nr. 202 / p. 12.
+          <lb/>
+          <lb/>
+        </p>
+        <p>-Selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het beleidsterrein Organisatie van de Rijksoverheid over de periode 1945–1999. Deze lijst is gepubliceerd in de Staatscourant van 16 december 2005, nr. 245 / p. 25. Rekening houdend met de actualisatie in de Staatscourant van 14 juni 2007, nr. 112 / p. 10.
+          <lb/>
+          <lb/>
+        </p>
+        <p>-Selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het beleidsterrein Binnenvisserij over de periode 1945-1999. Deze lijst is gepubliceerd in de Staatscourant van 20 maart 2006, nr. 56 / p. 15.
+          <lb/>
+          <lb/>
+        </p>
+        <p>-De selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het beleidsterrein landbouwstructuurbeleid over de periode vanaf 1945. Deze lijst is gepubliceerd in de Staatscourant van 27 maart 2008, nr. 60 / p. 25.
+          <lb/>
+          <lb/>
+        </p>
+        <p>-Selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het beleidsterrein Toerisme over de periode vanaf 1945. Deze lijst is gepubliceerd in de Staatscourant van 28 februari 2007, nr. 42 / p. 19.
+          <lb/>
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Omvang</emph>
+          <lb/>De omvang van het archief was voorafgaand aan de bewerking circa 26,375 meter. Na de bewerking resteerde 2 meter te bewaren materiaal.
+          <lb/>
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Aanvullingen</emph>
+          <lb/>
+          <lb/>De archieven kunnen als afgesloten worden beschouwd. Het is nog wel mogelijk dat een enkel verspreid geraakt dossier te zijner tijd te voorschijn komt en aan dit archief wordt toegevoegd.
+          <lb/>
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold"> Verantwoording van de bewerking</emph>
+          <lb/>
+          <lb/>De archieven van de Consulentschappen op het gebied van het natuurbehoud en de openluchtrecreatie in de provincie Noord-Brabant maken deel uit van de door de Centrale Archief Selectiedienst bewerkte provinciale archieven van het Ministerie van Landbouw, Natuur en Voedselkwaliteit. De bewerking van de archieven vormt een voortzetting van de bewerking van provinciale bestanden van het Ministerie van Landbouw, Natuur en Voedselkwaliteit uit een eerdere periode. Ten behoeve van de bewerking werd een plan van aanpak samengesteld, welke de basis vormt voor de bewerking. In het plan, welke werd meeondertekend door het Nationaal Archief op 14 november 2008, zijn de afspraken met betrekking tot de selectie, ontsluiting, materiële verzorging en de overbrenging geregeld. Voor specifieke informatie wordt verwezen naar de afzonderlijke hoofdstukken in deze inventaris.
+          <lb/>Er zijn enige dossiers van de taakvoorganger het Ministerie van Cultuur, Recreatie en Maatschappelijk Werk aangetroffen. Deze maakten deel uit van een zaak welke werd voortgezet onder het Ministerie van Landbouw, Natuur en Voedselkwaliteit en zijn daarom bewaard bij dit archief. Door de aanwezigheid van deze dossiers bevat de archieven van de Consulentschappen op het gebied van het natuurbeheer en de openluchtrecreatie in de provincie Noord-Brabant soms afwijkende dateringen.
+          <lb/>
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Ordening van het archief</emph>
+          <lb/>
+          <lb/>Het archief is geordend naar de oorspronkelijke archiefcode van het Ministerie van Landbouw, Visserij en Voedselvoorziening.
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>Aanwijzingen voor de gebruiker</head>
+        <p>
+          <emph render="bold">Openbaarheidsbeperkingen</emph>
+          <lb/>Mogelijk zijn één of meer stukken niet openbaar. Zie Kenmerken. De studiezaalmedewerker kan u hierover verder informeren.
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Beperkingen aan het gebruik</emph>
+          <lb/>Reproductie van originele bescheiden uit de archieven is, behoudens de algemene regels die gelden voor het kopiëren van stukken, niet aan beperkingen onderhevig.
+          <lb/>Er zijn geen beperkingen krachtens het auteursrecht.
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Aanvraaginstructie en Scannen op verzoek</emph>
+          <lb/>
+          <lb/>Voor meer informatie over onze scannen op verzoekfunctie, zie: https://www.bhic.nl/onderzoeken/hulp-bij-onderzoek/scannen-op-verzoek
+        </p>
+        <p>
+          <emph render="bold">Citeren</emph>
+          <lb/>Verwijzing naar archiefstukken uit dit archief geschiedt door:
+          <lb/>- Volledig: 
+          <emph render="italic">Brabants Historisch Informatie Centrum, toegangsnummer 2171, archief van Consulentschappen op het gebied van het natuurbehoud en de openluchtrecreatie in de provincie Noord-Brabant 
+            <lb/>van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
+            <lb/>(1981) 1984 - 1994 
+          </emph>, inv.nr. …
+          <lb/>- Verkort: 
+          <emph render="italic">BHIC, 2171 Consulentschappen op  natuurbehoud en openluchtrecreatie Noord-Brabant van LNV (1981)1984 - 1994</emph>, inv.nr. …
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Verwant materiaal</emph>
+          <lb/>In de volgende toegangen vind je ook informatie over deze archiefvormer en/of dit onderwerp:
+          <lb/>-Inventaris van de archieven van de Consulentschappen in de provincie Noord-Brabant van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, 1937 – 1990.
+          <lb/>-Inventaris van het archief van de Provinciale Directie voor de Bedrijfsontwikkeling in Noord-Brabant van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, (1949) 1963 – 1983 (1989).
+          <lb/>-Inventaris van het archief van de hoofdingenieur-directeur Landinrichting, Grond- en Bosbeheer in Noord-Brabant van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, (1947) 1972 – 1983 (1992).
+          <lb/>-Inventaris van het archief van de Provinciale Raad voor de Bedrijfsontwikkeling in de Landbouw in Noord-Brabant van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, 1955 – 1988
+          <lb/>-Inventaris van de archieven van de archieven van de Directeur Landbouw, Natuur en Openluchtrecreatie en taakvoorgangers in de provincie Noord-Brabant (in bewerking).
+          <lb/>-Aanvulling op de inventaris van de Consulentschappen in de provincie Noord-Brabant (in bewerking).
+          <lb/>
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>Publicaties</head>
+        <p>-Openluchtrecreatie; een institutioneel onderzoek naar het beleidsterrein openluchtrecreatie in de periode 1945-1996 (Den Haag 1998).
+          <lb/>-Met rede gekaveld; een institutioneel onderzoek naar taken en handelingen van actoren op het terrein van de landinrichting, 1945-1993 (Den Haag 2000).
+          <lb/>-Landbouwstructuurbeleid; een institutioneel onderzoek naar het handelen van de overheidsorganen op het beleidsterrein Landbouwstructuurbeleid, 1945-2000 (Den Haag 2005).
+          <lb/>-Natuur- en Landschapsbeheer en relatienotabeleid; een institutioneel onderzoek naar taken en handelingen van actoren op de beleidsterreinen natuur- en landschapsbeheer (1945- ) en relatienotabeleid (1974- ) (Den Haag)
+          <lb/>
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>Bijlagen</head>
+        <p>
+          <emph render="bold">Concordans</emph>
+          <lb/>
+        </p>
+        <p>
+          <emph render="bold">Bijlagen</emph>
+        </p>
+        <p>
+          <emph render="bold">Lijst van [...]</emph>
+        </p>
+        <odd type="regest">
+          <head>-</head>
+          <p/>
+        </odd>
+      </odd>
+    </odd>
+    <dsc type="combined">
+      <c01 level="series">
+        <did id="MF30905433">
+          <unitid type="guid">63428419BC0C4B2D90420E394175BFE1</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Consulentschap Openluchtrecreatie</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+        </did>
+        <c02 level="subseries">
+          <did id="MF30905434">
+            <unitid type="guid">51ECF641A7A14594B93A47DB2E92F0C3</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Organisatie</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="otherlevel" otherlevel="filegrp">
+            <did id="MF30905435">
+              <unitid type="guid">530D931C86DA415BB823E0AE6988A19F</unitid>
+              <unitid>1-3</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/530D931C86DA415BB823E0AE6988A19F</unitid>
+              <unittitle>Stukken betreffende de organisatie en reorganisatie van de dienst</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+              <physdesc>2 pakken en 1 omslag</physdesc>
+            </did>
+            <c04 level="file">
+              <did id="MF30905436">
+                <unitid type="guid">C2298F311DD94322AE5229E7EF596081</unitid>
+                <unitid>1</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C2298F311DD94322AE5229E7EF596081</unitid>
+                <unittitle>Reorganiseren van het provinciale apparaat van het Ministerie van Landbouw en Visserij, 1981-1984</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1981/1984">1981-1984</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905437">
+                <unitid type="guid">81E79F84C5754789A50404E186B3ACAA</unitid>
+                <unitid>2</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/81E79F84C5754789A50404E186B3ACAA</unitid>
+                <unittitle>Reorganiseren van het Directoraat-Generaal Landelijke Gebieden en Kwaliteitszorg en de gevolgen voor de dienstonderdelen in de provincie Noord-Brabant, 1984-1985</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1984/1985">1984-1985</unitdate>
+                <physdesc>1 omslag</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905438">
+                <unitid type="guid">1CE28882BC93452A9CA818A0979371A2</unitid>
+                <unitid>3</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1CE28882BC93452A9CA818A0979371A2</unitid>
+                <unittitle>Instellen van een Consulentschap Openluchtrecreatie regio Zuid, 1984-1993</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1984/1993">1984-1993</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905439">
+              <unitid type="guid">5B6AEBA500454F19B2A4280CD7024DD1</unitid>
+              <unitid>4</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5B6AEBA500454F19B2A4280CD7024DD1</unitid>
+              <unittitle>Aanvulling op de structuurbeschrijving van het archief van de directie Openluchtrecreatie, 1986</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1986">1986</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905440">
+            <unitid type="guid">BE7FF094EBC84670B944A5C69FDF6DFA</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Notulen van vergaderingen, algemene rapporten en statistieken</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905441">
+              <unitid type="guid">B1BA6F5EF81F413F8CEDE6734F44277C</unitid>
+              <unitid>5</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B1BA6F5EF81F413F8CEDE6734F44277C</unitid>
+              <unittitle>Periodeberichten, 1983-1989</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1983/1989">1983-1989</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905442">
+            <unitid type="guid">946F9886AFAA476B8B3162EFDA0A9A9D</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Verkeer en vervoer over tram- en spoorwegen</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905443">
+              <unitid type="guid">F05E4EA064C149BEB2A1A7C02A1AF1D7</unitid>
+              <unitid>6</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F05E4EA064C149BEB2A1A7C02A1AF1D7</unitid>
+              <unittitle>Stukken betreffend het opstellen van commentaar op de Hoge Snelheidslijn (HSL) -nota en de gevolgen voor de recreatie in Noord-Brabant, 1990</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1990">1990</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905444">
+            <unitid type="guid">5E1A93BCB6E54ADC8CDB6EB6CD8C5F73</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Visserij</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905445">
+              <unitid type="guid">5C94B3D5893D4B5A9075D29ADA294CE7</unitid>
+              <unitid>7</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5C94B3D5893D4B5A9075D29ADA294CE7</unitid>
+              <unittitle>Stukken betreffende het ontwikkelen van beleid voor de sportvisserij in Noord-Brabant, 1985-1987</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1985/1987">1985-1987</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905446">
+            <unitid type="guid">CC78C1A13D1C4B6CA0BFC22F98F33FB1</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Recreatie</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905447">
+              <unitid type="guid">84CB40D6395A44BE9D01694E553690EA</unitid>
+              <unitid>8</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/84CB40D6395A44BE9D01694E553690EA</unitid>
+              <unittitle>Stukken betreffende het beantwoorden van Tweede Kamervragen van Willems over de instemming van de gemeenteraad van Oosterhout met het voornemen tot het ontwikkelen van verblijfsrecreatie in het recreatie-oord Surae in Boswachterij Dorst, 1981-1984</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1981/1984">1981-1984</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF30905448">
+          <unitid type="guid">284B463E7EB945C6B851544124E0151B</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Consulentschap Openluchtrecreatie Regio Zuid</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+        </did>
+        <c02 level="subseries">
+          <did id="MF30905449">
+            <unitid type="guid">542AC8E1A0724747ABEDFEC469CC0B42</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Notulen van vergaderingen, algemene rapporten en statistieken</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905450">
+              <unitid type="guid">5195BC02214A44EC9E9EA94EC3AEBD27</unitid>
+              <unitid>9</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5195BC02214A44EC9E9EA94EC3AEBD27</unitid>
+              <unittitle>Vergaderstukken van het Overlegplatform Sportvisserij Noord-Brabant, 1992-1994</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1992/1994">1992-1994</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905451">
+              <unitid type="guid">3D359C934FB94676A3416A5C1985CAD3</unitid>
+              <unitid>10</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3D359C934FB94676A3416A5C1985CAD3</unitid>
+              <unittitle>Vergaderstukken van het Overlegplatform Watersport Noord-Brabant, 1992-1994</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1992/1994">1992-1994</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905452">
+              <unitid type="guid">C51A15EF44C64240860A5594D90B8E10</unitid>
+              <unitid>11</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C51A15EF44C64240860A5594D90B8E10</unitid>
+              <unittitle>Periodeberichten, 1993-1994</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1993/1994">1993-1994</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905453">
+              <unitid type="guid">75B42FB7D6924A0199E657CB31FDB48A</unitid>
+              <unitid>12</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/75B42FB7D6924A0199E657CB31FDB48A</unitid>
+              <unittitle>Vergaderstukken van de Klankbordgroep Landelijk Aanlegplaatsenplan Noord-Brabant, 1993-1994</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1993/1994">1993-1994</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905454">
+              <unitid type="guid">E15457B1AB3D40C3937A07763925CAA9</unitid>
+              <unitid>13</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E15457B1AB3D40C3937A07763925CAA9</unitid>
+              <unittitle>Vergaderstukken van de Klankbordgroep Passantenplaatsen Maas en Maasplassen, 1994</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905455">
+              <unitid type="guid">7B0D144D6A5F413DB693B9464A0B1D40</unitid>
+              <unitid>14</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7B0D144D6A5F413DB693B9464A0B1D40</unitid>
+              <unittitle>Vergaderstukken van de Regiogroep Openstelling Natuurgebieden Nader Bekeken, 1994</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF30905456">
+          <unitid type="guid">5AC2D05D11F24403A6DCEC3775DAF2BB</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Consulentschap Natuur, Milieu en Faunabeheer</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+        </did>
+        <c02 level="subseries">
+          <did id="MF30905457">
+            <unitid type="guid">63F634BE2AA741B7A2069C6FBFF96D2F</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Organisatie</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905458">
+              <unitid type="guid">575BE50B5FF343C6B66AE3B8EC8381C8</unitid>
+              <unitid>15</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/575BE50B5FF343C6B66AE3B8EC8381C8</unitid>
+              <unittitle>Stukken betreffende de organisatie en reorganisatie van de dienst, 1983-1991</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1983/1991">1983-1991</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905459">
+            <unitid type="guid">F50A80BC5B7F4133ADC9CB29A8C40BF9</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Notulen van vergaderingen, algemene rapporten en statistieken</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905460">
+              <unitid type="guid">DF70F2F5E53648D79A948FE9F4476A97</unitid>
+              <unitid>16</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DF70F2F5E53648D79A948FE9F4476A97</unitid>
+              <unittitle>Maandverslagen, 1984-1989</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1984/1989">1984-1989</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905461">
+              <unitid type="guid">163C1366BBA04B3AAFDFC7C4909F4173</unitid>
+              <unitid>17</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/163C1366BBA04B3AAFDFC7C4909F4173</unitid>
+              <unittitle>Vergaderstukken van het Provinciaal Beheersoverleg Dassen, 1984-1990</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1984/1990">1984-1990</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905462">
+              <unitid type="guid">0484692EF2304B1FA904FC4F37601A8D</unitid>
+              <unitid>18</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0484692EF2304B1FA904FC4F37601A8D</unitid>
+              <unittitle>Vergaderstukken van het overleg met Terreinbeheer, 1985-1988</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1985/1988">1985-1988</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905463">
+              <unitid type="guid">EB8FF50A520448B4AB4471B83564C218</unitid>
+              <unitid>19</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EB8FF50A520448B4AB4471B83564C218</unitid>
+              <unittitle>Vergaderstukken van het Provinciaal Overleg Poelenbeheer, 1985-1988</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1985/1988">1985-1988</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="otherlevel" otherlevel="filegrp">
+            <did id="MF30905464">
+              <unitid type="guid">C9094AE44A2D4E3FB25CA27933EDE415</unitid>
+              <unitid>20-22</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C9094AE44A2D4E3FB25CA27933EDE415</unitid>
+              <unittitle>Stukken betreffende het deelnemen aan het Provinciaal Overleg Fauna-aangelegenheden</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+              <physdesc>2 pakken en 1 omslag</physdesc>
+            </did>
+            <c04 level="file">
+              <did id="MF30905465">
+                <unitid type="guid">2BFCF55986F14457A4968A7DCBE0A8D7</unitid>
+                <unitid>20</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2BFCF55986F14457A4968A7DCBE0A8D7</unitid>
+                <unittitle>, 1985-1988</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1985/1988">1985-1988</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905466">
+                <unitid type="guid">3A388E76BDFE451F8BBB5ABB5172D89D</unitid>
+                <unitid>21</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3A388E76BDFE451F8BBB5ABB5172D89D</unitid>
+                <unittitle>, 1989-1990</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1989/1990">1989-1990</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905467">
+                <unitid type="guid">D07EF7363D9A461888C7C827D7773B24</unitid>
+                <unitid>22</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D07EF7363D9A461888C7C827D7773B24</unitid>
+                <unittitle>Vergaderstukken van de Werkgroep Roofvogelproblematiek, 1988-1989</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1988/1989">1988-1989</unitdate>
+                <physdesc>1 omslag</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+          </c03>
+          <c03 level="otherlevel" otherlevel="filegrp">
+            <did id="MF30905468">
+              <unitid type="guid">9109785D43EB47AB830C1277C779199C</unitid>
+              <unitid>23-27</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9109785D43EB47AB830C1277C779199C</unitid>
+              <unittitle>Vergaderstukken van werkbesprekingen</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+              <physdesc>3 pakken en 2 omslagen</physdesc>
+            </did>
+            <c04 level="file">
+              <did id="MF30905469">
+                <unitid type="guid">7260A6172F334CB2893072C0EE2A4DB0</unitid>
+                <unitid>23</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7260A6172F334CB2893072C0EE2A4DB0</unitid>
+                <unittitle>, 1986</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1986">1986</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905470">
+                <unitid type="guid">AB41A9F135DC462CB3D17C0F89A70491</unitid>
+                <unitid>24</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/AB41A9F135DC462CB3D17C0F89A70491</unitid>
+                <unittitle>, 1987</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1987">1987</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905471">
+                <unitid type="guid">CBC220C4B75B4DEA8AEFC9D511DC88BC</unitid>
+                <unitid>25</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CBC220C4B75B4DEA8AEFC9D511DC88BC</unitid>
+                <unittitle>, 1988</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1988">1988</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905472">
+                <unitid type="guid">9CCA4C867D2F4C6DB7FA2BECEC62E2A1</unitid>
+                <unitid>26</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9CCA4C867D2F4C6DB7FA2BECEC62E2A1</unitid>
+                <unittitle>, 1989</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1989">1989</unitdate>
+                <physdesc>1 omslag</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905473">
+                <unitid type="guid">E664B6FC07114B9CA4A06CDB9BB61A87</unitid>
+                <unitid>27</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E664B6FC07114B9CA4A06CDB9BB61A87</unitid>
+                <unittitle>, 1991</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+                <physdesc>1 omslag</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905474">
+            <unitid type="guid">8E9E52985C7049279C06DDFB55CCDA56</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Natuur-, landschaps- en stedelijk schoon</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905475">
+              <unitid type="guid">D6FD244D93B64194BE22E25CD9AE756C</unitid>
+              <unitid>28</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D6FD244D93B64194BE22E25CD9AE756C</unitid>
+              <unittitle>Vergaderstukken van het Provinciaal Comité Natuur in de Stedelijke Omgeving voor Noord-Brabant, 1985</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1985">1985</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905476">
+              <unitid type="guid">D253DC7715BD4761883DA77AB6CE57FC</unitid>
+              <unitid>29</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D253DC7715BD4761883DA77AB6CE57FC</unitid>
+              <unittitle>Vergaderstukken van de Begeleidingscommissie van het Beuvenonderzoek, 1985-1987</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1985/1987">1985-1987</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905477">
+              <unitid type="guid">B9500A4056D146A09673B9AEA73261C2</unitid>
+              <unitid>30</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B9500A4056D146A09673B9AEA73261C2</unitid>
+              <unittitle>Vergaderstukken van de Werkgroep Oeverafslag Bieschbosch, 1985-1987</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1985/1987">1985-1987</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="otherlevel" otherlevel="filegrp">
+            <did id="MF30905478">
+              <unitid type="guid">726866869F29495881032ADD4807D04A</unitid>
+              <unitid>31-32</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/726866869F29495881032ADD4807D04A</unitid>
+              <unittitle>Vergaderstukken van de Contact-commissie Strabrechtse Heide</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+              <physdesc>1 pak en 1 omslag</physdesc>
+            </did>
+            <c04 level="file">
+              <did id="MF30905479">
+                <unitid type="guid">7F18D4843C754906B10EFD9852CC7C73</unitid>
+                <unitid>31</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7F18D4843C754906B10EFD9852CC7C73</unitid>
+                <unittitle>, 1986-1988</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1986/1988">1986-1988</unitdate>
+                <physdesc>1 pak</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905480">
+                <unitid type="guid">28B72E29A39F4AA78E50875DF4B36E7D</unitid>
+                <unitid>32</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/28B72E29A39F4AA78E50875DF4B36E7D</unitid>
+                <unittitle>, 1989-1990</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1989/1990">1989-1990</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+          </c03>
+          <c03 level="otherlevel" otherlevel="filegrp">
+            <did id="MF30905481">
+              <unitid type="guid">CCB22D8C9C3447959E426C78580742D8</unitid>
+              <unitid>33-34</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CCB22D8C9C3447959E426C78580742D8</unitid>
+              <unittitle>Stukken betreffende het aanwijzen van gebieden als beschermd natuurmonument</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+              <physdesc>2 omslagen</physdesc>
+            </did>
+            <c04 level="file">
+              <did id="MF30905482">
+                <unitid type="guid">140722FDB33F4947971B56699B749461</unitid>
+                <unitid>33</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/140722FDB33F4947971B56699B749461</unitid>
+                <unittitle>Groot en Klein Meer in de gemeente Vessem, 1986-1990</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1986/1990">1986-1990</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905483">
+                <unitid type="guid">B1E73DEB436D4C778D024E9A551C98C2</unitid>
+                <unitid>34</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B1E73DEB436D4C778D024E9A551C98C2</unitid>
+                <unittitle>Zwartven in de gemeente Hooge en Lage Mierde, 1989-1991</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1989/1991">1989-1991</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905484">
+              <unitid type="guid">6444923FBDF0416D85348A164E7AED3F</unitid>
+              <unitid>35</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6444923FBDF0416D85348A164E7AED3F</unitid>
+              <unittitle>Rapport getiteld De oude spoorlijn; huidige situatie en beheersadviezen door T. Heijligers, alsmede stukken betreffende het voeren van overleg inzake de gevolgen van de aanleg van de Hogesnelheidslijn voor de natuurontwikkeling, 1987-1989</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1987/1989">1987-1989</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF30905485">
+          <unitid type="guid">88A1C660761F42429B59AA0ED736C630</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Consulentschap Bos- en Landschapsbouw</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+        </did>
+        <c02 level="subseries">
+          <did id="MF30905486">
+            <unitid type="guid">853A62C75547448393426FA985817163</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Organisatie</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905487">
+              <unitid type="guid">92E5084BB5E34853AD5BBDF0128508EB</unitid>
+              <unitid>36</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/92E5084BB5E34853AD5BBDF0128508EB</unitid>
+              <unittitle>Stukken betreffende het opstellen van een commentaar op het beleidsvoornemen met betrekking tot de organisatie van de Directie Bos- en Landschapsbouw, 1988</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1988">1988</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905488">
+              <unitid type="guid">847FD566AC07468AB34039B5BC1155FC</unitid>
+              <unitid>37</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/847FD566AC07468AB34039B5BC1155FC</unitid>
+              <unittitle>Stukken betreffende de reorganisatie van de Directie Bos- en Landschapsbouw en de gevolgen hiervan voor het consulentschap Bos- en Landschapsbouw in Noord-Brabant, 1989-1991</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1989/1991">1989-1991</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <scopecontent>
+              <p>Bevat tevens een Nota Voorlichting van het consulentschap</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905489">
+            <unitid type="guid">33E4A68DE1AF4A80A7F5A52D9CB2FEFE</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Notulen van vergaderingen, algemene rapporten en statistieken</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905490">
+              <unitid type="guid">8A6273B5A91140D484E34E7899F9C3F3</unitid>
+              <unitid>38</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8A6273B5A91140D484E34E7899F9C3F3</unitid>
+              <unittitle>Informatiebulletins, 1985-1991</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1985/1991">1985-1991</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905491">
+              <unitid type="guid">F5B54239A8024E1897D5D224BC2FD2F9</unitid>
+              <unitid>39</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F5B54239A8024E1897D5D224BC2FD2F9</unitid>
+              <unittitle>Vergaderstukken van het sectoroverleg Landschapsbouw, 1986-1987</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1986/1987">1986-1987</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905492">
+              <unitid type="guid">C25F0CA27E0C4F539F8553696265D804</unitid>
+              <unitid>40</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C25F0CA27E0C4F539F8553696265D804</unitid>
+              <unittitle>Vergaderstukken van gezamenlijk overleg tussen de sectoren Bos- en Landschapsbouw, 1986-1988</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1986/1988">1986-1988</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905493">
+              <unitid type="guid">3BF97DBC5D5543DE95B5D8C478A97F5C</unitid>
+              <unitid>41</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3BF97DBC5D5543DE95B5D8C478A97F5C</unitid>
+              <unittitle>Vergaderstukken van de Overleggroep Midden-Maasland, 1987</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1987">1987</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="otherlevel" otherlevel="filegrp">
+            <did id="MF30905494">
+              <unitid type="guid">39A857C1BB544A318FA7CD5068C349B0</unitid>
+              <unitid>42-43</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/39A857C1BB544A318FA7CD5068C349B0</unitid>
+              <unittitle>Vergaderstukken van de districtsvergaderingen Bosbouw</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+              <physdesc>2 pakken</physdesc>
+            </did>
+            <c04 level="file">
+              <did id="MF30905495">
+                <unitid type="guid">40284371BD554712BFF6AA0CEACCEB52</unitid>
+                <unitid>42</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/40284371BD554712BFF6AA0CEACCEB52</unitid>
+                <unittitle>, 1987</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1987">1987</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905496">
+                <unitid type="guid">49964171C16240098A38C8CD8B54273D</unitid>
+                <unitid>43</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/49964171C16240098A38C8CD8B54273D</unitid>
+                <unittitle>, 1988</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1988">1988</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905497">
+              <unitid type="guid">89046E38CF3640C9B167FC9CBF2170A8</unitid>
+              <unitid>44</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/89046E38CF3640C9B167FC9CBF2170A8</unitid>
+              <unittitle>Vergaderstukken van de Overleggroep Bestrijding Bacterievuur Noord-Brabant, 1987-1988</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1987/1988">1987-1988</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <scopecontent>
+              <p>De consulent was voorzitter</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905498">
+              <unitid type="guid">3C92EA2D8CF64231BA3DC54A9BC97AC3</unitid>
+              <unitid>45</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3C92EA2D8CF64231BA3DC54A9BC97AC3</unitid>
+              <unittitle>Rapport getiteld Visie landschapsbouw, 1989-1990</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1989/1990">1989-1990</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <scopecontent>
+              <p>Bevat tevens correspondentie</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905499">
+              <unitid type="guid">46FABD49D95C4153B975491835C434E6</unitid>
+              <unitid>46</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/46FABD49D95C4153B975491835C434E6</unitid>
+              <unittitle>Maandverslagen, 1991</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905500">
+            <unitid type="guid">0F693A00F9D2467B96FA2C327CFFBDD2</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Planologische regelingen</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="otherlevel" otherlevel="filegrp">
+            <did id="MF30905501">
+              <unitid type="guid">16B03E6916664013AAEADD3EB89B4B55</unitid>
+              <unitid>47-48</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/16B03E6916664013AAEADD3EB89B4B55</unitid>
+              <unittitle>Stukken betreffende het geven van advies over het Regionaal Bosplan gewest Helmond van het Streekorgaan Gewest Helmond</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+              <physdesc>2 pakken</physdesc>
+            </did>
+            <c04 level="file">
+              <did id="MF30905502">
+                <unitid type="guid">39153E50267047F4BFF03AB3EDA9FE70</unitid>
+                <unitid>47</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/39153E50267047F4BFF03AB3EDA9FE70</unitid>
+                <unittitle>Tussenrapporten en het Ontwerp Regionaal Bosplan gewest Helmond, 1987-1990</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1987/1990">1987-1990</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905503">
+                <unitid type="guid">0B54767C01844A69863C6C8A5CBA56FC</unitid>
+                <unitid>48</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0B54767C01844A69863C6C8A5CBA56FC</unitid>
+                <unittitle>Besprekingen, 1989-1990</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1989/1990">1989-1990</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905504">
+            <unitid type="guid">D3B523C275FF4043B562F09BC9D73FB4</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Bodemproductie. Dierenteelt. Producten van de huisdieren</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905505">
+              <unitid type="guid">0122701CAF914ED0B9245199D1C8531F</unitid>
+              <unitid>49</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0122701CAF914ED0B9245199D1C8531F</unitid>
+              <unittitle>Stukken betreffende het geven van voorlichting aan boseigenaren naar aanleiding van de storm op 25 januari 1990, 1990</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1990">1990</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905506">
+              <unitid type="guid">E5ABE93827AE4A5294D83535DBDAF07D</unitid>
+              <unitid>50</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E5ABE93827AE4A5294D83535DBDAF07D</unitid>
+              <unittitle>Stukken betreffende het opstellen van een nota getiteld Samenwerking in de bosbouw, provincie Noord-Brabant, 1991</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF30905507">
+          <unitid type="guid">6D6CCC9A0CA741AE9B2FF509CF835EFE</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Consulentschap Natuur, Bos, Landschap en Fauna</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+        </did>
+        <c02 level="subseries">
+          <did id="MF30905508">
+            <unitid type="guid">B5708751D22B416EA922415AF8424D0D</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Organisatie</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905509">
+              <unitid type="guid">DDA35C1103D743469F9325E1050ECEAF</unitid>
+              <unitid>51</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DDA35C1103D743469F9325E1050ECEAF</unitid>
+              <unittitle>Verklaring van vervreemding van archiefbescheiden aan de provincie Noord-Brabant betreffende de Regeling Onderhoudsovereenkomsten Landschapselementen (ROL) en de Regeling Aanwijzing Landschapselementen (RAL), 1991-1992</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1991/1992">1991-1992</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <scopecontent>
+              <p>Bevat tevens correspondentie</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905510">
+              <unitid type="guid">28F34F2736B542D9956E56FF18D2C12D</unitid>
+              <unitid>52</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/28F34F2736B542D9956E56FF18D2C12D</unitid>
+              <unittitle>Werkplan voor het jaar 1994, 1994</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1994">1994</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <scopecontent>
+              <p>Bevat tevens correspondentie</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905511">
+            <unitid type="guid">BFC2E391E4314760BB33A2F071AFE8D7</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Notulen van vergaderingen, algemene rapporten en statistieken</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905512">
+              <unitid type="guid">791CE1CE34D04499AACE4344802E3918</unitid>
+              <unitid>53</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/791CE1CE34D04499AACE4344802E3918</unitid>
+              <unittitle>Vergaderstukken van de Begeleidingscommissie regiostudie Eindhoven-Helmond, 1991-1992</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1991/1992">1991-1992</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="otherlevel" otherlevel="filegrp">
+            <did id="MF30905513">
+              <unitid type="guid">15CBAED6753841A3AC5273E676DAA91C</unitid>
+              <unitid>54-60</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/15CBAED6753841A3AC5273E676DAA91C</unitid>
+              <unittitle>Stukken betreffende het deelnemen aan het Breed Provinciaal Overleg Faunazaken (BOF)</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+              <physdesc>1 pak en 6 omslagen</physdesc>
+            </did>
+            <c04 level="file">
+              <did id="MF30905514">
+                <unitid type="guid">466F5034C3BE403AA2E1F5EC68AFAEFF</unitid>
+                <unitid>54</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/466F5034C3BE403AA2E1F5EC68AFAEFF</unitid>
+                <unittitle>Vergaderstukken, 1991-1994</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1991/1994">1991-1994</unitdate>
+                <physdesc>1 pak</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905515">
+                <unitid type="guid">2E38A67445B349EC878BEB966F0F8CAD</unitid>
+                <unitid>55</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2E38A67445B349EC878BEB966F0F8CAD</unitid>
+                <unittitle>Amfibieën en Reptielen, 1992-1994</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1992/1994">1992-1994</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905516">
+                <unitid type="guid">E3F113AC234B458CBC0CC5B5A13B93E2</unitid>
+                <unitid>56</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E3F113AC234B458CBC0CC5B5A13B93E2</unitid>
+                <unittitle>Avifauna, 1993</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905517">
+                <unitid type="guid">B31F208D11A54F34BAFC0D1B20375DFF</unitid>
+                <unitid>57</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B31F208D11A54F34BAFC0D1B20375DFF</unitid>
+                <unittitle>Dassen Noord-Brabant, 1992-1994</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1992/1994">1992-1994</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905518">
+                <unitid type="guid">647FCA3A3EA64D5A86286538F788DB4D</unitid>
+                <unitid>58</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/647FCA3A3EA64D5A86286538F788DB4D</unitid>
+                <unittitle>Ganzen, 1991-1992</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1991/1992">1991-1992</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905519">
+                <unitid type="guid">0CDAC5429D004882B7C7B4ACF0E51AA2</unitid>
+                <unitid>59</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0CDAC5429D004882B7C7B4ACF0E51AA2</unitid>
+                <unittitle>Korhoen, 1992-1993</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1992/1993">1992-1993</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905520">
+                <unitid type="guid">3B0227F7BCAD4D209FCCCFA6597290FC</unitid>
+                <unitid>60</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3B0227F7BCAD4D209FCCCFA6597290FC</unitid>
+                <unittitle>Vleermuizen, 1992-1993</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1992/1993">1992-1993</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905521">
+              <unitid type="guid">FF637276A45041F68D590CB12E21E5A6</unitid>
+              <unitid>61</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FF637276A45041F68D590CB12E21E5A6</unitid>
+              <unittitle>Vergaderstukken van de Contactcommissie Strabrechtse Heide, 1991-1994</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1991/1994">1991-1994</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905522">
+              <unitid type="guid">7272BA3814C3458AA7534A0A19D8CBCE</unitid>
+              <unitid>62</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7272BA3814C3458AA7534A0A19D8CBCE</unitid>
+              <unittitle>Maandverslagen, 1992</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905523">
+              <unitid type="guid">E5BBAE0BB303489AB7A8C0F4DAC6D844</unitid>
+              <unitid>63</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E5BBAE0BB303489AB7A8C0F4DAC6D844</unitid>
+              <unittitle>Vergaderstukken van het Landelijk Zwartwild Overleg, 1992</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905524">
+            <unitid type="guid">1D46E5982A6445A2B329799339008828</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Gewenste inrichting. Planologie</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905525">
+              <unitid type="guid">D720D22852BD439C9509F018EF17081C</unitid>
+              <unitid>64</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D720D22852BD439C9509F018EF17081C</unitid>
+              <unittitle>Rapport getiteld Relatie bestemmingsplan-landinrichtingsplan, met geleidebrief, 1992</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905526">
+            <unitid type="guid">4722190DCDFD4D0D88D23FFE414790AB</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Bosbouw, boom- en houtteelt</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="otherlevel" otherlevel="filegrp">
+            <did id="MF30905527">
+              <unitid type="guid">365866C45F3A408DA01201AF31D5FE27</unitid>
+              <unitid>65-66</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/365866C45F3A408DA01201AF31D5FE27</unitid>
+              <unittitle>Stukken betreffende het leveren van bijdragen aan het wijzigen van de procedure van de Boswet en aan de afstemming hiervan op het bosbouwbeleid</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+              <physdesc>2 pakken</physdesc>
+            </did>
+            <scopecontent>
+              <p>Niet nader onder te verdelen</p>
+            </scopecontent>
+            <c04 level="file">
+              <did id="MF30905528">
+                <unitid type="guid">67D064A9301741CABF11961144104FE1</unitid>
+                <unitid>65</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/67D064A9301741CABF11961144104FE1</unitid>
+                <unittitle>Deel 1, 1990-1992</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1990/1992">1990-1992</unitdate>
+              </did>
+              <scopecontent>
+                <p>Bevat tevens een rapport getiteld Afstemming Boswet / Wet Ruimtelijke Ordening en Kapverordening</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905529">
+                <unitid type="guid">F8E31BF89E944369B4C85300D64DB2A9</unitid>
+                <unitid>66</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F8E31BF89E944369B4C85300D64DB2A9</unitid>
+                <unittitle>Deel 2, 1992-1994</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1992/1994">1992-1994</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905530">
+              <unitid type="guid">B40049E3CDF444E4BC7A0CCB44AE27D9</unitid>
+              <unitid>67</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B40049E3CDF444E4BC7A0CCB44AE27D9</unitid>
+              <unittitle>Rapport getiteld Interimstrategie bossen Noord-Brabant, 1991</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1991">1991</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <scopecontent>
+              <p>Bevat tevens correspondentie</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905531">
+              <unitid type="guid">C62D88ABA1804244B6C220352E29F1A5</unitid>
+              <unitid>68</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C62D88ABA1804244B6C220352E29F1A5</unitid>
+              <unittitle>Stukken betreffende het opstellen van een notitie over de problematiek van de kerstsparrenteelt op herplantplichtige grond, 1992-1994</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1992/1994">1992-1994</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905532">
+            <unitid type="guid">1B164CBE63BE40FB8342FADF55FFED29</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Jacht</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="file">
+            <did id="MF30905533">
+              <unitid type="guid">85326DCD90E646E7B28587BDC677C7FF</unitid>
+              <unitid>69</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/85326DCD90E646E7B28587BDC677C7FF</unitid>
+              <unittitle>Stukken betreffende het vergoeden van schade door ganzen aan landbouwgronden rondom de Groote Peel, 1989-1993</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1989/1993">1989-1993</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905534">
+              <unitid type="guid">8D9D8E3B0F43416791B40F82E753665A</unitid>
+              <unitid>70</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8D9D8E3B0F43416791B40F82E753665A</unitid>
+              <unittitle>Stukken betreffende het evalueren en verbeteren van de kwaliteit van het wildbeheer door wildbeheereenheden (wbe's), 1991-1994</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1991/1994">1991-1994</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF30905535">
+            <unitid type="guid">7D1244FFD215481C9A46D747B7D78DC6</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Natuur-, landschaps- en stedelijk schoon</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+          </did>
+          <c03 level="otherlevel" otherlevel="filegrp">
+            <did id="MF30905536">
+              <unitid type="guid">7901A50055104863A26367E7F65F516C</unitid>
+              <unitid>71-74</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7901A50055104863A26367E7F65F516C</unitid>
+              <unittitle>Stukken betreffende het behandelen van diverse aspecten van het Keersop-project</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+              <physdesc>1 pak en 3 omslagen</physdesc>
+            </did>
+            <c04 level="file">
+              <did id="MF30905537">
+                <unitid type="guid">51E72821D12343D49593619B4E26ECA8</unitid>
+                <unitid>71</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/51E72821D12343D49593619B4E26ECA8</unitid>
+                <unittitle>Vooroverleg, voortgangscontrole, inrichtingsplannen, 1990</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1990">1990</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905538">
+                <unitid type="guid">3F1EA2C9757647958201FBEF11CF3475</unitid>
+                <unitid>72</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3F1EA2C9757647958201FBEF11CF3475</unitid>
+                <unittitle>Vergaderstukken van de Coördinatiegroep Keersop, 1991-1992</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1991/1992">1991-1992</unitdate>
+                <physdesc>1 pak</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905539">
+                <unitid type="guid">3AF4955E927144F3B080DA6DEAE21160</unitid>
+                <unitid>73</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3AF4955E927144F3B080DA6DEAE21160</unitid>
+                <unittitle>Vergaderstukken van de Werkgroep Convenant, 1992-1993</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1992/1993">1992-1993</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905540">
+                <unitid type="guid">0D26936052944F8A962CC013899CAA35</unitid>
+                <unitid>74</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0D26936052944F8A962CC013899CAA35</unitid>
+                <unittitle>Intentieverklaring inzake de integrale afstemming bij inrichting en beheer van de Keersop en Overeenkomst inzake de inrichting van drie proefstroken in en langs de Keersop, 1993</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905541">
+              <unitid type="guid">89264AF8BEA44926A16BCB7633F7231C</unitid>
+              <unitid>75</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/89264AF8BEA44926A16BCB7633F7231C</unitid>
+              <unittitle>Stukken betreffende het begrenzen van de Ecologische Hoofdstructuur (EHS), 1992</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1992">1992</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905542">
+              <unitid type="guid">521529ED64FF4059982D8054619FF180</unitid>
+              <unitid>76</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/521529ED64FF4059982D8054619FF180</unitid>
+              <unittitle>Rapport getiteld Toekomstverkenning Eindhoven-Helmond, over de stads- en landschapsontwikkeling in het stedelijk knooppunt, 1993</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1993">1993</unitdate>
+              <physdesc>1 omslag</physdesc>
+            </did>
+            <scopecontent>
+              <p>Bevat tevens correspondentie</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF30905543">
+              <unitid type="guid">F825B1C37CDB4A4A85688DBA0EE38DE6</unitid>
+              <unitid>77</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F825B1C37CDB4A4A85688DBA0EE38DE6</unitid>
+              <unittitle>Stukken betreffende de totstandkoming van het Natuurontwikkelingsplan Chaamse beken, 1993-1994</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1993/1994">1993-1994</unitdate>
+              <physdesc>1 pak</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="otherlevel" otherlevel="filegrp">
+            <did id="MF30905544">
+              <unitid type="guid">0CBC41458DB8431D82C0B4DD75CFF56A</unitid>
+              <unitid>78-79</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0CBC41458DB8431D82C0B4DD75CFF56A</unitid>
+              <unittitle>Stukken betreffende het opstellen van beheersvisies</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1981/1994"/>
+              <physdesc>1 pak en 1 omslag</physdesc>
+            </did>
+            <c04 level="file">
+              <did id="MF30905545">
+                <unitid type="guid">B150AEB974844C7FA887EB5C288FA7B1</unitid>
+                <unitid>78</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B150AEB974844C7FA887EB5C288FA7B1</unitid>
+                <unittitle>Beheersvisie Beschermd Natuurmonument Hildsven, 1991-1994</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1991/1994">1991-1994</unitdate>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF30905546">
+                <unitid type="guid">688054D2EBB546DFADCBC76FD3FF3A39</unitid>
+                <unitid>79</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/688054D2EBB546DFADCBC76FD3FF3A39</unitid>
+                <unittitle>Beheersvisie Groot en Kleinmeer voor de periode 1992-2001, 1992-1994</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1992/1994">1992-1994</unitdate>
+                <physdesc>1 omslag</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Emmen (voor inzage neem contact met ons op via het emailadres: aanvragen@bhic.nl)&lt;/B&gt;</p>
+              </odd>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_2171/18A2644A16DB49ECAF3B5AA5F48FBF61_oai_ead.xml-->
+</record>

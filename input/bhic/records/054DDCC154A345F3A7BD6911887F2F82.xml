@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>054DDCC154A345F3A7BD6911887F2F82</identifier>
-    <datestamp>2026-09-02</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -36,6 +36,11 @@
       </note>
     </did>
     <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
       <controlaccess>
         <head>Categorie</head>
         <subject>Religie en Levensbeschouwing</subject>
@@ -564,6 +569,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte, waarbij het kapittel der Sint Elisabethkerk bepaalt, dat de deken in Grave moet resideren, 1488</p>
@@ -592,6 +603,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Stukken betreffende de aanstelling van Petrus Moyness, gezegd vander Moeten, tot rector van de Sint Elisabethkerk te Grave, 1484</p>
@@ -628,6 +645,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Stukken betreffende de incorporatie der plebanie van de Sint Elisabethkerk te Grave bij het kapittel, 1486, 1487 (transfix), 1494</p>
@@ -673,6 +696,12 @@
           <odd type="OPMERKING SCANS">
             <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Stukken betreffende de incorporatie van de parochiekerk te Beuningen en van de kapel te Niftrik bij het kapittel. 1438,1451, 1452, 1505. Met op die kerk en kapel betrekking hebbende stukken. 1392 (afschriften), 1434, 1458, 1475, 1490. NB: 1 charter is in groot formaat en opgeborgen onder lexaan, 1438,1451, 1452, 1505, 1392 , 1434, 1458, 1475, 1490</p>
@@ -716,6 +745,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte, waarbij het kapittel der Sint Elisabethkerk enige bepalingen vaststelt ten aanzien van de renten en prebenden, 1409</p>
@@ -758,6 +793,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte, waarbij het kapittel der Sint Elisabethkerk het statuut betreffende de inkomsten der prebenden wijzigt, 1493</p>
@@ -836,6 +877,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Stuk betreffende het geschil tussen het kapittel der Sint Elisabethkerk en de kapitteldeken Jacobus van Rijn inzake de inkomsten der kapitteldeken, 1490</p>
@@ -864,6 +911,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte, waarbij het kapittel der Sint Elisabethkerk verklaart 15 rijnsguldens in plaats van 30 rijnsguldens aan de bisschop van Luik als belasting te zullen betalen. 1470. Met bijbehorend stuk. 1469, 1470, 1469</p>
@@ -900,6 +953,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte van schenking door Heer Jan van Cuyk aan het kapittel der Sint Elisabethkerk te Grave van bij Tiel, In Tiel, in Overasselt en in Grave gelegen goederen. 1308. Afschrift. 1469. Met akte van schenking in samenwerking met de verwanten van heer Jan van Cuyk. 1308, 1308, 1469</p>
@@ -927,6 +986,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Testament van vrouwe Jutta van Nassau, weduwe van heer Jan van Cuyk, waarin vervat een legaat voor de kanunniken van de kerk van Grave, bestaande uit goederen onder Cuyk en Beugen, 1312</p>
@@ -955,6 +1020,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte van schenking door Otto, heer van Cuyk, aan het kapittel te Grave van een rente van 5 pond payment, gaande uit zijn molen in Beugen. Met 15e eeuws handschrift, met kopie, 1320</p>
@@ -983,6 +1054,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte van opdracht door Hermanus vander Heiden aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 10 schellingen, gaande uit een hofstad in Grave, 1328</p>
@@ -1011,6 +1088,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte van opdracht door Juwanus, de zoon van Wernerus, aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 30 schellingen, gaande uit onder Grave gelegen goederen, 1331</p>
@@ -1039,6 +1122,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte van opdracht door Everardus Olislegher en Bela e.l. aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 10 schellingen, gaande uit een huis en erf in Grave, 1355</p>
@@ -1067,6 +1156,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte van opdracht door Gerit van Diepenbeeck en Aleyt e.l. aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 5 pond vlaams en 14 schellingen, gaande uit de tijns van de landheer in het Hollanderbroek.1427. Transfix. Met getransfigeerd stuk. 1425, 1427, 1425</p>
@@ -1095,6 +1190,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte van opdracht door Herman van Uden, priester, aan het kapittel te Grave van een rente van 1 malder rogge en 7 pond payment. 1463. Afschrift. Met bijbehorende stukken. 1347, 1367. Transfix, 1463, 1347, 1367</p>
@@ -1123,6 +1224,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte van panding door Derick van Haeps, rentmeester van het kapittel van de Sint Elisabethkerk te Grave, van het 's heren gemaal te Grave, waar ten behoeve van het kapittel een rente van 80 rijnsgls. uit gaat, 1492</p>
@@ -1151,6 +1258,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte, waarbij Floris, graaf van Buren, enz., als gouverneur van de stad Grave, aan deken en  kapittel van de Sint Elisabethkerk te Grave toestemming verleent de hopaccijns te Grave te lossen, voor welke concessie het kapittel jaarlijks 3 jaargetijden dient te houden voor de zielerust van hertog Arnold van Gelre, heer Willem van Egmond en graaf Fredrik van Buren. 1525. Met 2 akten van vidimus. 1480, 1502. Met akte van lossing door het kapittel te Grave van de hopaccijns voor 319 rijnsgls. 1525. Met bijbehorend transfix. 1525. Met andere op die accijns betrekking hebbende stukken, 1434, 1455, 1473, 1475, 1480, 1485, 1502, 1516, 1525</p>
@@ -1198,6 +1311,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte van opdracht door Wolff Franck en Agnees e.l. aan het kapittel van de Sint Elisabethkerk te Grave van een rente van 1 malder rogge gaande uit een huis en erf in Grave. 1531. Transfix. Met getransfigeerde stukken, 1427, 1438, 1462, 1467, 1521, 1531, 1529</p>

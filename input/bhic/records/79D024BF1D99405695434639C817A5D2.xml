@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>79D024BF1D99405695434639C817A5D2</identifier>
-    <datestamp>2026-09-02</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -36,6 +36,11 @@
       </note>
     </did>
     <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
       <controlaccess>
         <head>Categorie</head>
         <subject>Religie en Levensbeschouwing</subject>
@@ -2429,6 +2434,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte van bescherming voor het kapittel door de deken van Sint-Marie te Utrecht, 1369</p>
@@ -2457,6 +2468,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Overeenkomst tussen negen kanunniken dat ze zich zullen houden aan de uitspraak van een pauselijke commissaris in hun onderlinge geschil over de verdeling van de prebenden, 1393</p>
@@ -2482,6 +2499,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Bul van paus Eugenius IV, waarmee hij het kapittel in bescherming neemt, 1442</p>
@@ -2507,6 +2530,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Vidimus van een akte van belastingvrijstelling uit 1479 voor de clerus in Brabant, uitgevaardigd door Maximiliaan en Maria, 1487, met eigentijdse aangehechte aantekening</p>
@@ -2532,6 +2561,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte van bescherming voor het kapittel door Filips de Schone, 1495</p>
@@ -2560,6 +2595,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Vidimus, geschreven door de deken van Sint-Jan, van een beschermingsoorkonde uit 1439 van het Concilie van Bazel voor de abdij van Saint-Valery-sur-Somme, 1498</p>
@@ -2588,6 +2629,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Overeenkomst tussen de kapittels van 's-Hertogenbosch, Breda, Hilvarenbeek, Oirschot, Sint-Oedenrode, Eindhoven en Boxtel elkaar wederzijds bij te staan, 1505</p>
@@ -2613,6 +2660,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Bul van paus Julius II waarin hij drie extra beschermers aanwijst voor de kapittels van 's-Hertogenbosch, Breda, Hilvarenbeek, Oirschot, Sint-Oedenrode, Eindhoven en Boxtel, 1508</p>
@@ -2638,6 +2691,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Bul van paus Julius II waarin hij het kapittel het recht geeft zijn ondergeschikten juridisch te vervolgen, ook al hebben ze afstand van hun beneficie gedaan, 1508</p>
@@ -2663,6 +2722,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Transumpt van de bul van paus Julius II uit 1512, waarin hij de exemptie van het bisschoppelijk gezag voor de collegiale kerken van het bisdom Luik bevestigt en de deken van Sint-Jan aanwijst als een van de drie visitatoren van de collegiale kerken van het bisdom Luik in het hertogdom Brabant, 1513</p>
@@ -2688,6 +2753,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Bewijs voor het kapittel van vrijstelling in de annata voor de bij het kapittel geïncorporeerde parochiekerken, 1514</p>
@@ -2713,6 +2784,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Overeenkomst tussen het kapittel en de Lieve Vrouwe Broederschap over de zangers in de kerk, 1548</p>
@@ -2766,6 +2843,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Bekrachtiging en uitbreiding van het samenwerkingsverband tussen de kapittels van 's-Hertogenbosch, Breda, Hilvarenbeek, Oirschot, Sint-Oedenrode, Eindhoven en Boxtel, 1563</p>
@@ -2820,6 +2903,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Besluit van de bisschop van 's-Hertogenbosch de inkomsten van drie canonicaten te bestemmen voor de pastoors van de parochies van Sint-Pieter, Sint-Jacob en Sint-Catharina in 's-Hertogenbosch, 1607</p>
@@ -2930,6 +3019,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Toekenning van de scholasterij aan Henrik Keteler, 1392</p>
@@ -2955,6 +3050,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Geschil tussen Henrik Ketelaar en Rodolf Arnts Berwout over het bezit van de scholasterij, 1395-1396</p>
@@ -2980,6 +3081,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Toelating van Arnt Ywaens, tot nu toe pastoor van Lommel, tot de scholasterij, 1398</p>
@@ -3005,6 +3112,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Opheffing van de scholasterij, 1422-1423</p>
@@ -3030,6 +3143,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Opdracht aan de deurwaarder van de Raad van Brabant personen voor de Raad te dagen die inbreuk maken op het alleenrecht van de scholasterij onderwijs te geven in 's-Hertogenbosch, 1584</p>
@@ -3055,6 +3174,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Overdracht van de voormalige Latijnse School in de Kerkstraat door het kapittel, 1611</p>
@@ -3088,6 +3213,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Goedkeuring van deken en kapittel voor de stichting van de cantorij in de Sint-Jan, 1425</p>
@@ -3113,6 +3244,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Voordracht van kanunnik Jan van Andel als cantor, 1427</p>
@@ -3137,6 +3274,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Uitgifte in erfpacht van een hoeve van de cantorij in Berlicum, 1446</p>
@@ -3162,6 +3305,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Arbitrale uitspraak in het geschil tussen Rutger Bolc en Hendrik van Bers over het bezit van de cantorij, 1473</p>
@@ -3187,6 +3336,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Retroacte van erfcijnzen uit een huis in de Peperstraat in 's-Hertogenbosch, die toekwamen aan de cantorij, 1485</p>
@@ -3212,6 +3367,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Uitspraak van de officiaal van Luik, waarin hij na onderzoek en in opdracht van de paus de stichting van de cantorij bij het kapittel goedkeurt en bevestigt, 1488</p>
@@ -3240,6 +3401,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Aanstelling door de paus van Hendrik Pelgrom als coadjutor van cantor Gerijt van Eyck met het recht van opvolging, 1524</p>
@@ -3310,6 +3477,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
         </c02>
         <c02 level="subseries">
@@ -3339,6 +3512,20 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Katern met afschriften van de akten van incorporatie van de kerken van Heesch, Dinther, Orthen en 's-Hertogenbosch, Nuland en Geffen en Rosmalen, (tweede helft 15e eeuw)</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/B6D58D69398244BFB2A7BE65E8AAC287" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
             </c04>
           </c03>
           <c03 level="subseries">
@@ -3396,6 +3583,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Uitspraak in het geschil tussen het kapittel en het klooster Hertoginnendal over de tienden van Orthen, 1417</p>
@@ -3461,6 +3654,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Overeenkomst tussen de stad 's-Hertogenbosch en het kapittel over de rechten van de pastoor bij begrafenissen, 1445</p>
@@ -3486,6 +3685,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Overeenkomst tussen het kapittel en de Zusters van Orthen over de parochiële rechten van de zusters, 1453</p>
@@ -3514,6 +3719,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Overeenkomst tussen het kapittel en de bogarden over de parochiële rechten van de kloosterlingen, 1470</p>
@@ -3539,6 +3750,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Overeenkomst tussen het kapittel en de kruisbroeders over de parochiële rechten van de kloosterlingen, 1514</p>
@@ -3577,6 +3794,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Besluit van het kapittel in te stemmen met de opsplitsing van de oude parochie Sint-Jan in 1568, waarbij ze tevens de grenzen van de vijf nieuwe parochies met de inkomsten voor de pastoors vaststellen en enkele beneficies opheffen ten behoeve van de zielzorg in deze parochies, 1589</p>
@@ -3602,6 +3825,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Besluit van de bisschop van 's-Hertogenbosch een aantal beneficia op te heffen ten behoeve van financiële steun aan de pastoors van de nieuwe Bossche parochies, 1589</p>
@@ -3635,6 +3864,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Collatie van de stichtingsakte uit 1440 van de kapelanie ter ere van de Heilige Drievuldigheid, Onze Lieve Vrouw, Sint-Philippus, Sint-Anthonius en Sint-Agnes, als eerste fundatie aan het toen nog te bouwen altaar, 1464</p>
@@ -3668,6 +3903,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Toewijzing van de dos aan het altaar, 1416</p>
@@ -3696,6 +3937,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van drie wekelijke missen op het altaar, 1444</p>
@@ -3729,6 +3976,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichtingsakte van het altaar in de omgang van de kerk door de plebaan, 1418. Authentiek afschrift, (voor 1455)</p>
@@ -3762,6 +4015,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van twee wekelijkse missen op het altaar, 1563</p>
@@ -3795,6 +4054,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichtingsakte van de tweede fundatie op het altaar ter ere van Sint-Jan de Doper en Sint-Georgius, 1428</p>
@@ -3828,6 +4093,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichtingsakte van vier wekelijke missen op het altaar, 1508</p>
@@ -3861,6 +4132,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Testament van Lijsbet Robbens ter vergroting van het beneficie, 1453, geïngrosseerd, 1455</p>
@@ -3894,6 +4171,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Akte met toestemming van het kapittel voor het lezen van een wekelijke mis aan dit altaar, 1520</p>
@@ -3927,6 +4210,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichtingsakte van een mis van het Heilig Kruis op het altaar, 1462, en toevoeging van erfcijnzen eraan, 1464</p>
@@ -3963,6 +4252,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Verplaatsing van de tweede fundatie op het altaar van Cosmas en Damianus naar het altaar van Matheüs, 1461</p>
@@ -3996,6 +4291,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van een kapelanie met een last van vier wekelijke missen als tweede fundatie op het altaar, met toestemming van deken en kapittel, 1438</p>
@@ -4029,6 +4330,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van een maandagse mis op het altaar in 1468, en toewijzing van de inkomsten, 1470</p>
@@ -4062,6 +4369,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Uitbreiding van de inkomsten van het in 1451 gestichte altaar, 1468</p>
@@ -4126,6 +4439,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichtingsakte van het altaar uit 1459, later geïngrosseerd, 1467</p>
@@ -4151,6 +4470,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van drie wekelijkse missen, 1508</p>
@@ -4187,6 +4512,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van drie wekelijkse missen aan het altaar, 1519 met insertie van aankomsttitels, 1516-1519</p>
@@ -4222,6 +4553,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van drie wekelijkse missen aan het altaar, 1461</p>
@@ -4255,6 +4592,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Retroacta van een erfcijns in 's-Hertogenbosch, 1541</p>
@@ -4288,6 +4631,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Katern met authentieke afschriften van stukken betreffende de tweede fundatie van het altaar en de presentatie van de eerste kapelaan hiervoor, (c. 1440)</p>
@@ -4321,6 +4670,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van twee en vijf wekelijkse missen aan het altaar, 1538</p>
@@ -4354,6 +4709,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs van een erfcijns in Asten ten behoeve van de rector van een geestelijk officie op dit altaar, 1619</p>
@@ -4387,6 +4748,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichtingsakte van drie wekelijkse missen aan het altaar in de kapel, 1508</p>
@@ -4412,6 +4779,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Overeenkomst tussen deken en kapittel en de proosten van de Lieve-Vrouwebroederschap over de stichting van twee kapelanieën in de Sint-Jan, 1510</p>
@@ -4440,6 +4813,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Akte waarbij de incorporatie van een beneficie op het altaar van Maria ten behoeve van de pastoor bevestigd wordt, 1596</p>
@@ -4476,6 +4855,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van drie wekelijkse missen in de oude kapel van het gasthuis, 1484</p>
@@ -4504,6 +4889,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs voor de rector van een erfcijns in 's-Hertogenbosch, 1500</p>
@@ -4529,6 +4920,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs voor de rector van een erfcijns in 's-Hertogenbosch, 1519</p>
@@ -4554,6 +4951,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs voor de rector van een erfcijns in 's-Hertogenbosch, 1520</p>
@@ -4576,6 +4979,12 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                 </c06>
                 <c06 level="file">
                   <did id="MF12711119">
@@ -4593,6 +5002,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs voor de rector van het altaar van de naam van Jezus in de kapel, 1526</p>
@@ -4618,6 +5033,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs voor de rector van een erfcijns in Oss, 1533</p>
@@ -4643,6 +5064,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs voor de rector van een erfcijns in Oss, 1537</p>
@@ -4668,6 +5095,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs voor de rector van het altaar van de heilige naam Jezus en de Zeven Weeën van Maria van een rente, 1536</p>
@@ -4693,6 +5126,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs voor de rector van een rente op de Domeinen in het Kwartier van 's-Hertogenbosch, 1574</p>
@@ -4721,6 +5160,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van drie wekelijkse missen, waarvan een op het altaar van de Allerheiligste Naam Jezus, 1597</p>
@@ -4754,6 +5199,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Schenking bij testament van een erfrente in 's-Hertogenbosch aan de kapel van Sint-Anthonius bij de vesting, 1429</p>
@@ -4790,6 +5241,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van een wekelijkse mis in de nieuwe kapel van Sint-Antonius, 1471</p>
@@ -4815,6 +5272,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van een wekelijkse mis in de nieuwe kapel van Sint-Antonius in Hintham, 1486</p>
@@ -4840,6 +5303,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting door het kapittel van twee missen in de kapel via twee bestaande legaten, 1487. Met goedkeuring van de bisschop, 1490</p>
@@ -4873,6 +5342,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van drie wekelijke missen, op te dragen door een seculiere priester, 1442</p>
@@ -4914,6 +5389,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Testament waarbij vier wekelijkse missen op het altaar gesticht worden, 1543-1553</p>
@@ -4939,6 +5420,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Goedkeuring van deken en kapittel van de stichting van vier wekelijkse missen op het altaar, 1556</p>
@@ -4964,6 +5451,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Rentebrief op de Staten van Brabant ten behoeve van vier wekelijke missen, 1570</p>
@@ -4989,6 +5482,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Vidimus van een eigendomsbewijs uit 1548 van een erfcijns in Beek en Donk ten behoeve van vier wekelijke missen, 1588</p>
@@ -5028,6 +5527,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs voor de rector van een erfcijns in Asten, 1618</p>
@@ -5064,6 +5569,12 @@
                   <odd type="OPMERKING SCANS">
                     <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Retroacta van een erfpacht in Den Dungen, 1330-(16e eeuw)</p>
@@ -5089,6 +5600,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Retroacta van een erfcijns in 's-Hertogenbosch, 1454 en 1473</p>
@@ -5114,6 +5631,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Akte van verkoop aan priester Rumoldus Zavelberch van een erfpacht in Tilburg, 1455</p>
@@ -5139,6 +5662,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Akte van verkoop aan priester Rumoldus Zavelberch van een erfpacht in Heesch, 1456</p>
@@ -5164,6 +5693,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Retroacte van een erfcijns in 's-Hertogenbosch, 1474</p>
@@ -5189,6 +5724,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van twee wekelijkse missen op het altaar, 1480-1481</p>
@@ -5214,6 +5755,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van een wekelijkse mis op het altaar van Sint-Judocus, 1494</p>
@@ -5242,6 +5789,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Toestemming voor de stichting van een wekelijkse mis op het altaar, 1496</p>
@@ -5267,6 +5820,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van twee wekelijke missen op het altaar, 1496. Met retroacta, 1457-1496</p>
@@ -5292,6 +5851,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs voor het altaar van een erfcijns in 's-Hertogenbosch, 1505</p>
@@ -5317,6 +5882,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs voor de rector van het altaar van een rente op de domeinen in het Kwartier van 's-Hertogenbosch, 1572</p>
@@ -5342,6 +5913,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Toestemming van de bisschop van 's-Hertogenbosch voor ruil van enkele cijnzen, 1598</p>
@@ -5367,6 +5944,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs voor de rector van het altaar van een erfcijns in Vught, 1598. Met retroacta, 1498-1552</p>
@@ -5392,6 +5975,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs voor de rector van het altaar van een erfcijns in Vught, 1598. Met retroacte, 1552</p>
@@ -5422,6 +6011,12 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                 </c06>
                 <c06 level="file">
                   <did id="MF12710444">
@@ -5445,6 +6040,12 @@
                   <odd type="OPMERKING SCANS">
                     <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van vier wekelijkse missen op het altaar van Quirinus, met retroacte, 1529. Met authentieke afschriften van notaris Petrus de Bye en bijlage, 16e eeuw</p>
@@ -5470,6 +6071,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van een wekelijkse mis op het altaar van Quirinus, 1515</p>
@@ -5511,6 +6118,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Schenking van erfcijnzen en een erfpacht ter vergroting van de tweede fundatie aan het altaar, met retroacte, 1467</p>
@@ -5550,6 +6163,12 @@
                   <odd type="OPMERKING SCANS">
                     <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stukken betreffende een erfpacht in Sint-Oedenrode, 1451 en 1582</p>
@@ -5575,6 +6194,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van een wekelijkse mis op het altaar, 1492</p>
@@ -5600,6 +6225,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Eigendomsbewijs van een erfcijns in Maren, 1502. Met retroacte, 1481</p>
@@ -5633,6 +6264,12 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
                   <daogrp xlink:type="extended">
                     <daodesc>
                       <p>Stichting van twee wekelijkse missen aan het nieuwe altaar, 1507</p>
@@ -5698,6 +6335,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF12560099">
@@ -5715,6 +6358,12 @@
               <odd type="REDEN GEEN UITLEEN">
                 <p>Scans beschikbaar</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
               <daogrp xlink:type="extended">
                 <daodesc>
                   <p>Verzoek aan de officiaal van Luik enige personen voor zijn hof te dagen wegens inbezitneming van  novale tienden die aan de pastoor of de kerk van Nuland toebehoren, 1367</p>
@@ -5740,6 +6389,12 @@
               <odd type="REDEN GEEN UITLEEN">
                 <p>Scans beschikbaar</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
               <daogrp xlink:type="extended">
                 <daodesc>
                   <p>Bul waarbij de paus opdracht geeft aan de deken van Hilvarenbeek onderzoek te doen teneinde de kerken van Nuland en Geffen in het kapittel te incorporeren, 1419</p>
@@ -5790,6 +6445,12 @@
               <odd type="REDEN GEEN UITLEEN">
                 <p>Scans beschikbaar</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
               <daogrp xlink:type="extended">
                 <daodesc>
                   <p>Bul waarbij de paus de kerken van Nuland en Geffen bij het kapittel incorporeert, 1420</p>
@@ -5815,6 +6476,12 @@
               <odd type="REDEN GEEN UITLEEN">
                 <p>Scans beschikbaar</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
               <daogrp xlink:type="extended">
                 <daodesc>
                   <p>Gedeeltelijk afschrift van een akte uit 1422 of kort erna, waarbij de pastoor van Nuland schadeloos wordt gesteld voor zijn afstand van het pastoraat, (15e eeuw)</p>
@@ -5897,6 +6564,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Machtiging van deken en kapittel voor de deken om de incorporatie van de kerken van Heesch en Dinther ten uitvoer te laten brengen via de pauselijk gedelegeerde, de aartsdiaken van Famenne, 1441</p>
@@ -5925,6 +6598,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Akte van verkoop door het kapittel van een roggepacht wegens grote lasten ter verwerving van de parochiekerken van Dinther en Heesch, met akte van toestemming van de bisschop, 1441</p>
@@ -5958,6 +6637,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Akte waarbij de kerk van Dinther wordt geïncorporeerd bij het kapittel, 1441</p>
@@ -5983,6 +6668,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Overeenkomst tussen proost van het kapittel van Sint-Servatius in Maastricht en deken van kapittel van 's-Hertogenboch, waarbij de presentatie en collatie van de kerk van Schijndel voortaan aan de proost toevalt, 1444</p>
@@ -6008,6 +6699,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Gunstige uitspraak voor de pastoor van Dinther in zijn geschil met de pastoor van Heeswijk over de smaltienden van een hoeve van de abdij van Berne in Dinther, 1516</p>
@@ -6038,6 +6735,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
             </c04>
           </c03>
@@ -6066,6 +6769,12 @@
               <odd type="REDEN GEEN UITLEEN">
                 <p>Scans beschikbaar</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
               <daogrp xlink:type="extended">
                 <daodesc>
                   <p>Collatie door notaris Johannes Ghemert van de stichtingsakten uit 1471 van een kapelanie in de kerk van Rosmalen, (laatste kwart 15e eeuw)</p>
@@ -6106,6 +6815,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Testament van de begijn Jutta, dochter van Martinus de Meghen, 1368</p>
@@ -6134,6 +6849,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Vidimus van een akte van de stad 's-Hertogenbosch uit 1396 betreffende erfcijnzen, waarvan het begijnhof blijkens dorsale aantekeningen later een deel verworven heeft, 1424</p>
@@ -6162,6 +6883,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Afschrift van twee retroacta betreffende een erfcijns in Berlicum ten behoeve van de pastoor van het begijnhof, (na 1426, vijftiende eeuw)</p>
@@ -6187,6 +6914,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Testament van de begijn Catharina Swilden, 1432. Met retroacte, 1357</p>
@@ -6215,6 +6948,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Testamentaire schenking onder meer aan de pastoor van het begijnhof, 1432</p>
@@ -6240,6 +6979,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Testamentaire schenking aan verschillende personen en instellingen, verbonden aan het begijnhof, 1434. Met retroacte, 1427</p>
@@ -6268,6 +7013,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Testamentaire schenking aan verschillende personen en instellingen, verbonden aan het begijnhof, onder wie de pastoor, 1439</p>
@@ -6296,6 +7047,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Akte waarbij Hendrik Jacobs Oedenzoon belooft een aantal gevidimeerde akten te bewaren voor zichzelf en voor de kerkfabriek, de pastoor en een begijn van het begijnhof, 1439</p>
@@ -6324,6 +7081,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Akte waarbij de pastoor van het begijnhof drie schepenakten geschonken krijgt, 1444. Geïngrosseerd, 1453</p>
@@ -6349,6 +7112,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Akte van overdracht door de uitvoerders van het testament van Gertrudis Cloets aan de pastoor van het begijnhof, 1453. Met retroacta, 1448 en 1453</p>
@@ -6374,6 +7143,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Akte van aankoop door de pastoor van de begijnen van een erfcijns in Rosmalen/Berlicum, 1454</p>
@@ -6399,6 +7174,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Testamentaire schenking aan de pastoor van het begijnhof van een erfcijns, 1454</p>
@@ -6427,6 +7208,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Akte van overdracht aan de pastoor van het begijnhof van een erfcijns, 1456</p>
@@ -6455,6 +7242,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Akte van verkoop aan de pastoor van het begijnhof van een erfcijns in Schijndel, 1457</p>
@@ -6480,6 +7273,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Partieel testament van de pastoor van het begijnhof, waarin hij inkomsten legateert voor een assistent van de volgende pastoors, 1465</p>
@@ -6505,6 +7304,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Overdracht door de fabrieksmeesters van het begijnhof aan de pastoor van het begijnhof van twee erfcijnzen, 1467. Met retroacte, 1436</p>
@@ -6530,6 +7335,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Testamentaire schenking aan de pastoor en kapelaans van het begijnhof van een erfcijns, 1473</p>
@@ -6558,6 +7369,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Bewijs voor de pastoor van het begijnhof van een recht op een erfcijns in Berlicum, 1473</p>
@@ -6583,6 +7400,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Testamentaire schenking aan de pastoor van het begijnhof van een erfcijns, 1476. Met retroacta, 1415 en 1416</p>
@@ -6608,6 +7431,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Testamentaire schenking aan de pastoor van het begijnhof van een erfcijns in Den Dungen, 1477. Met retroacte, 1462</p>
@@ -6633,6 +7462,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Testamentaire schenking aan de pastoor en de beneficiaten van het begijnhof van een erfpacht in Heesch voor jaargetijden, 1513. Met retroacta, 1482 en 1494</p>
@@ -6658,6 +7493,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Akte van aankoop ten behoeve van de pastoor en de beneficiaten van een erfcijns in Aalst, 1525</p>
@@ -6691,6 +7532,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Stichting van vijf missen aan het altaar (tweede fundatie), 1474. Met bisschoppelijke goedkeuring, 1476</p>
@@ -6738,6 +7585,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Testament waarin een wekelijkse mis op het altaar gevestigd wordt en jaargetijden, 1501</p>
@@ -6770,6 +7623,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF12707674">
@@ -6787,6 +7646,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Uitspraak van de Raad van Brabant inzake de geschillen tussen het kapittel en de stad 's-Hertogenbosch over vrijdom van belastingen en wijnaccijns, 1505</p>
@@ -6815,6 +7680,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Recht van het kapittel, geschonken door de hertog van Brabant, hun registers van cijnzen en renten als wettige documenten te laten registeren ten behoeve van de inning, 1506</p>
@@ -6981,6 +7852,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Opdracht aan de deurwaarder van de Raad van Brabant het vonnis tegen de prior van Bazeldonk als provisor van de Bonefanten ten uitvoer te brengen, 1598</p>
@@ -7031,6 +7908,14 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Pachtcontract van de Bonefantenhoeve in Sint-Oedenrode, met bijlagen, 1623</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/715E9C026E6D4190A977A60AE770E885" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF12786862">
@@ -7059,6 +7944,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
         </c02>
         <c02 level="subseries">
@@ -7084,6 +7975,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Retroacta van het zesde deel van een erfijns uit de Jodenpoort in 's-Hertogenbosch, 1354-1467</p>
@@ -7109,6 +8006,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Betalingsbelofte van een erfcijns uit een goed in 's-Hertogenbosch, 1390</p>
@@ -7134,6 +8037,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Betalingsbelofte van een erfcijns uit een goed in de Beurdsestraat in 's-Hertogenbosch, 1393</p>
@@ -7159,6 +8068,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Testament van Gerard Groy met legaten voor het kapittel en de kapelanen van Onze Lieve Vrouw, 1424</p>
@@ -7187,6 +8102,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Eigendomsbewijs voor Bryno die Gheynsler van een erfpacht en erfcijns in Empel, 1429</p>
@@ -7212,6 +8133,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Retroacta van een erfcijns van 12 pond uit een huis en erf in de Orthenstraat en uit twee erfcijnzen daar, 1441-1457</p>
@@ -7237,6 +8164,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Eigendomsbewijs voor Ludolf Buck van een erfpacht uit de tweede van acht kampen in het Vuchterbroek, 1445</p>
@@ -7265,6 +8198,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte van overdracht van een erfcijns in de Orthenstraat in 's-Hertogenbosch, 1447</p>
@@ -7290,6 +8229,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Retroacta van een erfcijns in Berlicum, 1456-1486</p>
@@ -7318,6 +8263,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Verklaring van erfgenamen van kanunnik Jan van den Velde dat ze afstand doen van aanspraken op zijn nalatenschap, 1457</p>
@@ -7343,6 +8294,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Retroacte van een erfcijns in Schijndel, 1458</p>
@@ -7368,6 +8325,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Retroacte van een erfpacht in Sint-Michielsgestel, 1466</p>
@@ -7393,6 +8356,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Retroacte van een erfcijns in Rosmalen en Empel, 1477</p>
@@ -7418,6 +8387,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Eigendomsbewijs voor kanunnik Godfried van Campen van een erfcijns in Oisterwijk, 1488. Met retroacta, 1413 en 1428</p>
@@ -7443,6 +8418,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Eigendomsbewijs voor kanunnik Godfried van Campen van een erfcijns in 's-Hertogenbosch, 1491</p>
@@ -7468,6 +8449,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Retroacte van een erfcijns uit goederen in Rosmalen en uit kamers in de Hinthamerstraat in 's-Hertogenbosch, 1498</p>
@@ -7493,6 +8480,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Retroacte van een erfcijns uit goederen aan het eind van de Hinthamerstraat in 's-Hertogenbosch, 1498</p>
@@ -7518,6 +8511,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Verklaring door de uitvoerder van het testament van Henrik Rodolf Willemssen alias van Bree over de stichting van een wekelijke mis, 1515</p>
@@ -7539,6 +8538,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF12716678">
@@ -7570,6 +8575,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Afschrift van de goedkeuringen uit 1549 en 1550 door de Theologische Faculteit van de Universiteit van Leuven van de incorporatie van het personaat van Schijndel ten behoeve van vier beurzen, gesticht door kanunnik Filips van Doorn, (18e eeuw)</p>
@@ -7781,6 +8792,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Eigendomsbewijs voor de predikheren van 's-Hertogenbosch van een erfcijns in 's-Hertogenbosch, 1369</p>
@@ -7806,6 +8823,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van een pacht uit een windmolen in Tilburg, 1403</p>
@@ -7831,6 +8854,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Verkoop aan Bela Jansdochter de Luet van een erfcijns in 's-Hertogenbosch, 1425</p>
@@ -7856,6 +8885,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Belofte tot bewaring van een akte uit 1424 betreffende een roggepacht in Nistelrode, 1425</p>
@@ -7881,6 +8916,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop aan Henrick Steenwech van een erfcijns in 's-Hertogenbosch, 1444</p>
@@ -7909,6 +8950,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Testament van Wellinus Scilder en zijn vrouw, 1447</p>
@@ -7934,6 +8981,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van vercijnsing van een huis met toebehoren aan het Ortheneind in 's-Hertogenbosch, 1466</p>
@@ -7959,6 +9012,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van een land over Die Meer buiten 's-Hertogenbosch, 1470</p>
@@ -7987,6 +9046,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Vidimus van een kwitantie uit 1476, afgegeven door Claes van Haeften ten behoeve van Aleid Pieck, 1487</p>
@@ -8012,6 +9077,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Eigendomsbewijs voor de franciscanessen in Oisterwijk van een deel van een erfpacht, 1510. Met retroacta, 1488, 1490 en 1492</p>
@@ -8040,6 +9111,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Eigendomsbewijs voor de kartuizers van Vught van een erfpacht in Kasteren, 1501</p>
@@ -8065,6 +9142,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Pauselijke dispensatie in het gebruik van vlees voor de prior van de wilhelmieten op de Bazeldonk bij 's-Hertogenbosch, 1523</p>
@@ -8090,6 +9173,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Eigendomsbewijs voor de kruisbroeders van 's-Hertogenbosch van een erfcijns in 's-Hertogenbosch, 1529</p>
@@ -8167,6 +9256,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Eigendomsbewijs voor de predikheren van 's-Hertogenbosch van een rente op Antwerpen, 1636</p>

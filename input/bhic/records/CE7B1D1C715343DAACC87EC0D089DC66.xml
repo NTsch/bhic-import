@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>CE7B1D1C715343DAACC87EC0D089DC66</identifier>
-    <datestamp>2026-09-04</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -29,15 +29,18 @@
     <did id="MF12815663">
       <unittitle>Collectie charters van het Groot Seminarie te Haaren, 1238-1801</unittitle>
       <unitid countrycode="NL" repositorycode="NL-HtBHIC">2039</unitid>
-      <note label="#guid">
-        <p>CE7B1D1C715343DAACC87EC0D089DC66</p>
-      </note>
-      <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
+      <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CE7B1D1C715343DAACC87EC0D089DC66</unitid>
+      <unitdate calendar="gregorian" era="ce"/>
       <note label="Vindplaats origineel">
         <p>BHIC 's-Hertogenbosch</p>
       </note>
     </did>
     <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
       <controlaccess>
         <head>Categorie</head>
         <subject>Religie en Levensbeschouwing</subject>
@@ -710,16 +713,16 @@
     <dsc type="combined">
       <c01 level="series">
         <did id="MF12815667">
-          <unitid type="series_code"/>
           <unitid type="guid">31083FE5B3F5422780EC1844466E42D8</unitid>
+          <unitid type="series_code"/>
           <unittitle>charters Haarlem</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
         </did>
         <c02 level="file">
           <did id="MF12815669">
+            <unitid type="guid">E88A8CC6FB504452B7166CAF8ACBC6D8</unitid>
             <unitid>1</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E88A8CC6FB504452B7166CAF8ACBC6D8</unitid>
-            <unitid type="guid">E88A8CC6FB504452B7166CAF8ACBC6D8</unitid>
             <unittitle>Akte van overdracht van een rente, 1337</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1337">1337</unitdate>
             <physdesc>1 charter</physdesc>
@@ -730,20 +733,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overdracht van een rente, 1337</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815669&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E88A8CC6FB504452B7166CAF8ACBC6D8" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815706">
+            <unitid type="guid">F8E0611B98C24D57ACF0CDC08BA0904B</unitid>
             <unitid>2</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F8E0611B98C24D57ACF0CDC08BA0904B</unitid>
-            <unitid type="guid">F8E0611B98C24D57ACF0CDC08BA0904B</unitid>
             <unittitle>Akte van verkoop van een rente, 1377</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1377">1377</unitdate>
             <physdesc>1 charter</physdesc>
@@ -754,20 +763,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van een rente, 1377</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815706&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F8E0611B98C24D57ACF0CDC08BA0904B" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815715">
+            <unitid type="guid">09483B77ADF8427B9FBECE0D5A9D3049</unitid>
             <unitid>3</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/09483B77ADF8427B9FBECE0D5A9D3049</unitid>
-            <unitid type="guid">09483B77ADF8427B9FBECE0D5A9D3049</unitid>
             <unittitle>Akte van verkoop van een rente, 1394</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1394">1394</unitdate>
             <physdesc>1 charter</physdesc>
@@ -781,20 +796,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van een rente, 1394</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815715&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/09483B77ADF8427B9FBECE0D5A9D3049" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815742">
+            <unitid type="guid">1315B4CB0ED747DC985D4136BCE71BAC</unitid>
             <unitid>4</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1315B4CB0ED747DC985D4136BCE71BAC</unitid>
-            <unitid type="guid">1315B4CB0ED747DC985D4136BCE71BAC</unitid>
             <unittitle>Akte van verkoop van renten, 1398</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1398">1398</unitdate>
             <physdesc>1 charter</physdesc>
@@ -805,20 +826,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van renten, 1398</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815742&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1315B4CB0ED747DC985D4136BCE71BAC" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815746">
+            <unitid type="guid">9039ACC5996146999A42D04AEABA28E4</unitid>
             <unitid>5</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9039ACC5996146999A42D04AEABA28E4</unitid>
-            <unitid type="guid">9039ACC5996146999A42D04AEABA28E4</unitid>
             <unittitle>Akte van verkoop van renten, 1410</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1410">1410</unitdate>
             <physdesc>1 charter</physdesc>
@@ -832,20 +859,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van renten, 1410</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815746&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9039ACC5996146999A42D04AEABA28E4" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815749">
+            <unitid type="guid">006F5393B3BF4EEF8576D8AB39329B60</unitid>
             <unitid>6</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/006F5393B3BF4EEF8576D8AB39329B60</unitid>
-            <unitid type="guid">006F5393B3BF4EEF8576D8AB39329B60</unitid>
             <unittitle>Akte van overdracht en verkoop van renten, 1413</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1413">1413</unitdate>
             <physdesc>1 charter</physdesc>
@@ -856,20 +889,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overdracht en verkoop van renten, 1413</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815749&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/006F5393B3BF4EEF8576D8AB39329B60" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815756">
+            <unitid type="guid">EC367548BE6B499C853AE9929F63813B</unitid>
             <unitid>7</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EC367548BE6B499C853AE9929F63813B</unitid>
-            <unitid type="guid">EC367548BE6B499C853AE9929F63813B</unitid>
             <unittitle>Akte van verkoop van een rente, 1423</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1423">1423</unitdate>
             <physdesc>1 charter</physdesc>
@@ -880,20 +919,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van een rente, 1423</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815756&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/EC367548BE6B499C853AE9929F63813B" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815761">
+            <unitid type="guid">5E82D0CC3117409CBFBA9DCA5B58C6EC</unitid>
             <unitid>8</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5E82D0CC3117409CBFBA9DCA5B58C6EC</unitid>
-            <unitid type="guid">5E82D0CC3117409CBFBA9DCA5B58C6EC</unitid>
             <unittitle>Akte van verkoop van een rente, 1438</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1438">1438</unitdate>
             <physdesc>1 charter</physdesc>
@@ -904,20 +949,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van een rente, 1438</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815761&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5E82D0CC3117409CBFBA9DCA5B58C6EC" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815766">
+            <unitid type="guid">88CF9F6E62694E9FAF3A61E8D0AB99BE</unitid>
             <unitid>9</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/88CF9F6E62694E9FAF3A61E8D0AB99BE</unitid>
-            <unitid type="guid">88CF9F6E62694E9FAF3A61E8D0AB99BE</unitid>
             <unittitle>Akte van verkoop van een rente, 1443</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1443">1443</unitdate>
             <physdesc>1 charter</physdesc>
@@ -928,20 +979,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van een rente, 1443</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815766&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/88CF9F6E62694E9FAF3A61E8D0AB99BE" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815770">
+            <unitid type="guid">0DB7A1D3915846BFA04EC4A626793AAE</unitid>
             <unitid>10</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0DB7A1D3915846BFA04EC4A626793AAE</unitid>
-            <unitid type="guid">0DB7A1D3915846BFA04EC4A626793AAE</unitid>
             <unittitle>Akte van verkoop van land, 1452</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1452">1452</unitdate>
             <physdesc>1 charter</physdesc>
@@ -952,20 +1009,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van land, 1452</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815770&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0DB7A1D3915846BFA04EC4A626793AAE" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815772">
+            <unitid type="guid">42988AEDB00840EBA02FCD986DFFAA5B</unitid>
             <unitid>11</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/42988AEDB00840EBA02FCD986DFFAA5B</unitid>
-            <unitid type="guid">42988AEDB00840EBA02FCD986DFFAA5B</unitid>
             <unittitle>Akte van verkoop van een pacht, 1474</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1474">1474</unitdate>
             <physdesc>1 charter</physdesc>
@@ -976,20 +1039,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van een pacht, 1474</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815772&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/42988AEDB00840EBA02FCD986DFFAA5B" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815789">
+            <unitid type="guid">0E8FC32DDBC949979ADD9101AE2D5DBC</unitid>
             <unitid>12</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0E8FC32DDBC949979ADD9101AE2D5DBC</unitid>
-            <unitid type="guid">0E8FC32DDBC949979ADD9101AE2D5DBC</unitid>
             <unittitle>Akte van verkoop van pachten, 1487</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1487">1487</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1000,20 +1069,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van pachten, 1487</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815789&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0E8FC32DDBC949979ADD9101AE2D5DBC" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815791">
+            <unitid type="guid">ADBB954C9DF34B2A9529F6FD26940774</unitid>
             <unitid>13</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/ADBB954C9DF34B2A9529F6FD26940774</unitid>
-            <unitid type="guid">ADBB954C9DF34B2A9529F6FD26940774</unitid>
             <unittitle>Akte van aflossing van een losrente, 1495</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1495">1495</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1024,28 +1099,34 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van aflossing van een losrente, 1495</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815791&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/ADBB954C9DF34B2A9529F6FD26940774" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
       </c01>
       <c01 level="series">
         <did id="MF12815792">
-          <unitid type="series_code"/>
           <unitid type="guid">FD6880C573024A358BC2BD60B83FE176</unitid>
+          <unitid type="series_code"/>
           <unittitle>charters Amsterdam</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
         </did>
         <c02 level="file">
           <did id="MF12815794">
+            <unitid type="guid">5E38E331B8074D6FBC32565DA22B5456</unitid>
             <unitid>14</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5E38E331B8074D6FBC32565DA22B5456</unitid>
-            <unitid type="guid">5E38E331B8074D6FBC32565DA22B5456</unitid>
             <unittitle>Schuldbekentenis van een rente, 1402</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1402">1402</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1056,20 +1137,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Schuldbekentenis van een rente, 1402</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815794&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5E38E331B8074D6FBC32565DA22B5456" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815802">
+            <unitid type="guid">56865BBE813744A28BD505793826746F</unitid>
             <unitid>15</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/56865BBE813744A28BD505793826746F</unitid>
-            <unitid type="guid">56865BBE813744A28BD505793826746F</unitid>
             <unittitle>Akte van overdracht van een goed en renten, 1406</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1406">1406</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1080,20 +1167,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overdracht van een goed en renten, 1406</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815802&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/56865BBE813744A28BD505793826746F" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815805">
+            <unitid type="guid">E2B5A9A5AFB6418691B770A499172545</unitid>
             <unitid>16</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E2B5A9A5AFB6418691B770A499172545</unitid>
-            <unitid type="guid">E2B5A9A5AFB6418691B770A499172545</unitid>
             <unittitle>Akte van aankoop en schenking van land, 1409</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1409">1409</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1104,20 +1197,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van aankoop en schenking van land, 1409</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815805&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E2B5A9A5AFB6418691B770A499172545" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815807">
+            <unitid type="guid">1919F356A4CC444EA89F5D6ABFF18329</unitid>
             <unitid>17</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1919F356A4CC444EA89F5D6ABFF18329</unitid>
-            <unitid type="guid">1919F356A4CC444EA89F5D6ABFF18329</unitid>
             <unittitle>Overeenkomst tussen het klooster Mariënveld en het klooster van Sint-Jan evangelist in Amsterdam, 1422</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1422">1422</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1128,20 +1227,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Overeenkomst tussen het klooster Mariënveld en het klooster van Sint-Jan evangelist in Amsterdam, 1422</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815807&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1919F356A4CC444EA89F5D6ABFF18329" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815809">
+            <unitid type="guid">561052725B6441F2A4A1C80E30E1B9B9</unitid>
             <unitid>18</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/561052725B6441F2A4A1C80E30E1B9B9</unitid>
-            <unitid type="guid">561052725B6441F2A4A1C80E30E1B9B9</unitid>
             <unittitle>Verklaring van een vroegere overdracht van grond in Heilo, 1441</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1441">1441</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1152,20 +1257,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Verklaring van een vroegere overdracht van grond in Heilo, 1441</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815809&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/561052725B6441F2A4A1C80E30E1B9B9" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815818">
+            <unitid type="guid">2010DD9C2C9446BCB26406512B91B94F</unitid>
             <unitid>19</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2010DD9C2C9446BCB26406512B91B94F</unitid>
-            <unitid type="guid">2010DD9C2C9446BCB26406512B91B94F</unitid>
             <unittitle>Akte van verkoop van een huis, 1462</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1462">1462</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1176,28 +1287,34 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van een huis, 1462</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815818&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2010DD9C2C9446BCB26406512B91B94F" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
       </c01>
       <c01 level="series">
         <did id="MF12815820">
-          <unitid type="series_code"/>
           <unitid type="guid">88F4D0D0AC524AA9BAB2E2C8B28763F5</unitid>
+          <unitid type="series_code"/>
           <unittitle>charter Lud. d'Alleman, kardinaal van Arles</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
         </did>
         <c02 level="file">
           <did id="MF12815821">
+            <unitid type="guid">57F4F6014B3A41DB8FCA409125A529E5</unitid>
             <unitid>20</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/57F4F6014B3A41DB8FCA409125A529E5</unitid>
-            <unitid type="guid">57F4F6014B3A41DB8FCA409125A529E5</unitid>
             <unittitle>Toestemming voor Rudolf Morgsner een biechtvader te kiezen, 1446</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1446">1446</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1208,28 +1325,34 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Toestemming voor Rudolf Morgsner een biechtvader te kiezen, 1446</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815821&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/57F4F6014B3A41DB8FCA409125A529E5" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
       </c01>
       <c01 level="series">
         <did id="MF12815830">
-          <unitid type="series_code"/>
           <unitid type="guid">B0567293A3334D2081E54CB1130E4A00</unitid>
+          <unitid type="series_code"/>
           <unittitle>charters Heilo</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
         </did>
         <c02 level="file">
           <did id="MF12815835">
+            <unitid type="guid">C1EA7DE91DE144D7B41F183D262DD4F4</unitid>
             <unitid>21</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C1EA7DE91DE144D7B41F183D262DD4F4</unitid>
-            <unitid type="guid">C1EA7DE91DE144D7B41F183D262DD4F4</unitid>
             <unittitle>Akte van verkoop van land, 1462</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1462">1462</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1240,20 +1363,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van land, 1462</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815835&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C1EA7DE91DE144D7B41F183D262DD4F4" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815838">
+            <unitid type="guid">0904F82F7B1D42FC9F8844A0B6A281AD</unitid>
             <unitid>22</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0904F82F7B1D42FC9F8844A0B6A281AD</unitid>
-            <unitid type="guid">0904F82F7B1D42FC9F8844A0B6A281AD</unitid>
             <unittitle>Akte van verkoop van land, 1470</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1470">1470</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1264,20 +1393,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van land, 1470</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815838&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0904F82F7B1D42FC9F8844A0B6A281AD" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815840">
+            <unitid type="guid">E5F2104E17504AD3B73AF9B67E3C1938</unitid>
             <unitid>23</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E5F2104E17504AD3B73AF9B67E3C1938</unitid>
-            <unitid type="guid">E5F2104E17504AD3B73AF9B67E3C1938</unitid>
             <unittitle>Akte van verkoop van land, 1538</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1538">1538</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1288,28 +1423,34 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van land, 1538</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815840&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E5F2104E17504AD3B73AF9B67E3C1938" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
       </c01>
       <c01 level="series">
         <did id="MF12815842">
-          <unitid type="series_code"/>
           <unitid type="guid">A06FADD01704410F84667E678800375F</unitid>
+          <unitid type="series_code"/>
           <unittitle>charter David van Bourgondië</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
         </did>
         <c02 level="file">
           <did id="MF12815874">
+            <unitid type="guid">C5B1EB195DE44AF78EBBB09E091AC0CE</unitid>
             <unitid>24</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C5B1EB195DE44AF78EBBB09E091AC0CE</unitid>
-            <unitid type="guid">C5B1EB195DE44AF78EBBB09E091AC0CE</unitid>
             <unittitle>Toestemming tot overdracht van een kapelanie, 1467</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1467">1467</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1320,28 +1461,34 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Toestemming tot overdracht van een kapelanie, 1467</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815874&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C5B1EB195DE44AF78EBBB09E091AC0CE" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
       </c01>
       <c01 level="series">
         <did id="MF12815875">
-          <unitid type="series_code"/>
           <unitid type="guid">9071C985963348C693E04D387775E2CB</unitid>
+          <unitid type="series_code"/>
           <unittitle>charters Binderen</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
         </did>
         <c02 level="file">
           <did id="MF12815907">
+            <unitid type="guid">74AC2E6FAD934D96929B7C7AFB88DAA9</unitid>
             <unitid>25</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/74AC2E6FAD934D96929B7C7AFB88DAA9</unitid>
-            <unitid type="guid">74AC2E6FAD934D96929B7C7AFB88DAA9</unitid>
             <unittitle>Toestemming voor de bouw van een vrouwenklooster in Binderen, 1238</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1238">1238</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1356,20 +1503,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Toestemming voor de bouw van een vrouwenklooster in Binderen, 1238</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815907&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/74AC2E6FAD934D96929B7C7AFB88DAA9" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815913">
+            <unitid type="guid">70734C03858D44188E2E48E429AAA1D2</unitid>
             <unitid>26</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/70734C03858D44188E2E48E429AAA1D2</unitid>
-            <unitid type="guid">70734C03858D44188E2E48E429AAA1D2</unitid>
             <unittitle>Akte van afstand van tienden en land aan het klooster te Binderen, 1247 of 1248</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1247/1248">1247 of 1248</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1384,20 +1537,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van afstand van tienden en land aan het klooster te Binderen, 1247 of 1248</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815913&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/70734C03858D44188E2E48E429AAA1D2" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815917">
+            <unitid type="guid">52536B8FF9044C25BF5E31BDA3439745</unitid>
             <unitid>27</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/52536B8FF9044C25BF5E31BDA3439745</unitid>
-            <unitid type="guid">52536B8FF9044C25BF5E31BDA3439745</unitid>
             <unittitle>Verzoek van de hertog van Brabant aan Willem van Houthem zijn goederen niet voor een eigen kloosterstichting te gebruiken maar toe te voegen aan het klooster te Binderen, 1249</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1249">1249</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1412,20 +1571,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Verzoek van de hertog van Brabant aan Willem van Houthem zijn goederen niet voor een eigen kloosterstichting te gebruiken maar toe te voegen aan het klooster te Binderen, 1249</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815917&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/52536B8FF9044C25BF5E31BDA3439745" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815921">
+            <unitid type="guid">A525B415E3834F8F974EEEB9361D3354</unitid>
             <unitid>28</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A525B415E3834F8F974EEEB9361D3354</unitid>
-            <unitid type="guid">A525B415E3834F8F974EEEB9361D3354</unitid>
             <unittitle>Verzoek van de kloosters van Postel en Binderen aan de hertog van Brabant hun ruil van tienden goed te keuren, 1249</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1249">1249</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1440,20 +1605,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Verzoek van de kloosters van Postel en Binderen aan de hertog van Brabant hun ruil van tienden goed te keuren, 1249</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815921&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A525B415E3834F8F974EEEB9361D3354" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815923">
+            <unitid type="guid">28F65870202443B4BB0C99F5C77EA03B</unitid>
             <unitid>29</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/28F65870202443B4BB0C99F5C77EA03B</unitid>
-            <unitid type="guid">28F65870202443B4BB0C99F5C77EA03B</unitid>
             <unittitle>Bevestiging van de privileges voor de abdij van Binderen betreffende de tienden, 1254</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1254">1254</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1468,20 +1639,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Bevestiging van de privileges voor de abdij van Binderen betreffende de tienden, 1254</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815923&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/28F65870202443B4BB0C99F5C77EA03B" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815943">
+            <unitid type="guid">E936B22BB8824FD7BE4E323FFE87FE71</unitid>
             <unitid>30</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E936B22BB8824FD7BE4E323FFE87FE71</unitid>
-            <unitid type="guid">E936B22BB8824FD7BE4E323FFE87FE71</unitid>
             <unittitle>Akte van afstand door de dochter van Hendrik Bindorp van goederen, vroeger in leen van het huis van Helmond, 1256</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1256">1256</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1496,20 +1673,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van afstand door de dochter van Hendrik Bindorp van goederen, vroeger in leen van het huis van Helmond, 1256</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815943&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E936B22BB8824FD7BE4E323FFE87FE71" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815950">
+            <unitid type="guid">7D04995A4CA94C4B99171F4DBEC1FF44</unitid>
             <unitid>31</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7D04995A4CA94C4B99171F4DBEC1FF44</unitid>
-            <unitid type="guid">7D04995A4CA94C4B99171F4DBEC1FF44</unitid>
             <unittitle>Goedkeuring van de bisschop van Luik betreffende de ruil van tienden tussen de kloosters Postel en Binderen, 1256</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1256">1256</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1524,20 +1707,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Goedkeuring van de bisschop van Luik betreffende de ruil van tienden tussen de kloosters Postel en Binderen, 1256</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815950&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7D04995A4CA94C4B99171F4DBEC1FF44" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815962">
+            <unitid type="guid">003AE80F11EB421AA745B949754EF5B4</unitid>
             <unitid>32</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/003AE80F11EB421AA745B949754EF5B4</unitid>
-            <unitid type="guid">003AE80F11EB421AA745B949754EF5B4</unitid>
             <unittitle>Codicil van de vroegere keizerin Maria, hoofdzakelijk met begunstiging van Binderen, 1259</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1259">1259</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1552,20 +1741,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Codicil van de vroegere keizerin Maria, hoofdzakelijk met begunstiging van Binderen, 1259</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815962&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/003AE80F11EB421AA745B949754EF5B4" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12815987">
+            <unitid type="guid">99ED8F8930404BB69E611A5581110C9E</unitid>
             <unitid>33</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/99ED8F8930404BB69E611A5581110C9E</unitid>
-            <unitid type="guid">99ED8F8930404BB69E611A5581110C9E</unitid>
             <unittitle>Akte van verkoop van een rente aan het klooster Binderen, 1323</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1323">1323</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1580,20 +1775,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verkoop van een rente aan het klooster Binderen, 1323</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12815987&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/99ED8F8930404BB69E611A5581110C9E" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12816009">
+            <unitid type="guid">0BBA00FEA1664989A17FBC4F3DB81972</unitid>
             <unitid>34</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0BBA00FEA1664989A17FBC4F3DB81972</unitid>
-            <unitid type="guid">0BBA00FEA1664989A17FBC4F3DB81972</unitid>
             <unittitle>Lastbrief van Hertog Jan III van Brabant aan schout van 's-Bosch om goederen van Binderen te beschermen tegen Helmond , 1347</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1347">1347</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1608,20 +1809,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Lastbrief van Hertog Jan III van Brabant aan schout van 's-Bosch om goederen van Binderen te beschermen tegen Helmond , 1347</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816009&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0BBA00FEA1664989A17FBC4F3DB81972" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12816034">
+            <unitid type="guid">69AF3F39FD944A09B9E92980ACC955E8</unitid>
             <unitid>35</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/69AF3F39FD944A09B9E92980ACC955E8</unitid>
-            <unitid type="guid">69AF3F39FD944A09B9E92980ACC955E8</unitid>
             <unittitle>Akte van verpachting door het klooster Binderen van land in Helmond, 1452</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1452">1452</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1636,20 +1843,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van verpachting door het klooster Binderen van land in Helmond, 1452</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816034&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/69AF3F39FD944A09B9E92980ACC955E8" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12818198">
+            <unitid type="guid">6FD60EC3B5B14B3C840C990CC648A62B</unitid>
             <unitid>45</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6FD60EC3B5B14B3C840C990CC648A62B</unitid>
-            <unitid type="guid">6FD60EC3B5B14B3C840C990CC648A62B</unitid>
             <unittitle>Akte van overdracht van twee watermolens in Asten en Deurne en ander goed, 1458</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1458">1458</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1664,28 +1877,34 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overdracht van twee watermolens in Asten en Deurne en ander goed, 1458</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818198&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6FD60EC3B5B14B3C840C990CC648A62B" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
       </c01>
       <c01 level="series">
         <did id="MF12816826">
-          <unitid type="series_code"/>
           <unitid type="guid">ECE27D4D48F64236BCC2EEEAD842CA4E</unitid>
+          <unitid type="series_code"/>
           <unittitle>charter Louis de Bourbon</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
         </did>
         <c02 level="file">
           <did id="MF12816827">
+            <unitid type="guid">4DFD03B3C5C949A3A2765572B516247F</unitid>
             <unitid>36</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4DFD03B3C5C949A3A2765572B516247F</unitid>
-            <unitid type="guid">4DFD03B3C5C949A3A2765572B516247F</unitid>
             <unittitle>Akte van toestemming door de bisschop van Luik aan de zusters te Achel tot verplaatsing van het altaar, 1479</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1479">1479</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1696,20 +1915,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van toestemming door de bisschop van Luik aan de zusters te Achel tot verplaatsing van het altaar, 1479</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816827&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/4DFD03B3C5C949A3A2765572B516247F" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
       </c01>
       <c01 level="series">
         <did id="MF12816830">
-          <unitid type="series_code"/>
           <unitid type="guid">5E06F9214DF84B558F6A7D57E146F355</unitid>
+          <unitid type="series_code"/>
           <unittitle>charters Grave</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
         </did>
@@ -1718,9 +1943,9 @@
         </scopecontent>
         <c02 level="file">
           <did id="MF12816913">
+            <unitid type="guid">DBD87B0023154852ACD9C7D3F19DBDC7</unitid>
             <unitid>37</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DBD87B0023154852ACD9C7D3F19DBDC7</unitid>
-            <unitid type="guid">DBD87B0023154852ACD9C7D3F19DBDC7</unitid>
             <unittitle>Aankomsttitel voor de Onze Lieve Vrouwe Broederschap in Grave, (1470-1479)-1494</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1470/1494">(1470-1479)-1494</unitdate>
             <physdesc>2 charters, getransfigeerd</physdesc>
@@ -1731,20 +1956,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Aankomsttitel voor de Onze Lieve Vrouwe Broederschap in Grave, (1470-1479)-1494</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816913&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DBD87B0023154852ACD9C7D3F19DBDC7" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12816939">
+            <unitid type="guid">80E582D151034F2EB4AFE78953F5D8B3</unitid>
             <unitid>38</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/80E582D151034F2EB4AFE78953F5D8B3</unitid>
-            <unitid type="guid">80E582D151034F2EB4AFE78953F5D8B3</unitid>
             <unittitle>Aankomsttitel voor de Onze Lieve Vrouwe Broederschap in Grave, 1534-1577</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1534/1577">1534-1577</unitdate>
             <physdesc>3 charters, getransfigeerd</physdesc>
@@ -1755,28 +1986,34 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Aankomsttitel voor de Onze Lieve Vrouwe Broederschap in Grave, 1534-1577</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816939&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/80E582D151034F2EB4AFE78953F5D8B3" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
       </c01>
       <c01 level="series">
         <did id="MF12816954">
-          <unitid type="series_code"/>
           <unitid type="guid">A0735511B9694881B51AF65292CC9C38</unitid>
+          <unitid type="series_code"/>
           <unittitle>charters Wamel</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
         </did>
         <c02 level="file">
           <did id="MF12816955">
+            <unitid type="guid">A83792B4FA94440BAC45D0D94D42AD61</unitid>
             <unitid>39</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A83792B4FA94440BAC45D0D94D42AD61</unitid>
-            <unitid type="guid">A83792B4FA94440BAC45D0D94D42AD61</unitid>
             <unittitle>Overdracht van een rente aan het klooster van Sint-Clara in Wamel, 1559</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1559">1559</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1790,20 +2027,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Overdracht van een rente aan het klooster van Sint-Clara in Wamel, 1559</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816955&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A83792B4FA94440BAC45D0D94D42AD61" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12816957">
+            <unitid type="guid">954576E0389E4B7D8CC2CAF176AE93F5</unitid>
             <unitid>40</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/954576E0389E4B7D8CC2CAF176AE93F5</unitid>
-            <unitid type="guid">954576E0389E4B7D8CC2CAF176AE93F5</unitid>
             <unittitle>Verklaring van Henrick van Doornick dat de vicarisse van het klooster van Sint-Clara in Wamel een in 1574 gevestigde losrente afgelost heeft, met de vestiging als bijlage, 1606</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1574/1606">1606</unitdate>
             <physdesc>1 charter en 1 stuk</physdesc>
@@ -1814,20 +2057,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Verklaring van Henrick van Doornick dat de vicarisse van het klooster van Sint-Clara in Wamel een in 1574 gevestigde losrente afgelost heeft, met de vestiging als bijlage, 1606</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12816957&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/954576E0389E4B7D8CC2CAF176AE93F5" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12818180">
+            <unitid type="guid">9B13F5AA03C14A27BA74EB4A377642ED</unitid>
             <unitid>41</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9B13F5AA03C14A27BA74EB4A377642ED</unitid>
-            <unitid type="guid">9B13F5AA03C14A27BA74EB4A377642ED</unitid>
             <unittitle>Verklaring van Alart Rutgerssen dat de vicarisse van het klooster van Sint-Clara te Wamel een in 1583 verpand stuk land in Wamel gelost hebben, met de verpanding als bijlage, 1602</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1583/1602">1602</unitdate>
             <physdesc>1 charter en 1 stuk</physdesc>
@@ -1838,20 +2087,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Verklaring van Alart Rutgerssen dat de vicarisse van het klooster van Sint-Clara te Wamel een in 1583 verpand stuk land in Wamel gelost hebben, met de verpanding als bijlage, 1602</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818180&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9B13F5AA03C14A27BA74EB4A377642ED" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12818182">
+            <unitid type="guid">EF6FE1447C964848BE27806210FF1ADD</unitid>
             <unitid>42</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EF6FE1447C964848BE27806210FF1ADD</unitid>
-            <unitid type="guid">EF6FE1447C964848BE27806210FF1ADD</unitid>
             <unittitle>Verklaring van Willem Jansen Smit dat een door het klooster van Sint-Clara te Wamel in 1590 verpand stuk land gelost is, met de verpanding als bijlage, 1599</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1590/1599">1599</unitdate>
             <physdesc>1 charter en 1 stuk</physdesc>
@@ -1862,20 +2117,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Verklaring van Willem Jansen Smit dat een door het klooster van Sint-Clara te Wamel in 1590 verpand stuk land gelost is, met de verpanding als bijlage, 1599</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818182&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/EF6FE1447C964848BE27806210FF1ADD" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12818186">
+            <unitid type="guid">C03BB2CB85F3403B9B3F9AF7B136E715</unitid>
             <unitid>43</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C03BB2CB85F3403B9B3F9AF7B136E715</unitid>
-            <unitid type="guid">C03BB2CB85F3403B9B3F9AF7B136E715</unitid>
             <unittitle>Verklaring van Aerndt Evertzoen dat een door het klooster van Sint-Clara te Wamel in 1591 verpande uiterwaard gelost is, met de verpanding als bijlage, 1605</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1591/1605">1605</unitdate>
             <physdesc>1 charter en 1 stuk</physdesc>
@@ -1886,28 +2147,34 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Verklaring van Aerndt Evertzoen dat een door het klooster van Sint-Clara te Wamel in 1591 verpande uiterwaard gelost is, met de verpanding als bijlage, 1605</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818186&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C03BB2CB85F3403B9B3F9AF7B136E715" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
       </c01>
       <c01 level="series">
         <did id="MF12818189">
-          <unitid type="series_code"/>
           <unitid type="guid">BF90881947F9403E84434748FC5AD78D</unitid>
+          <unitid type="series_code"/>
           <unittitle>diverse charters</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
         </did>
         <c02 level="file">
           <did id="MF12818193">
+            <unitid type="guid">CDEFDC61345543BCB459C739196DD7A1</unitid>
             <unitid>44</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CDEFDC61345543BCB459C739196DD7A1</unitid>
-            <unitid type="guid">CDEFDC61345543BCB459C739196DD7A1</unitid>
             <unittitle>Akte van overdracht van een erfcijns, 1445</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1445">1445</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1918,20 +2185,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overdracht van een erfcijns, 1445</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818193&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CDEFDC61345543BCB459C739196DD7A1" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12818203">
+            <unitid type="guid">E5AA2ED5154C4AF88584D823B41FCB7E</unitid>
             <unitid>47</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E5AA2ED5154C4AF88584D823B41FCB7E</unitid>
-            <unitid type="guid">E5AA2ED5154C4AF88584D823B41FCB7E</unitid>
             <unittitle>Octrooi voor het klooster Bazeldonk tot het oprichten van een windmolen, 1575</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1575">1575</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1942,20 +2215,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Octrooi voor het klooster Bazeldonk tot het oprichten van een windmolen, 1575</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818203&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E5AA2ED5154C4AF88584D823B41FCB7E" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12818211">
+            <unitid type="guid">18A0E11463DF414A877A6AC3DB6BC75C</unitid>
             <unitid>48</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/18A0E11463DF414A877A6AC3DB6BC75C</unitid>
-            <unitid type="guid">18A0E11463DF414A877A6AC3DB6BC75C</unitid>
             <unittitle>Akte van overdracht van een hoeve, 1625</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1625">1625</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1966,28 +2245,34 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overdracht van een hoeve, 1625</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818211&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/18A0E11463DF414A877A6AC3DB6BC75C" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
       </c01>
       <c01 level="series">
         <did id="MF12818201">
-          <unitid type="series_code"/>
           <unitid type="guid">27D5E3D4FCC142E4ABFFBDD02E5F96BD</unitid>
+          <unitid type="series_code"/>
           <unittitle>charters kapittel Sint-Jan te 's-Hertogenbosch</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
         </did>
         <c02 level="file">
           <did id="MF12820280">
+            <unitid type="guid">3C7715996EAF4ABBAB25C8E06DCD50D7</unitid>
             <unitid>49</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3C7715996EAF4ABBAB25C8E06DCD50D7</unitid>
-            <unitid type="guid">3C7715996EAF4ABBAB25C8E06DCD50D7</unitid>
             <unittitle>Uitspraak in het geschil van de rector van een altaar in de Sint-Jan in 's-Hertogenbosch over het bezit van een hoeve, 1464</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1459/1464">1464</unitdate>
             <physdesc>1 charter</physdesc>
@@ -1999,20 +2284,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Uitspraak in het geschil van de rector van een altaar in de Sint-Jan in 's-Hertogenbosch over het bezit van een hoeve, 1464</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12820280&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3C7715996EAF4ABBAB25C8E06DCD50D7" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12850273">
+            <unitid type="guid">2F7BA56DE56A47E4B881609950B484DE</unitid>
             <unitid>50</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2F7BA56DE56A47E4B881609950B484DE</unitid>
-            <unitid type="guid">2F7BA56DE56A47E4B881609950B484DE</unitid>
             <unittitle>Uitspraak in een geschil over de kapelanie van Sint-Rumoldus en Adrianus in de Sint-Jan in 's-Hertogenbosch, 1472</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1472">1472</unitdate>
             <physdesc>2 charters</physdesc>
@@ -2026,20 +2317,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Uitspraak in een geschil over de kapelanie van Sint-Rumoldus en Adrianus in de Sint-Jan in 's-Hertogenbosch, 1472</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850273&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2F7BA56DE56A47E4B881609950B484DE" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12850296">
+            <unitid type="guid">8962BBE8BFEF4D588A371FB8340FAFF8</unitid>
             <unitid>51</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8962BBE8BFEF4D588A371FB8340FAFF8</unitid>
-            <unitid type="guid">8962BBE8BFEF4D588A371FB8340FAFF8</unitid>
             <unittitle>Bekrachting van een uitspraak over het bezit van een canonicaat in de Sint-Jan, 1507</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1507">1507</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2050,20 +2347,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Bekrachting van een uitspraak over het bezit van een canonicaat in de Sint-Jan, 1507</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850296&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/8962BBE8BFEF4D588A371FB8340FAFF8" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12850303">
+            <unitid type="guid">15CDCCA9BA7042DE8C490D58DFE2B58D</unitid>
             <unitid>52</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/15CDCCA9BA7042DE8C490D58DFE2B58D</unitid>
-            <unitid type="guid">15CDCCA9BA7042DE8C490D58DFE2B58D</unitid>
             <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1508</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1508">1508</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2074,20 +2377,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1508</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850303&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/15CDCCA9BA7042DE8C490D58DFE2B58D" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12850327">
+            <unitid type="guid">F48D44A6C2274595B392FC50DF11CAB8</unitid>
             <unitid>53</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F48D44A6C2274595B392FC50DF11CAB8</unitid>
-            <unitid type="guid">F48D44A6C2274595B392FC50DF11CAB8</unitid>
             <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1513</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1513">1513</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2098,20 +2407,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1513</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850327&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F48D44A6C2274595B392FC50DF11CAB8" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12850341">
+            <unitid type="guid">018FBBE5D6C042FDA8A695F97F05CD11</unitid>
             <unitid>54</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/018FBBE5D6C042FDA8A695F97F05CD11</unitid>
-            <unitid type="guid">018FBBE5D6C042FDA8A695F97F05CD11</unitid>
             <unittitle>Presentatie door de hertog van Brabant van een kanunnik, 1534</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1534">1534</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2122,20 +2437,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Presentatie door de hertog van Brabant van een kanunnik, 1534</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850341&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/018FBBE5D6C042FDA8A695F97F05CD11" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12818200">
+            <unitid type="guid">B2F64D3A38DE470C977408E084458370</unitid>
             <unitid>46</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B2F64D3A38DE470C977408E084458370</unitid>
-            <unitid type="guid">B2F64D3A38DE470C977408E084458370</unitid>
             <unittitle>Testament van een zekere Margriet, 1539</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1539">1539</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2149,20 +2470,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Testament van een zekere Margriet, 1539</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12818200&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B2F64D3A38DE470C977408E084458370" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12850344">
+            <unitid type="guid">37F5DE2DA3984DC1963CE9A2573D898E</unitid>
             <unitid>55</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/37F5DE2DA3984DC1963CE9A2573D898E</unitid>
-            <unitid type="guid">37F5DE2DA3984DC1963CE9A2573D898E</unitid>
             <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1547</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1547">1547</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2173,20 +2500,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1547</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850344&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/37F5DE2DA3984DC1963CE9A2573D898E" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12850352">
+            <unitid type="guid">5EEFF24B75474A6CBD175612842F8D05</unitid>
             <unitid>56</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5EEFF24B75474A6CBD175612842F8D05</unitid>
-            <unitid type="guid">5EEFF24B75474A6CBD175612842F8D05</unitid>
             <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1550</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1550">1550</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2197,20 +2530,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1550</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850352&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5EEFF24B75474A6CBD175612842F8D05" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12850354">
+            <unitid type="guid">F9E6DBC8CE214AE59828247DC44A96E3</unitid>
             <unitid>57</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F9E6DBC8CE214AE59828247DC44A96E3</unitid>
-            <unitid type="guid">F9E6DBC8CE214AE59828247DC44A96E3</unitid>
             <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1558</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1558">1558</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2221,20 +2560,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1558</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850354&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F9E6DBC8CE214AE59828247DC44A96E3" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12850356">
+            <unitid type="guid">10B72BA9DCFA4DC5904DD25E7609E3B9</unitid>
             <unitid>58</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/10B72BA9DCFA4DC5904DD25E7609E3B9</unitid>
-            <unitid type="guid">10B72BA9DCFA4DC5904DD25E7609E3B9</unitid>
             <unittitle>Presentatie door de hertog van Brabant van een kanunnik, 1560</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1560">1560</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2245,20 +2590,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Presentatie door de hertog van Brabant van een kanunnik, 1560</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850356&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/10B72BA9DCFA4DC5904DD25E7609E3B9" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12850723">
+            <unitid type="guid">CBBD51ACABAC4FAF8945ABCF96BE5599</unitid>
             <unitid>59</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CBBD51ACABAC4FAF8945ABCF96BE5599</unitid>
-            <unitid type="guid">CBBD51ACABAC4FAF8945ABCF96BE5599</unitid>
             <unittitle>Vereniging van een altaar in de kerk van Rosmalen met de vicarie daar, 1585</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1585">1585</unitdate>
             <physdesc>2 charters, getransfigeerd</physdesc>
@@ -2269,20 +2620,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Vereniging van een altaar in de kerk van Rosmalen met de vicarie daar, 1585</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850723&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CBBD51ACABAC4FAF8945ABCF96BE5599" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12850725">
+            <unitid type="guid">648C6E178E6C49918EC42F1992AE00B0</unitid>
             <unitid>60</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/648C6E178E6C49918EC42F1992AE00B0</unitid>
-            <unitid type="guid">648C6E178E6C49918EC42F1992AE00B0</unitid>
             <unittitle>Presentatie door de hertog van Brabant van een kanunnik, 1590</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1590">1590</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2293,20 +2650,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Presentatie door de hertog van Brabant van een kanunnik, 1590</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12850725&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/648C6E178E6C49918EC42F1992AE00B0" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12851490">
+            <unitid type="guid">787DD51EA7B64FAFB9A946CADBDE8250</unitid>
             <unitid>61</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/787DD51EA7B64FAFB9A946CADBDE8250</unitid>
-            <unitid type="guid">787DD51EA7B64FAFB9A946CADBDE8250</unitid>
             <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1591</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1591">1591</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2317,20 +2680,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1591</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12851490&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/787DD51EA7B64FAFB9A946CADBDE8250" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12851492">
+            <unitid type="guid">C7297FDA2D07456BACCA64F488721339</unitid>
             <unitid>62</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C7297FDA2D07456BACCA64F488721339</unitid>
-            <unitid type="guid">C7297FDA2D07456BACCA64F488721339</unitid>
             <unittitle>Verlenging voor de functie van rentmeester van het kapittel, 1591</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1591">1591</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2341,20 +2710,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Verlenging voor de functie van rentmeester van het kapittel, 1591</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12851492&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C7297FDA2D07456BACCA64F488721339" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852274">
+            <unitid type="guid">E213CB46E4134A86BE1CB341DCBC8173</unitid>
             <unitid>63</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E213CB46E4134A86BE1CB341DCBC8173</unitid>
-            <unitid type="guid">E213CB46E4134A86BE1CB341DCBC8173</unitid>
             <unittitle>Presentatie door de hertog van Brabant van een kanunnik, 1594</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1594">1594</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2365,20 +2740,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Presentatie door de hertog van Brabant van een kanunnik, 1594</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852274&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E213CB46E4134A86BE1CB341DCBC8173" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852277">
+            <unitid type="guid">7CC4A74626BA466F96FBAF20A5332F75</unitid>
             <unitid>64</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7CC4A74626BA466F96FBAF20A5332F75</unitid>
-            <unitid type="guid">7CC4A74626BA466F96FBAF20A5332F75</unitid>
             <unittitle>Bevestiging van de hertogen van Brabant dat de bisschop de rechtsmacht heeft over leden en functionarissen van het kapittel, 1599</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1599">1599</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2389,20 +2770,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Bevestiging van de hertogen van Brabant dat de bisschop de rechtsmacht heeft over leden en functionarissen van het kapittel, 1599</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852277&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7CC4A74626BA466F96FBAF20A5332F75" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852287">
+            <unitid type="guid">5F4124E6800F4EA48BF756E6B3E7DDE1</unitid>
             <unitid>66</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5F4124E6800F4EA48BF756E6B3E7DDE1</unitid>
-            <unitid type="guid">5F4124E6800F4EA48BF756E6B3E7DDE1</unitid>
             <unittitle>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1602</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1602">1602</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2413,20 +2800,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1602</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852287&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5F4124E6800F4EA48BF756E6B3E7DDE1" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852284">
+            <unitid type="guid">57B92412CEE14C94AB12BF3D535ED2A3</unitid>
             <unitid>65</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/57B92412CEE14C94AB12BF3D535ED2A3</unitid>
-            <unitid type="guid">57B92412CEE14C94AB12BF3D535ED2A3</unitid>
             <unittitle>Presentatie door de bisschop van 's-Hertogenbosch van twee kanunniken, 1602-1603</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1602/1603">1602-1603</unitdate>
             <physdesc>2 charters</physdesc>
@@ -2440,20 +2833,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Presentatie door de bisschop van 's-Hertogenbosch van twee kanunniken, 1602-1603</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852284&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/57B92412CEE14C94AB12BF3D535ED2A3" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852290">
+            <unitid type="guid">D8C0DCBE67854B9EA986EDE2FEE4D15D</unitid>
             <unitid>67</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D8C0DCBE67854B9EA986EDE2FEE4D15D</unitid>
-            <unitid type="guid">D8C0DCBE67854B9EA986EDE2FEE4D15D</unitid>
             <unittitle>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1603</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1603">1603</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2464,20 +2863,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1603</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852290&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D8C0DCBE67854B9EA986EDE2FEE4D15D" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852292">
+            <unitid type="guid">7B251117671E4C05A0B3F0E94FDA1752</unitid>
             <unitid>68</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7B251117671E4C05A0B3F0E94FDA1752</unitid>
-            <unitid type="guid">7B251117671E4C05A0B3F0E94FDA1752</unitid>
             <unittitle>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1604</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1604">1604</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2488,20 +2893,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1604</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852292&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7B251117671E4C05A0B3F0E94FDA1752" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852294">
+            <unitid type="guid">B42D61F45FAF4AA98C782D02131BDFFD</unitid>
             <unitid>69</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B42D61F45FAF4AA98C782D02131BDFFD</unitid>
-            <unitid type="guid">B42D61F45FAF4AA98C782D02131BDFFD</unitid>
             <unittitle>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1607</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1607">1607</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2512,20 +2923,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1607</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852294&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B42D61F45FAF4AA98C782D02131BDFFD" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852296">
+            <unitid type="guid">49C57B49B1EE492999329E325645B14C</unitid>
             <unitid>70</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/49C57B49B1EE492999329E325645B14C</unitid>
-            <unitid type="guid">49C57B49B1EE492999329E325645B14C</unitid>
             <unittitle>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1610</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1610">1610</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2536,20 +2953,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1610</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852296&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/49C57B49B1EE492999329E325645B14C" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852310">
+            <unitid type="guid">6ECFFB3CE64F4273BF9889C9EE24F0EF</unitid>
             <unitid>71</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6ECFFB3CE64F4273BF9889C9EE24F0EF</unitid>
-            <unitid type="guid">6ECFFB3CE64F4273BF9889C9EE24F0EF</unitid>
             <unittitle>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1611</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1611">1611</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2560,20 +2983,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Bevestiging door de hertogen van Brabant van het bezit van een canonicaat, 1611</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852310&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6ECFFB3CE64F4273BF9889C9EE24F0EF" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852312">
+            <unitid type="guid">1541184443AF4BB4AC1B59F59C6B8675</unitid>
             <unitid>72</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1541184443AF4BB4AC1B59F59C6B8675</unitid>
-            <unitid type="guid">1541184443AF4BB4AC1B59F59C6B8675</unitid>
             <unittitle>Toestemming van de hertogen van Brabant tot ruil van een canonicaat in de Sint-Jan, 1616</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1616">1616</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2584,20 +3013,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Toestemming van de hertogen van Brabant tot ruil van een canonicaat in de Sint-Jan, 1616</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852312&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1541184443AF4BB4AC1B59F59C6B8675" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852315">
+            <unitid type="guid">5AD5E21B36264903A93BA59BED7C20A7</unitid>
             <unitid>73</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5AD5E21B36264903A93BA59BED7C20A7</unitid>
-            <unitid type="guid">5AD5E21B36264903A93BA59BED7C20A7</unitid>
             <unittitle>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1624</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1624">1624</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2608,28 +3043,34 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Toestemming van de hertog van Brabant tot ruil van een canonicaat in de Sint-Jan, 1624</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852315&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5AD5E21B36264903A93BA59BED7C20A7" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
       </c01>
       <c01 level="series">
         <did id="MF12852319">
-          <unitid type="series_code"/>
           <unitid type="guid">890A21A3CC57461FB54481F64D033A9F</unitid>
+          <unitid type="series_code"/>
           <unittitle>diverse charters</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1238/1801"/>
         </did>
         <c02 level="file">
           <did id="MF12852328">
+            <unitid type="guid">BB5A79E7CB774CB182EF9DF994EF9917</unitid>
             <unitid>74</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BB5A79E7CB774CB182EF9DF994EF9917</unitid>
-            <unitid type="guid">BB5A79E7CB774CB182EF9DF994EF9917</unitid>
             <unittitle>Dispensatie door Judocus Houbraken, apostolisch vicaris van het bisdom 's-Hertogenbosch, voor de huwelijksbeletselen van Andreas Leonardi de Bondt  en Cornelia Petri Poisson in Loon op Zand, 1670 mei 4</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1670">1670 mei 4</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2645,15 +3086,15 @@
               <p>Dispensatie door Judocus Houbraken, apostolisch vicaris van het bisdom 's-Hertogenbosch, voor de huwelijksbeletselen van Andreas Leonardi de Bondt  en Cornelia Petri Poisson in Loon op Zand, 1670 mei 4</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852328&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/BB5A79E7CB774CB182EF9DF994EF9917" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852329">
+            <unitid type="guid">84795DF31A4B47508778C99B447D9273</unitid>
             <unitid>75</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/84795DF31A4B47508778C99B447D9273</unitid>
-            <unitid type="guid">84795DF31A4B47508778C99B447D9273</unitid>
             <unittitle>Blad bevattende de gedeeltelijke tekst van een of twee sententies van het Hof van Holland in een geschil tussen nazaten van Wolfert van Brederode en nazaten van zijn rentmeester Josephus Coymans, heer van Nieuwaal, (1780-1790)</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1780/1790">(1780-1790)</unitdate>
             <physdesc>1 stuk</physdesc>
@@ -2669,15 +3110,15 @@
               <p>Blad bevattende de gedeeltelijke tekst van een of twee sententies van het Hof van Holland in een geschil tussen nazaten van Wolfert van Brederode en nazaten van zijn rentmeester Josephus Coymans, heer van Nieuwaal, (1780-1790)</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852329&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/84795DF31A4B47508778C99B447D9273" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852346">
+            <unitid type="guid">3215D92BE3714F2C87360269583E2B2F</unitid>
             <unitid>76</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3215D92BE3714F2C87360269583E2B2F</unitid>
-            <unitid type="guid">3215D92BE3714F2C87360269583E2B2F</unitid>
             <unittitle>Akte van overdracht voor schepenen ten behoeve van vier kinderen van Jan Janssen van Bussel van Nuenen van goederen in Nuenen, 1681</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1681">1681</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2693,15 +3134,15 @@
               <p>Akte van overdracht voor schepenen ten behoeve van vier kinderen van Jan Janssen van Bussel van Nuenen van goederen in Nuenen, 1681</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852346&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3215D92BE3714F2C87360269583E2B2F" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852348">
+            <unitid type="guid">5B8FBA98C5914E939B620A49E6B2AA0B</unitid>
             <unitid>77</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5B8FBA98C5914E939B620A49E6B2AA0B</unitid>
-            <unitid type="guid">5B8FBA98C5914E939B620A49E6B2AA0B</unitid>
             <unittitle>Akte van opdracht voor schepenen van 's-Hertogenbosch aan Anthonij van Ravesteijn van renten op de beden van Brabant, 1704</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1704">1704</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2717,15 +3158,15 @@
               <p>Akte van opdracht voor schepenen van 's-Hertogenbosch aan Anthonij van Ravesteijn van renten op de beden van Brabant, 1704</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852348&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5B8FBA98C5914E939B620A49E6B2AA0B" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852426">
+            <unitid type="guid">BACBECB8A1C74B35997884D830F17765</unitid>
             <unitid>78</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BACBECB8A1C74B35997884D830F17765</unitid>
-            <unitid type="guid">BACBECB8A1C74B35997884D830F17765</unitid>
             <unittitle>Volle aflaat, verleend door paus Clemens XI, bij bezoek aan de kerk van Sint-Michielsgestel, 1712 april 6</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1712">1712 april 6</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2741,15 +3182,15 @@
               <p>Volle aflaat, verleend door paus Clemens XI, bij bezoek aan de kerk van Sint-Michielsgestel, 1712 april 6</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852426&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/BACBECB8A1C74B35997884D830F17765" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852443">
+            <unitid type="guid">6DC2BA1B64654060A16A01A434B3FED7</unitid>
             <unitid>79</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6DC2BA1B64654060A16A01A434B3FED7</unitid>
-            <unitid type="guid">6DC2BA1B64654060A16A01A434B3FED7</unitid>
             <unittitle>Volle aflaat, verleend door paus Clemens XII, bij bezoek aan de Willibrorduskapel te Eersel, 1734 december 16</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1734">1734 december 16</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2765,15 +3206,15 @@
               <p>Volle aflaat, verleend door paus Clemens XII, bij bezoek aan de Willibrorduskapel te Eersel, 1734 december 16</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=2039&amp;minr=12852443&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6DC2BA1B64654060A16A01A434B3FED7" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12852444">
+            <unitid type="guid">4FD84D53C06247A585432CBBE82DE475</unitid>
             <unitid>80</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4FD84D53C06247A585432CBBE82DE475</unitid>
-            <unitid type="guid">4FD84D53C06247A585432CBBE82DE475</unitid>
             <unittitle>Benoeming van Melchior van Gorcom tot notarius en iudex ordinarius, 1759</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1759">1759</unitdate>
             <physdesc>1 charter</physdesc>
@@ -2787,9 +3228,9 @@
         </c02>
         <c02 level="file">
           <did id="MF12852445">
+            <unitid type="guid">D1735B9B29A5473FB3E8482F779560BE</unitid>
             <unitid>81</unitid>
             <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D1735B9B29A5473FB3E8482F779560BE</unitid>
-            <unitid type="guid">D1735B9B29A5473FB3E8482F779560BE</unitid>
             <unittitle>Dit stuk is niet mee overgedragen door het bisdom in 2012. De beschrijving in de inventaris van c. 1967 luidt: Huwelijksdispensatie door Pius VII, 1801 november</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1801">1801 november</unitdate>
           </did>

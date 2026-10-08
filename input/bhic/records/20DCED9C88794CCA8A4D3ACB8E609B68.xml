@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>20DCED9C88794CCA8A4D3ACB8E609B68</identifier>
-    <datestamp>2026-09-08</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -29,15 +29,18 @@
     <did id="MF899742">
       <unittitle>Klooster Mariëngraf in Grave, 1360 - 1850</unittitle>
       <unitid countrycode="NL" repositorycode="NL-HtBHIC">248</unitid>
-      <note label="#guid">
-        <p>20DCED9C88794CCA8A4D3ACB8E609B68</p>
-      </note>
-      <unitdate calendar="gregorian" era="ce" normal="1360/1850"/>
+      <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/20DCED9C88794CCA8A4D3ACB8E609B68</unitid>
+      <unitdate calendar="gregorian" era="ce" normal="1360/1850">1360-MIDDEN 19E EEUW</unitdate>
       <note label="Vindplaats origineel">
         <p>BHIC 's-Hertogenbosch</p>
       </note>
     </did>
     <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
       <controlaccess>
         <head>Categorie</head>
         <subject>Religie en Levensbeschouwing</subject>
@@ -121,12 +124,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1956-10-05</p>
+              <p>Cartularium, met privileges, eigendomsbewijzen, rente-akten en aantekeningen, 1360 - 1676&lt;br/&gt;Kopieën uit 18e eeuw</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B13D664D2B8B4C419FF3F76144821496" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -147,12 +156,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1956-10-12</p>
+              <p>Cartularium, met privileges, eigendomsbewijzen en rente-akten, 1422 - 1664&lt;br/&gt;Kopieën uit 1684</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2F8AF26E83E24C6FB5193D67AEDB3692" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -199,6 +214,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF899749">
@@ -233,10 +254,10 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1956-11-16</p>
+              <p>Lijsten van zusters, die in klooster woonden, 1719 en 1751</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A7F61B460A3E4E0CBBF4C03AEC16BF79" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -254,6 +275,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF899752">
@@ -272,10 +299,10 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1956-11-30</p>
+              <p>Specificatie van hetgeen intredende zuster behoort in te brengen, 18e eeuw</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D01365FAC0AD4A94879F15626CB874D6" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -294,6 +321,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Gebruik van huis begijnen, door rector van school in Grave, 1614 - 1617</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6406162FAAA64A7B8587B77F09117A08" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF899754">
@@ -310,6 +351,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF899755">
@@ -326,6 +373,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF899756">
@@ -341,6 +394,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF899757">
@@ -372,10 +431,10 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1957-01-11</p>
+              <p>Verhandeling over grootte perceel land van klooster, 17e eeuw</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5C1C85C72215428D948B91F891F34998" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -396,10 +455,10 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1957-01-18</p>
+              <p>Schets of plattegrond van plaats, waarop voormalig klooster Mariëngraf in Grave gestaan heeft, 1807</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0A8D0709111744ABBD908A8E39732A98" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -418,6 +477,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF899761">
@@ -437,12 +502,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1957-02-01</p>
+              <p>Akte van overdracht, van boerenhof, huis en schuur in Schaijk, 1676</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A5B4CD11EB044D39923AA1A295A9199A" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -464,12 +535,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1957-02-08</p>
+              <p>Akte van overdracht, van huis achter het gasthuis in Grave, 1686</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/EA2B4E53A1C6489393E429CAC0F0BB3D" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -488,6 +565,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF899764">
@@ -504,6 +587,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF899765">
@@ -520,6 +609,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF899766">
@@ -539,12 +634,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1957-03-08</p>
+              <p>Akte van overdracht, van huis achter het gasthuis in Grave, 1734</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E0F7A9A2CBB64094814E3692A36B9EE6" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -566,12 +667,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1957-03-15</p>
+              <p>Akte van overdracht, van perceel land op Couwenoort in Escharen, 1750</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DF2E4552894E47E98058AE1FF7604663" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -593,12 +700,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1957-03-22</p>
+              <p>Akte van vestiging, voor begijnhof in Grave, van jaarlijkse levering van malder rogge uit hofstad in Escharen, 1516</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/AFE69D09929C46C6A052468E11FA7FC7" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -620,12 +733,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1957-03-29</p>
+              <p>Akte van vestiging, voor weeskinderen van Grave, van jaarlijkse rente van 10 guldens, uit huis en erf in Grote Rogstraat aldaar, 1733</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5899BD3C723443DABCD6F79B2E9D26E9" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -647,12 +766,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1957-04-05</p>
+              <p>Akte van vestiging, van jaarlijkse rente op huis in Rogstraat in Grave, 1741</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6DA14CD66874429C98BDEF4746A2F609" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -671,6 +796,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF899772">
@@ -689,10 +820,10 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1957-04-19</p>
+              <p>Lijst van giften, aan klooster Mariëngraf, op voorwaarde van gebeden en uitdelingen aan armen, circa 1650 - 1700</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/4CF2BF5BF86845D5AE543B525E8FE84E" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -716,10 +847,10 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1957-04-26</p>
+              <p>Lijst van bezittingen van klooster, ingevolge gerechtelijke aanzegging van 13 oktober 1722 opgemaakt voor Johan Ruyl, rentmeester domeinen, circa 1722 - 1813</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CBEAE14CDD714E32BFBF75693A124244" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -738,6 +869,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF899775">
@@ -754,6 +891,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF899776">
@@ -783,6 +926,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF899778">
@@ -796,6 +945,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>'Kerkelijke historie van Gelderland', van Johannes Knippenberch (Brussel 1719) voor zover geschiedenis klooster aangaat, kopie, 18e eeuw</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3CA677D06A784AA8909DE4E0CC3596ED" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF899779">
@@ -813,10 +976,10 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>Udensche Courant, 1957-06-14</p>
+              <p>Historische schets 'Het Begijnen-klooster te Grave en zijne Dichteresse', door Pauwels Foreestier, circa 1850</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/38B2500BB91C4D7DADE8D4F290B68418" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -843,14 +1006,12 @@
               <date normal="1360" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1360-12-07.&lt;br/&gt; 1360 december 7 (Avond-Conceptio Mariae)&lt;br/&gt;Schepenen in Velp (Noord-Brabant) oorkonden, dat voor hen, door Mette Romers en haar dochter en zonen, werd overgedragen, voor Jan Wrede: hoeve aan Gemenestraat in Reek&lt;br/&gt;Kopie inventarisnr 1, pagina 70</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/AC0E369FF82746C98AE6394637AB58C7" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142084">
@@ -867,14 +1028,12 @@
               <date normal="1361" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1361-02-07.&lt;br/&gt; 1361 februari 7 (Zondag Grote Vastenavond)&lt;br/&gt;Schepenen in Velp (Noord-Brabant) oorkonden, dat voor hen, door Jan Wrede overgedragen werden, voor Gelis Hillensz:&lt;br/&gt;hoeve aan Gemenestraat in Reek en alle goederen in landen van Herpen, die volgens schepenakte door Mette Romers en haar kinderen aan hem waren overgedragen&lt;br/&gt;Kopie inventarisnr 1, pagina 70 - 72</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/AE9892F2930A40BCACD6CD12694A99F5" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142085">
@@ -891,6 +1050,12 @@
               <date normal="1395" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142086">
@@ -907,6 +1072,12 @@
               <date normal="1409" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142087">
@@ -923,6 +1094,12 @@
               <date normal="1422" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142088">
@@ -939,6 +1116,12 @@
               <date normal="1425" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142089">
@@ -955,14 +1138,12 @@
               <date normal="1430" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1430-10-23.&lt;br/&gt; 1430 oktober 23 (Sint-Severijnsdag)&lt;br/&gt;Schepenen van Cuijk oorkonden, dat voor hen, door Arnt Bloem en zijn vrouw Agnes, overgedragen werd, voor Liesbeth van der Berge en het Begijnhof in Grave:&lt;br/&gt;rente van 1 malder rogge, jaarlijks te leveren uit hoeve de Steenakker in Haps&lt;br/&gt;Kopie inventarisnr 1, pagina 38 en inventarisnr 2.</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/FABD64E002F1477ABFDF7E339232146A" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142090">
@@ -979,6 +1160,12 @@
               <date normal="1436" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142091">
@@ -995,14 +1182,12 @@
               <date normal="1436" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1436-12-27.&lt;br/&gt; 1436 december 27 (Donderdag na Kerstmis)&lt;br/&gt;Arnold, hertog van Gelre en Gulik, graaf van Zutphen en heer van Cuijk, oorkondt in Grave bevestiging van de privileges, die zijn voorvader, heer van Cuijk, verleend heeft aan begijnhof in Grave en geeft meerdere regels voor leven zusters&lt;br/&gt;Kopie inventarisnr 1, pagina 1-13</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/559640B994BF4F9CB6C9AA6A042CA740" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142092">
@@ -1019,6 +1204,12 @@
               <date normal="1440" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142093">
@@ -1035,6 +1226,12 @@
               <date normal="1441" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142094">
@@ -1051,6 +1248,12 @@
               <date normal="1441" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142095">
@@ -1067,6 +1270,12 @@
               <date normal="1443" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142096">
@@ -1083,6 +1292,12 @@
               <date normal="1445" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142097">
@@ -1099,14 +1314,12 @@
               <date normal="1447" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1447-05-24.&lt;br/&gt; 1447 mei 24&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Jacob Emondsz en burgemeester Jan van Bers overgedragen werd, voor Jan Naperinch: perceel land in de Mars, later genaamd Streepkamp&lt;br/&gt;Kopie inventarisnr 1, pagina 62</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/DB077E4957BC455B85426F218570CBC3" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142098">
@@ -1123,14 +1336,12 @@
               <date normal="1449" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1449-02-01.&lt;br/&gt; 1449 februari 1 (Avond-Pur. Maria)&lt;br/&gt;Schepenen in Velp (Noord-Brabant) oorkonden, dat voor hen, door Liesbeth van Uden, overgedragen werd, voor Grem Woltersz:&lt;br/&gt;1/2 hoeve aan de Reek / 1/2 ander perceel land / 1 morgen land uit middelhoeven&lt;br/&gt;Kopie inventarisnr 1, pagina 73 - 74</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/D518579CFC3441F2838865F0CC3D6AE4" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142099">
@@ -1147,6 +1358,12 @@
               <date normal="1449" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142100">
@@ -1163,14 +1380,12 @@
               <date normal="1449" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1449-06-04.&lt;br/&gt; 1449 juni 4&lt;br/&gt;Schepenen in Velp (Brabant) oorkonden, dat voor hen, door Henrik Caldoenen en zijn vrouw, voor Grem Wolters overgedragen werd: 1/2 hoeve aan de Reek / 1/2 ander perceel land / 1 morgen land uit Middelhoeven&lt;br/&gt;Uittreksel inventarisnr 1, pagina 74</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/D78C0BFF3072494B9C491D9BE6B7984E" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142101">
@@ -1187,14 +1402,12 @@
               <date normal="1450" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1450-06-28.&lt;br/&gt; 1450 juni 28 (Petrus- en Paulus-avond)&lt;br/&gt;Schepenen van Escharen oorkonden, dat voor hen, door Henrik Woutersz en zijn vrouw overgedragen werd, voor Jan van Niftrik en zijn vrouw: jaarlijkse rente van 6 vat rogge uit perceel land bij Escharen&lt;br/&gt;Kopie van een transfix (door de oorkonde beschreven in regestnr 5), inventarisnr 1, pagina 29 en inventarisnr 2</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/64CDCEF37B39429E8EADF2EDA28C9378" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142102">
@@ -1211,6 +1424,12 @@
               <date normal="1452" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142103">
@@ -1227,6 +1446,12 @@
               <date normal="1455" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142104">
@@ -1243,6 +1468,12 @@
               <date normal="1456" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142105">
@@ -1259,14 +1490,12 @@
               <date normal="1459" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1459-12-07.&lt;br/&gt; 1459 december 7 (in profeste Conc. Mariae)&lt;br/&gt; Heemraden van (?) regelen de afwatering terrein van Grem Wolters&lt;br/&gt;Uittreksel inventarisnr 1, pagina 75</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/F1391EF2846648D4B9CBCB35702E06E7" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142106">
@@ -1283,14 +1512,12 @@
               <date normal="1463" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1463-05-16.&lt;br/&gt; 1463 mei 16&lt;br/&gt;Lucas, pauselijk legaat, bevestigt toestemming van Lodewijk van Bourbon, bisschop van Luik (1456 - 1479) om kapel te stichten in klooser Mariëngraf in Grave&lt;br/&gt;Kopie inventarisnr 1, pagina 53&lt;br/&gt;Zie ook inventarisnr 35 voor nadere bijzonderheden</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/5B015A89466A460A856571088F16B1E3" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142107">
@@ -1307,14 +1534,12 @@
               <date normal="1468" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1468-09-05.&lt;br/&gt; 1468 september 5 (maandag na Antonius)&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Gaart van Elzen en zijn vrouw overgedragen werd, voor Hendrik Moerken: deel kamp in Nederwetten&lt;br/&gt;Kopie inventarisnr 1, pagina 14-17</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/6656C1E51D3A42CCB1B7A2ABF2FCECA0" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142108">
@@ -1331,14 +1556,12 @@
               <date normal="1469" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1469-07-28.&lt;br/&gt; 1469 juli 28&lt;br/&gt;Schepenen in Grave oorkonden, dat voor hen, door Jacob Vennensz en zijn vrouw overgedragen werd, voor Henrik Moerkens: wetering in een Wiel&lt;br/&gt;Uittreksel inventarisnr 1, pagina 64</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/363AD18D1EB9451A957A87E1A8CC1DDA" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142109">
@@ -1355,6 +1578,12 @@
               <date normal="1476" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142110">
@@ -1371,14 +1600,12 @@
               <date normal="1477" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1477-04-14.&lt;br/&gt; 1477 april 14&lt;br/&gt;Schepenen (in Grave?) oorkonden, dat voor hen, door Jan van Nijenhuis overgedragen werd, voor klooster Mariëngraf: perceel land in Loentse Hoef nabij klooster&lt;br/&gt;Uittreksel inventarisnr 1, pagina 82</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/0E3C0352D783449AADCCEDF914C815CB" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142111">
@@ -1395,14 +1622,12 @@
               <date normal="1477" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1477-05-12.&lt;br/&gt; 1477 mei 12 (Sint-Servaasavond)&lt;br/&gt;Schepenen van Escharen oorkonden, dat voor hen, door Derik Badensz en zijn vrouw overgedragen werd, voor 2 begijnen en begijnhof zelf in Grave: jaarlijkse rente van 11/2 malder rogge uit percelen land aldaar&lt;br/&gt;Kopie van transfix (door oorkonden, beschreven in de regesten nrs 6, 11 en 22), inventarisnr 1, pagina 35 en inventarisnr 2</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/883CA14DAE974B34959286F923CD3AD7" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142112">
@@ -1419,6 +1644,12 @@
               <date normal="1478" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142113">
@@ -1435,6 +1666,12 @@
               <date normal="1478" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142114">
@@ -1451,6 +1688,12 @@
               <date normal="1479" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142115">
@@ -1467,6 +1710,12 @@
               <date normal="1480" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142116">
@@ -1483,6 +1732,12 @@
               <date normal="1482" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142117">
@@ -1499,14 +1754,12 @@
               <date normal="1482" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1482-12-24.&lt;br/&gt; 1482 december 24 (Kerstavond)&lt;br/&gt;Schepenen in Herpen oorkonden, dat voor hen overgedragen werd, door Hermen Klaas Hermensz, Jan Klaasz, zijn zoon en dochter, voor klooster Mariëngraf in Grave: perceel land, groot 3 morgen, in Schedonk aan gemene straat&lt;br/&gt;Uittreksel inventarisnr 1, pagina 81</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/18D2C0511D034BC6AAD59DE899855CBD" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142118">
@@ -1523,6 +1776,12 @@
               <date normal="1484" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142119">
@@ -1539,6 +1798,12 @@
               <date normal="1485" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142120">
@@ -1555,6 +1820,12 @@
               <date normal="1487" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142121">
@@ -1571,6 +1842,12 @@
               <date normal="1489" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142122">
@@ -1587,6 +1864,12 @@
               <date normal="1492" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142123">
@@ -1603,6 +1886,12 @@
               <date normal="1495" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142124">
@@ -1619,6 +1908,12 @@
               <date normal="1495" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142125">
@@ -1635,6 +1930,12 @@
               <date normal="1495" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142126">
@@ -1651,6 +1952,12 @@
               <date normal="1497" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142127">
@@ -1667,6 +1974,12 @@
               <date normal="1498" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142128">
@@ -1683,6 +1996,12 @@
               <date normal="1499" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142129">
@@ -1699,6 +2018,12 @@
               <date normal="1505" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142130">
@@ -1715,6 +2040,12 @@
               <date normal="1505" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142131">
@@ -1731,6 +2062,12 @@
               <date normal="1505" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142156">
@@ -1747,6 +2084,12 @@
               <date normal="1507" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142157">
@@ -1763,6 +2106,12 @@
               <date normal="1507" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142158">
@@ -1779,6 +2128,12 @@
               <date normal="1508" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142159">
@@ -1795,6 +2150,12 @@
               <date normal="1509" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142160">
@@ -1811,6 +2172,12 @@
               <date normal="1510" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142132">
@@ -1827,6 +2194,12 @@
               <date normal="1515" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142133">
@@ -1843,6 +2216,12 @@
               <date normal="1515" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142134">
@@ -1859,6 +2238,12 @@
               <date normal="1516" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142135">
@@ -1875,6 +2260,12 @@
               <date normal="1521" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142136">
@@ -1891,6 +2282,12 @@
               <date normal="1522" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142137">
@@ -1907,6 +2304,12 @@
               <date normal="1523" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142138">
@@ -1923,6 +2326,12 @@
               <date normal="1524" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142139">
@@ -1939,6 +2348,12 @@
               <date normal="1533" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142140">
@@ -1955,6 +2370,12 @@
               <date normal="1549" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142141">
@@ -1971,6 +2392,12 @@
               <date normal="1552" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142142">
@@ -1987,6 +2414,12 @@
               <date normal="1554" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142143">
@@ -2003,6 +2436,12 @@
               <date normal="1570" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142144">
@@ -2019,6 +2458,12 @@
               <date normal="1570" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142145">
@@ -2035,6 +2480,12 @@
               <date normal="1572" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142146">
@@ -2051,6 +2502,12 @@
               <date normal="1580" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142147">
@@ -2067,6 +2524,12 @@
               <date normal="1614" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142148">
@@ -2083,6 +2546,12 @@
               <date normal="1617" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142149">
@@ -2099,6 +2568,12 @@
               <date normal="1619" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142150">
@@ -2115,6 +2590,12 @@
               <date normal="1638" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142151">
@@ -2131,6 +2612,12 @@
               <date normal="1641" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142152">
@@ -2147,6 +2634,12 @@
               <date normal="1641" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142153">
@@ -2163,6 +2656,12 @@
               <date normal="1641" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142154">
@@ -2179,6 +2678,12 @@
               <date normal="1664" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142155">
@@ -2195,6 +2700,12 @@
               <date normal="1664" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142161">
@@ -2211,6 +2722,12 @@
               <date normal="1671" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142162">
@@ -2227,6 +2744,12 @@
               <date normal="1673" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142163">
@@ -2243,6 +2766,12 @@
               <date normal="1675" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142164">
@@ -2259,6 +2788,12 @@
               <date normal="1675" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142165">
@@ -2275,6 +2810,12 @@
               <date normal="1676" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142166">
@@ -2291,6 +2832,12 @@
               <date normal="1676" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142167">
@@ -2307,6 +2854,12 @@
               <date normal="1676" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142168">
@@ -2323,6 +2876,12 @@
               <date normal="1676" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142169">
@@ -2339,6 +2898,12 @@
               <date normal="1686" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142170">
@@ -2355,6 +2920,12 @@
               <date normal="1692" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142171">
@@ -2371,6 +2942,12 @@
               <date normal="1698" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142172">
@@ -2387,6 +2964,12 @@
               <date normal="1701" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142173">
@@ -2403,6 +2986,12 @@
               <date normal="1704" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142174">
@@ -2419,6 +3008,12 @@
               <date normal="1706" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142175">
@@ -2435,6 +3030,12 @@
               <date normal="1706" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142176">
@@ -2451,6 +3052,12 @@
               <date normal="1727" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142177">
@@ -2467,6 +3074,12 @@
               <date normal="1729" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142178">
@@ -2483,6 +3096,12 @@
               <date normal="1732" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142179">
@@ -2499,6 +3118,12 @@
               <date normal="1733" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142180">
@@ -2515,6 +3140,12 @@
               <date normal="1734" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142181">
@@ -2531,6 +3162,12 @@
               <date normal="1741" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142182">
@@ -2547,6 +3184,12 @@
               <date normal="1750" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
       </c01>
     </dsc>

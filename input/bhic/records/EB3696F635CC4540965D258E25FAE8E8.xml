@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>EB3696F635CC4540965D258E25FAE8E8</identifier>
-    <datestamp>2026-09-02</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -36,6 +36,11 @@
       </note>
     </did>
     <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
       <controlaccess>
         <head>Categorie</head>
         <subject>Algemeen bestuur en Politiek</subject>
@@ -672,6 +677,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte, waarbij hertog Arnold van Gelre aan zijn ingezetenen van zijn kerspelen Sambeek, Oploo en Ledeacker bepaalde rechten verleent, 1427</p>
@@ -696,6 +707,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte, waarbij Hubrecht van Culenborch, heer van Boxmeer, aan zijn ingezetenen van Sambeek bepaalde rechten verleent, 1427</p>
@@ -720,6 +737,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Brief van de schepenen, regeerders en ingezetenen van het dorp Sambeek aan de prins van Oranje met het verzoek de door heer Jan van Cuijk en hertog Arnold van Gelre verleende privileges van 1308 en 1427 te handhaven. (circa 1687). Met apostille van de prins van Oranje en zijn raad. 1687. Met 17e eeuwse afschriften van die privileges, 1687</p>
@@ -744,6 +767,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte, waarbij de hertog van Gelre, als heer van het land van Cuijk, bepaalt, dat de dorpen Sambeek en Vierlingsbeek ieder een eigen molenrecht zullen hebben, 1446</p>
@@ -768,6 +797,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte, waarbij keizer Karel V aan zijn ingezetenen van het Land van Cuijk een kaart verleent. 1550. Afschrift. Met verklaring van de schepenen van Cuijk&lt;br/&gt;, 1550</p>
@@ -792,6 +827,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte, waarbij Henrick Hack en anderen verklaringen afleggen over de aan de heer van Boxmeer en de heer van Cuijk, als heren van Sambeek, toekomende rechten, 1562</p>
@@ -1339,6 +1380,12 @@
             <odd type="OPMERKING SCANS">
               <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Stukken betreffende de grenzen tussen Sambeek en Vierlingsbeek. 1414, 1420, 1551, 1553, 1563, 1566, 1573, 1593, (circa 1593), 16.., 1609, 1680. Deels afschriften&lt;br/&gt;, 1414, 1420, 1551, 1553, 1563, 1566, 1573, 1593, (circa 1593), 16.., 1609, 1680&lt;br/&gt;</p>
@@ -1387,6 +1434,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Stukken betreffende de grenzen tussen Vierlingsbeek en Venray, resp. tussen de Landen van Cuijk en Kessel. 1553, (circa 1610), 1667, 1718, 1733, 1734. Deels afschriften, 1553, (circa 1610), 1667, 1718, 1733, 1734</p>
@@ -1443,6 +1496,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Stukken betreffende het proces van de regeerders en naburen van Sambeek, Vierlingsbeek en Overloon tegen Anna van Meer, vrouwe van Oploo, inzake de grenzen van Oploo en de gebruiksrechten op de Oploose gemeynt. 1573, 1575. Afschriften. Met bijbehorend stuk. Met afschrift van dit stuk, 1573, 1575</p>
@@ -1491,6 +1550,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10422291">
@@ -1540,6 +1605,12 @@
             <odd type="OPMERKING SCANS">
               <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Stukken betreffende het proces van de schepenen en ingezetenen van Sambeek tegen de schout, schepenen en ingezetenen van Oploo inzake de questieuse grenzen tussen Sambeek en Oploo. 1679, 1680, (circa 1680), 1681, (circa 1681), 1682. Grotendeels afschriften. Met bijbehorende stukken. 1545, 1573, 1623, 1667. Afschriften&lt;br/&gt;, 1545-1682</p>
@@ -1743,6 +1814,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Stukken betreffende het geschil tussen de schepenen en naburen van Sambeek met de ingezetenen van de Sambeeksenhoek over financiële aangelegenheden, 1595, 1597</p>
@@ -1823,6 +1900,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Stukken betreffende het proces van de schepenen van Sambeek tegen Jacob Puijn, oud-schatbeurder van Sambeek, inzake diens gevoerde financiële beheer. 1625, 1629, 1650, 1651. Met bijbehorende stukken. 1594, 1601, 1605, 1617, 1618. Afschriften, 1594-1631</p>
@@ -1970,6 +2053,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Stukken betreffende de tussen het Over- en het Nederambt van het Land van Cuijk bestaande geschillen inzake de betalingen van de lasten. 1631, 1644, 1645, 1655, 1689. Deels afschriften. Met bijbehorend stuk. 1598. Afschrift van het afschrift, 1598-1689</p>
@@ -5072,6 +5161,12 @@
               <odd type="OPMERKING SCANS">
                 <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
               <daogrp xlink:type="extended">
                 <daodesc>
                   <p>Akte, waarbij Jan, heer van Cuijk, aan de ingezetenen van Sambeek, Vierlingsbeek en Overloon zijn tussen Boxmeer en Vierlingsbeek gelegen gemeynt in bezit geeft, 1308</p>
@@ -5250,6 +5345,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10422453">
@@ -5287,6 +5388,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10422455">
@@ -5302,6 +5409,12 @@
               <odd type="REDEN GEEN UITLEEN">
                 <p>Scans beschikbaar</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
               <daogrp xlink:type="extended">
                 <daodesc>
                   <p>Akte, waarbij de schepenen van Sambeek verklaren verkocht en opgedragen te hebben aan de erfgenamen van jonker Adriaen van Eynthouts een stuk hooi- of weiland, genaamd het Vlack en gelegen aan de Maas. 1627. Concept. Met bijbehorend stuk. 1567 , 1567, 1627</p>
@@ -5889,6 +6002,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Stukken betreffende de door het dorp Sambeek tijdens de Tachtigjarige Oorlog te betalen lasten. 1591, 1595, (circa 1600), 1605, (circa 1605), 1606, 1614, 1640, (circa 1640). Deels afschriften, 1591, 1595, (circa 1600), 1605, (circa 1605), 1606, 1614, 1640, (circa 1640).</p>
@@ -6027,6 +6146,14 @@
               <unitdate calendar="gregorian" era="ce" normal="1807">1807</unitdate>
               <physdesc>1 stuk</physdesc>
             </did>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Plan van belasting over 1807 volgens resolutie van het Departementaal Bestuur van Braband van 11 december 1806, nr. 17, 1807</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/5E04810C21EF4551844AEA6BE4CF1CFC" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
         </c02>
         <c02 level="subseries">
@@ -6051,6 +6178,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Akte, waarbij ... de naburen van Sambeek verzoekt hem te Middelaar rogge en boekweit te leveren, 1591</p>
@@ -6099,6 +6232,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Brief van graaf Frederik van den Bergh aan Ludolf Bruijns, ambtman te Boxmeer, over het pionieren en het betalen van de contributies door de ingezetenen van Sambeek. 1599. Afschrift, 1599</p>
@@ -6660,6 +6799,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Stukken betreffende de door particulieren gevoerde processen , (circa 1560), 1594, 1598, (circa 1600), 1607, 1611, 1612, 1626, 1643, 1644, 1699, 1709, 1726, 1729</p>
@@ -6687,6 +6832,12 @@
             <odd type="OPMERKING SCANS">
               <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Aankomsttitels voor derden van onder Sambeek gelegen goederen, 1591, 1679, 1690, 1714, 1719, 1728, 1729, 1733, 1734, 1736, 1737, 1738, 1739, 1740, 1741, 1742, 1744, 1745, 1749, 1752, 1753, 1754, 1757, 1758, 1759, 1760, 1761, 1762, 1804&lt;br/&gt;</p>
@@ -6765,6 +6916,12 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
             <daogrp xlink:type="extended">
               <daodesc>
                 <p>Schuldbekentenis, groot 100 daalders van Lambert Schenck en Anna echtgenoten voor Johan Burggher en Jutta echtgenoten en Jacop Utther Grunholt en Bela echtgenoten. 1579. Cassatie. z.j., 1579</p>
@@ -8350,6 +8507,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Akte van opdracht door Henric Mychiel en Hadewich echtgenoten aan heer Jan vandon Velde,  pastoor te Sambeek, van een rente van 15 vat rogge, gaande uit onder Sambeek gelegen goederen. 1444. Transfix. Met bijbehorende stukken. 1413, 1430&lt;br/&gt;, 1413, 1430, 1444</p>
@@ -8430,6 +8593,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Akte van opdracht door Henrick van Blitterswijck e.a. aan de kerk van Sambeek van de door het Sambeekseveld lopende Peelgraaf, 1451</p>
@@ -8612,6 +8781,12 @@
           <odd type="OPMERKING SCANS">
             <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van opdracht door Deric vanden Kerchoff en Stijn echtgenoten aan de rector van het altaar van O.L.Vrouw in de kerk van Sambeek ten behoeve van dat altaar, van een rente van 5 malder rogge. 1444. Transfix. Met bijbehorende stukken. 1411, 1414, 1417, 1427, 1411, 1414, 1417, 1427, 1444</p>
@@ -8668,6 +8843,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Stukken betreffende het proces van Marten Wolters, schoolmeester te Sambeek, tegen Wolters van Stalberghen inzake een aan de schoolmeesterij van Sambeek toekomende rente van 7 sesters rogge, die eertijds toebehoord had aan het altaar van de H. Drievuldigheid in de kerk van Sambeek. (circa 1625). Met bijbehorend stuk. 1596. Afschrift&lt;br/&gt;, 1596, (circa 1625)</p>

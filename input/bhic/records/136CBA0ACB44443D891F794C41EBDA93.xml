@@ -1,0 +1,2045 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>136CBA0ACB44443D891F794C41EBDA93</identifier>
+    <datestamp>2026-09-14</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HtBHIC">501</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Groot-Begijnhof in 's-Hertogenbosch, 1304 - 1741</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+        <date calendar="gregorian" era="ce" normal="2020">2020</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF916907">
+      <unittitle>Groot-Begijnhof in 's-Hertogenbosch, 1304 - 1741</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-HtBHIC">501</unitid>
+      <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/136CBA0ACB44443D891F794C41EBDA93</unitid>
+      <unitdate calendar="gregorian" era="ce" normal="1304/1741">1304-1741</unitdate>
+      <note label="Vindplaats origineel">
+        <p>BHIC 's-Hertogenbosch</p>
+      </note>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Religie en Levensbeschouwing</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Historisch overzicht</emph>
+        </head>
+        <p>In 's-Hertogenbosch, op de plaats waar nu de Parade ligt, dicht bij de St.-Janskathedraal, lag vroeger het Groot-Begijnhof.
+          <note>
+            <p>Voor een precieze beschrijving van de ligging zie A.F.O. van Sasse van Ysselt, De voorname huizen en gebouwen van 's-Hertogenbosch, alsmede hunne eigenaars of bewoners in vroegere eeuwen. Aanteekeningen uit de Bossche schepenprotocollen loopende van 1500-1810, 3 dln. ('s-Hertogenbosch 1911-1914)</p>
+          </note> Het begijnhof wordt groot genoemd, omdat er ook een Klein- Begijnhof is geweest. Helaas is van laatstgenoemd begijnhof weinig archiefbescheiden iets over.
+          <note>
+            <p>Zie over het Klein-Begijnhof o.m. M. Timmerman, 'Tussen kerk en staat. Het grote begijnhof te 's-Hertogenbosch 1274-1629' (Nijmegen 1987) 69-71; L.H.C. Schutjes, Geschiedenis van het bisdom 's-Hertogenbosch, 5 dln. (St.-Mchielsgestel 1870-1881) IV 371-372; J.A. Coppens, Nieuwe beschrijving van het bisdom 's-Hertogenbosch, naar aanleiding van het 'Katholijk Meijerijsche memorieboek' van A. van Gils, Roomsch Katholijk priester en rector te Handel, 4 dln. ('s-Hertogenbosch 1841) II 253</p>
+          </note> Het ontstaan van het Groot-Begijnhof ligt voor 1274; uit deze periode zijn nauwelijks stukken overgeleverd. Wel is bekend dat de parochie van de begijnen ontstaan is uit een afsplitsing van die van Orthen, in 1274, na een conflict tussen de priorin van het Dominicanessenklooster in Hertoginnedal bij Brussel, de Orthense pastoor en de rector van de kerk van Orthen aan de ene kant, en de begijnen en hun provisoren aan de andere kant over het al dan niet stichten van een begijnenparochie.
+          <note>
+            <p>Timmmerman, 'Grote begijnhof', 9-11, 72.</p>
+          </note>
+        </p>
+        <p>Vervolgens is met de bouw van een kerk begonnen, omdat de kapel op het begijnhof te klein geworden was. In 1304 is deze kerk gewijd aan de H. Nicolaas.
+          <note>
+            <p>Timmmerman, 'Grote begijnhof', 31.</p>
+          </note> De pastoor die aan deze kerk verbonden was, werd benoemd door de priorin van het Dominicanessenklooster Hertoginnedal.
+          <note>
+            <p>Coppens, Beschrijving, II 248; voor een opsomming van een aantal pastoors zie Coppens, Beschrijving, II 152 en Schutjes, Geschiedenis, IV 367-370.</p>
+          </note> In de kerk zelf stond een elftal altaren, waarvan de belangrijkste waren die van Maria en van Nicolaas. Een altaar dat regelmatig in de stukken van het Groot-Begijnhof terugkeert is dat van de H. Antonius en de vier Leraren.
+          <note>
+            <p>Voor een opsomming van de altaren in de kerk van de begijnen zie Schutjes, Geschiedenis, IV 362-365; Maria was overigens de heilige van het gehele begijnhof; het Groot-Begijnhof werd daarom ook wel Mariënburch genoemd (Schutjes, Geschiedenis, IV 359).</p>
+          </note>
+        </p>
+        <p>Behalve de kerk was er nog de zgn. grote infirmerie. Deze bestond al in 1274 en was gesticht met het doel zieke vrouwen te verzorgen.
+          <note>
+            <p>Timmerman, 'Grote begijnhof', 29.</p>
+          </note> Net als de hierna te noemen stichting was zij onafhankelijk in haar inkomsten.
+          <note>
+            <p>Schutjes, Geschiedenis, IV 360.</p>
+          </note> Een andere stichting, verbonden aan het Groot-Begijnhof, was de kleine infirmerie. Deze werd in 1427 gesticht door Aleit van Beerse en Peter Gorter en was bestemd voor het opnemen van arme vrouwen. Mogelijk is de stichting van de kleine infirmerie ingegeven door de grote stadsbrand van 1421, waardoor veel mensen dakloos waren geworden.
+          <note>
+            <p>Timmerman, 'Grote begijnhof', 33-34; Schutjes, Geschiedenis, IV 361.</p>
+          </note> Andere voorzieningen die aan het Groot-Begijnhof verbonden waren, waren de zgn. roggekamer, waar de rogge voor de begijnen werd bewaard, en de sacristie, ook wel garruwkamer geheten, waar ook het archief werd bewaard. Niet doorgegaan is het opzetten van een novicehuis voor begijnen in opleiding.
+          <note>
+            <p>Timmerman, 'Grote begijnhof', 35-36; zij wijt dit aan het beleg van 's-Hertogenbosch in 1629.</p>
+          </note> Als laatste moet nog genoemd worden de kluis, die tegen de kerk van het begijnhof was geplaatst. Het jaar van de stichting is onbekend, maar zij was reeds in 1490 aanwezig.
+          <note>
+            <p>Schutjes, Geschiedenis, IV 365-366.</p>
+          </note>
+        </p>
+        <p>Het Groot-Begijnhof stond onder leiding van vier meesterssen, die de algemene leiding van het Groot-Begijnhof hadden en het hof ook naar buiten vertegenwoordigden. Zij oefenden hun taak gedurende twee jaar uit, waarna er nieuwe meesterssen werden aangesteld door de zittende meesterssen en acht à tien begijnen, die bekend stonden als jofferen. Vanaf 1505 werden er elk jaar twee van de vier vervangen. Tot halverwege de 15e eeuw is de precieze taakverdeling tussen de meesterssen onderling onbekend; vanaf de 2e helft van de 15e eeuw is de taakverdeling als volgt: een meestersse gaat over de kleine infirmerie, een ander over de grote, een derde over de begijnenkerk, en een vierde heeft de algemene leiding van het hof.
+          <note>
+            <p>Timmerman, 'Grote begijnhof', 25, 36.</p>
+          </note> Andere functionarissen waren de twee provisoren, die in de stadsraad zaten en zodoende de stad enigszins invloed gaven op de gang van zaken in het begijnhof, de al genoemde tien jofferen, de pastoor, belast met de geestelijke zorg over het begijnhof, de huismeesterssen (per huis één), die toezicht hielden op de begijnen en zorgden voor het contact met de meesterssen, en tenslotte de poortiersters, die toezicht hielden op de in- en uitgaande personen.
+          <note>
+            <p>Timmerman, 'Grote begijnhof', 27-28.</p>
+          </note>
+        </p>
+        <p>Dikwijls zijn de begijnen begiftigd met erfcijnzen en -pachten. Ook de hertogen en hertoginnen van Brabant hadden een zwak voor het Groot-Begijnhof: een aantal keren heeft het begijnhof privileges gekregen.
+          <note>
+            <p>Schutjes, Geschiedenis, IV 358-359.</p>
+          </note> Tevens hebben de hertogen en hertoginnen statuten bekrachtigd die betrekking hadden op het begijnhof; dit werd niet gedaan door de bisschop van Luik, onder wie 's-Hertogenbosch tot 1559 ressorteerde.
+          <note>
+            <p>Timmerman, 'Grote begijnhof', 76-77. Het kapittel van St.-Jan wordt buiten beschouwing gelaten; het enige belangrijke met betrekking tot het St.-Jankapittel is een conflict rond 1520 tussen de begijnen en het kapittel omtrent de benoeming van de koster van de begijnenkerk; in 1517 namelijk was de pastoorsbenoeming in handen gekomen van het kapittel (Stadsarchief 's-Hertogenbosch, Collectie aanvullingen, inventarisnr 716a-e; L. v.d. Meerendonk, Tussen reformatie en contrareformatie (Tilburg 1967) 14).</p>
+          </note> Nadat in 1559 's-Hertogenbosch een zelfstandig bisdom was geworden, veranderde dit. Regelmatig werd het Groot-Begijnhof nu gevisiteerd door de bisschop. Een voorbeeld is de visitatie door bisschop Metsius geweest, die zeer ontevreden was over de toestand in het Groot-Begijnhof, gezien de strenge statuten die hij vervolgens uitgevaardigd heeft.
+          <note>
+            <p>Timmerman, 'Grote begijnhof', 77,85.</p>
+          </note>
+        </p>
+        <p>Op zijn hoogtepunt moeten in het Groot-Begijnhof wel 300 begijnen hebben gewoond.
+          <note>
+            <p>Schutjes, Geschiedenis, IV 358; V. Sasse v. Ysselt, Huizen, II 393; beiden hebben gebruik gemaakt van J.F. Foppens, Historia episcopatis Silvaeducensis (Brussel 1721) 309, die geen jaartal noemt.</p>
+          </note> Echter, toen er langzaam maar zeker een verval intrad kwam het regelmatig voor dat in een huis dat bestemd was voor acht personen, slechts twee personen woonden. Ook de contacten met buiten namen in intensiteit toe, reden waarom de poortiersters waren ingesteld. Bovendien begonnen de begijnen zich meer op het verwerven van renten en goederen te richten. Kortom, er was sprake van een verandering in mentaliteit in het Groot-Begijnhof, en het bestaanrecht van het hof was in gevaar.
+          <note>
+            <p>Timmerman, 'Grote Begijnhof', 85-86.</p>
+          </note> De belangrijkste reden waarom het begijnhof uiteindelijk ten onder is gegaan, is het beleg van de stad 's-Hertogenbosch in 1629 geweest. Na de inname van de stad werd bepaald dat er geen nieuwe begijnen meer bij mochten komen. Uiteindelijk is de laatste begijn rond 9 september 1694 gestorven.
+          <note>
+            <p>Rijksarchief Noord-Brabant, Coll. Rijksarchief inventarisnr 241 f. 763 r. In de sterfdatum van de laatste begijn hebben zowel Van Sasse van Ysselt als Schutjes zich vergist (V.Sasse v.Ysselt, Huizen, II 395; Schutjes, Geschiedenis, IV 370).</p>
+          </note> Voor die tijd was er al een conflict tussen de staat en de stad ontstaan over wie nu recht had op de goederen en rechten van het Groot-Begijnhof. In 1721 kwam het tot een regeling.
+          <note>
+            <p>V. Sasse v. Ysselt, Huizen, II 395; Schutjes, Geschiedenis, IV 370; Timmerman, 'Grote begijnhof', 86 e.v.; Rijksarchief Noord-Brabant, Coll. Rijksarchief inventarisnr 295, m.n. f. 269r-271r.</p>
+          </note>
+        </p>
+        <p>Het begijnhof werd gesloopt en er werd een paradeplaats aangelegd; de kerk is in 1701 ingestort en vervolgens gesloopt; het huis van de pastoor is verbouwd en heeft tot 1856 dienst gedaan als onderkomen voor de rector en pastoor van de St.-Janskathedraal.
+          <note>
+            <p>V. Sasse v.Ysselt, Huizen, II 394-397; Schutjes, Geschiedenis, IV 370-371.</p>
+          </note>
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Het archief</emph>
+        </head>
+        <p>Het gehele archief van het Groot-Begijnhof is behoorlijk omvangrijk. Het is echter niet mogelijk om alle stukken, voor zover zij niet onondekt zijn of verloren zijn gegaan, op één plaats te bestuderen. Het grootste deel van het archief berust in het stadsarchief van 's-Hertogenbosch, en bestaat uit ongeveer 600 charters; deze zijn toegankelijk gemaakt door A.C.M. Kappelhof door middel van een regestenlijst.
+          <note>
+            <p>A.C.M. Kappelhof, 
+              <emph render="italic">Het archief van het Groot Begijnhof van 's-Hertogenbosch. Regesten van oorkonden</emph>, 5 dln. ('s-Hertogenbosch, 1989-1990). Deze regestenlijst is gemaakt voordat het Archief Godshuizen samengevoegd werd met het stadsarchief van 's-Hertogenbosch.
+            </p>
+          </note> Een tweede fragment berust in het bisschoppelijke archief; het bestaat uit 18 charters, met name uit de 17e eeuw, en is toegankelijk met behulp van een daar aanwezige getypte inventaris. Een derde fragment berust in het archief van de St.-Jan en gaat o.a. over de tweede fundatie van het H. Willibrord-altaar in de kerk van het Groot-Begijnhof; een toegang is gemaakt door middel van uitgebreide regesten. Een vierde fragment berust in het Rijksarchief in Noord-Brabant en bestaat uit 43 charters en een aantal stukken. Deze zijn in de hiernavolgende inventaris en regestenlijst van stukken tot 1500 beschreven.
+        </p>
+        <p>De aard van de stukken, berustend in het Rijksarchief, is behoorlijk homogeen: de meeste stukken zijn akten van overdracht van een bepaald erfcijns of -pacht, ofwel testamenten van begijnen die hun erfenis, veelal één of meerdere erfcijnzen omvattend, nalaten aan het Groot-Begijnhof. Wat de inventarisatie vergemakkelijkt heeft was het feit dat bij de stukken één of meerdere retroakten te vinden waren of dat deze al waren gehecht aan het stuk dat het meest recent was opgemaakt. Hier bewijst het nut van een regestenlijst zich weer: veel retroakten zijn daar alsnog beschreven. Gezien de uniforme aard van de stukken en de geringe omvang van het archief, is een inventaris gemaakt met slechts twee onderdelen: het ene bevat de stukken die tot het archief van het Groot-Begijnhof behoren en er duidelijk verband mee houden, het tweede bevat stukken zonder duidelijk aantoonbaar verband met het archief. In de inventaris is één stuk te vinden, dat, vooralsnog, niet berust in het archief van het Groot-Begijnhof. Voor de volledigheid, en om tegemoet te komen aan de gebruiker, is dit stuk toch opgenomen in de inventaris.
+          <note>
+            <p>Het stuk berust in de Collectie Aanwinsten onder inv.nr. 
+              <extref href="http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=339&amp;minr=921862&amp;miview=inv3&amp;milang=nl&amp;mialg=" show="new" actuate="onrequest">393</extref>.
+            </p>
+          </note>
+        </p>
+        <p>Wat betreft de chronolgie van de charters dient nog het volgende opgemerkt te worden: de schepenen van 's-Hertogenbosch hielden tot december 1575 de zgn. Paasstijl aan.
+          <note>
+            <p>Mijn dank hiervoor aan dhr. Hoekx van het stadsarchief 's-Hertogenbosch.</p>
+          </note> Dit houdt in dat het jaar met Pasen wisselde. Indien de datering in een charter niet overeenkomt met de huidige, is dit aangegeven bij de desbetreffende regest. Ook de schepenen van Rosmalen hebben, in ieder geval in 1482, de Paasstijl aangehouden.
+          <note>
+            <p>Reg.nr. 24. In 1482 viel St.-Geertruiddag op dezelfde dag als de zondag waarop men 
+              <emph render="italic">Letare Iheruzalem</emph> zingt.
+            </p>
+          </note> Voor de charters van schepenen uit andere plaatsen geldt het volgende: aangezien onbekend is welke jaarstijl zij hebben gevolgd, is het jaar dat vermeld staat in het stuk zelf als leidraad voor de datering genomen.
+          <lb/>
+          <lb/>Over de geschiedenis van het archief is weinig bekend; veel zal ongetwijfeld samenhangen met de geschiedenis van het Groot-Begijnhof; een tipje van de sluier kan wel opgelicht worden met inv. nr. 22, een afschrift uit 1641 van een resolutie van de Raad van State uit 1639 aangaande het archief van het Groot-Begijnhof.
+          <note>
+            <p>Inv.nr. 22. Van de 11 stukken die hierin beschreven worden zijn de volgende getraceerd in de regestenlijst van Kappelhof:
+              <lb/>- nr.2: reg.nr. 589
+              <lb/>- nr.3: reg.nr. 285
+              <lb/>- nr.4: reg.nr. 336
+              <lb/>- nr. 7: reg.nr. 244
+              <lb/>- nr.10: reg.nr. 538
+              <lb/>- nr.11: reg.nr. 361; gedateerd op 1482-10-23
+            </p>
+          </note>
+        </p>
+        <p>Verder is bekend dat rond deze tijd door de stad besloten is het archief in een verzegelde kist in de garruwkamer te bewaren, terwijl de sleutel van de deur bij een functionaris in bewaring wordt gegeven. In 1644 dienen de begijnen vervolgens een verzoekschrift in om het archief terug te krijgen; het wordt afgewezen.
+          <note>
+            <p>Timmerman, "Grote begijnhof", 87-88.</p>
+          </note> Meer informatie zal berusten in het archief van de Raad van State en in de archieven van functionarissen van zowel 's-Hertogenbosch als van de staat die het beheer van het Groot-Begijnhof en haar goederen voor hun rekening hebben genomen na 1629, toen 's-Hertogenbosch veroverd was door Frederik Hendrik.
+        </p>
+        <p>Wat betreft geschiedenis van het gros van de stukken die berusten in het Rijksarchief is dan ook weinig te zeggen. Er is een uitzondering: inv. nrs. 10, 16, 18 en Collectie Aanwinsten inv. nr. 393 zijn verkregen in 1953 na een ruil met het Algemeen Rijksarchief te Brussel.
+          <note>
+            <p>
+              <emph render="italic">Verslagen omtrent 's-Rijks oude Archieven</emph>, 2e serie XXVI (1953) 37-38, 48. In de overige Verslagen is niets terug te vinden. Zie ook de inventaris van de Collectie Aanwinsten 1953 inv.nr. 75-76. Inv.nr. 75 heeft waarschijnlijk enige tijd berust in het stadsarchief van 's-Hertogenbosch volgens een aantekening op een fotocopie van de inventaris van de Collectie Aanwinsten: 
+              <emph render="italic">3-10-'90 opgehaald op stadsarchief 's-H. Was nl. nooit officieel overgedragen.</emph> Inv.nr. 75 is vervolgens omcirkeld; de stukken op welke genoemde aantekening betrekking heeft zijn inv.nrs. 10, 16, 18 en Collectie Aanwinsten inv.nr. 393. Navraag bij de persoon die desbetreffende aantekening heeft gemaakt heeft niets opgeleverd. Overigens: de inv.nrs. 10, 16 en 18 zaten in een omslag uit Leuven met een handgeschreven aantekening: 
+              <emph render="italic">l'abbaye du parc-chez-Louvain</emph>. Vermoedelijk hebben de stukken in het archief van genoemde premonstratenzer abdij berust. De omslag is te vinden bij inv.nr. 10.
+            </p>
+          </note> Waarom en hoe de andere stukken in het Rijksarchief in Noord-Brabant zijn terechtgekomen is onduidelijk. Er is echter wel een hypothese: mogelijk hebben de stukken betrekking op cijnzen en erfpachten die door de Republiek na het beleg van 1629 in beslag zijn genomen, en hebben ze zodoende als retroakten gediend.
+          <lb/>
+          <lb/>Het is dus duidelijk: de geschiedenis van het (archief van het) Groot-Begijnhof is gecompliceerd, en voor onderzoek hiernaar is de nodige tijd vereist. Om nu een reikende hand te bieden, die het onderzoek wat zou kunnen bespoedigen, volgt hierna een opsomming van bronnen en literatuur aangaande het Groot-Begijnhof.
+        </p>
+        <p>Rijksarchief in Noord-Brabant, 1993</p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Aanwijzingen voor de gebruiker</emph>
+        </head>
+        <p>Verwijzing naar archiefstukken uit dit archief geschiedt door
+          <lb/>(volledig): 
+          <emph render="italic">Brabants Historisch Informatie Centrum, toegangsnummer 501 Groot-Begijnhof in 's-Hertogenbosch, 1304-1741</emph>, inv.nr. ...
+          <lb/>(verkort): 
+          <emph render="italic">BHIC, 501 Groot-Begijnhof 's-Hertogenbosch</emph>, inv.nr. ...
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>
+          <emph render="bold">Bijlagen</emph>
+        </head>
+        <odd>
+          <head>Bijlage 1: Uitgegeven bronnen betreffende het groot-Begijnhof</head>
+          <p>H.P.H. Camps ed., Oorkondenboek van Noord-Brabant tot 1312, 2 dln. (Den Haag 1979)</p>
+          <p>G. van den Elsen en W. Hoevenaars ed., Analecta Gijsberti Coeverincx, 2 dln ('s-Hertogenbosch 1905-1907), m.n. deel II 52-63</p>
+        </odd>
+        <odd>
+          <head>Bijlage 2: Onuitgegeven bronnen betreffende het groot-Begijnhof</head>
+          <odd>
+            <head>Stadsarchief 's-Hertogenbosch</head>
+            <p>- Collectie aanvullingen
+              <note>
+                <p>Deze Collectie staat op het punt opgeheven te worden.</p>
+              </note>
+            </p>
+            <p>- Charters en privilegebrieven 92, 228, 267, 299, 496, 501, 526, 573, 664, 665, 668, 676, 699, 709, 716a, 716b, 716c, 716d, 716e, 754, 808, 837, 908</p>
+            <p>- Fonds afgehoorde rekeningen 35, 1-182</p>
+            <p>- Oud-archief A 328
+              <note>
+                <p>Deze inventaris is door R.A. van Zuylen gemaakt, en staat bekend als Inventaris van Zuylen.</p>
+              </note>
+            </p>
+            <p>- Archief van het stadsarchief 's-Hertogenbosch, correspondentie 1965 nrs. 4667, 4688, 6225, 6264, 6304, 6601</p>
+            <p>- Archief van het Groot-Begijnhof, toegankelijk via een regestenlijst (zie noot 1)</p>
+            <p>- Oud-archief A 565- A 568</p>
+            <p>- Schepenprotocol van 's-Hertogenbosch, toegankelijk via de fiches Smulders</p>
+            <p>- Oud-archief A 28- A 204 (resoluties van de schepenen)
+              <note>
+                <p>Een paar resoluties aangaande het Groot-Begijnhof zijn die d.d. 24-03-1630, 18-04-1630, 25-07-1630, 24-09-1633, 05-03-1638, 05-05-1638, 24-10-1641, 03-04-1648.</p>
+              </note>
+            </p>
+          </odd>
+          <odd>
+            <head>Bisschoppelijke archief</head>
+            <p>- Pliek Groot-Begijnhof, toegankelijk via een daar liggende inventaris</p>
+          </odd>
+          <odd>
+            <head>Archief van St.-Jan</head>
+            <p>- Stukken betreffende de tweede fundatie van het Willibrordsaltaar in de kerk van het Groot-Begijnhof, toegankelijk via een daar liggende regestenlijst</p>
+            <p>- Tussen de regesten aangaande de St.-Jan zitten ook enige stukken betreffende het Groot-Begijnhof verscholen
+              <note>
+                <p>Onder meer akten d.d. 22-08-1303, 10-02-1367, 21-09-1378, 05-07-1482, 05-07-1488, 28-06-1493, 10-03-1500, 12-01-1545, 07-11-1584</p>
+              </note>
+            </p>
+          </odd>
+          <odd>
+            <head>Brabants Historisch Informatie Centrum</head>
+            <p>- Collectie Rijksarchief: hieronder valt het archief van de Raad van State; van belang zijn vooral de resoluties</p>
+            <p>- Archief van de raad- en rentmeester-generaal der Domeinen van Brabant in Stad en Meierij van 's-Hertogenbosch, o.m. inv. nr. 557</p>
+            <p>- Archief van de ontvangers der belastingen en de rentmeesters der Domeinen, met name de rentmeesters der geestelijke goederen</p>
+            <p>- Rekeningen van de geestelijke goederen uit de generaliteitsrekenkamer</p>
+            <p>- Archief van het rijksarchief Noord-Brabant inv. nr. 157 (staten van aanwinst); zie ook concordantie bij inventaris van Collectie Aanwinsten</p>
+            <p>- Archief van de Raad van Brabant</p>
+          </odd>
+        </odd>
+        <odd>
+          <head>Bijlage 3: Literatuur betreffende het groot-Begijnhof</head>
+          <p>- M. Timmerman, 'Tussen kerk en wereld. Het grote begijnhof te 's-Hertogenbosch 1274-1629' (Nijmegen 1987); voor meer literatuur is het aan te raden de literatuuropgave achterin te raadplegen; ook staan daar de geraadpleegde inventarissen vermeld</p>
+          <p>- Brabants Dagblad d.d. 04-07-1980</p>
+        </odd>
+      </odd>
+    </odd>
+    <dsc type="combined">
+      <c01 level="series">
+        <did id="MF916908">
+          <unitid type="guid">08B4766DD5504286B21FB293AF7B7004</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Groot-Begijnhof in 's-Hertogenbosch, 1304 - 1741</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1304/1741"/>
+        </did>
+        <c02 level="file">
+          <did id="MF916909">
+            <unitid type="guid">73013A8FAA47456381F5DB8FC61D844C</unitid>
+            <unitid>1</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/73013A8FAA47456381F5DB8FC61D844C</unitid>
+            <unittitle>Notariëel testament van Agnes, dochter van Jacob Noppen, begijn, met  ouder bewijsstuk van 1421, 1448</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1421/1448">1448</unitdate>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 9 en 18. Charters zijn aan elkaar gehecht.  Zie voor testament Elisabeth, dochter Michiel die Langhe van Oirschot, begijn (1436) collectie aanwinsten inventarisnr 393. Zie regestnr 12.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Notariëel testament van Agnes, dochter van Jacob Noppen, begijn, met  ouder bewijsstuk van 1421, 1448</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/73013A8FAA47456381F5DB8FC61D844C" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916910">
+            <unitid type="guid">986BAD4E20CD4FC8AC631DDBC674A710</unitid>
+            <unitid>2</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/986BAD4E20CD4FC8AC631DDBC674A710</unitid>
+            <unittitle>Notariëel testament van Jutta, dochter Jan Lariënszn van Lierop, begijn, met ouder bewijsstuk van 1435, 1467</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1435/1467">1467</unitdate>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 11 en 21. Charters zijn aan elkaar gehecht.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Notariëel testament van Jutta, dochter Jan Lariënszn van Lierop, begijn, met ouder bewijsstuk van 1435, 1467</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/986BAD4E20CD4FC8AC631DDBC674A710" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916911">
+            <unitid type="guid">108FEFE18C084C12B67F20360D256045</unitid>
+            <unitid>3</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/108FEFE18C084C12B67F20360D256045</unitid>
+            <unittitle>Akte van belofte, verleden voor schepenen van 's-Hertogenbosch, door Willem H. van Goirle, als man en voogd van Aleit, dochter Willem Mynnomeer, aan Frank van Langel, voor Katrien, dochter Egidius van Gestel, pastoor en kapelaans van Groot-Begijnhof, van jaarlijkse erfcijns uit 6 kamers bij Hinthamerstraat aan Eliaes Lozen Straetken tegenover Sint-Jacobplaats aan de Dieze, 1470</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1470">1470</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 22.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van belofte, verleden voor schepenen van 's-Hertogenbosch, door Willem H. van Goirle, als man en voogd van Aleit, dochter Willem Mynnomeer, aan Frank van Langel, voor Katrien, dochter Egidius van Gestel, pastoor en kapelaans van Groot-Begijnhof, van jaarlijkse erfcijns uit 6 kamers bij Hinthamerstraat aan Eliaes Lozen Straetken tegenover Sint-Jacobplaats aan de Dieze, 1470</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/108FEFE18C084C12B67F20360D256045" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916912">
+            <unitid type="guid">CF77E3971D13411D8DF7503731A1E5AD</unitid>
+            <unitid>4</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CF77E3971D13411D8DF7503731A1E5AD</unitid>
+            <unittitle>Notariëel testament van Eva, begijn en weduwe Jan Cleynael, met ouder bewijsstuk van 1445, 1471</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1445/1471">1471</unitdate>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 16 en 23. Charters zijn aan elkaar gehecht.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Notariëel testament van Eva, begijn en weduwe Jan Cleynael, met ouder bewijsstuk van 1445, 1471</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CF77E3971D13411D8DF7503731A1E5AD" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916913">
+            <unitid type="guid">90CCDBAB14BA452385AD4C329293BF15</unitid>
+            <unitid>5</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/90CCDBAB14BA452385AD4C329293BF15</unitid>
+            <unittitle>Notariële akte van overdracht, door Johanna, dochter Godfried van Lent, begijn, aan Anton van der Moer, priester en beneficiant kerk Groot-Begijnhof, voor zichzelf, pastoor en overige beneficianten van voornoemde kerk, van jaarlijkse erfcijns uit huis in Vughterstraat en 2 Vughteren Poorten, met ouder bewijsstuk van 1473, 1473</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1473">1473</unitdate>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 24 - 25. Charters zijn aan elkaar gehecht. Volgens aantekening op rugzijde heeft eerstgenoemde akte als testament gediend.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Notariële akte van overdracht, door Johanna, dochter Godfried van Lent, begijn, aan Anton van der Moer, priester en beneficiant kerk Groot-Begijnhof, voor zichzelf, pastoor en overige beneficianten van voornoemde kerk, van jaarlijkse erfcijns uit huis in Vughterstraat en 2 Vughteren Poorten, met ouder bewijsstuk van 1473, 1473</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/90CCDBAB14BA452385AD4C329293BF15" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916914">
+            <unitid type="guid">087F4966526B4A93B3FE7CCA5E1F20B8</unitid>
+            <unitid>6</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/087F4966526B4A93B3FE7CCA5E1F20B8</unitid>
+            <unittitle>Akte van onderpand, verleden voor schepenen van 's-Hertogenbosch, door Gerard die Haze, aan Frank van Langel, voor rector altaar Heilige Antonius en 4 leraren kerk Groot-Begijnhof, van percelen land, met oudere bewijstukken van 1441 - 1452, 1474</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1441/1474">1474</unitdate>
+            <physdesc>5 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 13 - 14,  17,  19 en  26. Charters waren oorspronkelijk aan elkaar gehecht.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van onderpand, verleden voor schepenen van 's-Hertogenbosch, door Gerard die Haze, aan Frank van Langel, voor rector altaar Heilige Antonius en 4 leraren kerk Groot-Begijnhof, van percelen land, met oudere bewijstukken van 1441 - 1452, 1474</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/087F4966526B4A93B3FE7CCA5E1F20B8" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916915">
+            <unitid type="guid">B61660D117544A9DA809D4A258EAE466</unitid>
+            <unitid>7</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B61660D117544A9DA809D4A258EAE466</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Michael R. Rutgerszn aan Hendrik Pelgrom, voor pastoor en kapelaans kerk Groot-Begijnhof, van jaarlijkse erfcijns uit huis in Rosmalen, met oudere bewijstukken van 1478 - 1481, 1487</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1478/1487">1487</unitdate>
+            <physdesc>5 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 29 - 32 en 34. Charters zijn aan elkaar gehecht.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Michael R. Rutgerszn aan Hendrik Pelgrom, voor pastoor en kapelaans kerk Groot-Begijnhof, van jaarlijkse erfcijns uit huis in Rosmalen, met oudere bewijstukken van 1478 - 1481, 1487</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B61660D117544A9DA809D4A258EAE466" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916916">
+            <unitid type="guid">77A2C53F698640829DE62FD94173990B</unitid>
+            <unitid>8</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/77A2C53F698640829DE62FD94173990B</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Cornelia, dochter Willem Arentszn en haar voogd, aan Jan van Balen, voor pastoor en kapelaans kerk Groot-Begijnhof, van jaarlijkse erfcijns uit huis in Hinthamerstraat, met oudere bewijstukken van 1304 - 1381, 1504</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1304/1504">1504</unitdate>
+            <physdesc>5 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 1 en 4 - 6. Charters waren aan elkaar gehecht.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Cornelia, dochter Willem Arentszn en haar voogd, aan Jan van Balen, voor pastoor en kapelaans kerk Groot-Begijnhof, van jaarlijkse erfcijns uit huis in Hinthamerstraat, met oudere bewijstukken van 1304 - 1381, 1504</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/77A2C53F698640829DE62FD94173990B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916917">
+            <unitid type="guid">B30DB275324E43CC982EF572E672D3C8</unitid>
+            <unitid>9</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B30DB275324E43CC982EF572E672D3C8</unitid>
+            <unittitle>Notariëel testament van Aleit, dochter Godfried Brouwers, begijn, met ouder bewijsstuk van 1514, 1515</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1514/1515">1515</unitdate>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Charters zijn aan elkaar gehecht.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Notariëel testament van Aleit, dochter Godfried Brouwers, begijn, met ouder bewijsstuk van 1514, 1515</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B30DB275324E43CC982EF572E672D3C8" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916918">
+            <unitid type="guid">9AEDB296CC7742C5A7E0F8565CDC5E6B</unitid>
+            <unitid>10</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9AEDB296CC7742C5A7E0F8565CDC5E6B</unitid>
+            <unittitle>Statuten Groot-Begijnhof, gelijktijdige authentieke kopie, 1515</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1515">1515</unitdate>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF916919">
+            <unitid type="guid">DACDCFB265E04ABA8CA566DED4112140</unitid>
+            <unitid>11</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DACDCFB265E04ABA8CA566DED4112140</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Arnold K. C. Gerritszn, als man en voogd van Elisabeth, en Hendrik W. Appels, als man en voogd van Hillegonde, dochters Berthoud J. Berthoudszn, aan Jutta, dochter Rutger Hubenszn, begijn, van erfcijns uit 4 lopense bouwland bij Haanwijk in Sint-Michielsgestel, met oudere bewijstukken van 1476 - 1516, 1516</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1476/1516">1516</unitdate>
+            <physdesc>3 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 27. Charters zijn aan elkaar gehecht.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Arnold K. C. Gerritszn, als man en voogd van Elisabeth, en Hendrik W. Appels, als man en voogd van Hillegonde, dochters Berthoud J. Berthoudszn, aan Jutta, dochter Rutger Hubenszn, begijn, van erfcijns uit 4 lopense bouwland bij Haanwijk in Sint-Michielsgestel, met oudere bewijstukken van 1476 - 1516, 1516</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DACDCFB265E04ABA8CA566DED4112140" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916920">
+            <unitid type="guid">92586B99F6D644FFA2EDD7D892B6618C</unitid>
+            <unitid>12</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/92586B99F6D644FFA2EDD7D892B6618C</unitid>
+            <unittitle>Notariëel testament van Aleit, dochter Laurens de Valkener, begijn, met oudere bewijstukken van 1444 - 1464, 1522</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1444/1522">1522</unitdate>
+            <physdesc>3 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnrs 15 en  20. Charters zijn aan elkaar gehecht.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Notariëel testament van Aleit, dochter Laurens de Valkener, begijn, met oudere bewijstukken van 1444 - 1464, 1522</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/92586B99F6D644FFA2EDD7D892B6618C" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916921">
+            <unitid type="guid">4F242E2964744856B742CE57D0A4372A</unitid>
+            <unitid>13</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4F242E2964744856B742CE57D0A4372A</unitid>
+            <unittitle>Notariëel testament van Maria, dochter Adriaan Brieninkszn van Gestel, begijn, met oudere bewijstukken van 1531, 1524</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1524/1531">1524</unitdate>
+            <physdesc>3 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Charters zijn aan elkaar gehecht. Datering: geen sluitende verklaring. Er is gekladderd in het testament, wat mogelijk veroorzaakt is doordat de notaris de datering in zijn minuut, die hij waarschijnlijk pas na de dood van Maria heeft uitgeschreven (dus na 1531), niet goed heeft kunnen lezen.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Notariëel testament van Maria, dochter Adriaan Brieninkszn van Gestel, begijn, met oudere bewijstukken van 1531, 1524</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/4F242E2964744856B742CE57D0A4372A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916922">
+            <unitid type="guid">0D01A9471AB84905BB6506286B4B846C</unitid>
+            <unitid>14</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0D01A9471AB84905BB6506286B4B846C</unitid>
+            <unittitle>Testament van Johanna, dochter Jan Tielkens, begijn, opgemaakt door Laurens, vice-cureit kerk begijnen, met ouder bewijsstuk van 1531, 1532</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1531/1532">1532</unitdate>
+            <physdesc>2 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>Charters zijn aan elkaar gehecht.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Testament van Johanna, dochter Jan Tielkens, begijn, opgemaakt door Laurens, vice-cureit kerk begijnen, met ouder bewijsstuk van 1531, 1532</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0D01A9471AB84905BB6506286B4B846C" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916923">
+            <unitid type="guid">868DD7F347B74CECA09B2B77071891B5</unitid>
+            <unitid>15</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/868DD7F347B74CECA09B2B77071891B5</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Jan A. Janszn, aan Peter K. Knyst, voor beneficianten kerk Groot-Begijnhof, van jaarlijkse erfcijns uit huis aan Vughterdijk, hof buiten Vughter Poort bij Vranken Hofstad, 1546</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1546">1546</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Jan A. Janszn, aan Peter K. Knyst, voor beneficianten kerk Groot-Begijnhof, van jaarlijkse erfcijns uit huis aan Vughterdijk, hof buiten Vughter Poort bij Vranken Hofstad, 1546</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/868DD7F347B74CECA09B2B77071891B5" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916924">
+            <unitid type="guid">F94C892609904AA285E878B4F38C25DC</unitid>
+            <unitid>16</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F94C892609904AA285E878B4F38C25DC</unitid>
+            <unittitle>Akte van bevestiging statuten Groot-Begijnhof door Philips II, hertog van Bourgondië, kopie uit 16e eeuw, 1556</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1556">1556</unitdate>
+            <physdesc>2 stukken</physdesc>
+          </did>
+          <scopecontent>
+            <p>In tweevoud. Met daarin ingevoegd statuten van Philips' voorgangers: Jan III van Brabant van 1 maart 1340 (regestnr 2) /  Johanna van Brabant van 10 juli 1392 (regestnr 8). Beide akten zijn ingevoegd in:  Maximiliaan en Maria van Bourgondië van 14 januari 1478 (regestnr 28), ingevoegd in: Philips de Schone van 5 juni 1496 (regestnr 35), ingevoegd in: Karel V van 15 juli 1515.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="file">
+          <did id="MF916925">
+            <unitid type="guid">823AFF89868A481AAF28EFCE237A5560</unitid>
+            <unitid>17</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/823AFF89868A481AAF28EFCE237A5560</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Wouter L. Floriszn, aan Gerard Colen, voor Walram van Hanenberg, rector altaar Heilige Antonius en 4 leraren kerk Groot-Begijnhof, van jaarlijkse erfcijns uit land Korenberg (volksmond: Bunders), en land bij Nieuwkuijk, met beschrijvingen ligging, 1570</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1570">1570</unitdate>
+            <physdesc>1 charter en 2 stukken</physdesc>
+          </did>
+          <scopecontent>
+            <p>Stukken en charter zijn aan elkaar gehecht</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Wouter L. Floriszn, aan Gerard Colen, voor Walram van Hanenberg, rector altaar Heilige Antonius en 4 leraren kerk Groot-Begijnhof, van jaarlijkse erfcijns uit land Korenberg (volksmond: Bunders), en land bij Nieuwkuijk, met beschrijvingen ligging, 1570</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/823AFF89868A481AAF28EFCE237A5560" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916926">
+            <unitid type="guid">55E0480388F64CFDBA9528CF60D2889E</unitid>
+            <unitid>18</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/55E0480388F64CFDBA9528CF60D2889E</unitid>
+            <unittitle>'Memorie van verweer' op verzoek schepenen van 's-Hertogenbosch door Groot-Begijnhof op verzoekschrift Ermke, dochter Hendrik de Messesteker, over in de kost nemen en onderwijzen van meisjes op begijnhof, 1576</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1576">1576</unitdate>
+            <physdesc>1 stuk</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>'Memorie van verweer' op verzoek schepenen van 's-Hertogenbosch door Groot-Begijnhof op verzoekschrift Ermke, dochter Hendrik de Messesteker, over in de kost nemen en onderwijzen van meisjes op begijnhof, 1576</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/55E0480388F64CFDBA9528CF60D2889E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916927">
+            <unitid type="guid">26F721A83B0C46B4A1F8EA1AE93151E3</unitid>
+            <unitid>19</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/26F721A83B0C46B4A1F8EA1AE93151E3</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Gerard H. Gerardszn, als man en voogd van Maria, dochter Dirk Michielszn, aan Daniël Verrijt, priester en beneficiant Sint-Janskerk, voor beneficianten kerk Groot-Begijnhof, van jaarlijkse erfcijns uit  2½ lopense akkerland op Hazelberg in Dinther, 1583</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1583">1583</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Gerard H. Gerardszn, als man en voogd van Maria, dochter Dirk Michielszn, aan Daniël Verrijt, priester en beneficiant Sint-Janskerk, voor beneficianten kerk Groot-Begijnhof, van jaarlijkse erfcijns uit  2½ lopense akkerland op Hazelberg in Dinther, 1583</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/26F721A83B0C46B4A1F8EA1AE93151E3" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916928">
+            <unitid type="guid">58F3FFF3032E44438FD2824081C39F7A</unitid>
+            <unitid>20</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/58F3FFF3032E44438FD2824081C39F7A</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Goijaart J. de Meer aan Peter A. van Heesch, van 1/6 bouwkavel waarop huis heeft gestaan in Hinthamerstraat, bij Leprozenhuis en Tafel Heilige Geest, 1606</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1606">1606</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Cijnsplichtig aan kerk van Groot-Begijnhof.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Goijaart J. de Meer aan Peter A. van Heesch, van 1/6 bouwkavel waarop huis heeft gestaan in Hinthamerstraat, bij Leprozenhuis en Tafel Heilige Geest, 1606</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/58F3FFF3032E44438FD2824081C39F7A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916929">
+            <unitid type="guid">99F65E20A557441198566AF8B1E66074</unitid>
+            <unitid>21</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/99F65E20A557441198566AF8B1E66074</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Anton A. Franszn, als man en voogd van Maria, dochter Hendrik Vogel, aan Jan A. Marceliszn, beneficant Sint-Janskathedraal en kerk Groot-Begijnhof, van jaarlijkse erfcijns uit huis aan brug over Dommel in Son, 1614</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1614">1614</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Anton A. Franszn, als man en voogd van Maria, dochter Hendrik Vogel, aan Jan A. Marceliszn, beneficant Sint-Janskathedraal en kerk Groot-Begijnhof, van jaarlijkse erfcijns uit huis aan brug over Dommel in Son, 1614</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/99F65E20A557441198566AF8B1E66074" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916930">
+            <unitid type="guid">696A4F6870FC47938AD3564A134C992C</unitid>
+            <unitid>22</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/696A4F6870FC47938AD3564A134C992C</unitid>
+            <unittitle>Resolutie van schepenen 's-Hertogenbosch voor Cornelis M. Pels, rentmeester Groot-Begijnhof, over regeling voor bewaren archief Groot-Begijnhof, authentieke kopie, 1739&lt;br/&gt;Akte van ontvangst rentmeester, 1741</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1739/1741"/>
+            <physdesc>2 stukken</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF916931">
+            <unitid type="guid">44F1549830814713B064DF54011F8FC3</unitid>
+            <unitid>23</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/44F1549830814713B064DF54011F8FC3</unitid>
+            <unittitle>Akte van verkoop, verleden voor schepenen van Oerle, door Rutger S. van Baarle, aan Dirk D. S. van Blaarthem en Katrien M. Eechdemekersdr, zijn vrouw, van jaarlijkse erfpacht van 1 mud rogge uit goed van Christiaan J. van Zeelst in Clein Oindoven bij Zeelst, 1392</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1392">1392</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 7.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop, verleden voor schepenen van Oerle, door Rutger S. van Baarle, aan Dirk D. S. van Blaarthem en Katrien M. Eechdemekersdr, zijn vrouw, van jaarlijkse erfpacht van 1 mud rogge uit goed van Christiaan J. van Zeelst in Clein Oindoven bij Zeelst, 1392</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/44F1549830814713B064DF54011F8FC3" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916932">
+            <unitid type="guid">C9E20F516BFE4040BEC42A24AFD66E9B</unitid>
+            <unitid>24</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C9E20F516BFE4040BEC42A24AFD66E9B</unitid>
+            <unittitle>Akte van bekrachtiging, verleden voor schepenen 's-Hertogenbosch, van arbitrale uitspraak in geschil tussen Jacob van Vladeracken enerzijds en Jan, Dirk, Ricold en Lodewijk, kinderen wijlen Ricold Borchgreve anderzijds, over nalatenschap Heilwig, dochter Jan van Nuwelant, gehuwd met genoemde wijlen Ricold en Jacob geweest, 1421</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1421">1421</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 10.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van bekrachtiging, verleden voor schepenen 's-Hertogenbosch, van arbitrale uitspraak in geschil tussen Jacob van Vladeracken enerzijds en Jan, Dirk, Ricold en Lodewijk, kinderen wijlen Ricold Borchgreve anderzijds, over nalatenschap Heilwig, dochter Jan van Nuwelant, gehuwd met genoemde wijlen Ricold en Jacob geweest, 1421</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C9E20F516BFE4040BEC42A24AFD66E9B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916933">
+            <unitid type="guid">41BA71F97BA748C7956FA3838837EEC9</unitid>
+            <unitid>25</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/41BA71F97BA748C7956FA3838837EEC9</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen 's-Hertogenbosch, door Wouter Toelink, aan zijn broers Hendrik en Gijsbert, van 1/3 huis met grond in Hintham, 1496</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1496">1496</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnr 36.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen 's-Hertogenbosch, door Wouter Toelink, aan zijn broers Hendrik en Gijsbert, van 1/3 huis met grond in Hintham, 1496</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/41BA71F97BA748C7956FA3838837EEC9" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916934">
+            <unitid type="guid">0FFBA10BA164484D928AA4CCBB37301F</unitid>
+            <unitid>26</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0FFBA10BA164484D928AA4CCBB37301F</unitid>
+            <unittitle>Akte van vermindering door L. van Renst, met koopakte voor Arent A. S. van Enschot, van jaarlijkse erfcijns, afkomstig van schepenen, raadslieden, dekens en gezellen ambachten van 's-Hertogenbosch van 1522, 1644</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1522/1644">1644</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van vermindering door L. van Renst, met koopakte voor Arent A. S. van Enschot, van jaarlijkse erfcijns, afkomstig van schepenen, raadslieden, dekens en gezellen ambachten van 's-Hertogenbosch van 1522, 1644</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0FFBA10BA164484D928AA4CCBB37301F" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916935">
+            <unitid type="guid">E4D41152314044C38EE95F059C8FAC4C</unitid>
+            <unitid>27</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E4D41152314044C38EE95F059C8FAC4C</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen Empel en Meerwijk, door Lambert  P. van den Wier, aan Klaas G. van den Wier, van jaarlijkse erfcijns uit 11 hont land 'achter Jan Geritszn Vilingszn' of 'Herman Vaderszn Kempken', 1535</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1535">1535</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen Empel en Meerwijk, door Lambert  P. van den Wier, aan Klaas G. van den Wier, van jaarlijkse erfcijns uit 11 hont land 'achter Jan Geritszn Vilingszn' of 'Herman Vaderszn Kempken', 1535</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E4D41152314044C38EE95F059C8FAC4C" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916936">
+            <unitid type="guid">AC2E29F3C0184BA1B2CD5B9E558824D0</unitid>
+            <unitid>28</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/AC2E29F3C0184BA1B2CD5B9E558824D0</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen Empel en Meerwijk, door Rombout Dirkszn en Geertruid, weduwe Peter W. Voetszn, aan Klaas G. van den Wier, van jaarlijkse erfcijns uit huis 'Op die Graet Waert', 1538</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1538">1538</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen Empel en Meerwijk, door Rombout Dirkszn en Geertruid, weduwe Peter W. Voetszn, aan Klaas G. van den Wier, van jaarlijkse erfcijns uit huis 'Op die Graet Waert', 1538</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/AC2E29F3C0184BA1B2CD5B9E558824D0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916937">
+            <unitid type="guid">3A086D4B7621456FBB44D2494BFAF7D2</unitid>
+            <unitid>29</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3A086D4B7621456FBB44D2494BFAF7D2</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen 's-Hertogenbosch, door Walter K. G. van den Wier aan Anton D. Scalken van 1 morgen weiland 'Legenwielsen' bij Empel in Polsbroek, 1547</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1547">1547</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen 's-Hertogenbosch, door Walter K. G. van den Wier aan Anton D. Scalken van 1 morgen weiland 'Legenwielsen' bij Empel in Polsbroek, 1547</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3A086D4B7621456FBB44D2494BFAF7D2" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916938">
+            <unitid type="guid">B771ED68A0BE41F7A772E96F5B393B75</unitid>
+            <unitid>30</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B771ED68A0BE41F7A772E96F5B393B75</unitid>
+            <unittitle>Akte van verpachting, verleden voor schepenen 's-Hertogenbosch, door kinderen Gerard J. die Potter, kinderen  Willem Hendrikszn en hun voogden, aan Willem H. Klaaszn, van 4 morgen land 'Spyck' bij Ertvelt in Orthen, 1549</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1549">1549</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verpachting, verleden voor schepenen 's-Hertogenbosch, door kinderen Gerard J. die Potter, kinderen  Willem Hendrikszn en hun voogden, aan Willem H. Klaaszn, van 4 morgen land 'Spyck' bij Ertvelt in Orthen, 1549</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B771ED68A0BE41F7A772E96F5B393B75" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916939">
+            <unitid type="guid">DFCAB15D69804112A67B030CE3F9EDFE</unitid>
+            <unitid>31</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DFCAB15D69804112A67B030CE3F9EDFE</unitid>
+            <unittitle>Akte van overdracht, verleden voor heemraden Empel en Meerwijk, door Anton D. Colen en erfgenamen Jan van Haren, aan Laurens Hoorkens, voor ¾ deel, en Oda, vrouw Arent Hoorkens, voor ¼ deel, beide gemachtigd door Jan Hoorkens, van 1¼ voet van de Maasdijk bij Die Acht Mergen en Den Wielsen, 1560</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1560">1560</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor heemraden Empel en Meerwijk, door Anton D. Colen en erfgenamen Jan van Haren, aan Laurens Hoorkens, voor ¾ deel, en Oda, vrouw Arent Hoorkens, voor ¼ deel, beide gemachtigd door Jan Hoorkens, van 1¼ voet van de Maasdijk bij Die Acht Mergen en Den Wielsen, 1560</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DFCAB15D69804112A67B030CE3F9EDFE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916940">
+            <unitid type="guid">C32FA28CECC849E9B540B5EA5522E24F</unitid>
+            <unitid>32</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C32FA28CECC849E9B540B5EA5522E24F</unitid>
+            <unittitle>Akte van overdracht, verleden voor schepenen 's-Hertogenbosch, door Adriaan D. van Oirschot, aan Hillegonde, dochter Albert Faecx van huis, erf en hof in Hinthamerstraat, met oudere bewijstukken van 1572, 1576</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1572/1576">1576</unitdate>
+            <physdesc>4 charters</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, verleden voor schepenen 's-Hertogenbosch, door Adriaan D. van Oirschot, aan Hillegonde, dochter Albert Faecx van huis, erf en hof in Hinthamerstraat, met oudere bewijstukken van 1572, 1576</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C32FA28CECC849E9B540B5EA5522E24F" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916941">
+            <unitid type="guid">865F85243C6D46D98071524DD6AE59E8</unitid>
+            <unitid>33</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/865F85243C6D46D98071524DD6AE59E8</unitid>
+            <unittitle>Vidimus van schepenen 's-Hertogenbosch, van akte van kwijtschelding door Albert en Isabelle C. E. l'Enfant van Oostenrijk, van deel schulden op verzoek inwoners Mierlo, 1610</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1610">1610</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Vidimus = legalisatie.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Vidimus van schepenen 's-Hertogenbosch, van akte van kwijtschelding door Albert en Isabelle C. E. l'Enfant van Oostenrijk, van deel schulden op verzoek inwoners Mierlo, 1610</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/865F85243C6D46D98071524DD6AE59E8" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916942">
+            <unitid type="guid">C46C347C45C347B6B0092FF19D265635</unitid>
+            <unitid>34</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C46C347C45C347B6B0092FF19D265635</unitid>
+            <unittitle>Kwitantie van P. van Zoerendonk, cantor kapittel Sint-Jan, 1628&lt;br/&gt;Akte van koop, verleden voor schepenen van 's-Hertogenbosch, voor Jan Pijnappel, cantor kapittel Sint-Jan, van jaarlijkse erfcijns op huis met erf aan Oude Dieze, afkomstig van Willem van den Hulze en Jan, zijn zoon, 1343&lt;br/&gt;Akte van overdracht, verleden voor schepenen 's-Hertogenbosch, door Jan J. van Andel en Hendrik H. die Gruyter, als voogd voor zijn vrouw Mechteld van Andel, zuster van voornoemde Jan, aan Hendrik van Beerze, cantor kapittel Sint-Jan, van voornoemde jaarlijkse erfcijns op voornoemd perceel, 1485</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1343/1628"/>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>Regestnrs 3 en 33.</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Kwitantie van P. van Zoerendonk, cantor kapittel Sint-Jan, 1628&lt;br/&gt;Akte van koop, verleden voor schepenen van 's-Hertogenbosch, voor Jan Pijnappel, cantor kapittel Sint-Jan, van jaarlijkse erfcijns op huis met erf aan Oude Dieze, afkomstig van Willem van den Hulze en Jan, zijn zoon, 1343&lt;br/&gt;Akte van overdracht, verleden voor schepenen 's-Hertogenbosch, door Jan J. van Andel en Hendrik H. die Gruyter, als voogd voor zijn vrouw Mechteld van Andel, zuster van voornoemde Jan, aan Hendrik van Beerze, cantor kapittel Sint-Jan, van voornoemde jaarlijkse erfcijns op voornoemd perceel, 1485</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C46C347C45C347B6B0092FF19D265635" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF916943">
+            <unitid type="guid">B56D759E69154D70A9E9DFA08E4F123D</unitid>
+            <unitid>35</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B56D759E69154D70A9E9DFA08E4F123D</unitid>
+            <unittitle>Akte van hypotheek, verleden voor schepenen 's-Hertogenbosch, op huis, erf en 3 kamers op Vughterdijk achter Vughter Poort, ten gunste van Johan Backers en ten laste van Jan Huijberts, 1672</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1672">1672</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van hypotheek, verleden voor schepenen 's-Hertogenbosch, op huis, erf en 3 kamers op Vughterdijk achter Vughter Poort, ten gunste van Johan Backers en ten laste van Jan Huijberts, 1672</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B56D759E69154D70A9E9DFA08E4F123D" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF1143726">
+          <unitid type="guid">528364D992724874BB79BBC74B5E98C6</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Regesten</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1304/1741"/>
+        </did>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143673">
+            <unitid type="guid">FDBABBD2B8ED443BA1ACB97BD08DF41F</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">1</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1304-10-03.&lt;br/&gt; 1304 oktober 3 datum anno Domini millesimo trecentesimo quarto, sabbato post festum beati Remigii confessoris&lt;br/&gt;Wellinus, zoon wijlen Hilla, en Arnold van Waderle, schepenen van 's-Hertogenbosch, oorkonden dat Herink Carnifex (de Slager), aan Margaretha van Osse, begijn, heeft overgedragen:&lt;br/&gt;jaarlijkse erfcijns van 40 s. uit 1/2 huis met erf in Hinthamstraat en uit leeg erf in straat lopend van voornoemde straat naar Wijnmolenberg&lt;br/&gt;Met schepenzegels&lt;br/&gt;Niet opgenomen in H.P.H. Camps (ed.) 'Oorkondenboek van Noord-Brabant tot 1312' (Den Haag 1979)&lt;br/&gt;Inventarisnr 8</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1304" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143674">
+            <unitid type="guid">BA8F4F5A3F2E440981EB167AAF19E2A8</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1340-03-01.&lt;br/&gt; 1340 maart 1&lt;br/&gt;Jan III, hertog van Barabant, verleent privileges en statuten aan Groot-Begijnhof&lt;br/&gt;Geïnsereerd in inventarisnr 16</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1340" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143675">
+            <unitid type="guid">727805AC04D343538CD6805B0FAAE23F</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">3</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1343-01-05.&lt;br/&gt; 1343 januari 5 datum sabbato post festum circumcisionis Domini anno eiusdem millesimo trecentesimo quadragesimo secundo&lt;br/&gt;Wilhelm van den Hulze en Johan, zijn zoon, verkopen voor schepenen van 's-Hertogenbosch, aan Johan Pijnappel, cantor Sint-Janskapittel:&lt;br/&gt;jaarlijkse erfcijns van 10 s uit huis en erf van voornoemde verkopers aan de Oude Dieze&lt;br/&gt;Zegels Godschalk de Bladel en Rodolf de Zulikem (beide zegels verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 34</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1343" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143676">
+            <unitid type="guid">41EF6F2A92FE44D3928A942ECB63DEBD</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">4</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1358-07-22.&lt;br/&gt; 1358 juli 22 datum die beate Marie Magdalene anno Domini millesi-mo trecentesi-mo quinquagesimo octavo&lt;br/&gt;Mechteld van Os, begijn, en haar voogd dragen voor schepenen van 's-Hertogenbosch over, aan Margaretha van Os, begijn:&lt;br/&gt;jaarlijks te heffen erfcijns van 20 s. uit totaal erfcijns van 40 s. uit huis met erf in Hinthamerstraat, dat toebehoort aan Reiner Pistor (de Bakker)&lt;br/&gt;Zegels Gerard van Eindoven en Johan Cnode, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 8</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1358" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143677">
+            <unitid type="guid">735F44CEB0834CBF9553C2D2E2D3EC66</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">5</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1358-10-11.&lt;br/&gt; 1358 oktober 11 datum die quinta post diem beati Dyonisii anno Domini millesimo trecentesimo quinquagesimo octavo&lt;br/&gt;Gerard Nicolszn van Os, draagt voor schepenen van 's-Hertogenbosch over, aan Margaretha van Os, begijn:&lt;br/&gt;jaarlijks te heffen erfcijns van 10 s, uit totaal erfcijns van 40 s, uit huis en erf in Hinthamerstraat, toebehorende aan Reiner Pistor (de Bakker), dat genoemde Gerard via Mechteld, zus van zijn vrouw Christina, heeft verkregen&lt;br/&gt;Zegels Henrik de Uden (verdwenen) en Johan van Derentheren, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 8</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1358" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143678">
+            <unitid type="guid">818136D602B74393925E668BF33465BD</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">6</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1381-06-20.&lt;br/&gt; 1381 juni 20 datum in octavis sancti Sacramenti anno Domini millesimo trecentesimo octuagesimo primo&lt;br/&gt;Aleid, dochter wijlen Arnold Blomelinc van Os, en haar voogd dragen voor schepenen van 's-Hertogenbosch over, aan Gerard van der Horst:&lt;br/&gt;jaarlijkse erfcijns van 5 s. uit totaal erfcijns van 40 s. uit 1/2 huis en erf in Hinthamstraat en uit leeg erf bij Windmolenberg&lt;br/&gt;Zegels Arnold Stamelart en Wilhelm Schilder, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 8</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1381" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143679">
+            <unitid type="guid">4D0E1FB22F7E4CA9AF765637A7B894BD</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">7</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1392-04-24.&lt;br/&gt; 1392 april 24&lt;br/&gt;Jan de Volre Amelijszn en Arnt Henrik Keyserszn, schepenen van Oerle, oorkonden dat Rutger Sperznzn van Baarle, aan Dirk Dirk Skosterszn en zijn vrouw Katherinen Meeus Eechdemekersdr, heeft verkocht:&lt;br/&gt;jaarlijkse erfpacht van 1 mud rogge op goed van Kerstiaan Janszn van Zeelst in Klein Eindhoven bij Zeelst&lt;br/&gt;Zegels schepenen Oerle&lt;br/&gt;Inventarisnr 23</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1392" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143680">
+            <unitid type="guid">F29ACE1EAF7C4D40BE8C380526564938</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">8</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1392-07-10.&lt;br/&gt; 1392 juli 10&lt;br/&gt;Johanna, hertogin van Brabant, bevestigd door Jan III verleende privileges en statuten ten gunste van Groot-Begijnhof, en doet enige aanvullingen&lt;br/&gt;Geïnsereerd in inventarisnr 16</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1392" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143681">
+            <unitid type="guid">DE71A957F83944BF81E4670A3D527158</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">9</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1421-07-01.&lt;br/&gt; 1421 juli 1 datum in profesto Visitationis beate Marie virginis anno Domini millesimo quadringentesimo vicesimo uno&lt;br/&gt;Gerard, zoon wijlen Jordan Timmerman, draagt voor schepenen van 's-Hertogenbosch over, aan Agneta, begijn en dochter wijlen Jacob Noppen:&lt;br/&gt;jaarlijkse erfcijns van 20 s uit huis met erf in straat lopend van Hinthamerstraat naar Weverhulsstraat&lt;br/&gt;Zegels Zegebert de Hoculem en Godefrid Smeeds, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 1</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1421" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143682">
+            <unitid type="guid">B36BECA6D67849A6B71AE50664840751</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">10</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1421-08-16.&lt;br/&gt; 1421 augustus 16&lt;br/&gt;Wolter Colen de Oerle, Godefrid Smeeds en Johan van der Hagen, schepenen van 's-Hertogenbosch, bekrachtigen regeling, getroffen door Johan Bailiart en Johan Mauritius, arbiters in conflict tussen Jacob de Vladeracken enerzijd, en Johan, Theodoor en Ricold, ook voor hun broer Lodevicus, kinderen wijlen Ricold Borchgreve, anderzijds, over de nalatenschap van wijlen Heilwiga, dochter wijlen Johan van Nieuwelant, eerst getrouwd met wijlen Ricold de Borchgreve, vader van voornoemde kinderen, vervolgens getrouwd met Jacob de Vladeracken voornoemd&lt;br/&gt;Inventarisnr 24</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1421" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143683">
+            <unitid type="guid">96F0BA0CB6F74563B67783D04A836123</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">11</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1435-05-05.&lt;br/&gt; 1435 mei 5&lt;br/&gt;Albertus, zoon wijlen Theodoor Cluectee Faber (de Smid), belooft voor schepenen van 's-Hertogenbosch, dat hij aan Jutta, begijn, weduwe Johan van Rijnen en dochter van Johan Laariënszn de Lierop, zal geven:&lt;br/&gt;jaarlijks te heffen erfcijns van 4 pond uit 1/2 huis, erf en molen in Hinthamerstraat&lt;br/&gt;Zegels Bartholomeus Spierink (verdwenen) en Theo van Os (los), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1435" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143684">
+            <unitid type="guid">C9EA92A43EF84BFF891490F4B58022B8</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">12</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1436-11-14.&lt;br/&gt; 1436 november 14&lt;br/&gt;Elizabeth, begijn en dochter wijlen Michael de Lange de Oirschot, maakt haar testament op voor notaris en getuigen, waarin ze haar erfenis nalaat aan Groot-Begijnhof&lt;br/&gt;Notaristeken Johan Gruter de Venrade, notaris hof van Luik&lt;br/&gt;Collectie Aanwinsten inventarisnr 393</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1436" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143685">
+            <unitid type="guid">1531CC184C194C06976BD0627D52AAC9</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">13</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1441-04-05.&lt;br/&gt; 1441 april 5 datum quinta die mensis aprilis feria quarta post domincam qua cantatur 'Judica' anno Domini millesimo quadringentesimo quadragesimo&lt;br/&gt;Nicolaus Tolinc, zoon wijlen Wolter, draagt voor schepenen van 's-Hertogenbosch over aan Giselbert Roesmont, voor Aleid, begijn en dochter wijlen Reiner die ene Beghine:&lt;br/&gt;jaarlijks te heffen erfpacht van 1 mud rogge uit 3 morgen moerland bij Te Brugge, en uit 1/2 van 14 hont moerland van genoemde verkoper op die Buenre, beide percelen land in Rosmalen&lt;br/&gt;Zegels Gerard van Vladeracken en Arnold Beerwout (verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 6</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1441" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143686">
+            <unitid type="guid">0FA898DE748C4F4C8006AB33E11E5B41</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">14</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1443-05-08.&lt;br/&gt; 1443 mei 8&lt;br/&gt;Nicolaus Tolinc, zoon wijlen Wolter draagt voor schepenen van 's-Hertogenbosch over, aan Lambert van Doernen, voor Aleid, begijn en dochter wijlen Reiner van enen Beghyne:&lt;br/&gt;jaarlijks te heffen erfpacht van 11/2 mud rogge uit 3 morgen moerland bij Te Bruggen, en uit 1/2 van genoemde verkoper van 14 hont moerland op de Buenre, en uit 8 lopen akkerland, en uit 8 lopen land In't Breve, alle percelen land in Rosmalen&lt;br/&gt;Zegels Godefrid Boest en Reiner Loden, zoon van Reiner, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 6</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1443" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143687">
+            <unitid type="guid">08C2E09F52AB4C96952E133799DC9601</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">15</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1444-02-05.&lt;br/&gt; 1444 februari 5 datum quinta die mensis februarii anno Domini millesimo quadrin-gentesimo quadragesimo tercio&lt;br/&gt;Arnold Leidecker, zoon wijlen Theo van Hall, draagt voor schepenen van 's-Hertogenbosch over, aan Gijselbert van den Broek:&lt;br/&gt;jaarlijks te heffen erfcijns van 3 pond uit huis, erf en hof bij de Tolbrug&lt;br/&gt;Zegels Godfried van Drueten en Ricold de Borchgreve (beide zegels verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 12</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1444" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143688">
+            <unitid type="guid">1BCC3CA64DAC4F6BB1EF9675A4942C1B</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">16</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1445-11-20.&lt;br/&gt; 1445 november 20&lt;br/&gt;Henrik de Koster draagt voor schepenen van 's-Hertogenbosch over, aan Eva, begijn en weduwe Mathias Kleinaal:&lt;br/&gt;jaarlijks te heffen erfcijns van 2 pond op huis, erf en hof van verkoper in Orthen&lt;br/&gt;Zegels Arnold van Vladeracken en Gooswin Toelinc, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 4</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1445" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143689">
+            <unitid type="guid">840F79930F504260838EFF3E2F77B4D7</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">17</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1447-04-02.&lt;br/&gt; 1447 april 2&lt;br/&gt;Aleid, begijn en dochter wijlen Reiner die enen Beghina, draagt voor notaris en getuigen over, aan Johan Haze, pastoor kerk begijnen:&lt;br/&gt;jaarlijkse erfpacht van 1 mud rogge uit 3 morgen moerland bij Te Bruggen, en uit 1/2 van 14 hont moerland, toekomende aan Nicolaus Tolinc, op de Buenre / bovendien jaarlijkse erfpacht van 11/2 mud rogge uit 3 morgen moerland en uit 7 hont moerland voornoemd / tenslotte uit 8 lopen akkerland 1 en 11/2 mud rogge; percelen land zijn alle in Rosmalen&lt;br/&gt;Notaristeken van Philip de Bonyngen, notaris hof van Luik&lt;br/&gt;Inventarisnr 6</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1447" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143690">
+            <unitid type="guid">4C6011CBE279474EBEAE30521722B053</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">18</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1448-08-02.&lt;br/&gt; 1448 augustus 2&lt;br/&gt;Agnes, begijn en dochter wijlen Jacob Noppen, maakt voor notaris en getuigen haar testament op, waarin zij haar erfenis nalaat aan Groot-Begijnhof&lt;br/&gt;Notaristeken van Godefrid Hels, notaris hof van Luik&lt;br/&gt;Inventarisnr 1</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1448" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143691">
+            <unitid type="guid">303DB81EC79E4D2A888C460531A13A8E</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">19</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1452-02-18.&lt;br/&gt; 1452 februari 18 datum decima octava die mensis februarii anno Domini millesimo quadringentesimo quintquagesimo primo&lt;br/&gt;Aleid, begijn en dochter wijlen Reiner die enen Beghuta, en haar voogd, dragen voor schepenen van 's-Hertogenbosch over, aan Johan van Haze, pastoor kerk begijnen:&lt;br/&gt;jaarlijks te heffen erfpacht van 1 mud rogge uit moerland bij Te Brugge, en uit 1/2 van Nicolaus Tolinc, van 14 hont moerland op de Buenre, beide percelen land in Rosmalen&lt;br/&gt;Zegels Martin Monic en Ludolf Buck, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 6</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1452" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143692">
+            <unitid type="guid">0B95BF4D184B4FDC911D8362E39200E3</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">20</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1464-08-25.&lt;br/&gt; 1464 augustus 25&lt;br/&gt;Beatrix, weduwe Gijselbert van den Broek, zoon wijlen Godefrid, dochter van Amelius van den Hoevel, uit krachte van testament voornoemde Gijselbert, in aanwezigheid van Godefrid van den Broek en Gerard, broers van Gijselbert, met als voogd genoemde Beatrix, draagt voor schepenen van 's-Hertogenbosch over, aan Katharina en Christina, dochters van Mathias de Puppel:&lt;br/&gt;jaarlijks te heffen erfcijns van 3 pond uit huis, erf en hof bij de Tolbrug&lt;br/&gt;Zegels Johan Gijsselen, zoon van Johan (los), en Christian Becker (verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 12</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1464" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143693">
+            <unitid type="guid">500B2A52E42244D89E84938651B13C35</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">21</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1467-04-21.&lt;br/&gt; 1467 april 21&lt;br/&gt;Jutta de Lierop, begijn en weduwe Johan van Rijnen, dochter van Johan Laariënszn, maakt voor notaris en getuigen haar testament op, waarin zij haar erfenis nalaat aan Groot-Begijnhof&lt;br/&gt;Notaristeken van Cornelis Heyen, notaris hof van Luik&lt;br/&gt;Inventarisnr 2</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1467" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143694">
+            <unitid type="guid">D13D9138F7E64AF39825FA79692CADF1</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">22</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1470-05-23.&lt;br/&gt; 1470 mei 23 datum vicesima tertia die mensis maii, feria quarta post dominicam qua cantatur 'vocem', anno Domini millesimo quadringentesimo septuagesimo&lt;br/&gt;De datering in de akte is niet geheel correct: de woensdag na de dag waarop men 'vocem' zingt viel in 1470 niet op 23 mei, maar op 30 mei; toch is gekozen voor 23 mei, omdat een vergissing op het gebied van de feestdagen waarschijnlijker lijkt dan een vergissing in dagen van de maand; het is ook mogelijk dat na septuagesimo een cijfer is vergeten; toch klopt dan de datering ook niet, want in de jaren 1470-1479 vallen de beide bedoelde dagen nooit samen.&lt;br/&gt;Wilhelm, zoon wijlen Henrik de Goirle, als man en voogd van Aleid, dochter wijlen Wilhelm Minnomeer, belooft voor schepenen van 's-Hertogenbosch aan Franconus de Langel, voor Katharina, dochter wijlen Egidius de Gestel en voor pastoor en kapelaans kerk Groot-Begijnhof:&lt;br/&gt;jaarlijks op 2 februari te heffen erfcijns van 20 s. op 6 kamers, bij Hinthamerstraat aan het Elias Lozen Straatje, tegenover de Sint-Jacobsplaats aan de Dieze&lt;br/&gt;Zegels Nicolaus van Berkel en Wilhelm de Busco, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 3</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1470" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143695">
+            <unitid type="guid">73458650F12E40768E1B4E3F4B37A828</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">23</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1471-07-01.&lt;br/&gt; 1471 juli 1&lt;br/&gt;Eva, begijn en weduwe Mathias Kleinaal, maakt voor notaris en getuigen haar testament op, waarin zij het grootste deel van haar erfenis nalaat aan het Groot-Begijnhof&lt;br/&gt;Notaristeken van Godefrid Hels, notaris hof van Luik&lt;br/&gt;Inventarisnr 4</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1471" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143696">
+            <unitid type="guid">B467DBD285684E5B8D7EE4665C50D513</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">24</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1473-02-20.&lt;br/&gt; 1473 februari 20 datum vicesima die mensis februarii anno Domini millesimo quadringente-si-mo septuagesimo secundo&lt;br/&gt;Paulus, zoon wijlen Gijselbert Hoerens, draagt voor schepenen van 's-Hertogenbosch over, aan Henrik Peregrinus (Pelgrom), voor Johanna de Lent, begijn:&lt;br/&gt;jaarlijks te heffen erfcijns van 40 s. uit huis, erf en hof van genoemde verkoper op Vughtse dijk&lt;br/&gt;Zegels Godfried van Lu (verdwenen) en Herman Koenen, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 5</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1473" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143697">
+            <unitid type="guid">B74BD159E95D47AF8916EB71E55A234D</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">25</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1473-05-17.&lt;br/&gt; 1473 mei 17&lt;br/&gt;Johanna, begijn en dochter wijlen Godfried van Lent, draagt voor notaris en getuigen over, aan Anthonius de Palude (van der Moer), priester en beneficiant kerk Groot-Begijnhof, voor zichzelf, pastoor en overige beneficianten van genoemde kerk:&lt;br/&gt;jaarlijks te heffen erfcijns van 40 s. uit huis, erf en hof in Vughterstraat en 2 Vughtse poorten&lt;br/&gt;Notaristeken Theo van Hall, notaris hof van Luik&lt;br/&gt;Inventarisnr 5</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1473" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143698">
+            <unitid type="guid">4DA452C154F44E758C8DEEE4FC5D47F3</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">26</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1474-08-25.&lt;br/&gt; 1474 augustus 25&lt;br/&gt;Gerard van Haze, priester, geeft voor schepenen van 's-Hertogenbosch percelen land in onderpand aan Franconus de Langel, voor de rector van het altaar van de Heilige Antonius en de 4 Leraren in de kerk van het Groot-Begijnhof, vanwege de verwerving van percelen land, afkomstig van Nicolaus de Limborg&lt;br/&gt;Zegels Johan van Erp, zoon van Arnold en Theo van Haastrecht, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 6</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1474" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143699">
+            <unitid type="guid">65E856D6274F416F9E061D08C2608693</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">27</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1476-01-19.&lt;br/&gt; 1476 januari 19 Datum decimanona die mensis januarii anno Domini millesimo quadringente-simo septuagesimo quinto&lt;br/&gt;Henrik, zoon wijlen Johan Berthouts, draagt voor schepenen van 's-Hertogenbosch over aan Berthold, zijn broer, jaarlijks op Kerstmis te heffen erfcijns van 2 pond uit akkerland bij Haanwijk in Sint-Michielgestel&lt;br/&gt;Zegels Henrik de Uden en Reiner van den Hoevel, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 11</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1476" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143700">
+            <unitid type="guid">8BFC8254981440D7AFB28252D03712A5</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">28</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1478-01-14.&lt;br/&gt; 1478 januari 14&lt;br/&gt;Maximiliaan en Maria van Bourgondië, o.m. hertog en hertogin van Brabant, bevestigen privileges en statuten, verleend ten gunste van het Groot-Begijnhof, door Jan III hertog van Brabant en Johanna, Jans opvolgster, en voegen hier enige bepalingen aan toe&lt;br/&gt;Geïnsereerd in inventarisnr 16</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1478" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143701">
+            <unitid type="guid">B2E30B2993C24CA78B13ACC9B1215493</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">29</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1478-07-21.&lt;br/&gt; 1478 juli 21&lt;br/&gt;Johan, zoon wijlen Ambrosius Janszn, draagt voor schepenen van 's-Hertogenbosch over, aan Wilhelm de Busco (van den Bosch), voor pastoor en kapelaans kerk Groot-Begijnhof:&lt;br/&gt;jaarlijks te heffen erfcijns van 4 pond uit 10 hont land aan Heezse Romputte, en uit 5 hont land, deel weiland de Akense Hoeve, bij Coudewater, beide in Rosmalen&lt;br/&gt;Zegels Martin de Rode (verdwenen) en Henrik Sanders, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 7</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1478" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143702">
+            <unitid type="guid">15CF1ABD18DB4D248EB734E6218229E1</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">30</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1482-03-17.&lt;br/&gt; 1482 maart 17 ghegeven onder den zegel onses ghemeyns scependoms tot Heze ten sondach dat men singt 'Letare Iheruzalem' op sinte Gertruden dach in 't jaer ons Heren doe men screef dusent vierhondert tachtentich ende één&lt;br/&gt;Jan Jan Korstkenszn / Jan Quattel / Henrik Voet / Jan Aart Jacobszn / Herman Jan Wouterszn / Henrik Janszn / en Everit Broeszn, schepenen van Rosmalen, oorkonden dat Roelof, zoon wijlen Dirk van Aken, aan Michiel, zoon van Rutger Rutgerszn heeft overgedragen jaarlijks op 2 februari te heffen erfcijns van 4 pond uit huis met hof&lt;br/&gt;Schependomszegel Rosmalen&lt;br/&gt;Inventarisnr 7</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1482" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143703">
+            <unitid type="guid">10BF9544BA5E4E5FA0CB810D2FA736D6</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">31</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1482-03-17.&lt;br/&gt; 1482 maart 17 ghegeven onder den zegel onses ghemeyns scependoms tot Heze ten sondach dat men singt 'Letare Iheruzalem' op sinte Gertruden dach in 't jaer ons Heren doe men screef dusent vierhon-dert tachtentich ende één&lt;br/&gt;Jan Jan Korstkenszn / Jan Quattel / Henrik Voet / Jan Aarnt Jacobszn / Herman Jan Wouterszn / Henrik Janszn / Everit Broeszn, schepenen van Rosmalen, oorkonden dat Jan, zoon wijlen Wouter Aarnt Klootenzn, plechtig beloofd heeft:&lt;br/&gt;jaarlijks te heffen erfcijns van 4 pond op huis met hof in Rosmalen, te voldoen aan Michiel, zoon van Rutger Rutgerszn&lt;br/&gt;Schependomszegel Rosmalen&lt;br/&gt;Inventarisnr 7</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1482" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143704">
+            <unitid type="guid">BFDBC9984CFB4181904662317706D910</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">32</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1482-03-17.&lt;br/&gt; 1482 maart 17 ghegeven onder den zegel onses ghemeyns scependoms tot Heze ten sondach dat men singt 'Letare Iheruzalem' op sinte Gertruden dach in 't jaer ons Heren doe men screef dusent vierhon-dert tachtentich ende één&lt;br/&gt;Jan Jan Korstkenszn / Jan Quattel / Henrik Voet / Jan Aart Jacobszn / Herman Jan Wouterszn / Henrik Janszn / Everit Broeszn, schepenen van Rosmalen, oorkonden dat Jan, zoon wijlen Aarnt Klotenzn heeft overgedragen, aan Michiel, zoon van Rutger Rutgerszn:&lt;br/&gt;jaarlijks te heffen erfcijns van 4 pond op huis met hof in Rosmalen&lt;br/&gt;Schependomszegel Rosmalen&lt;br/&gt;Inventarisnr 7</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1482" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143705">
+            <unitid type="guid">66EE565DACB947FDB910DC060212A3C6</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">33</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1485-04-11.&lt;br/&gt; 1485 april 11 datum undecima die mensis aprilis feria secunda post dominicam qua cantatur 'Quasimodo' anno Domini millesimo quadringentesimo octuagesimo quinto&lt;br/&gt;Johan, zoon wijlen Johan van Andel / en Henrik de Gruyter, zoon wijlen Henrik, als voogd en man van Mechteld, dochter wijlen Johan van Andel, dragen voor schepenen van 's-Hertogenbosch over aan Henrik de Beerze, cantor van Sint-Janskapittel:&lt;br/&gt;jaarlijkse erfcijns van 10 s, uit huis met erf aan de Oude Dieze, ook wel aan de Volretrap, en aan de Trierentei&lt;br/&gt;Zegels Hubertus Monic en Petrus de Vladeracken (beide zegels verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 34</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1485" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143706">
+            <unitid type="guid">312B867FB5D24FA4B8227DD1369CC932</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">34</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1487-02-15.&lt;br/&gt; 1487 februari 15 datum decimaquinta die mensis februarii anno Domini millesimo quadringentesimo octuagesimosexto&lt;br/&gt;Michaelis, zoon van Rutger Rutgerzn, draagt voor schepenen van 's-Hertogenbosch over aan Henrik Pelgrom, voor pastoor en kapelaans van de kerk van het Groot-Begijnhof, een jaarlijks op 2 februari te heffen erfcijns van 4 pond uit huis met erf en toebehoren in Rosmalen&lt;br/&gt;Zegels Johan Back en Henrik de Uden, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 7</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1487" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143707">
+            <unitid type="guid">3BE63ACC794941958334F32889662B18</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">35</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1496-06-05.&lt;br/&gt; 1496 juni 5&lt;br/&gt;Philips de Schone, hertog van Brabant, bevestigd statuten en privileges verleend ten gunste van het Groot-Begijnhof door Jan III, hertog van Brabant, diens opvolgster Johanna, en Philips' voorgangers Maximiliaan en Maria van Bourgondië, en voegt hieraan nog enige bepalingen toe&lt;br/&gt;Geïnsereerd in inventarisnr 16</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1496" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1143708">
+            <unitid type="guid">E9FDF9B0E9C04AD0A0B18CA9B1371FAD</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">36</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1496-09-02.&lt;br/&gt; 1496 september 2&lt;br/&gt;Wolter, zoon wijlen Theodoor Toelinc, draagt voor schepenen van 's-Hertogenbosch over aan Henrik en Gijsbert Toelinc, broers van voornoemde Wolter:&lt;br/&gt;1/3 huis en grond, deels bouw-, deels weiland in Hintham&lt;br/&gt;Zegels Godefrid Grotart van Os (verdwenen) en Godfried van Bien, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 25</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1496" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_501/136CBA0ACB44443D891F794C41EBDA93_oai_ead.xml-->
+</record>

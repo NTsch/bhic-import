@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>EABD570F3E464D498815E57EFC755B35</identifier>
-    <datestamp>2026-09-04</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -36,6 +36,11 @@
       </note>
     </did>
     <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
       <controlaccess>
         <head>Categorie</head>
         <subject>Algemeen bestuur en Politiek</subject>
@@ -224,6 +229,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Walter Coelborner en Hendrik Bisscop, man en voogd van Geertruid, dochter van Walter, aan Aart Sterken, van perceel land bij Herlaar, 1409</p>
@@ -259,6 +270,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Jan Jan Rutgerszn, aan Willem Reijnier Morre, namens een oom, van ½ houtwas in 't Nuwe lant, aan Honsche Straat, 1457</p>
@@ -286,6 +303,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Wouter Arnold  Willemszn, aan Reijnier Morre van perceel bouw -  en weiland bij Haanwijk, 1482&lt;br/&gt;Met ouder bewijsstuk van 1466</p>
@@ -399,6 +422,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Hillegonde van Gerwen, aan haar kinderen uit haar huwelijk met wijlen Engbert Vos, van vruchtgebruik van heerland van Haanwijk 'Den Hoevel' en perceel land 'Drie Geswaen' in Rumelse Beemden bij Haanwijk, 1456&lt;br/&gt;Akte van overdracht, door kinderen van Hillegonde en hun voogden, aan Willem Jacob Robrechtszn van voornoemde land, 1456&lt;br/&gt;Met oudere bewijstukken van 1444 - 1453, 1556</p>
@@ -555,6 +584,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Kwitantie van G. van Loienburg, voor Jacob F. Sweerts, wegens pacht van 12 loop rogge, uit land in Thede bij Sint-Michielsgestel, 1665&lt;br/&gt;Akte van overdracht, verleden voor schepenen van 's-Hertogenbosch, door Goeswinus van Loke, aan zijn zuster Clementia en haar kinderen Gerard en Aleit, 1393&lt;br/&gt;Oudere bewijstukken, 1420 - 1491</p>
@@ -872,6 +907,12 @@
           <odd type="OPMERKING SCANS">
             <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Akte van overdracht, verleden voor schepenen van Sint-Michielsgestel, door Hendrik J. van Eindhoven, aan Marc W. du Tour, van bouwland in De Houw, met kwitantie, 1728&lt;br/&gt;Oudere bewijstukken, 1486 - 1719</p>
@@ -979,6 +1020,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Koop door Marc W. du Tour, van huis met land van wijlen Frans J. Haarwasser bij Haanwijk, afkomstig van Huibert van Zeeland, Hendrik Peters van der Meijden en Anthonie Penninks, executeurs-testamentair en voogden onmondige kinderen van voornoemde Frans, 1731 - 1734</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C2A1CD92656B484CAF14680156BC1D38" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF911575">
@@ -2482,14 +2531,12 @@
               <date normal="1393" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1393-07-02.&lt;br/&gt; 1393 juli 2 datum feria quarta post festum beato-rum Petri et Pauli apostolorum, anno Domini millesimo trecentesimo nona-gesimo tertio&lt;br/&gt;Gooswin, zoon wijlen Wilhelm de Loke, draagt voor schepenen van 's-Hertogenbosch over, aan Clementia, zijn zuster en weduwe Gerard Brugman, en aan haar kinderen Gerard en Aleida: erfpacht van 12 loop rogge uit land in Thede bij Sint-Michielsgestel&lt;br/&gt;Zegels Johan van Dordrecht en Johan van Aggere, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 13</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/556D783A6EB34469BC8B43E7B1050994" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142955">
@@ -2506,14 +2553,12 @@
               <date normal="1409" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1409-10-10.&lt;br/&gt; 1409 oktober 10 datum in crastino beati Dyonisii martiris anno Domini millesimo quadringentesimo nono&lt;br/&gt;Walter, zoon van Walter Koolborner, en Henrik Bisschop, voogd en man van Gertruda, dochter van Walter voornoemd, dragen over voor schepenen van 's-Hertogenbosch, aan Arnold Sterk: perceel land bij Herlaer&lt;br/&gt;Zegels van Nicolaus Schilder en Wilhelm Broeder (verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 1</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/0EBD9EC8266940D7B30B3E45108A77B5" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142956">
@@ -2530,14 +2575,12 @@
               <date normal="1420" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1420-09-07.&lt;br/&gt; 1420 september 7&lt;br/&gt;Johan, zoon wijlen Petrus Broeke, schenkt voor notaris en getuigen, aan Johannnes de Weert, vice-gardiaan klooster minderbroers in 's-Hertogenbosch, en aan klooster:&lt;br/&gt;erfpacht van 12 loop rogge uit land in Sint-Michielsgestel, in ruil waarvoor minderbroers voor zieleheil schenker en wijlen zijn vrouw Catharina zullen bidden&lt;br/&gt;Notaristeken Theo van Mosa, notaris hof van Luik&lt;br/&gt;Inventarisnr 13</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/6010C9B4EB2A4AF69324ABA345DEC14F" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142957">
@@ -2554,14 +2597,12 @@
               <date normal="1444" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1444-09-06.&lt;br/&gt; 1444 september 6&lt;br/&gt;Matheus van Mughovel en Roelof Donst, schepenen van Sint-Michielsgestel, oorkonden dat Michiel Henrik Tollaartszn, aan Willem Reiner Morszn overdraagt: erfrecht van perceel land de Hovel&lt;br/&gt;Schependomszegel van Sint-Michielsgestel&lt;br/&gt;Inventarisnr 7</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/B2779E9408174D9C8AE618E4B437A77F" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142958">
@@ -2578,14 +2619,12 @@
               <date normal="1453" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1453-09-03.&lt;br/&gt; 1453 september 3&lt;br/&gt;Andreas, zoon van Phillipus de Ayen, als voogd van zijn vrouw Aleid, dochter wijlen Mathias Schoonboer, zoon wijlen Johan, draagt voor schepenen van 's-Hertogenbosch over, aan Johan, zoon van Johan Abenzn: erfrecht van 4 lopen land aan de Hovel bij Sint-Michielsgestel&lt;br/&gt;Zegels Christian Koenen en Wilhelm van Gent, schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 7</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/CECE632C886443BB81DFC4F109C01102" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142959">
@@ -2602,14 +2641,12 @@
               <date normal="1457" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1457-06-28.&lt;br/&gt; 1457 juni 28&lt;br/&gt;Roel Dirks en Willem Schoonnoet, schepenen van Sint-Michielsgestel, oorkonden dat Jan, zoon wijlen Jan Rutgerszn, aan Willem, zoon wijlen Reiner Mors, die zijn niet nader genoemde oom vertegenwoordigt, overdraagt: 1/2 houtwas in het Nieuwe land&lt;br/&gt;Inventarisnr 2</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/31CEC4A93D894347A707F0D1A69C2FE5" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142960">
@@ -2626,14 +2663,12 @@
               <date normal="1466" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1466-02-26.&lt;br/&gt; 1466 februari 26 datum vicesima sexta die mensis februarii feria quarta post Dominicam qua cantatur 'Invocavit' anno Domini millesimo quadringentesimo sexagesimo quinto&lt;br/&gt;Wedigo, zoon wijlen Jan Wedigenzn, draagt voor schepenen van 's-Hertogenbosch over, aan zijn zoon Jan: vruchtgebruik van perceel land bij Haanwijk&lt;br/&gt;Zegels Gerard Simons (verdwenen) en Henrik de Kessel (verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 3</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/DB2FCAC1126D4FC9A8E0286D55CDAA81" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142961">
@@ -2650,14 +2685,12 @@
               <date normal="1466" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1466-06-20.&lt;br/&gt; 1466 juni 20&lt;br/&gt;Dirk van Boxtel, gardiaan minderbroerklooster 's-Hertogenbosch, en alle broeders van klooster, maken bekend dat zij overdragen aan Jan Gerinx: erfpacht op 3 zester rogge uit land in Sint-Michielsgestel&lt;br/&gt;Inventarisnr 13</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/27AD02762C904F09ABF8E071E38C30F6" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142962">
@@ -2674,6 +2707,12 @@
               <date normal="1482" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142963">
@@ -2690,6 +2729,12 @@
               <date normal="1486" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142964">
@@ -2706,14 +2751,12 @@
               <date normal="1486" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1486-06-26.&lt;br/&gt; 1486 juni 26&lt;br/&gt;Petrus Zomer alias van Geburdingen, draagt voor schepenen van 's-Hertogenbosch over, aan Reiner Morre, zoon wijlen Wilhelm, en Giselbert, zoon van Wolter Jan Abenszn: perceel land buiten 's-Hertogenbosch in de Houwe en bij Haanwijk&lt;br/&gt;Zegels Wilhelm Pyckevet (beschadigd) en Theodoor Hijnden (beschadigd), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 25</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/6F397901D7F643A2B5E0D0509A6870E1" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1142965">
@@ -2730,14 +2773,12 @@
               <date normal="1491" era="ce" calendar="gregorian"/>
             </p>
           </dsc>
-          <daogrp xlink:type="extended">
-            <daodesc>
-              <p>1491-09-06.&lt;br/&gt; 1491 september 6&lt;br/&gt;Samuel, zoon wijlen Johan, zoon wijlen Bruistinus Janszn, draagt voor schepenen van 's-Hertogenbosch over, aan Franconus de Langel, voor Tafel van de Heilige Geest in 's-Hertogenbosch: erfpacht van 12 loop rogge uit land, in Thede bij Sint-Michielsgestel&lt;br/&gt;Zegels Arnold Keymp (beschadigd) en Johan van Achel (verdwenen), schepenen van 's-Hertogenbosch&lt;br/&gt;Inventarisnr 13</p>
-            </daodesc>
-            <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/B2AB7733F4AF48D7AE4B4EA4BE3F9C06" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
-          </daogrp>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
       </c01>
     </dsc>

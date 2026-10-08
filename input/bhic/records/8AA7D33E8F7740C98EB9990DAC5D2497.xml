@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>8AA7D33E8F7740C98EB9990DAC5D2497</identifier>
-    <datestamp>2026-09-04</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -36,6 +36,11 @@
       </note>
     </did>
     <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
       <controlaccess>
         <head>Categorie</head>
         <subject>Algemeen bestuur en Politiek</subject>
@@ -3303,6 +3308,14 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>13 dec 1730 - 11 dec 1762</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/E9275FBD5F86496AA8B77B94FF21E2E3" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
             </c04>
             <c04 level="file">
               <did id="MF1608189">
@@ -3319,6 +3332,14 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>28 dec 1762 - 26 sep 1781</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/4FA4FA6EAB584AC09ABCB667C057122D" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
             </c04>
             <c04 level="file">
               <did id="MF1608190">
@@ -3332,6 +3353,14 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>5 nov 1781 - 16 mei 1793</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/7778EDA42CCB43009785F9E5B1CDF790" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
             </c04>
             <c04 level="file">
               <did id="MF1608191">
@@ -3453,6 +3482,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Notulen van de buitengewone vergadering van de municipaliteit, 16 jul 1798</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/A71BB8B8543C4FB2B9E5F8DDB4069B85" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF1608200">
@@ -3470,6 +3507,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Notulen van de vergaderingen van het gemeentebestuur, 22 feb 1804 - 16 dec 1807</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/41D322A89C0744AE86BC6272896A3385" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
         </c02>
         <c02 level="subseries">
@@ -3502,6 +3547,14 @@
               <odd type="REDEN GEEN UITLEEN">
                 <p>Scans beschikbaar</p>
               </odd>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Costuimen van de schepenbank die ter verificatie naar de Raad van Brabant te Brussel zijn gezonden en die door notaris A. van Berckel authentiek zijn bevonden, 1546,18e eeuw</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/81395D06CBB04710A7BB72134A9B93C2" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
             </c04>
             <c04 level="otherlevel" otherlevel="filegrp">
               <did id="MF1608204">
@@ -3527,6 +3580,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>1610 -1767</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/15F4D5621135442993FAF5CAAAEBEA54" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1608206">
@@ -3766,6 +3827,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>(1803)</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/3133F05582484178A5BBB99D32A9D701" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1608224">
@@ -5854,6 +5923,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Heesakkers Adriaen weduwnaar Willemijn Schovers (taxatie), 1766 jul 26</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/1F9AF22008D94005A044A8CE297999DC" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF23561569">
@@ -6709,6 +6786,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Vliiminx, de erfgenamen van Catharina en Cornelis van de Hagen (voogdij), (retroacta), 1795 jul 8</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/BB4F61F5E556407799CC81242A58C1C1" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF23561640">
@@ -6736,6 +6821,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Haagen, Jacobus en Jan van Dijk administratie van het goed van Judith van de Hagen (verkoop), 1795 okt 22</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/2E02DD89011943D391BFF051EA63645D" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF23561642">
@@ -7291,6 +7384,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Heijden, Barbara Peter van de, weduwe Hendrik de Gruijter (verkoop), 1801 jun 24</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/3F51A43ADEDB44438EF07DE8757E602C" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF23561688">
@@ -8690,6 +8791,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van transcriptie van een in 1340 en 1342 gevidimeerde akte van 1232 waarbij hertog Hendrik I van Brabant te 's-Hertogenbosch de inwoners van Rode dezelfde privileges heeft geschonken als de burgers van ''s-Hertogenbosch, met bijlagen, (17e eeuws)</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/C6F5AEBBF41446DFAC9088C28A1F8257" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1608287">
@@ -8706,6 +8821,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF1608288">
@@ -8723,6 +8844,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF1608289">
@@ -8739,6 +8866,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF1608290">
@@ -8755,6 +8888,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF1608291">
@@ -8786,6 +8925,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF1608293">
@@ -8806,6 +8951,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop namens hertog Karel (de Stoute) Bourgondië en Brabant te Brussel aan het dorpsbestuur van een vroente gelegen aan de dorpsgrens met Liempde en Oirschot; met vergunning om voor-potingen te planten; met vergunning om 20 bunders gemeentegrond te vervreemden om de koopsom te financieren; gecollationeerd in 1661; dorsaal: aantekening Roois broek, 1468(1661)</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/EC4F86C7AED945F0B10DB200ECA02A0D" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1608294">
@@ -8826,6 +8985,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van hernieuwde vergunning namens Philips II, koning van Spanje, hertog van Brabant etc. te Brussel aan de schepenbank der Vrijheid om akten te passeren en te zegelen na de verbranding van het archief, waarbij de schepenzegels verloren zijn gegaan; gecollationeerd, 1591(166.)</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/211ED530784B4C8BA72BB36818D04013" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
             </c04>
             <c04 level="subseries">
@@ -9055,6 +9228,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Inventaris van de akten en bewijsstukken, welke zijn overgelegd aan de Raad van Brabant te 's-Gravenhage inzake het proces van regenten contra het dorpsbestuur van Veghel betreffende het gehucht Eerde;, (c. 1754)-(1762)</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/27A8A98959274F489D2B0A2E690E95F6" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608308">
@@ -9190,6 +9371,20 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <controlaccess>
+                      <controlaccess>
+                        <head>OAI-PMH set</head>
+                        <subject>MONASTERIUM</subject>
+                      </controlaccess>
+                    </controlaccess>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1649-1656 (1451,1490,1592)</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/AA5BC65978F1499DBBB74DAE6BA02F62" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="otherlevel" otherlevel="Kaart">
                     <did id="MF11207914">
@@ -9305,6 +9500,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Stukken betreffende het verzoek aan de Leen- en Tolkamer te Den Bosch voor een regeling van de gemeente (heide) grens met Breugel, gunstige beschikking en bijlage, 1760, 1763</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/5FB83BF3064D4481B1FBAF357879FDDC" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608321">
@@ -9349,6 +9552,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Stukken betreffende de grensscheiding met Son en Breugel naar aanleiding van het opmeten van landerijen tbv de vernieuwing van de kohieren; met 2 situatieschetsen van de gemeentegrens met Breugel, 1792-1793, 1800</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/0A1450AE73C84721BAA3E507309ADF6A" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608324">
@@ -9401,6 +9612,20 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Akte van schikking namens hertog Karel de Stoute van Bourgondië, Brabant en Lotharingen met het corpus inzake opheffing van beslag-legging op de gement wegens een achterstallige erfcijns, 1468</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/6B1D124723644C8E817093EC74A7A492" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608328">
@@ -9446,6 +9671,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Stukken betreffende het verzoek van een groep geërfden te Sint-Oedenrode aan de Raad van State te 's-Gravenhage om de verkoop van gemeentegronden aan particulieren te voorkomen, 1789-1791</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/E43A17D251F74E20B79D109CB90A146A" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608331">
@@ -9497,6 +9730,20 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Akte van vergunning namens Philips II, koning van Spanje, hertog van Brabant etc. te Maastricht aan het dorpsbestuur om 100 bunders van de groene gemeente en 120 bunders van de grauwe gemeente te verkopen omdat de vijand; perkament, 1581(1609)</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/05BD340D29B7427BA484B69DB405FA95" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608335">
@@ -9532,6 +9779,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1648</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/0D3F1374D6C44B818E3EA3DD2F4F7969" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608338">
@@ -9544,6 +9799,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1656</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/FDC0CAD1A49A46B796282DB023FAF3F0" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608339">
@@ -9556,6 +9819,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1657-1809</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/F1470F8DBF674A479DDA17FCDC720AD3" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608340">
@@ -9568,6 +9839,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1661</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/4E4D23B98A7C4925AA8F44ADB1F0A2FA" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608341">
@@ -9580,6 +9859,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1768</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/F3A0C3C0D9A1443DA19958A4A7715364" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608342">
@@ -9592,6 +9879,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1788-1789</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/B0102D6ACBC1450AAF08A619BDECE1CF" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608343">
@@ -9604,6 +9899,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1791</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/3425317502084E78B9F7EAF932308CA6" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608344">
@@ -9616,6 +9919,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1792</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/9F49F09E75B240D282F7E67AEBD45F04" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608345">
@@ -9628,6 +9939,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1794</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/EC737963B5684DEF902ED7A8EF659106" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608346">
@@ -9640,6 +9959,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1801</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/AF604D5C99544BE6B21A01E18725C850" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608347">
@@ -9652,6 +9979,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1802</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/89A36E898FB04310AAD5CF8B28C24407" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608348">
@@ -9665,6 +10000,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1803</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/E7AC7A3CCA77413C975052020C6F80B4" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608349">
@@ -9677,6 +10020,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1805</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/FDFBCDA343194999816B0055DF6D6CC0" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                 </c06>
                 <c06 level="file">
@@ -9706,6 +10057,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Register houdende opgave van verkochte nieuwe erven; met vermelding van grootte, ligging en eigenaren, met bijlage, 1792</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/BE3710E81D4B4951846DE91657FAB394" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608352">
@@ -9748,6 +10107,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Register houdende opgave van verkochte gemeentegronden bij de Rooise heide, met vermelding van af te lossen kapitalen door eigenaren; folio's 1-13v zijn beschreven, (1801)1803(1814)</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/FC1FD3A38C39431FADC8E776FB3EB7BF" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
               </c05>
               <c05 level="subseries">
@@ -9773,6 +10140,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Staat houdende opgave van gebuurcijnzen uit oude protocollen opgezocht door oud-secretaris Niclaes van de Sande van de Vrijheid voor de gezworenen van de Bodem van Elde, (c. 1650)</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/4E9D10CCBE4149D8929B1D44B03037F2" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608357">
@@ -9790,6 +10165,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Rekening voor Rut Kluijtmans en Lambert Versantvoort te Olland, gezworenen van de Bodem van Elde onder Sint-Oedenrode, met bijlage, 1796-1806(1807)</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/D2870732A1AC4788BFD8B24E89CB0816" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608358">
@@ -9807,6 +10190,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Stukken betreffende de openbare verkoop van gronden van de Bodem van Elde voor schepenen door de gezworenen, 1802-1803</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/EFA192255290467F967E48191653FADC" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608359">
@@ -9824,6 +10215,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Akte van provisionele en definitieve openbare verkoop voor schepenen van gronden van de Bodem van Elde, ter plaatse genaamd De Beek, 1803-1804</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/0A12C89E06E249EC82BC8354276AF92D" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608360">
@@ -9841,6 +10240,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Akte van provisionele en definitieve openbare verkoop voor officier en schepenen van de Vrijheid en voor gezworenen van Sint-Michielsgestel van gemeentegronden van de Bodem van Elde, met bijlagen, 1804</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/FFE0ACE98DA44D3DBDB4743844EA1873" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608361">
@@ -9858,6 +10265,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Register houdende opgave van Nieuwe Erven, door gezworenen ver-kochte gemeentegronden van de Bodem van Elde; met vermelding van grootte en nieuwe eigenaar; folio's 1-11v beschreven, 1804-1805</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/14C4A00576794CABA22F7BE113477DFF" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608362">
@@ -9875,6 +10290,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Akte van provisionele en definitieve openbare verkoop voor gezworenen en schepenen van gemeentegronden van de Bodem van Elde, 1805</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/2CF4E6FA05944F65A1256D7AD2A6BBC6" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608363">
@@ -9891,6 +10314,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Resoluties van het Departementaal Bestuur van Brabant betreffende gunstige beschikkingen op de verzoeken om grond te kopen en toestemming aan de gezworenen van de Bodem van Elde tot de betreffende verkopen, (authentieke afschriften), 1807</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/74464D25014749F98D6FDB68C80299E5" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608364">
@@ -9907,6 +10338,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Publicatie betreffende openbare verkopingen d.d. 27.4. 1807 te Sint-Oedenrode van 70 lopense gronden door de gezworenen van de Bodem van Elde, (minuut), 1807</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/6B16C1E5AA0D44D78025DED76CC230B6" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
               </c05>
               <c05 level="subseries">
@@ -10167,6 +10606,14 @@
                       <odd type="VINDPLAATS ORIGINEEL">
                         <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                       </odd>
+                      <daogrp xlink:type="extended">
+                        <daodesc>
+                          <p>1673-1675(1678)</p>
+                        </daodesc>
+                        <resource xlink:type="resource" xlink:label="start"/>
+                        <daoloc xlink:href="https://proxy.archieven.nl/235/BAE1F24BD4C7422281C3B9724518FF2C" xlink:type="locator" xlink:label="reference"/>
+                        <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                      </daogrp>
                     </c08>
                     <c08 level="file">
                       <did id="MF1608387">
@@ -10440,6 +10887,14 @@
                       <odd type="VINDPLAATS ORIGINEEL">
                         <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                       </odd>
+                      <daogrp xlink:type="extended">
+                        <daodesc>
+                          <p>1715/1716</p>
+                        </daodesc>
+                        <resource xlink:type="resource" xlink:label="start"/>
+                        <daoloc xlink:href="https://proxy.archieven.nl/235/D2E164701176436195617DAD3A82017D" xlink:type="locator" xlink:label="reference"/>
+                        <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                      </daogrp>
                     </c08>
                     <c08 level="file">
                       <did id="MF1608408">
@@ -14485,6 +14940,20 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <controlaccess>
+                      <controlaccess>
+                        <head>OAI-PMH set</head>
+                        <subject>MONASTERIUM</subject>
+                      </controlaccess>
+                    </controlaccess>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>Akte van vergunning namens Philips II, koning van Spanje, hertog van Brabant etc. te Brussel aan het dorpsbestuur om een geldlening aan te gaan om de oorlogsschatting te kunnen voldoen, 1595</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/6E583ACC9B0F43C097D69E2A6C7E84E8" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608722">
@@ -14505,6 +14974,20 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <controlaccess>
+                      <controlaccess>
+                        <head>OAI-PMH set</head>
+                        <subject>MONASTERIUM</subject>
+                      </controlaccess>
+                    </controlaccess>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>Akte van vergunning namens Isabella Clara Eugenia, Infante van Spanje, hertogin van Brabant etc. te Brussel aan het dorpsbestuur, om een geldlening aan te gaan wegens de sobere graanoogst, wateroverlast, beestensterfte en onvermogen de oorlogscontributies te voldoen; dorsaal: gevidimeerd, 1599(1607)</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/BE14EAFE71CC4FD8B61EDAAE70F74726" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608723">
@@ -14533,6 +15016,12 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <controlaccess>
+                      <controlaccess>
+                        <head>OAI-PMH set</head>
+                        <subject>MONASTERIUM</subject>
+                      </controlaccess>
+                    </controlaccess>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608725">
@@ -14885,6 +15374,14 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <daogrp xlink:type="extended">
+                        <daodesc>
+                          <p>Schepenakte van 's-Hertogenbosch, waarbij Frans van Heurne, president van de Vrijheid, en Hendrick van Berckel te 's-Hertogenbosch - gemachtigd door het uitgebreid bestuur van de Vrijheid van Sint-Oedenrode d.d. 17 februari 1687 tot het lenen van 6060 gulden - in totaal 6060 gulden lenen van Francis van Blotenburgh ten behoeve van diverse personen. Dit geld moet besteed worden zoals bepaald is in akte van 24 februari, behorende bij bovengenoemde mabhtiging, ondertekend door Frans van Heurne als rentmeester van de Raad van Brabant, J. van Blotenburgh als rent¬meester van het Godshuys de H. Geest, Hendrick van Berckel als geërfde, Hendrick Mus voor zijn schoonmoeder, J. Abangelis, Servaes Noorman, J. van Woercom, F. Blotenburgh in naam van de weduwe van advocaat Ravesteyn.&lt;br/&gt;-1200 gulden tegen een rente van 5% ten behoeve van mr. Cornelis Ackers¬dijck, raadslid te 's-Hertogenbosch.&lt;br/&gt;In dorso: afgelost, 1749.&lt;br/&gt;Perkament, schepenzegels verdwenen, gecasseerd d.m.v. insnijdingen.&lt;br/&gt;, 25 feb 1687</p>
+                        </daodesc>
+                        <resource xlink:type="resource" xlink:label="start"/>
+                        <daoloc xlink:href="https://proxy.archieven.nl/235/3024A41F63ED47AAB0F4695B74438B8C" xlink:type="locator" xlink:label="reference"/>
+                        <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                      </daogrp>
                     </c08>
                     <c08 level="file">
                       <did id="MF1608752">
@@ -15307,6 +15804,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>Akte van lening voor naburen en inwoners van de hoek Olland en Houtum van een geldsom van Jan Willemsz van Boxtel wegens misoogst en verlies van beesten en schapen in het voorgaande jaar, 1623</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/2BAA3EA298714CF0926F5E9E72DEC0AF" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="otherlevel" otherlevel="filegrp">
                     <did id="MF1608783">
@@ -15335,6 +15840,14 @@
                       <odd type="REDEN GEEN UITLEEN">
                         <p>Scans beschikbaar</p>
                       </odd>
+                      <daogrp xlink:type="extended">
+                        <daodesc>
+                          <p>Akte van vergunning namens Philips IV, koning van Spanje</p>
+                        </daodesc>
+                        <resource xlink:type="resource" xlink:label="start"/>
+                        <daoloc xlink:href="https://proxy.archieven.nl/235/8DA6565631214B59B648AE167230DF94" xlink:type="locator" xlink:label="reference"/>
+                        <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                      </daogrp>
                     </c08>
                     <c08 level="file">
                       <did id="MF1608785">
@@ -15368,6 +15881,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>Akte van verkoop door de weduwe en erfgenamen van Peeter Jansse van Heessel aan rentmeester Isaac Battem van een obligatie ten laste van de Vrijheid, 1656</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/B079B73BEDCD4AB68377AC4769E35992" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608787">
@@ -15387,6 +15908,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>Akte van verkoop voor schepenen van 's-Hertogenbosch door weduwe en erfgenamen van Isaac Battem bewoner van Pas Bogaard en aldaar overleden d.d. 07-02-1669, aan Rogerius Cornelius Colen van een obligatie ten laste van de Vrijheid, 1676</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/5F71E65D98F3476E9CFBB0C23EE95768" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608788">
@@ -15419,6 +15948,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>Akte van verkoop van een obligatie ten laste van de Vrijheid door Hendrick Colen aan Rogier van Deursen te Sint-Oedenrode, 1696</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/82049C31DC1A428EAAA74BBD0735CE6A" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608790">
@@ -15438,6 +15975,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>Akte van verkoop van een obligatie ten laste van de Vrijheid door de echtgenoten Dirck de Louw en Anneken de Greeff, eerder weduwe van Claes Coppens, aan Joost Gijsbert Joosten en zijn zuster Ercken te Boxtel, 1703</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/02F9807361AB4E4FBB59E5DDCA9FF812" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608791">
@@ -15587,6 +16132,14 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Lijsten, samengesteld door leden van de municipaliteit, van stemgerechtigde burgers van de grondvergaderingen, 1798</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/B8ECAB0E6312473580502A81B83B2456" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1608801">
@@ -15632,6 +16185,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Lijsten (nos. 1 en 4) van stemgerechtigde inwoners in de grondvergaderingen; authentieke afschriften, 1798</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/7655F50773DD48B287F687593CB19FE8" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1608804">
@@ -15691,6 +16252,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Lijsten van stemgerechtigde burgers in de grondvergaderingen (ontbreekt lijst 5) ten behoeve van de aprilverkiezingen, 1798</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/B83A8EBC1E504613883E882277E75881" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1608808">
@@ -15778,6 +16347,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Staten van inwoners per wijk en per huis, geformeerd door het gemeentebestuur ten behoeve van contributies, 1803</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/61E536C762B44082A1A14F0CF9ACA9A3" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1608814">
@@ -15931,6 +16508,20 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Akte van verklaring door en voor de besturen van Eindhoven, Helmond, 's-Hertogenbosch, Hilvarenbeek, Sint-Oedenrode, Oerle, Oirschot, Oisterwijk en Oss, dat renten van geldleningen van particulieren jaarlijks met de koningsbede zullen worden afbetaald; dorsaal: schadeloosgelofte voor 't kwartier Peelland, 1533</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/8CA6F6F12D014A9EB2CCE2695E0E4758" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1608826">
@@ -16637,6 +17228,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Register van inwoners voor de buitengewone belasting van 30 miljoen, met vermelding van huisnummers per wijk, bewoners, aantallen kinderen en dienstboden, schatting van inkomen en bedrag der belasting, met bijlage, 1808. 1 katern en</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/29DA01AE7A1A49999C35FB243D7D8ED0" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1608882">
@@ -16703,6 +17302,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>c1688</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/AA0EC6A87DA9449E8053121F0EE25792" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608888">
@@ -16719,6 +17326,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1690/1691</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/CCF64F90CCAB4D5893D3CD9F1B44654D" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608889">
@@ -16813,6 +17428,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1701/1702</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/20EB439D4B8E497E8999A9F93594D38D" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608896">
@@ -16829,6 +17452,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1704/1705</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/BFBF5D81EBEB48B38F37D9A53F4C365F" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608897">
@@ -16973,6 +17604,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1722/1723</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/484BFF7496E844099BA7D5D71B5DE007" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608908">
@@ -16988,6 +17627,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1724/1725</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/CB4A6F6F12334A4E9EC99F163D2C8BE6" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608909">
@@ -17003,6 +17650,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1727/1728</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/98DC251D5D684286AD2DFE61E19284AE" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608910">
@@ -17018,6 +17673,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1729/1730</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/F5DD5631546C4A0D8180BD9F705A3F1F" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608911">
@@ -17069,6 +17732,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1733/1734</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/5731EC0593C84D95B763E3E0EFD71694" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608915">
@@ -17084,6 +17755,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1734/1735</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/A77755B06DA640AC86A3287DFBD5E80D" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608916">
@@ -17160,6 +17839,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1731/1732</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/828CA69B68CC433AB9CABBDD46C7A0B3" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608922">
@@ -17176,6 +17863,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1732/1733</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/FAFEC97D182342AD9D67CA4E2F9421D7" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608923">
@@ -17371,6 +18066,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1736</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/5DB75086BFFC428395503C0891E6FF5B" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608938">
@@ -17387,6 +18090,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1741</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/EAC3843458E845F08AAD20873E9B43B1" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608939">
@@ -17403,6 +18114,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1746</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/0768B99B9CA24B19824293E4B6AD7F13" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608940">
@@ -17419,6 +18138,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1751</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/3D9A05B556BB45868F7F20A0CC6B6189" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608941">
@@ -17435,6 +18162,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1756</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/62EB83EDB1EC4619B6AF93A289A6E8AE" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608942">
@@ -17451,6 +18186,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1761</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/33BF1266A4EF46D58671A50A069A5EC0" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608943">
@@ -17467,6 +18210,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1766</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/5DAA2919532043AA959F49E690F747AC" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608944">
@@ -17483,6 +18234,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1771</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/301612E99C8C4909B3F9A8BAF0F8848F" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608945">
@@ -17499,6 +18258,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1776</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/FCF7DB9B342A484B8F5261E2602A631A" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608946">
@@ -17515,6 +18282,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1781</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/43D08F40F2B54426AF0E127074407A3F" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608947">
@@ -17531,6 +18306,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1786</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/DF88C73A793546CEB5D11E9D640B5A41" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608948">
@@ -17547,6 +18330,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1791</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/3B292EC8242545D2B3095F55BACEBE12" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608949">
@@ -17563,6 +18354,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1792</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/E966612693D14E0189C7A8AA6877954D" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1608950">
@@ -17579,6 +18378,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>(c. 1800)</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/37954E9E56F04B27BDA86CA3C2FA45B0" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                 </c06>
                 <c06 level="file">
@@ -19311,6 +20118,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Lijst van achterstallige cijnzen in de gemeente samengesteld uit cijnsboeken van de jaren 1431, 1531, 1591, 1641 en 1671 waar-schijnlijk ten behoeve van grondbelasting of verponding, (c 1751)</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/6F26A383F10241D98593E9ADC619499A" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1609085">
@@ -19514,6 +20329,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1649/1650</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/183683472C184541958EB20604DC61CB" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1609100">
@@ -19533,6 +20356,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1658/1659</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/FAA8A236A31942658DC161E52389012F" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1609101">
@@ -19552,6 +20383,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1663/1664</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/77FA2462AB81410CA4F4D8D3656E1CD9" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1609102">
@@ -19699,6 +20538,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1678/1679</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/278B1A2AA36144BBBCCEC73DCADF39E3" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1609111">
@@ -19811,6 +20658,14 @@
                     <odd type="VINDPLAATS ORIGINEEL">
                       <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1693/1694</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/DBDFE73F6BC149C6BAF68E91DEE75770" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1609118">
@@ -20057,6 +20912,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1777-1785</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/BD3C2D8102EB4D84953DEAE465927216" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                   <c07 level="file">
                     <did id="MF1609134">
@@ -20073,6 +20936,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1785-1803</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/A4ECE1D366134FFBB8E930C98D5E3A16" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                 </c06>
                 <c06 level="file">
@@ -20102,6 +20973,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Registers van 5 gehuchten of hoeken, vermeldende de akkerlanden met de eigenaars of ge- bruikers alsmede de grootte in lopensen en roeden, 1677</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/0ED414D69F2D4A8C884DD62DE5752003" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1609137">
@@ -20129,6 +21008,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Registers van de gehuchten of hoeken welke zijn opgemeten, vermeldende de akkerlanden met de eigenaar of gebruiker, alsmede de grootte in lopensen en roeden, (c. 1690)</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/20E67234D2214002A2D8B5E5E685998F" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1609139">
@@ -20337,6 +21224,14 @@
                     <odd type="REDEN GEEN UITLEEN">
                       <p>Scans beschikbaar</p>
                     </odd>
+                    <daogrp xlink:type="extended">
+                      <daodesc>
+                        <p>1785/1786(1788)</p>
+                      </daodesc>
+                      <resource xlink:type="resource" xlink:label="start"/>
+                      <daoloc xlink:href="https://proxy.archieven.nl/235/D8D9D30AAC0F420FA92A95E319610396" xlink:type="locator" xlink:label="reference"/>
+                      <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                    </daogrp>
                   </c07>
                 </c06>
                 <c06 level="otherlevel" otherlevel="filegrp">
@@ -20546,6 +21441,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Register op het maatboek, alfabetisch op naam, met vermelding van oude maatnummers, roeden en lopensen en het totaal aantal lopensen en roeden per eigenaar, (c 1795)</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/C057F8452A3944399EB62213DE690BBB" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1609171">
@@ -20893,6 +21796,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Lijst van afgegeven biljetten aan dorpsbewoners met vermelding van beroepen, 1806</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/6C63B17DFAE24FBCBBBA7E9682CA2DAE" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609198">
@@ -21016,6 +21927,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Staat van goud- en zilverbewerkers in de gemeente waarop één goud- en zilversmid, Jan Hendrik van den Dungen, gedrukt, 1807</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/BE26BCB2317644E4BDBCF642C6FA4697" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609206">
@@ -21059,6 +21978,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Register van uitgegeven patenten, met vermelding van naam van ingezetenen en handel, beroep, bedrijf, nering of object van weelde of vermaak waarvoor het patentrecht betaald is; gedrukt, 1809-1810</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/A7AE8C2CCB6741BEA0F754CE0ECB7F67" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
             </c04>
             <c04 level="subseries">
@@ -21086,6 +22013,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop door Petrus Eliza de Eirde van een erfcijns aan Hermannus Pellifici de Looier, 1315</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/C227A645A2D84224ABB5B5E5C388FFEB" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609211">
@@ -21105,6 +22046,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop door Aleyt Ennekens c.s. van het erfrecht van enkele hoeven aan Wellen de Writer en zijn broer Jan Ques, 1356</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/AF3101A1BB5E464484D6ACA897994C51" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609212">
@@ -21124,6 +22079,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van overdracht voor schepenen van Den Bosch door ridder Ruthgerus de Ouden van het goed Ter Lynden in de parochie Beek bij Aarle aan Godefridus Johannes van Drimmelen, 1360</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/A4392A1874A74D12B186FC49E6CB2F7E" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="otherlevel" otherlevel="filegrp">
                 <did id="MF1609213">
@@ -21151,6 +22120,20 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Akten van verkopen voor schepenen van Den Bosch van een erfpacht voor de Hannen Mertens hoeve te Onstaden</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/DBB96B01CDC14D9B8453773687631DB4" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1609215">
@@ -21166,6 +22149,20 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Akten van verkopen voor schepenen van Den Bosch van een erfpacht voor de Hannen Mertens hoeve te Onstaden</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/9E0DC01CF2DC489F8E4E300A318C4801" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1609216">
@@ -21181,6 +22178,20 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <controlaccess>
+                    <controlaccess>
+                      <head>OAI-PMH set</head>
+                      <subject>MONASTERIUM</subject>
+                    </controlaccess>
+                  </controlaccess>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Akten van verkopen voor schepenen van Den Bosch van een erfpacht voor de Hannen Mertens hoeve te Onstaden</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/4EDE0FC4A1D44BA09304E587F245A77C" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
               </c05>
               <c05 level="file">
@@ -21201,6 +22212,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van afstand voor schepenen van Den Bosch door Emondus Godefridus Cuper van het naastingrecht t.b.v. Hilla Godefridus betreffende door haar verkochte goederen, 1370</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/E4BC30C77B7A417FB78981E44FBF05EF" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609218">
@@ -21220,6 +22245,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop voor schepenen van Den Bosch door Willelmus van Langelaer en zijn vrouw Aleidis van weiland de Colecamp in Eerde aan Andreas Berkenman, 1383</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/0F62BD7245A743259BF9203B654B9CA2" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609219">
@@ -21239,6 +22278,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop voor schepenen van Den Bosch van een erfpacht uit diverse erfgoederen gelegen te St.-Oedenrode en Boxtel door Willelmus en Theodoricus van den Leemputten aan bakker Johannes van Bladel, 1390</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/AAF30061AD424E9694CC0C235AAF56CB" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609220">
@@ -21258,6 +22311,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop voor schepenen Den Bosch door Willelmus van Langelaer en zijn vrouw Aleidis van een erfcijns uit weiland de Colencamp in Eerde aan goudsmid Johannes Vynnic, 1391</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/0A411EB0D100445AB6AF29FFE331F78A" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609221">
@@ -21277,6 +22344,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van transport door Jan Quessesoen van een huis met hofstad en hove gelegen aan de Aude Straet in de Vrijheid aan Katherinen dochter van Jacops Smeyts van Rode, 1392</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/B0D781E8129842AF862EE8A295D9EA04" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609222">
@@ -21296,6 +22377,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van transport door Godevart Godevart Scomakers van Eerscot van een erfcijns aan Gheerlec van Erpe, 1400</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/4D541A277DA84170B1FCF52541996BBA" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609223">
@@ -21315,6 +22410,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop door Claes van den Venne van een stuk land genaamd die pranghe gelegen in Houtem, aan Claus Ceelmeester Gherartssoen, 1403</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/8ABB923D4F634918B6A1827C435A296A" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609224">
@@ -21334,6 +22443,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verpachting door Lambrecht Michghyelszoon van Tardwijc van een stuk land 't kromme stuc aan Andries den Smyt, 1404. 1 charter</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/2493F0E9FFE64703B97E8DE47BEE3EB9" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609225">
@@ -21353,6 +22476,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verpachting door Henric Dyrc van der Heijden en zijn zuster Bate van een kamp erf in Evershude (Everse) aan Hebrechte zoon van Arnts Herberthssoen, 1405</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/7CB3F7C1EB6C484BB521F7C014BA2EC8" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609226">
@@ -21372,6 +22509,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van transport door Symoen zoon van Henric van den Venne van een streep land in Houtem in die Hage nabij de Hoelstraat en een stuk land die prangghe aldaar aan Janne Janssoen van Houtem, 1406</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/6FF0C403CC214A869A08657B4F4C5CB5" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609227">
@@ -21391,6 +22542,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop voor schepenen van Den Bosch door Theodericus van Os van een erfcijns uit een huis, hofstad en tuin gelegen op 't Sant aan Theodericus van Rooy, 1409</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/98589B4D0B2543EE961787216A6741CB" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609228">
@@ -21410,6 +22575,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop voor schepenen van Den Bosch door Symon Symonszoon van den Broec van een erfcijns uit zijn huis en tuin gelegen in de Vrijheid aan zijn broer Arnoldus, 1409</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/E23B87EB95504948A713201A325E8860" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609229">
@@ -21429,6 +22608,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verklaring door Jan Arntszoon Bosch inzake een erfpacht uit een huis en landerijen gelegen op de Coevering door hem te betalen aan Marcelijs van den Velde, 1411</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/9CD2033FA0114FCB904491059C6CD8D4" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609230">
@@ -21448,6 +22641,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verpachting voor schepenen van den Bosch door Solonia, Heilwigis en Katharina dochters van Jordanus Gerardus Tymmerman van een gedeelte kamp op Everschoet aan Thomas van Everschoet, 1413</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/BC5C1E03673B4B69A23AD90F048E7DFE" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609231">
@@ -21467,6 +22674,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van aankoop en verhuur voor schepenen van Den Bosch door Heymericus Croy van een huis en tuin aan Marselius van den Velde en zijn vrouw en kinderen, 1421</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/C9C8A57DCC0940F1A450468A61A53435" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609232">
@@ -21486,6 +22707,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop door Gijlijs, Jan en Lambrecht zonen van Colen van de Venne van enkele stukken land in Rode aan Jan den Pulser, 1424</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/EC668478117C41AC9A5F511CB3DD2D57" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609233">
@@ -21505,6 +22740,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop door Wouter van Bruegel genaamd Van Vroenhoeven van een erfpacht uit een huis, hofstad en erf in Eerschot aan het kerkpad aan Jan den Bruyn Gerytssoen wilner van Vechel, 1439</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/0D7D027F72914FBAAFBC9B813AFB5F49" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609234">
@@ -21524,6 +22773,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Testament van Elisabeth, echtgenote van Johannes Hubertus, in haar woonhuis op audenhuls te Sint-Oedenrode, 1440</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/1CA184748A5647B294499F0A38257D5D" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609235">
@@ -21543,6 +22806,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop voor schepenen van Den Bosch door Rutgerus van Griensvenne van een jaarlijkse pacht uit goed genaamd Onstaden aan Johannes zoon van Johannes Matijszoon Svleeshouwers, 1444</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/2776C9A4317D4E119569636899587845" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609236">
@@ -21562,6 +22839,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop door Loye van der Dauredonc van een pond jaargeld voor een ven bij die Pijnhorst te Houtem en ook een daarbij gelegen stuk land aan Lambrecht van Tardwijc, 1444</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/7A4F04C0E49445B88690093B89E37345" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609237">
@@ -21581,6 +22872,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop voor schepenen van Den Bosch door prior Arnoldus Roelofs van een erfcijns uit een weiland de Colencamp gelegen in Eerde aan meester Martinus van Zoemeren, 1448</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/BEEAB49AEB9F4C11BCE82B3DF77B5C3C" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609238">
@@ -21600,6 +22905,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van afkoop door Jan Maes Maes Noerartszoon van het recht van naderschap inzake twee stukken land te Vritsel (Vressel), welke Maes wilner Maes Noerarts heeft verkocht aan Pouwels Korstken Hannenzoon, 1453</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/1003D039C6804734BA5CDB08DEC82088" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609239">
@@ -21619,6 +22938,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop voor schepenen van Den Bosch door Petrus Emondus van der Vallen van een erfpacht over een akker gelegen op Veretsel (Vressel?) aan Arnoldus Wautgerus Wouterssoen, 1456</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/D0C92AA4E85C45BCAC050142DC2F2024" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609240">
@@ -21638,6 +22971,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop voor schepenen van Den Bosch door de kinderen en erfgenamen van Gerardus van Gerwen en Hillegindis Gerardus Cuers aan hun zuster Gerarda hun eigendom in weilanden Koeweyde en den Hooghen Noel en in een erfcijns uit een huis, erf en tuin in de Moelenstraat, 1556</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/CC4D266406E6451EB6603214D0C40A2E" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609241">
@@ -21657,6 +23004,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van gelofte voor schepenen van Tilburg en Goirle door Mathijsz Jans van Eijnde inzake een jaarlijkse erfpacht aan Katherijnen Gijs Peters, 1513</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/894125F0C1C24BCD8E65B2A852B8561A" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609242">
@@ -21677,6 +23038,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Schuldbekentenis van het stadsbestuur van Den Bosch inzake de jaarlijkse lijfrente van 10 florijnen te vergelden aan Willem en Anna kinderen van Peters die Borchgreeff Peters, 1516</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/4336C831751E495D93FEF9AD8FC0B8B0" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609243">
@@ -21696,6 +23071,20 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte verkoop voor schepenen van Den Bosch door Lambertus Theodoricus Remmens van een erfpacht in Ollant, uit een hoeve land genaamd Holaer en een kamp bij de heide, aan Ghijsbertus van de Velde ten behoeve van Jacob Henrixs van Hout, 1589</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/0AF0EB6E7A644688BCB399DACE6C3DCC" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609244">
@@ -21715,6 +23104,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van verkoop voor schepenen van Sint-Oedenrode door Peter Peter Anthonissen van den Laeck aan Laurens Daniel Sichmans van Son en Jan Jan Goortsen, elk de helft van een hooibeemd op Sweensbergen, 1644</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/FF49242C3F904699AC6AD8287181187F" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="otherlevel" otherlevel="filegrp">
                 <did id="MF1609245">
@@ -21742,6 +23139,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Akten van verkoop voor schepenen</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/0E4991DD34274477B2F0280776E1B53E" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1609247">
@@ -21757,6 +23162,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Akten van verkoop voor schepenen</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/191837EB5664414B8D2DCB691A7B54E3" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
               </c05>
               <c05 level="file">
@@ -21777,6 +23190,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van erfdeling voor gecommitteerde en schepenen tussen Johan Babtis Beijs, schout van Weert en Gijsbert Dries Heijmans inwoner van Sint-Oedenrode, 1687</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/7DA6935C78B54648AC4AE85D8B2A8DA6" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609249">
@@ -21796,6 +23217,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van geldlening voor schepenen van Den Bosch door Maria Willem Kerkhoff, weduwe van Lambert Theijssen Versantvoort te Sint-Oedenrode van juffrouw Catharina van Keulen te 's-Hertogenbosch onder hypothecair verband van onroerende goederen te Liempde en Sint-Oedenrode; afgelost, 1769-1770</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/96BDB7B017B14B448D3C65D36AB17513" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609250">
@@ -22189,6 +23618,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Garantiebewijs voor het dorpsbestuur wegens een brandspuit geleverd door Arnoldus Sluijers, brandspuitmaker en koperslager te Helmond, geldig tot tien jaar na dagtekening, 1777</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/8E8F7C0832DB43888F762A33647B1501" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609282">
@@ -22383,6 +23820,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Stukken betreffende registratie en inschrijving van ingezetenen, met vermelding van wijk, huisnummers, namen, ouderdom en vermogen van de contribuanten, 1798-1799</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/4925F55AE65848E284A8B8E860C60766" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609297">
@@ -22664,6 +24109,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Verzoekschrift van het gemeentebestuur aan koning Lodewijk Napoleon om de Dommel bevaarbaar te doen maken ter bevordering van de onderlinge communicatie der vele dorpen en tot bloei van de koophandel en landbouw, (c. 1807)</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/12F9D44D890F46B68DE1FFDD009461AE" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609320">
@@ -22680,6 +24133,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Stukken betreffende het bevaarbaar maken van de Dommel en het aanleggen van een straatweg door de kom van het dorp, 1807</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/10A56E4B628F40ED894DA535E0851E9C" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
             </c04>
             <c04 level="subseries">
@@ -22704,6 +24165,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van aanbesteding (voor schepenen) van het onderhoud van de hoge vonder(brug) aangenomen door Ariaen Pauwels, 1685</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/896E0793D0E2485E837606FF7059FD68" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609323">
@@ -22720,6 +24189,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Bestek voor de aanbesteding van de vernieuwing van de Molenbrug, concept, (c. 1700)</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/AE0C60476F0E4A318672914849712B74" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609324">
@@ -22879,6 +24356,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>1659</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/15DF2352A12C4451BAB0009578E4141E" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1609337">
@@ -23167,6 +24652,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>1785</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/6B298527BF9246A99CB00034500E8F70" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1609358">
@@ -23225,6 +24718,14 @@
                   <odd type="REDEN GEEN UITLEEN">
                     <p>Scans beschikbaar</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>1789</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/7C9172FD2D654BF2909F9F26F4C3DEE4" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1609362">
@@ -23609,6 +25110,14 @@
                 <odd type="OPMERKING SCANS">
                   <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Brief van de ontvangers der gemene middelen over de 4 kwartieren van de Meierij aan het dorpsbestuur inzake het ijken van de "molsterpannen", dwz. maatjes waarmee molenaars hun maalloon scheppen, 1790</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/4C174411560540D1A177F9EF4E91EED4" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609391">
@@ -23772,6 +25281,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akte van commissie voor leden van de Raad van State waarbij Mathijs Ernest tot koster, schoolmeester, voorlezer en voorzanger te Sint-Oedenrode wordt aangesteld, als opvolger van A. Webster, 1747</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/636A9DE961D74F6B804A485DFD5A848D" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609404">
@@ -23997,6 +25514,14 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Akten van openbare aanbesteding voor schepenen van Schijndel, Sint-Oedenrode en Veghel van reparatie en vernieuwing volgens bestekken aan het schoolhuis te Eerde, 1763-1785</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/216056546DFF4EF3BAED0C84F3E078E6" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF1609421">
@@ -24407,6 +25932,14 @@
                   <odd type="VINDPLAATS ORIGINEEL">
                     <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                   </odd>
+                  <daogrp xlink:type="extended">
+                    <daodesc>
+                      <p>Stukken betreffende vordering van leveranties, pioniers en voerlieden voor de geallieerden o.a. op aanschrijving van baron W. van Haren als gecommitteerde te velde voor de Staten- Generaal in het hoofdkwartier te Oudenbosch, in verband met beleg en inname van Bergen op Zoom door het Franse leger in Brabant, 1747</p>
+                    </daodesc>
+                    <resource xlink:type="resource" xlink:label="start"/>
+                    <daoloc xlink:href="https://proxy.archieven.nl/235/77414C5EC4B44FECAF838D6091663404" xlink:type="locator" xlink:label="reference"/>
+                    <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                  </daogrp>
                 </c06>
                 <c06 level="file">
                   <did id="MF1609454">
@@ -25671,6 +27204,14 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Cornelissen, W.H. Ontlastbrieven van Sint Oedenrode voor ingekomen en vertrokken personen uit &lt;br/&gt;de jaren 1719 1810. eigen uitgave Sint Oedenrode/Veghel; met klapper van persoonsnamen, 1979</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E82171B438964297B1C432BE7E884BBC" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF10937468">
@@ -25687,6 +27228,14 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>"Caart figuratief, van de verdeelingen en grensscheydingen van den Bodem van Elde" &lt;br/&gt;dd 11.5.1802 tussen de gezworenen van Sint-Michielsgestel, Boxtel, Sint Oedenrode en &lt;br/&gt;Schijndel, door Hendrik Verhees getekend (1803); met bijgevoegde explicatie en klappers               op persoons  en plaatsnamen, door M. Rovers van Streekarchivariaat Langs Aa en Dommel te Veghel, 1986</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/13F02E56CC544FDF8881219570F68846" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF10937469">
@@ -25700,6 +27249,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Stukken betreffende o.m. de families Raaijmakers en Couwenberg inzake de hoeve Ten Nieuwen Bogaert onder Vernhout cq. Varenhout, met aantekening van de heer F. Brekelmans: 'aan mij geschonken door C. Brok, hist.cand. te Breda in sep 1953, welke de stukken kreeg van een dispuutgenoot, die de stukken verwierf uit de boedel van de N.S.B.-burgemeester Tolhoek ';&lt;br/&gt;hierbij 8 charters en 2 testamenten, 1613-1811 (1817, 1819)</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D8899011A2514826853DE74BF0ADAE80" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="otherlevel" otherlevel="filegrp">
           <did id="MF19022208">
@@ -25769,6 +27326,12 @@
           <dsc>
             <p altrender="regest_nb">Insertie in inv.nr. 87 &lt;br/&gt;Uitgegeven in H.P.H. Camps (ed.), Oorkondenboek van Noord-Brabant I, 241-242</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609517">
@@ -25788,6 +27351,12 @@
           <dsc>
             <p altrender="regest_nb">Insertie in inv.nr. 87 &lt;br/&gt;Afschrift van authentiek afschrift inv.nr. 88 &lt;br/&gt;Uitgegeven in H.P.H. Camps (ed.), Oorkondenboek van Noord-Brabant I, 495-502</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609518">
@@ -25807,6 +27376,12 @@
           <dsc>
             <p altrender="regest_nb">Insertie in inv.nr. 87 &lt;br/&gt;Kopie inv.nr. 89 &lt;br/&gt;Uitgegeven in H.P.H. Camps (ed.), Oorkondenboek van Noord-Brabant I, 1039-1040</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609519">
@@ -25826,6 +27401,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 890 &lt;br/&gt;Insertie in inv.nr. 87&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609520">
@@ -25845,6 +27426,12 @@
           <dsc>
             <p altrender="regest_nb">Authentieke kopie inv.nr. 90 &lt;br/&gt;Insertie in inv.nr. 87</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609521">
@@ -25864,6 +27451,12 @@
           <dsc>
             <p altrender="regest_nb">Insertie in inv.nr. 87</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609522">
@@ -25883,6 +27476,12 @@
           <dsc>
             <p altrender="regest_nb">Kopie inv.nr. 87</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609523">
@@ -25902,6 +27501,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 891&lt;br/&gt;Met fragment van een schepenzegel</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609524">
@@ -25921,6 +27526,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 892&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609525">
@@ -25940,6 +27551,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 893&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609526">
@@ -25959,6 +27576,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 894&lt;br/&gt;De zegels zijn beschadigd</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609527">
@@ -25978,6 +27601,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 895&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609528">
@@ -25997,6 +27626,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 896&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609529">
@@ -26016,6 +27651,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 897&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609530">
@@ -26035,6 +27676,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 898&lt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609531">
@@ -26054,6 +27701,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 899&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609532">
@@ -26073,6 +27726,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 900&lt;br/&gt;De zegels zijn licht beschadigd</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609533">
@@ -26092,6 +27751,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 901&lt;br/&gt;De zegels zijn licht beschadigd</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609534">
@@ -26111,6 +27776,12 @@
           <dsc>
             <p altrender="regest_nb">Authentieke kopie inv.nr. 91</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609535">
@@ -26130,6 +27801,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 902&lt;br/&gt;Met fragment van een schepenzegel</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609536">
@@ -26149,6 +27826,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 903&lt;br/&gt;Met twee schepenzegels</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609537">
@@ -26168,6 +27851,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 904&lt;br/&gt;De zegels zijn beschadigd</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609538">
@@ -26187,6 +27876,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 905&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609539">
@@ -26206,6 +27901,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 906&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609540">
@@ -26225,6 +27926,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 907&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609541">
@@ -26244,6 +27951,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 908&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609542">
@@ -26263,6 +27976,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 909&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609543">
@@ -26282,6 +28001,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 910&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609544">
@@ -26301,6 +28026,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 911</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609545">
@@ -26320,6 +28051,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 912&lt;br/&gt;De zegels zijn zwaar beschadigd</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609546">
@@ -26339,6 +28076,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 913&lt;br/&gt;Het zegel is verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609547">
@@ -26358,6 +28101,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 914&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609548">
@@ -26377,6 +28126,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 915&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609549">
@@ -26396,6 +28151,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 916&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609550">
@@ -26415,6 +28176,12 @@
           <dsc>
             <p altrender="regest_nb">Authentieke kopie inv.nr. 112</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609551">
@@ -26434,6 +28201,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 917&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609552">
@@ -26453,6 +28226,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 918&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609554">
@@ -26472,6 +28251,12 @@
           <dsc>
             <p altrender="regest_nb">Authentieke kopie van authentieke kopie inv.nr. 121</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609555">
@@ -26491,6 +28276,12 @@
           <dsc>
             <p altrender="regest_nb">Authentieke kopie en kopie inv.nr. 93</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609556">
@@ -26510,6 +28301,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr 121&lt;br/&gt;Het zegel is verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609557">
@@ -26529,6 +28326,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 94&lt;br/&gt;Het zegel is verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609558">
@@ -26548,6 +28351,12 @@
           <dsc>
             <p altrender="regest_nb">Kopie in vidimus inv.no. 112</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609559">
@@ -26567,6 +28376,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 920</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609560">
@@ -26586,6 +28401,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 921&lt;br/&gt;Het zegel is verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609561">
@@ -26605,6 +28426,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 1077&lt;br/&gt;Het zegel is verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609562">
@@ -26624,6 +28451,12 @@
           <dsc>
             <p altrender="regest_nb">Authentieke kopie inv.nr. 495</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609563">
@@ -26643,6 +28476,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 537&lt;br/&gt;Met drie beschadigde zegels</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609553">
@@ -26662,6 +28501,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 919&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609564">
@@ -26681,6 +28526,12 @@
           <dsc>
             <p altrender="regest_nb">Authentieke kopie inv.nr. 127</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609565">
@@ -26700,6 +28551,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 922&lt;br/&gt;De zegels zijn verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609566">
@@ -26719,6 +28576,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 95&lt;br/&gt;Het zegel is verloren</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609567">
@@ -26738,6 +28601,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 492&lt;br/&gt;Het zegel is beschadigd</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="otherlevel" otherlevel="Regest">
           <did id="MF1609568">
@@ -26757,6 +28626,12 @@
           <dsc>
             <p altrender="regest_nb">Origineel inv.nr. 493&lt;br/&gt;Het zegel is beschadigd</p>
           </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
       </c01>
     </dsc>

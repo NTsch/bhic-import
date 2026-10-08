@@ -1,0 +1,1324 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>1DB4B354CF9042E69B9F00FA946F342F</identifier>
+    <datestamp>2026-09-14</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HtBHIC">7744</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Kerken van Rode en Eerschot in Sint-Oedenrode, 1407-1801</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+        <date calendar="gregorian" era="ce" normal="2021">2021</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF1572632">
+      <unittitle>Kerken van Rode en Eerschot in Sint-Oedenrode, 1407-1801</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-HtBHIC">7744</unitid>
+      <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1DB4B354CF9042E69B9F00FA946F342F</unitid>
+      <unitdate calendar="gregorian" era="ce" normal="1407/1801"/>
+      <note label="Vindplaats origineel">
+        <p>BHIC 's-Hertogenbosch</p>
+      </note>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Religie en Levensbeschouwing</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did id="MF1618606">
+          <unitid type="guid">E91FB39D886048AE989AEDB7A88EA970</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Concordans</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1407/1801"/>
+        </did>
+        <c02>
+          <did id="MF1618607">
+            <unitid type="guid">09631AED907F488EBC80B9F5DCD6EE09</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>Kerk van Eerschot</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618608">
+            <unitid type="guid">432A1068B8024E85A64293B37EB0DB94</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>Oud; nieuw</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618609">
+            <unitid type="guid">E0AA34D8F38945BC8CD6757DDB209878</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>1; 1377</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618610">
+            <unitid type="guid">98AD36C0885C4D02BDA6DEF2B9659AD0</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>2; 1379</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618611">
+            <unitid type="guid">0B8050EE70B0461BAF86E0BA4FDABC7F</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>3; 1381</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618612">
+            <unitid type="guid">894060CC2156442EA0EE913BA49B4304</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>4; 1382</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618613">
+            <unitid type="guid">ED3080B140CB438EA94E52BDC1CE8DC4</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>5; 1383</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618614">
+            <unitid type="guid">401BF27F151C465591FD792914C346EB</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>6-42; 1386-1422</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618615">
+            <unitid type="guid">50B45071827449168378091ADF1DE6A0</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>43-59; 1423-1441</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618616">
+            <unitid type="guid">E58B2C2A03BD4899BA8298B0E8D6733F</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>91; 1201</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618617">
+            <unitid type="guid">89DC9BE8590748B38463FECC231F4F8A</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>92; 1179</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618618">
+            <unitid type="guid">6E65394BEE384FF08F17D62B3EF52915</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>93; 919</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618619">
+            <unitid type="guid">877CFDCE701B4470A7132AAD24029C25</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>95; 1206-1207</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618620">
+            <unitid type="guid">C0CC09E3168942499B74FA17D08F5060</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>96; 1184</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618621">
+            <unitid type="guid">B6936F9099FD4FE28D8BF8C89160D12D</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>97; 1202</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618622">
+            <unitid type="guid">4D447FB1E83D446F9075130F793E4047</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>98; 1204</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618623">
+            <unitid type="guid">EDAA15A449EC453A99C3CE8BAF75034B</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>99; 1205</p>
+          </dsc>
+        </c02>
+        <c02>
+          <did id="MF1618624">
+            <unitid type="guid">E7CAD625CA494FD285107FB20193F3BD</unitid>
+          </did>
+          <dsc type="othertype">
+            <p>100; na 1810</p>
+          </dsc>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF1618625">
+          <unitid type="guid">31C8D8D98CD14645A094C24FE5C43920</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Kapittelkerk</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1407/1588">1407-1588.</unitdate>
+        </did>
+        <scopecontent>
+          <p>(De kapittelkerk van de H. Oda lag bij de burgt van Rode en is een particuliere stichting door de gravin van Rode. Was gelegen in het dorpscentrum ter plaatse van de huidige H. Martinuskerk)</p>
+        </scopecontent>
+        <c02 level="file">
+          <did id="MF1618626">
+            <unitid type="guid">018B5D55718240D5AFF2C3E3F30D2030</unitid>
+            <unitid>1376</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/018B5D55718240D5AFF2C3E3F30D2030</unitid>
+            <unittitle>Akte van schenking voor schepenen van Sint-Oedenrode door Lucas van Erp, schildknaap en burger van 's-Hertogenbosch, aan Martinus die Rode, ten behoeve van de dekens, kanunniken en pastoors van de kapittelkerk en aan de schepenen en inwoners van Rode, van de toegangsweg vanaf het kerkhof tot het kerkplein, gewoonlijk genoemd 't Sant, 1407</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1407">1407</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>[zie regest 25]</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van schenking voor schepenen van Sint-Oedenrode door Lucas van Erp, schildknaap en burger van 's-Hertogenbosch, aan Martinus die Rode, ten behoeve van de dekens, kanunniken en pastoors van de kapittelkerk en aan de schepenen en inwoners van Rode, van de toegangsweg vanaf het kerkhof tot het kerkplein, gewoonlijk genoemd 't Sant, 1407</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/018B5D55718240D5AFF2C3E3F30D2030" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF1618627">
+            <unitid type="guid">CBCC3F1DA27348748A77690E092C668B</unitid>
+            <unitid>1377</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CBCC3F1DA27348748A77690E092C668B</unitid>
+            <unittitle>Testament van Jordanus, zoon van Johannes Broecmans alias Loobe, waarbij diverse schenkingen worden gedaan, o.a. voor de reparatie van de nieuwe kerktoren, 1444</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1444">1444</unitdate>
+            <physdesc>1 charter</physdesc>
+            <unitid type="obsolete">1</unitid>
+          </did>
+          <scopecontent>
+            <p>[zie regest 36]</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Testament van Jordanus, zoon van Johannes Broecmans alias Loobe, waarbij diverse schenkingen worden gedaan, o.a. voor de reparatie van de nieuwe kerktoren, 1444</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CBCC3F1DA27348748A77690E092C668B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF1618628">
+            <unitid type="guid">6BE2D5621D114ADABB6BDFF789ED3226</unitid>
+            <unitid>1378</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6BE2D5621D114ADABB6BDFF789ED3226</unitid>
+            <unittitle>Akte van transport voor schepenen van Den Bosch, door Barbara van Vlimmeren van een aandeel in twee hofsteden en erven in de aude straet, aan heer meester Wouteren van der Elst, vice-decanus en kannunnik ter plaatse, 1588</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1588">1588</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>[zie regestno 69]</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <odd type="REDEN GEEN UITLEEN">
+            <p>Scans beschikbaar</p>
+          </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van transport voor schepenen van Den Bosch, door Barbara van Vlimmeren van een aandeel in twee hofsteden en erven in de aude straet, aan heer meester Wouteren van der Elst, vice-decanus en kannunnik ter plaatse, 1588</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6BE2D5621D114ADABB6BDFF789ED3226" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF1618629">
+          <unitid type="guid">1BB10BEB78884DCEB10F30029F429966</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Van de Eerschotse kerk tot 1648; waarna de Hervormden de kerk hebben gebruikt</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1648/1800">1648-1800</unitdate>
+        </did>
+        <scopecontent>
+          <p>De parochiekerk van Eerschot heet vóór 1648: H. Martinuskerk. (ter plaatse van de Hervormde kerk gelegen aan de Dommel)</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did id="MF1618630">
+            <unitid type="guid">E2C95DB1D5B04B7BBDA82059AE7FE6DE</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Algemeen</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1648/1800"/>
+          </did>
+          <c03 level="file">
+            <did id="MF1618631">
+              <unitid type="guid">4172AA6525354700A8E89262C9778412</unitid>
+              <unitid>1379</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4172AA6525354700A8E89262C9778412</unitid>
+              <unittitle>Akte van schenking voor schepenen door Aert van Lijt en zijn kinderen Gielis en Aleit aan de vicaris van de parochiekerk van Eerschot (Dirck Michielss) en aan de provisor van die kerk(Michiel van Tardwijck) van een huis, hof, hofstat en erf genaamd Wasselaer te Eerde, 1462</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1462">1462</unitdate>
+              <physdesc>1 charter</physdesc>
+              <unitid type="obsolete">2</unitid>
+            </did>
+            <scopecontent>
+              <p>[zie regestno 43]</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <odd type="REDEN GEEN UITLEEN">
+              <p>Scans beschikbaar</p>
+            </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van schenking voor schepenen door Aert van Lijt en zijn kinderen Gielis en Aleit aan de vicaris van de parochiekerk van Eerschot (Dirck Michielss) en aan de provisor van die kerk(Michiel van Tardwijck) van een huis, hof, hofstat en erf genaamd Wasselaer te Eerde, 1462</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/4172AA6525354700A8E89262C9778412" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF1618632">
+              <unitid type="guid">049590B771F749B3B74D3BE33F177C45</unitid>
+              <unitid>1380</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/049590B771F749B3B74D3BE33F177C45</unitid>
+              <unittitle>Akte van overeenkomst met aannemer Jan Sondach om werkzaamheden te verrichten aan de kerk van Eerschot, 1619</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1619">1619</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF1618633">
+              <unitid type="guid">ECB5371FD6CE4E2C9D26001D6600CE7D</unitid>
+              <unitid>1381</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/ECB5371FD6CE4E2C9D26001D6600CE7D</unitid>
+              <unittitle>Akte van verklaring voor schepenen door jonker R Hyacinth Daly, president van de leenbank en schepen Willem Haubraken die op verzoek van de predikant bevestigen dat de reparatie van de parochiekerk van ouds betaald is uit de dekenstiende zoals bij de fundatie is vastgesteld, 24.6.1671</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1671">24.6.1671</unitdate>
+              <physdesc>1 stuk</physdesc>
+              <unitid type="obsolete">3</unitid>
+            </did>
+            <scopecontent>
+              <p>met vrijheidszegel</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF1618634">
+              <unitid type="guid">B3677A13C8854B8799CE9C48787C7C2B</unitid>
+              <unitid>1382</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B3677A13C8854B8799CE9C48787C7C2B</unitid>
+              <unittitle>Authentiek uittreksel uit de resoluties van de Raad van State inzake de kosten van onderhoud van de kerken te SO, 7.9.1740</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1740">7.9.1740</unitdate>
+              <physdesc>1 stuk</physdesc>
+              <unitid type="obsolete">4</unitid>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF1618635">
+              <unitid type="guid">EA5FC3CD310644EDA75CEC5B13DC29E6</unitid>
+              <unitid>1383</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EA5FC3CD310644EDA75CEC5B13DC29E6</unitid>
+              <unittitle>Bekendmakingen van kerkmeester Bastiaan van Heijst dat te zijner huize cijnzen en pachten van de parochiekerkgoederen moeten worden betaald op lichtmisdag (2 feb), 1759-1761</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1759/1761">1759-1761</unitdate>
+              <physdesc>1 omslag</physdesc>
+              <unitid type="obsolete">5</unitid>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF1618636">
+              <unitid type="guid">CF1FDFC922E34B23A4D247EB644B658D</unitid>
+              <unitid>1384</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CF1FDFC922E34B23A4D247EB644B658D</unitid>
+              <unittitle>Declaratie van Peter van Aerle voor het maken van een graf in de grote kerk, 1780</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1780">1780</unitdate>
+              <physdesc>1 stuk</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+          <c03 level="file">
+            <did id="MF1618637">
+              <unitid type="guid">9C33421A98424CF19631887C92979F51</unitid>
+              <unitid>1385</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9C33421A98424CF19631887C92979F51</unitid>
+              <unittitle>Besluit van de Eerste Kamer van het Vertegenwoordigend Lichaam van het Bataafse volk betreffende het verzoekschrift van de commis-sarissen van het R.K. kerkgenootschap te Sint-Oedenrode om de Sint-Maartenskerk aan het Hervormd kerkgenootschap te laten en de Sint-Odakerk met pastoriegebouwen aan het R.K. kerkgenootschap toe te wijzen; met gunstige beschikking en bekrachtiging door de 2de Kamer, afschrift, 1801</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1801">1801</unitdate>
+              <physdesc>1 katern</physdesc>
+            </did>
+            <scopecontent>
+              <p>Zie ook inv.no. 161</p>
+            </scopecontent>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF1618638">
+            <unitid type="guid">D1D8824CE04D4D278ED9A4FBA22E7603</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Rekeningen</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1648/1800"/>
+          </did>
+          <c03 level="otherlevel" otherlevel="filegrp">
+            <did id="MF1618639">
+              <unitid type="guid">BE3C86ECD6C54B1A8A899979F9F67B92</unitid>
+              <unitid>1386-1422</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BE3C86ECD6C54B1A8A899979F9F67B92</unitid>
+              <unittitle>Kerkrekeningen, lopende over boekjaren van lichtmis tot lichtmis (2 feb)</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1659/1800">1659-1800.</unitdate>
+              <physdesc>37 omslagen</physdesc>
+            </did>
+            <c04 level="file">
+              <did id="MF1618640">
+                <unitid type="guid">7E7412A5A7BE455AA90822007AADF269</unitid>
+                <unitid>1386</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7E7412A5A7BE455AA90822007AADF269</unitid>
+                <unittitle>1659/1660(1662)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1659/1662"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618641">
+                <unitid type="guid">6E27BB433D2E4C009E2D5B77A6292A42</unitid>
+                <unitid>1387</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6E27BB433D2E4C009E2D5B77A6292A42</unitid>
+                <unittitle>1665/1668</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1665/1668"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618642">
+                <unitid type="guid">AA468FC232154CD081BC27607DB34A53</unitid>
+                <unitid>1388</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/AA468FC232154CD081BC27607DB34A53</unitid>
+                <unittitle>1683/1684/1685)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1683/1685"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618643">
+                <unitid type="guid">61544382CB834BA9964F5C0178A062B5</unitid>
+                <unitid>1389</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/61544382CB834BA9964F5C0178A062B5</unitid>
+                <unittitle>1693/1694(1695)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1693/1695"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618644">
+                <unitid type="guid">A21B95CCC78C4911B2DFBA497735DFDF</unitid>
+                <unitid>1390</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A21B95CCC78C4911B2DFBA497735DFDF</unitid>
+                <unittitle>1698/1699(1701)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1698/1701"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618645">
+                <unitid type="guid">B665C9D447244F4F9CBB904B5CD17243</unitid>
+                <unitid>1391</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B665C9D447244F4F9CBB904B5CD17243</unitid>
+                <unittitle>1703/1704(1706)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1703/1706"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618646">
+                <unitid type="guid">9FD66B1752A041E491D278F99CC14165</unitid>
+                <unitid>1392</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9FD66B1752A041E491D278F99CC14165</unitid>
+                <unittitle>1705/1706</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1705/1706"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618647">
+                <unitid type="guid">12C993112DA74CA79BF6A8986650287D</unitid>
+                <unitid>1393</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/12C993112DA74CA79BF6A8986650287D</unitid>
+                <unittitle>1709/1710(1713)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1709/1713"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618648">
+                <unitid type="guid">6F0706F288F94637B33781AF02ED5C7A</unitid>
+                <unitid>1394</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6F0706F288F94637B33781AF02ED5C7A</unitid>
+                <unittitle>1719/1720(1727)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1719/1727"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618649">
+                <unitid type="guid">986F330B283C4EC881E368CD4FBDDBF9</unitid>
+                <unitid>1395</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/986F330B283C4EC881E368CD4FBDDBF9</unitid>
+                <unittitle>1721/1722(1728)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1721/1728"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618650">
+                <unitid type="guid">5521BA911BB6436AACB03950B76A21A3</unitid>
+                <unitid>1396</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5521BA911BB6436AACB03950B76A21A3</unitid>
+                <unittitle>1723/1724(1728)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1723/1728"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618651">
+                <unitid type="guid">4B2E141A5D0F4C2BB1689ADF9DCFD323</unitid>
+                <unitid>1397</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4B2E141A5D0F4C2BB1689ADF9DCFD323</unitid>
+                <unittitle>1725/1726(1728)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1725/1728"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618652">
+                <unitid type="guid">9A9671765742447B9243C0DB3DC22FCC</unitid>
+                <unitid>1398</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9A9671765742447B9243C0DB3DC22FCC</unitid>
+                <unittitle>1727/1728(1730)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1727/1730"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618653">
+                <unitid type="guid">BEFE652BDCF54ED796DF0740E767A58D</unitid>
+                <unitid>1399</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BEFE652BDCF54ED796DF0740E767A58D</unitid>
+                <unittitle>1729/1730(1731)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1729/1731"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618654">
+                <unitid type="guid">35D30DCE522D4446A387ED179E8AF61C</unitid>
+                <unitid>1400</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/35D30DCE522D4446A387ED179E8AF61C</unitid>
+                <unittitle>1731/1732(1734)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1731/1734"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618655">
+                <unitid type="guid">067CD0183C514283BD5E3A1EF98B19D7</unitid>
+                <unitid>1401</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/067CD0183C514283BD5E3A1EF98B19D7</unitid>
+                <unittitle>1733/1734(1737)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1733/1737"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618656">
+                <unitid type="guid">80575761EEB44B5781774C573CFA51BA</unitid>
+                <unitid>1402</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/80575761EEB44B5781774C573CFA51BA</unitid>
+                <unittitle>1734/1739</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1734/1739"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618657">
+                <unitid type="guid">4627C1553AC84F83A06BF34F651E6DD7</unitid>
+                <unitid>1403</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4627C1553AC84F83A06BF34F651E6DD7</unitid>
+                <unittitle>1739/1742</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1739/1742"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618658">
+                <unitid type="guid">3FF11E69B7F94310AFDB1B3FF6AE632B</unitid>
+                <unitid>1404</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3FF11E69B7F94310AFDB1B3FF6AE632B</unitid>
+                <unittitle>1742/1745(1746)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1742/1746"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618659">
+                <unitid type="guid">56AE1DD19CAD49958E9DEF26517100A7</unitid>
+                <unitid>1405</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/56AE1DD19CAD49958E9DEF26517100A7</unitid>
+                <unittitle>1745/1748(1750)</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1745/1750"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618660">
+                <unitid type="guid">29ED5E01FBF54EEB908269343BD0FA3E</unitid>
+                <unitid>1406</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/29ED5E01FBF54EEB908269343BD0FA3E</unitid>
+                <unittitle>1748/1752</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1748/1752"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618661">
+                <unitid type="guid">F49A83C98DA64A8681672D9EC2FFC916</unitid>
+                <unitid>1407</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F49A83C98DA64A8681672D9EC2FFC916</unitid>
+                <unittitle>1752/1755</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1752/1755"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618662">
+                <unitid type="guid">1C7A38BA0E62400782BD9B7433A9437F</unitid>
+                <unitid>1408</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1C7A38BA0E62400782BD9B7433A9437F</unitid>
+                <unittitle>1755/1758</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1755/1758"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618663">
+                <unitid type="guid">C9561CD82111400D88CDA0F2A95822D4</unitid>
+                <unitid>1409</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C9561CD82111400D88CDA0F2A95822D4</unitid>
+                <unittitle>1758/1761</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1758/1761"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618664">
+                <unitid type="guid">36B100C2C3D84D58873DF9DC2AEEA520</unitid>
+                <unitid>1410</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/36B100C2C3D84D58873DF9DC2AEEA520</unitid>
+                <unittitle>1761/1764</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1761/1764"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618665">
+                <unitid type="guid">86880CCE300B42D4A407541BAED610D5</unitid>
+                <unitid>1411</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/86880CCE300B42D4A407541BAED610D5</unitid>
+                <unittitle>1764/1767</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1764/1767"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618666">
+                <unitid type="guid">C71A7B3AA25E484AB182ADF787645A13</unitid>
+                <unitid>1412</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C71A7B3AA25E484AB182ADF787645A13</unitid>
+                <unittitle>1767/1770</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1767/1770"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618667">
+                <unitid type="guid">116EE7559BF74C3BAF3E2A06B049E377</unitid>
+                <unitid>1413</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/116EE7559BF74C3BAF3E2A06B049E377</unitid>
+                <unittitle>1770/1773</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1770/1773"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618668">
+                <unitid type="guid">ACA62FCF2E0046F6886EFA5E7FB089D1</unitid>
+                <unitid>1414</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/ACA62FCF2E0046F6886EFA5E7FB089D1</unitid>
+                <unittitle>1773/1776</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1773/1776"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618669">
+                <unitid type="guid">984F26F22F3148B7BCE9545FFA03F24D</unitid>
+                <unitid>1415</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/984F26F22F3148B7BCE9545FFA03F24D</unitid>
+                <unittitle>1776/1779</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1776/1779"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618670">
+                <unitid type="guid">87A8B3D1EA4B4464B724E420CAEFAA1E</unitid>
+                <unitid>1416</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/87A8B3D1EA4B4464B724E420CAEFAA1E</unitid>
+                <unittitle>1780/1782</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1780/1782"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618671">
+                <unitid type="guid">D4E416793530405BBFCC210EF6733548</unitid>
+                <unitid>1417</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D4E416793530405BBFCC210EF6733548</unitid>
+                <unittitle>1783/1785</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1783/1785"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618672">
+                <unitid type="guid">665258908B4C4C4096510F549181BF4B</unitid>
+                <unitid>1418</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/665258908B4C4C4096510F549181BF4B</unitid>
+                <unittitle>1786/1788</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1786/1788"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618673">
+                <unitid type="guid">207D76A721F34216B399F8FD9B77061B</unitid>
+                <unitid>1419</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/207D76A721F34216B399F8FD9B77061B</unitid>
+                <unittitle>1789/1791</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1789/1791"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618674">
+                <unitid type="guid">2FFE0B102EC249688C2F3E7466A5E5B8</unitid>
+                <unitid>1420</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2FFE0B102EC249688C2F3E7466A5E5B8</unitid>
+                <unittitle>1792/1794</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1792/1794"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618675">
+                <unitid type="guid">D2560FBA3F0A47F88AA3F7F7E5691DA1</unitid>
+                <unitid>1421</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D2560FBA3F0A47F88AA3F7F7E5691DA1</unitid>
+                <unittitle>1795/1797</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1795/1797"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618676">
+                <unitid type="guid">687A24648B6147309F0BC85620129560</unitid>
+                <unitid>1422</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/687A24648B6147309F0BC85620129560</unitid>
+                <unittitle>1798/1800</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1798/1800"/>
+                <unitid type="obsolete">6-42</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF1618677">
+            <unitid type="guid">BF6D2D4AF67F4AD1836627257EB23618</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Bijlagen van de rekeningen</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1648/1800"/>
+          </did>
+          <c03 level="otherlevel" otherlevel="filegrp">
+            <did id="MF1618678">
+              <unitid type="guid">38C7E15CA08B470489DBB2B619DED1D1</unitid>
+              <unitid>1423-1441</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/38C7E15CA08B470489DBB2B619DED1D1</unitid>
+              <unittitle>Bijlagen van de kerkrekeningen</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1692/1800">1692-1800</unitdate>
+              <physdesc>19 omslagen</physdesc>
+            </did>
+            <c04 level="file">
+              <did id="MF1618679">
+                <unitid type="guid">0D2F860686CB4B6A9B1B32273907160B</unitid>
+                <unitid>1423</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/0D2F860686CB4B6A9B1B32273907160B</unitid>
+                <unittitle>1692/1693</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1692/1693"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618680">
+                <unitid type="guid">6BB6F3A442E848FCA9B366941F9B907F</unitid>
+                <unitid>1424</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6BB6F3A442E848FCA9B366941F9B907F</unitid>
+                <unittitle>1725/1726</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1725/1726"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618681">
+                <unitid type="guid">448D66C171CD46CCBE81BA9C3F3E71C9</unitid>
+                <unitid>1425</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/448D66C171CD46CCBE81BA9C3F3E71C9</unitid>
+                <unittitle>1727/1728</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1727/1728"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618682">
+                <unitid type="guid">FD184D3B0EAB4BE09BC3489A29212651</unitid>
+                <unitid>1426</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FD184D3B0EAB4BE09BC3489A29212651</unitid>
+                <unittitle>1733/1734</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1733/1734"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618683">
+                <unitid type="guid">A7F12EEFA2094E99AA838185C7FB4B0C</unitid>
+                <unitid>1427</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A7F12EEFA2094E99AA838185C7FB4B0C</unitid>
+                <unittitle>1734/1739</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1734/1739"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618684">
+                <unitid type="guid">EBC645AE4CF54157B0B617A9C19D32F7</unitid>
+                <unitid>1428</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EBC645AE4CF54157B0B617A9C19D32F7</unitid>
+                <unittitle>1739/1742</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1739/1742"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618685">
+                <unitid type="guid">71389EFB09EA4F0E942F17F111F93309</unitid>
+                <unitid>1429</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/71389EFB09EA4F0E942F17F111F93309</unitid>
+                <unittitle>1742/1745</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1742/1745"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618686">
+                <unitid type="guid">AFE06746EF4E4F559EE5EE01A2C41B1D</unitid>
+                <unitid>1430</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/AFE06746EF4E4F559EE5EE01A2C41B1D</unitid>
+                <unittitle>1745/1748</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1745/1748"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618687">
+                <unitid type="guid">7DF43A5C100C414993735E6EB615F876</unitid>
+                <unitid>1431</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7DF43A5C100C414993735E6EB615F876</unitid>
+                <unittitle>1752/1755</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1752/1755"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618688">
+                <unitid type="guid">E41AB53070864C3EBFA93C2FA36CD530</unitid>
+                <unitid>1432</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E41AB53070864C3EBFA93C2FA36CD530</unitid>
+                <unittitle>1756-1761</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1756/1761"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618689">
+                <unitid type="guid">1BC826B539CA4F18AE870B733DBF0455</unitid>
+                <unitid>1433</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1BC826B539CA4F18AE870B733DBF0455</unitid>
+                <unittitle>1767-1770</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1767/1770"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618690">
+                <unitid type="guid">FE0C159B139D4FBB8F20BAB0C6933F0D</unitid>
+                <unitid>1434</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FE0C159B139D4FBB8F20BAB0C6933F0D</unitid>
+                <unittitle>1770/1773</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1770/1773"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618691">
+                <unitid type="guid">7C13D6846A8F44EBB31BB7511C785351</unitid>
+                <unitid>1435</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7C13D6846A8F44EBB31BB7511C785351</unitid>
+                <unittitle>1773/1776</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1773/1776"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618692">
+                <unitid type="guid">2ADA59A375C44E848D8A08C1A2E6852A</unitid>
+                <unitid>1436</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2ADA59A375C44E848D8A08C1A2E6852A</unitid>
+                <unittitle>1776/1779</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1776/1779"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618693">
+                <unitid type="guid">BAD7C082335144DF9F74A7C720D88B73</unitid>
+                <unitid>1437</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BAD7C082335144DF9F74A7C720D88B73</unitid>
+                <unittitle>1780/1782</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1780/1782"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618694">
+                <unitid type="guid">76CF0CFBD60D46448C526F5780A9B492</unitid>
+                <unitid>1438</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/76CF0CFBD60D46448C526F5780A9B492</unitid>
+                <unittitle>1783/1785</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1783/1785"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618695">
+                <unitid type="guid">6E51595FB6124D7E817F1ADE0EA81463</unitid>
+                <unitid>1439</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6E51595FB6124D7E817F1ADE0EA81463</unitid>
+                <unittitle>1786/1788</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1786/1788"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618696">
+                <unitid type="guid">47AEBABC92624E6E915D17C1D970D40F</unitid>
+                <unitid>1440</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/47AEBABC92624E6E915D17C1D970D40F</unitid>
+                <unittitle>1788/1791</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1788/1791"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+            <c04 level="file">
+              <did id="MF1618697">
+                <unitid type="guid">A1FA5C75DC47446887F231C78219B38A</unitid>
+                <unitid>1441</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A1FA5C75DC47446887F231C78219B38A</unitid>
+                <unittitle>1797/1800</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1797/1800"/>
+                <unitid type="obsolete">43-59</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF1618698">
+          <unitid type="guid">BD488220B3F94D10B49E7FB16E00DD73</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Regesten</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1407/1801"/>
+        </did>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1618699">
+            <unitid type="guid">91C84865DFDE44B7BA6070B38004A920</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">25</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1407-05-14.&lt;br/&gt; Notaris Johannes Brem van Sint-Oedenrode, priester van Luik verklaart dat Lucas van Erp, schildknaap en burger van 's-Hertogenbosch, schenkt aan Martinus die Rode, ten behoeve van de dekens, kanunniken en pastoors van het kapittel van de kerk van Sint Oda in Rode en aan de schepenen en inwoners van Rode: de toegangsweg vanaf het kerkhof tot het kerkplein, gewoonlijk genoemd ''tSant', breed negen en een halve voet, gelegen tussen de erfgoederen van Lucas aan de ene zijde en aan het goed van Johannis Zwert aan de andere zijde, strekkende vanaf het kerkhof achter en bij het huis en erfgoed van Henricus Berben tot aan de gracht, genaamd 'die Boschgrave', met als getuigen onder meer Ghiselbertus de Mena en Petrus Molneer, schepenen van Sint-Oedenrode, Walterus van den Hulze, koster, en Walterus, kamerheer van Lucas</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1407" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_nb">Origineel inv.nr. 1376</p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1618700">
+            <unitid type="guid">56E1364104B74615B4226AAE3F96825E</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">36</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1444-10-02 (?).&lt;br/&gt; Notaris Leonius de Eesch van Sint-Oedenrode verklaart dat Jordanus, zoon van Johannes Broecmans, alias Loobe, zijn testament gemaakt heeft waarin hij zijn uitvaart regelt en schenkt: &lt;br/&gt;1. aan de kerkfabriek van Sint-Lambertus in Luik geld, eenmaal te geven voor onrechtmatig verkregen goederen; &lt;br/&gt;2. aan de kerkfabriek van de parochiekerk van Eerschot voor de reparatie van de nieuwe toren geld, eenmaal te geven; &lt;br/&gt;3. aan de vicaris van deze kerk geld, eenmaal te geven; &lt;br/&gt;4. (onleesbaar) &lt;br/&gt;5. aan de vier bedelorden geld, eenmaal te geven; &lt;br/&gt;6. aan de kerkfabriek van de collegiale kerk geld uit (onleesbaar), in de parochie van Rode in Nijnsel, voor het houden van de jaargetijden, mede ter betaling van de bedienaren, met als getuigen Theodoricus van Erpe, priester, vicaris van de kerk van Eerschot, Henricus Craeij, Wilelmus Craeij, Henricus Roesmont en de koster.</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1444" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_nb">Origineel inv.nr. 1377</p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1618701">
+            <unitid type="guid">86706466F0EB45AA8D931D795DC9BC13</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">43</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1462-12-26.&lt;br/&gt; Dirck van der Porten en Henric Aert Rovers soen, schepenen van Sint-Oedenrode, oorkonden dat Aert van Lijt, zijn zoon Gielis en zijn dochter Aleit opgedragen en overgegeven hebben aan de parochiekerk van Rode een huis, hofstad en hof en erf genaamd 'Wasselaer' te Eerde.</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1462" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_nb">Origineel inv.nr. 1379&lt;br/&gt;Met twee beschadigde schepenzegels</p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+        <c02 level="otherlevel" otherlevel="Regest">
+          <did id="MF1618702">
+            <unitid type="guid">26334EC786A3436392217AE4920D10DB</unitid>
+          </did>
+          <dsc>
+            <p altrender="regest_nummer">69</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_beschrijving">1588-12-10.&lt;br/&gt; Barbara van Vlimmeren heeft overgedragen voor Henrick Fransz van Gestel en Lambert Remmens, schepenen van 's-Hertogenbosch, aan heer meester Wouteren van der Elst, vice-deken en kannunnik ter plaatse: haar aandeel in twee hofsteden en erven bij elkaar gelegen in de parochie van Sint-Oedenrode in de 'aude straet' tussen het erf van het vrouwengasthuis en het erf van Lucas van Nispen ter andere zijde, strekkende van de 'borchgrave' tot aan een gemene 'aude straet'. Zij heeft haar aandeel verkregen van heer Gommaer 't Sas zaliger, eertijds kannunnik van de collegiale kerk ter plaatse.</p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_datering">
+              <date normal="1588" era="ce" calendar="gregorian"/>
+            </p>
+          </dsc>
+          <dsc>
+            <p altrender="regest_nb">Origineel inv.nr. 1378&lt;br/&gt;De zegels zijn verloren&lt;br/&gt;Voor het regest is gebruik gemaakt van de minuut in het rechterlijk archief van 's-Hertogenbosch (R 1406 f. 255)</p>
+          </dsc>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_7744/1DB4B354CF9042E69B9F00FA946F342F_oai_ead.xml-->
+</record>

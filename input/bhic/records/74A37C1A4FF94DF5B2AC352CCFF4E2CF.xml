@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>74A37C1A4FF94DF5B2AC352CCFF4E2CF</identifier>
-    <datestamp>2026-09-04</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -42,6 +42,7 @@
       <controlaccess>
         <head>OAI-PMH set</head>
         <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
       </controlaccess>
       <controlaccess>
         <head>Categorie</head>
@@ -177,6 +178,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van oprichting van de Broederschap van de Rozenkrans in de kerk van St. Remigius te Lithoijen, waaraan Johannes van Eersel als priester verbonden is&lt;br/&gt;, 20 sep 1818</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D9C40D3CD6DA4980933D89277062FF1A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991656">
@@ -203,6 +212,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Beschikkingen van het bisdom om het kerkelijk examen af te nemen bij  zusters uit het St. Norbertusgesticht die de eeuwige geloften (professie) willen afleggen&lt;br/&gt;, 1937-1939</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7BBF3B299FEE4321875A59F21A79FEF2" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991658">
@@ -242,6 +259,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Inventarissen en lijsten van roerende en onroerende goederen, bezittingen en schulden van de parochie van H. Remigius, met bijlagen&lt;br/&gt;, 1855-1955, met hiaten</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F5D67B827E874182B2856CC81A97D9AF" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991661">
@@ -268,6 +293,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Blauwdrukken van detailtekeningen van de voor- en achterdeur, en de trap van de pastorie &lt;br/&gt;te Lithoijen&lt;br/&gt;, c. 1930</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/FA20567BD3D3456EB93F7E3A2C05C4FB" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991663">
@@ -294,6 +327,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Doopboek, 1867-1915</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/65920EBB0CAF48E4A14894FF68BE86CA" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991665">
@@ -323,6 +364,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Rekeningen van ontvangsten en uitgaven van de kerkmeester te Lithoijen, 1806-1807, 1828-1840, 1849</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/967BCA011EC6491BA00B96C4B6F66D56" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991667">
@@ -339,6 +388,14 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Stukken betreffende het koor en de organist van de RK Kerk te Lithoijen, 1866, 1886</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/8940034EC31E443DA5291E8998E32E30" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991668">
@@ -352,6 +409,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Stukken betreffende schuldbekentenissen, obligaties, giften en legaten aan de kerk, 1802-1921</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/43A501B9998B4ED2B746272BE8A6D9D1" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991669">
@@ -365,6 +430,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Register van geprofesten van de Derde Orde van de H. Franciscus verbonden aan &lt;br/&gt;de kerk te Lithoijen&lt;br/&gt;, 1887-1890</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/08121C2588264B76B98E16B4EB5CC69B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991670">
@@ -391,6 +464,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Stukken betreffende het te stichten gemeenschapshuis voor Lithoijen/Teeffelen&lt;br/&gt;, 1969</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F61EEF2975204E668D8FBD12ADF83885" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991672">
@@ -420,6 +501,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Stukken betreffende het beheer van scholen, de verbouwing en verkoop van het Liefdegesticht &lt;br/&gt;aan de zusters, alsmede de eventuele oprichting, bouw en uitbreiding van scholen met onderwijzerswoning te Lithoijen&lt;br/&gt;, 1888, 1891, 1907, 1922-1926, 1931-1932, 1950, 1958-1959</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A10F01462E6542F39B1DC6440E0F5583" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991674">
@@ -481,6 +570,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Stukken betreffende de verkrijging van vergoedingen voor geleden oorlogsschade&lt;br/&gt;, 1947-1949, 1955</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/AE7932BE0BDF4B86AFDC3AAB69988EDC" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991678">
@@ -494,6 +591,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Plattegrond van de hof  met ingetekend struiken, bomen etc.,, 1931</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A9240AC3FB3A4836996477AF433A9292" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991679">
@@ -533,6 +638,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Memoriaal van de parochie H. Remigius te Lithoijen, met los inliggende bijlagen, (1841) 1867-1958</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B51D6CA919544D11B5C6DF79AC4F0DCE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9991682">
@@ -546,6 +659,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akten van aankoop van onroerende goederen, 1838-1839, 1873, 1878, 1892, 1894-1895, 1899</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/8F08F97951FB4FD796566D0A567973C4" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9994393">
@@ -575,6 +696,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Pachtcontracten van het Liefdegesticht met derden, met bijlagen, 1955-1968</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/61C1A3814D4E452F84D6F04612344A2D" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9994395">
@@ -640,6 +769,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van consecratie door bisschop W. van de Ven van de St. Remigius kerk &lt;br/&gt;te Lithoijen en de altaar-relikwieën d.d. 5 augustus&lt;br/&gt;, 1901</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CDEFCE5FB67E4D34B61CF4B7E515C0B3" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9994400">
@@ -653,6 +790,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van oprichting van de Kruisweg in de parochiekerk H. Remigius door pastoor &lt;br/&gt;Hubertus van den Berg, mede ondertekend door W. van Berckel  van de abdij van Berne&lt;br/&gt;, 1901</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/BBC6A7A9BC5545ADA19A495203D90F07" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9994401">
@@ -763,6 +908,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Stukken betreffende de financiële verantwoording van de nieuwbouw van de &lt;br/&gt;kerk in 1901&lt;br/&gt;, 1897-1905</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/58556E86C5F541DE99E68AF7146A99FE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9994408">
@@ -776,6 +929,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Extract uit het register van resoluties van de Staten Generaal  over de &lt;br/&gt;vernieuwing van de schuurkerk te Lithoijen&lt;br/&gt;, 1790</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C3554ABFE2984F3DA51F8E95F931387A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9994409">
@@ -789,6 +950,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verslagen van de vergaderingen van de municipaliteit over de naasting &lt;br/&gt;van de schuurkerk en vroegere bezittingen door de rooms katholieken&lt;br/&gt;, 1798-1810, met hiaten</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F7F751A2B77D4055A263559AF9D33A7D" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9994410">
@@ -821,6 +990,14 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Stukken betreffende het orgel, 1887, 1927</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E9D6B60691F6407E85A87788A51BCFB0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9994412">
@@ -938,6 +1115,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Machtigingen bisschop voor de inrichting en beschildering van kerk en pastorie, 1907, 1909-1910, 1914, 1920-1921, 1928</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/49FF30F3E0244F4997FC24FDA8B99D34" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9994421">
@@ -951,6 +1136,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Benoeming van J.G. Meijs tot pastoor van de parochie H. Remigius te Lithoijen, 1936</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/BBC13FFF69DC4645BEC5BF9453D9F7F6" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF9994422">
@@ -1165,6 +1358,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>'Reekeningboek van de kerk van Lithoijen'; beide zijden begonnen , 1814-1842</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/64D2B4203B9143AC9DE1F93E346230C0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF11237440">
@@ -1255,6 +1456,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Plattegrond van het kerkhof met daarop aangegeven een aantal graven (1857-1946) en namen , c. 1950</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1612D6A2E30A4E5E8B2AEC9BF523CBDE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF12297880">
@@ -1315,6 +1524,12 @@
                 <date normal="1414" era="ce" calendar="gregorian"/>
               </p>
             </dsc>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="otherlevel" otherlevel="Regest">
             <did id="MF10330848">
@@ -1331,6 +1546,12 @@
                 <date normal="1415" era="ce" calendar="gregorian"/>
               </p>
             </dsc>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="otherlevel" otherlevel="Regest">
             <did id="MF10330849">
@@ -1347,6 +1568,12 @@
                 <date normal="1436" era="ce" calendar="gregorian"/>
               </p>
             </dsc>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="otherlevel" otherlevel="Regest">
             <did id="MF10333610">
@@ -1363,6 +1590,12 @@
                 <date normal="1467" era="ce" calendar="gregorian"/>
               </p>
             </dsc>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="otherlevel" otherlevel="Regest">
             <did id="MF10333611">
@@ -1379,6 +1612,12 @@
                 <date normal="1481/1482" era="ce" calendar="gregorian"/>
               </p>
             </dsc>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="otherlevel" otherlevel="Regest">
             <did id="MF10333612">
@@ -1395,6 +1634,12 @@
                 <date normal="1482" era="ce" calendar="gregorian"/>
               </p>
             </dsc>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="otherlevel" otherlevel="Regest">
             <did id="MF10333613">
@@ -1411,6 +1656,12 @@
                 <date normal="1487" era="ce" calendar="gregorian"/>
               </p>
             </dsc>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="otherlevel" otherlevel="Regest">
             <did id="MF10333614">
@@ -1427,6 +1678,12 @@
                 <date normal="1487" era="ce" calendar="gregorian"/>
               </p>
             </dsc>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="otherlevel" otherlevel="Regest">
             <did id="MF10333615">
@@ -1443,6 +1700,12 @@
                 <date normal="1487" era="ce" calendar="gregorian"/>
               </p>
             </dsc>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
         </c02>
         <c02 level="subseries">
@@ -1478,6 +1741,14 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>"Inventarium Littoijense" van de kerk en priesterwoning door pastoor Havens, folio 1-7 boeken, folio 8-29 huisraad etc., 1622</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/DF770135A2CA4C23811786DF5D5DAA2D" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10330664">
@@ -1491,6 +1762,14 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Aantekeningen van W. Hoevenaars uit het archief van de abdij Berne betreffende de historie van de parochie Lithoijen, in het latijn , (968-1803) 1883 aug 18</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/16F71B3AEB0F44A78B8D3F2485D8C4B8" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10330840">
@@ -1751,6 +2030,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van taxatie door schepenen van de dorps- en dingbank Lithoijen op verzoek van Dirk Wouter Coolen inzake een door hem gekochte bouwval van een huis aan de Olijwijk , 1785 okt 22</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/523EE1923B014D24AA0F52BFE92F1042" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333606">
@@ -1806,6 +2093,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Aantekening inzake beschrijving van de parochiekerk met altaren van Lithoijen, in latijn , 1616 jun 5</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/5030398D396A4E5B8F010999DBE48A0B" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
         </c02>
         <c02 level="subseries">
@@ -1834,6 +2129,20 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van overdracht door Theodericus Johanneszn van Bruheze en zijn vrouw Elisabeth dr.v.w. Marcilius van der Ee, weduwe van Emondus Albertuszn gezegd Buc van Lyt, aan Johannes van Beest z.v.w. Arnoldus gezegd Noytenzn van Lyt van in totaal 6 morgen land, nl. 3 morgen in de parochie van Groet-Lyt, (= Lith), alsook een veld van wijlen Willelmus van Beest, ook 3 morgen groot en gelegen in de parochie van Lyt in het Broeck, 1414 mei 16</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/504FD26C839E45159B3E39A44D1EB164" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10330823">
@@ -1854,6 +2163,20 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van overdracht door Johannes van Beest z.v.w. Arnoldus Noytenzn van Lyt aan Rodolphus Berwout 3 morgen, alsook een veld van wijlen Willelmus van Beest, ook 3 morgen groot en gelegen in de parochie van Lyt in het Broeck&lt;br/&gt;, 1415 aug 22</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/86BF5F96A6D4483AB13CCD7B25B52331" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10330824">
@@ -1874,6 +2197,20 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Testament van Oeda, weduwe van Bernardus Artszn, waarbij zij, na aftrek vooraf van de begraafkosten en schulden, vermaakt aan de kerk van S. Lambertus (te Luik) 2 kromstaart eenmalig; aan pastoor Petrus en zijn opvolgers, aan de kerkfabriek en aan de armen van Lithoijen 1 morgen land, door haar als weduwe verworven en gelegen achter in het Broeck, onder voorwaarden &lt;br/&gt;, 1436 mrt 20</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/E57AC9993059491391326702EC6D2C2E" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10331262">
@@ -1894,6 +2231,20 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van overdracht door Theodericus van Vyanen, man van Elisabeth, dr.v.w. Rodolphus Berwout, aan Theodericus van Os de helft van een veld van ca. 6 morgen, gelegen in de parochie van Groet-Lyth (= Lith) in het Litterbroeck, 1467 nov 13</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/A36C838F6C624DCD843D3B806B6E415C" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10331263">
@@ -1914,6 +2265,20 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van overdracht door Henricus z.v.w. Theodericus van Os aan Franco van Langel ten behoeve van Deynaldus z.v.w. Deynaltszn van Vladeracken de helft van een veld van ca. 6 morgen in de parochie van Groet-Lyt (= Lith) in het Litterbroeck, 1482 mrt 15</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/D56C5DF3BD7E4B21BAE9E687836AFBD0" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10331264">
@@ -1934,6 +2299,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van overdracht door Henricus z.v.w. Theodericus van Os zijn helft van een veld van ca. 6 morgen in de parochie van Groet-Lyt (= Lith) in het Lytterbroeck,  had overgedragen aan Franco van Langel ten behoeve van Deynaldus z.v.w. Henricus Deynaltszn van Vladeracken; met 18e eeuws afschrift op perkament &lt;br/&gt;, 1482 apr 12</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/A412859EF48147418C7B0EF324EC1C23" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10331265">
@@ -1954,6 +2327,20 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van verklaring door Dirck van der Graft Reynerszn dat hij zich ten gunste van heer Gherit van Beest, priester en bedienaar van het O.L.Vrouwe-altaar in de kerk van Litoijen, heeft laten richten aan een huis, hof c.a. aldaar, geheten Opten Enge, wegens wanbetaling van een erftijns van 8 pond over 3 jaren, 1487 aug 10</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/5180F54962F74036B82AE2DDB49409B3" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10331266">
@@ -1974,6 +2361,20 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van overdracht door Jan van Beest aan heer Gherit van Beest, priester, van alle rechten, vervat in de akte van 10 aug.1487 (reg. nr.926), waardoor deze akte is gestoken, 1487 (tussen 10 aug. en 25 nov.)</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/8FE930DE5D66466C8181722D2ED5DB41" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10331267">
@@ -1994,6 +2395,20 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van overdracht door heer Gherit van Beest met verlof van de officiaal van Luydíck aan Peter van Maren z.v.w. Peter van Maren van alle rechten vervat in de 2 akten van 10 aug.1487 en (tussen 10 aug. en 25 nov.) 1487 (reg. nrs.926, 927), waardoor deze akte is gestoken, 1487 nov 25</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/189DCEC2460F45A2A7E39CA356582CF5" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333664">
@@ -2011,6 +2426,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Testament, verleden voor notaris Anthonius, zoon van Amelius van Orten, parochiepriester van Lithoijen, van Godfried, zoon van Jan Leent, koster van Lithoijen, waarin hij aan de kerk van Lithoijen verscheidene zaken legateert; in latijn, 1501 sep 27</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/82FD3241EC3A487790A901ECD62D9E49" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10331268">
@@ -2028,6 +2451,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van erfdeling tussen Jan, Peter en Lambert, Heylwich, Eringart en Anna, kinderen van Peters van Maren Petersen en Jenneken Jan Eijckens van goederen te Lithoijen , 1524 jul 19</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/4DF83B9716AB49EC9D56373B8BD9F01F" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10331269">
@@ -2045,6 +2476,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van erfdeling tussen Jan Henricxssen, Zebert Arntssen, Dirck Hermans, man en voogd van Heijlken zijn huisvrouw en Agnees weduwe Heijmericx Arntssen van Cauwen tbv. haar kinderen van het hen nagelaten erfgoed van wijlen Lijsbetten Artsdochter van Cauwen, bestaande uit twee halve morgen land in Lithoijen.    , 1540 sep 27</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/965FDE9922DF443FBF790DDD7EB68DA5" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10331270">
@@ -2062,6 +2501,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van verkoop voor schepenen van ’s-Hertogenbosch door Everard, zoon van Matthias Everartss., als voogd van zijn vrouw Mechteld, dochter van Peter Willemsz. van Maren, aan Hendrik Lambert Arntss. van Uden ten behoeve van Jan Maartensz. van Elmpt van een erfpacht tarwe uit land in Kethelerskamp in Teeffelen en uit die Dystelweyde in Lithoijen; akte in latijn, 1545 nov 16</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/10B6E417021A4C8B884FF793E53961F9" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10330825">
@@ -2082,6 +2529,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Vidimus van schepenen van ’s Hertogenbosch van een akte voor schepenen van ’s-Hertogenbosch uit 1415 betreffende de overdracht van land in Groot-Lith aan Rodolf Berwout, 1598. Met retroacta, 1414-1482; akte in latijn, 1598 dec 9</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/B6ED71EC1F4B4C7C9C5AA5149891E4B7" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10330826">
@@ -2098,6 +2553,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van vergunning van de hertogen Albert en Isabella van Brabant voor de abdij van St. Remigius te Reims om de tienden van Lithoijen te verkopen aan de heer Johan van Dadenbergh, koopman te Meerssen (in het Frans opgesteld), 1611 nov 29</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/7371830C5DB545D980691FC6D1A3889C" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333709">
@@ -2114,6 +2577,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Notariële akte (in het Frans) waarin het voltallige convent van Sint Remigius te Reims goedkeuring verleent aan de verkoop in 1611 van goederen en rechten te Lithoijen, afkomstig van de proosdij van Meerssen, aan Jan Dadenberg te Meerssen, 1612 apr 25</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/FF2CA9770E924F7A98CB4D9DA44E4663" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10330827">
@@ -2130,6 +2601,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van vergunning, waarbij de verkoop van 1611 (zie invno 154) wordt bevestigd door heer Loijs van Lorraine, aartsbisschop en hertog van Reims in Frankrijk etc, in de Franse taal, 1612 mei 18</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/86CDFF047ED046298EA7E1DEFFAB5D38" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10330828">
@@ -2146,6 +2625,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van verkoop door Johan van Dadenbergh, koopman te Meerssen in het land van Valkenburg aan Adriaan van Empel, zoon van wijlen mr. Goijarts van Empel, in leven secretaris van Den Bosch, van een erfelijke cijns van 140 Carolus gulden uit land en tienden van Lithoijen, met transcriptie, 1612 dec 24</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/11D59B1F15514B05B0FB7DE1E4DD8CD6" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333710">
@@ -2162,6 +2649,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van verkoop door Johan van Dadenbergh aan koopman te Meerssen in het land van Valkenburg aan Adriaan van Empel, zoon van wijlen mr. Goijarts van Empel, in leven secretaris van Den Bosch, van een erfelijke cijns van 42 Carolus gulden uit land en tienden van Lithoijen, 1614 aug 7</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/0E33099FB68D40DB9BEA1DA915A2E229" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333711">
@@ -2178,6 +2673,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van verkoop door Johan van Dadenbergh aan koopman te Meerssen in het land van Valkenburg aan Adriaan van Empel, zoon van wijlen mr. Goijarts van Empel, in leven secretaris van Den Bosch, van een erfelijke cijns van 28 Carolus gulden uit land en tienden van Lithoijen, 1615 apr 6</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/BF4D473332024C3A80B28C6911EF445E" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333712">
@@ -2194,6 +2697,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van verkoop door Johan van Dadenbergh aan koopman te Meerssen in het land van Valkenburg aan Seigneur Niclaes Olijslegers,schepen van het grafelijk gerecht en de munt van Maastricht, van een erfelijke cijns van 42 Carolus gulden uit land en tienden van Lithoijen, 1617 jun 27</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/D63D43D33B464E838270A1008C3DFB4A" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333713">
@@ -2210,6 +2721,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van verkoop door Johan van Dadenbergh aan koopman te Meerssen in het land van Valkenburg aan Seigneur Niclaes Olijslegers, burger en koopman te Maastricht, van een erfelijke cijns van 130 Carolus gulden uit land en tienden van Lithoijen, 1617 jun 27</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/9F0E96A714A841EC88BD43EA505B54AD" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333714">
@@ -2226,6 +2745,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van verkoop door Henrick Snijders, schoonzoon en gemachtigde van Johan van Dadenburch, te Sittard aan Adam Driessen, drossaard te Lindth, van de helft van de landen, tienden en beemden van Lithoijen  , 1619 okt 25</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/E6E053D1B68D407EB729DAEC706C8870" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333715">
@@ -2242,6 +2769,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van verkoop door Johan van Dadenbergh, koopman te Meerssen in het land van Valkenburg aan Adriaan van Empel, zoon van wijlen mr. Goijarts van Empel, in leven secretaris van Den Bosch, van een erfelijke cijns van 10 en een halve Carolus gulden uit land en tienden van Lithoijen, 1620 okt 3</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/A393B7B0C4B4400B9AC819521DA83A7A" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333716">
@@ -2258,6 +2793,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van verkoop door Goosken weduwe van Jans zoon van Henricx Willemssz. cs. aan pastoor Nicolaessen Havens in Lithoijen van een huis, hof etc. gelegen aan het Kerkeind aan het Mortelhecken te Lithoijen, 1622 sep 23</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/21086665B98142FD93737562FAF6D090" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333717">
@@ -2274,6 +2817,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Vonnis van de Raad van Brabant te Brussel uitgesproken in de zaak van Adriaan van Empel contra Jan Olieslagers betreffende de tiende van Lithoijen, 1624 juli 19</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/3B4D77DA53F142E697AD1EA1A295F577" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333718">
@@ -2290,6 +2841,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van schuldbekentenis door Johan van Dadenbergh aan zijn schoonzoon Andries Daemen van een som van 2600 gulden gaande uit land en tiende van Lithoijen dewelke hij elk jaar op Sint Nicolaasdag af zal lossen, 1625 dec 9</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/1090499BAF664F1AB9A3D8E6F22E0B63" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333719">
@@ -2306,6 +2865,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Schuldbekentenis door Adam Driessen, drossaard te Leuth, voor de schepenbank van Luik aan seigneur Nicolaes Olijslaeghers, inzake een lening van 8000 florijnen, waarbij hij de helft van de landen, tienden en beemden van Lithoijen, zoals hij dat in 1619 heeft verkregen van Dadenburch, overdraagt aan Artus van Asperen en Gerard van der Velde, schepenen van Den Bosch, in het Frans, 1626 sep 22</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/2D2DAFADFD9449A0869316DCF310A2C3" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333720">
@@ -2322,6 +2889,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van transport door de kinderen van Jan van Dadenberch aan jonker Dierck van den Water van een jaarlijkse erfelijke cijns van 72 Carolus gulden (te betalen op Sint Nicolaas) uit land en tiende van Lithoijen in het kwartier Maasland, 1626 nov 6</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/3287D34D2F034D01B74D6BC7343BE595" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333721">
@@ -2338,6 +2913,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>AKte van transport door de kinderen van Jan van Dadenberch aan jonker Dierck van den Water van een jaarlijkse erfelijke cijns van 36 Carolus gulden (te betalen met Pasen) uit land en tiende van Lithoijen in het kwartier Maasland, 1627 apr 2</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/10ACEFBFCB6A4770BF08CCF56AA0AD3B" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10330829">
@@ -2354,6 +2937,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van transport door de erfgenamen en kinderen van Johan van Dadenberch, van de helft van de tienden en landen te Lithoijen aan mr Arnout van Broechoven, licentiaat in de rechten en schepen van Den Bosch, 1628 aug 26</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/40E067B5584B4CCA8142BF881AF3E059" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333696">
@@ -2371,6 +2962,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte waarbij Gerberga, koningin der Franken, aan de St. Remigiusabdij te Reims in 968 haar allodium Meerssen in de Maasgouw schenkt met alles wat er toe behoort (waaronder Lithoijen); in latijn; &lt;br/&gt;afschrift in vidimus door schepenen van Den Bosch, 1628 aug 28</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/8910EF439782475995FCE38BFDF868F3" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333652">
@@ -2387,6 +2986,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van transport door Arndt van Empel, priester en deken van het kapittel van St. Geertruidenberg en kanunnik van St. Jan Evangelist te Den Bosch alsmede zoon van Adriaen van Empel, aan mr. Arnout van Broechoven, licentiaat in de rechten en raadsheer van Den Bosch, van een erfcijns van 28 Carolus gulden uit de landen en tienden van Lithoijen, de welke hem zijn toegewezen uit de erfdeling van zijn ouders , 1629 apr 23</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/373C98414F4B4EC986BFA45D6999B65F" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333727">
@@ -2403,6 +3010,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van transport door Arndt van Empel, priester en deken van het kapittel van St. Geertruidenberg en kanunnik van St. Jan Evangelist te Den Bosch alsmede zoon van Adriaen van Empel, aan mr. Arnout van Broechoven, licentiaat in de rechten en raadsheer van Den Bosch, van een erfcijns van 42 Carolus gulden uit de landen en tienden van Lithoijen, de welke hem zijn toegewezen uit de erfdeling van zijn ouders , 1629 apr 23</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/35F978E3CF4846AFA3D189A5DA8AE3D3" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333728">
@@ -2419,6 +3034,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van transport door Arndt van Empel, priester en deken van het kapittel van St. Geertruidenberg en kanunnik van St. Jan Evangelist te Den Bosch alsmede zoon van Adriaen van Empel, aan mr. Arnout van Broechoven, licentiaat in de rechten en raadsheer van Den Bosch, van een erfcijns van 10 en een halve Carolus gulden uit de landen en tienden van Lithoijen, de welke hem zijn toegewezen uit de erfdeling van zijn ouders , 1629 apr 23</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/1EC051F260D043E4AFC692227E55F704" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333729">
@@ -2435,6 +3058,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van transport door Elisabeth van Empel, dochter van Adriaen van Empel, aan mr. Arnout van Broechoven, licentiaat in de rechten en raadsheer van Den Bosch, van een erfcijns van 140 Carolus gulden uit de landen en tienden van Lithoijen, de welke haar zijn toegewezen uit de erfdeling van haar ouders , 1630 mrt 2</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/684C8A88BB6944D3B2A41B059FB168DC" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333730">
@@ -2451,6 +3082,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van transport door seigneur Nicolaes Olijslaegers, schout en rentmeester van de proosdij van Meerssen, aan mr. Arnout van Broechoven, licentiaat in de rechten en raadsheer van Den Bosch, van een erfcijns van 156 Carolus gulden uit de landen en tienden van Lithoijen, 1634 apr 4</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/A3D448FD75694162BBECDBCA652D4D8B" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333731">
@@ -2467,6 +3106,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van transport door seigneur Nicolaes Olijslaegers, schout en rentmeester van de proosdij van Meerssen, aan mr. Arnout van Broechoven, licentiaat in de rechten en raadsheer van Den Bosch, van een erfcijns van 133 Carolus gulden uit de landen en tienden van Lithoijen, 1634 apr 13</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/C3F6C29CA7AE4007AFAC2B5A2F9CBD86" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333653">
@@ -2483,6 +3130,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van transport door mr. Arnout van Broechoven, licentiaat in de rechten en oud raadsheer van Den Bosch, aan mr. Jacob van der Cammen, ook licentiaat in de rechten en oud raad en rentmeester van Den Bosch, van een erfcijns van 28 Carolus gulden gaan de uit de landen en tienden van proosdij van Meerssen te Lithoijen, 1636 apr 19</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/5A737DC1E5EB4917BFA47C4E2ED99E15" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333654">
@@ -2499,6 +3154,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van transport door mr. Arnout van Broechoven, licentiaat in de rechten en oud raadsheer van Den Bosch, aan mr. Jacob van der Cammen, ook licentiaat in de rechten en oud raad en rentmeester van Den Bosch, van een erfcijns van 28 Carolus gulden gaan de uit de landen en tienden van proosdij van Meerssen te Lithoijen, 1636 apr 19</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/D7D05DE3EA69433DA40E2D083BC947E0" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333655">
@@ -2515,6 +3178,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van transport door mr. Arnout van Broechoven, licentiaat in de rechten en oud raadsheer van Den Bosch, aan mr. Jacob van der Cammen, ook licentiaat in de rechten en oud raad en rentmeester van Den Bosch, van een erfcijns van 42 Carolus gulden gaan de uit de landen en tienden van proosdij van Meerssen te Lithoijen, 1636 apr 19</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/94CA822C539442E6B8ABE7FBC1E609F7" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333656">
@@ -2531,6 +3202,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van transport door de kinderen van jonker Rogier zoon van Arnout van Broechoven, aan Peter Karmans te Vught van de gerechte helft van de groot en kleine of smalle tiend alsmede zekere landerijen te Lithoijen  , 1680 nov 27</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/748423E6576A437CBFD9C9B39E25370B" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10333657">
@@ -2547,6 +3226,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Akte van transport door Peter Gerrits van Lendt, als gemachtigde van de schepenbank van Lithoijen, aan zijn zwager Jacobus Hoepen, van twee hont land bepoot met vruchtbomen, gelegen "op den heuvel" , 1727 apr 18</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/DC5211766E284BADA83CDC6BD25539D4" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
         </c02>
         <c02 level="subseries">
@@ -2571,6 +3258,14 @@
             <odd type="REDEN GEEN UITLEEN">
               <p>Scans beschikbaar</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Stukken betreffende de aankoop door Arnout van Broeckhoven van de helft van de tienden van Lithoijen alsmede diverse landerijen aldaar op 28 aug. 1628  van de proosdij van Meersen voor 22.600 gulden; met retro-acta &lt;br/&gt;, 1600 - 1624, 1628</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/99F4624635CB41DD84F08C18E72169A4" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10330781">

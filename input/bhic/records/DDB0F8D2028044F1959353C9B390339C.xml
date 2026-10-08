@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>DDB0F8D2028044F1959353C9B390339C</identifier>
-    <datestamp>2026-09-04</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -36,6 +36,11 @@
       </note>
     </did>
     <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
       <controlaccess>
         <head>Categorie</head>
         <subject>Religie en Levensbeschouwing</subject>
@@ -13351,15 +13356,19 @@
           <odd type="MATERIELE STAAT">
             <p>GERESTAUREERD 2017</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-07-25; 4</p>
+              <p>Cartularium, eigendomsbewijzen en akten over stichting en rechten klooster van 1315 af, kopieën, circa 1429 - 1454</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/ABF5B2BEC02243339A2570E652EBFFF9" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -13382,12 +13391,18 @@
           <odd type="MATERIELE STAAT">
             <p>GERESTAUREERD 2017</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-07-28</p>
+              <p>Cartularium, eigendomsbewijzen en akten over stichting en rechten klooster van 1315 af, kopieën, 1518 - 1571</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/8625DB3B80D940B9B7792A62A2BD3292" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -13409,15 +13424,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-07-28; 1</p>
+              <p>Akte van omschrijving, door priors kartuizerkloosters van Herne en Sint-Maartens-Bos, van grenzen gebied,  waarbinnen procurator en monniken van het klooster zich mogen begeven, met voorwaarden, 1342&lt;br/&gt;Met goedkeuring door generaal kapittel, 1345</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/215184D12C964C5CA83C5CBB3166E713" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -13440,13 +13459,11 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-07-28; 2</p>
+              <p>Akte van inbeschermingneming door Albrecht, ruwaard van Holland, van kartuizers bij Geertruidenberg, kopie uit 16e eeuw, 1366</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7462E77953A343B38983656915437A33" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -13467,15 +13484,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-07-28; 3</p>
+              <p>Akte van opdracht, door Albrecht, graaf van Holland, aan bestuur van Geertruidenberg, het viswater dat graaf Willem aan kartuizers geschonken heeft, te beschermen, 1393</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/23771D859FCC47B9843D7DF596C0EA30" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -13496,15 +13517,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-07-28; 4</p>
+              <p>Vidimus van bevelschrift van Albrecht, graaf van Holland, aan Willem Duikinc, rentmeester van ZuidHolland, tot teruggave van ten onrechte op fundatiegoed kartuizers geheven morgengeld, 1394</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F047926499E74BADB502605FC93A7FBF" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -13522,6 +13547,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844203">
@@ -13538,6 +13569,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844204">
@@ -13554,6 +13591,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844205">
@@ -13570,6 +13613,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844206">
@@ -13590,15 +13639,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-01; 2</p>
+              <p>Vidimus van akte van bevestiging uit 1407, door Willem, graaf van Holland, van alle privileges, door hem en zijn voorvaderen aan kartuizers bij Geertruidenberg gegeven, 1411</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9EA82E58CC64426C96B08F1D5A2640A3" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -13616,6 +13669,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844208">
@@ -13632,6 +13691,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844209">
@@ -13648,6 +13713,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844210">
@@ -13670,15 +13741,19 @@
           <odd type="MATERIELE STAAT">
             <p>GERESTAUREERD 2017</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-04; 1</p>
+              <p>Cartularium met kopieën rente-akten, met betrekking tot Breda en omstreken, Rijsbroek, Grote Broek, Eethen en Dongen, 1352 - 1522</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B0BF54D262CF4887A47CF1B4425A7775" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -13701,13 +13776,11 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-04; 2</p>
+              <p>Legger van erfrenten en roggepachten van 'Den Brande' en 'Den Rijsbroek', van  verpachte hofsteden, van rogge, als pacht of als schenking ontvangen, en van gekochte of gekregen jaarrenten, circa 1350 - 1400</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/BDA4E9C754494E82B91CCD65785F9459" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -13732,13 +13805,11 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-04; 3</p>
+              <p>Legger van roggepachten en cijnzen in Land van Breda en De Langstraat, 1457&lt;br/&gt;Legger van roggepachten in Oosterhout en Dongen, circa 1508&lt;br/&gt;Rekeningen van rentmeester Pieter Heinrik Timmermanszn over beheer van Oosterhout, Dongen en 's Gravenmoer, 1504 - 1510</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F8AE797A719E4AF0B4FFB0C06F2088B5" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -13763,13 +13834,11 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-04; 4</p>
+              <p>Lijst van pachten en cijnzen in Leiden, Delft, Den Haag, Wateringen, Rijswijk, Dussen, Muilkerk, Doeveren en Meeuwen, circa 1553</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/BAAC140915B74AD9A363349CA20FBAB5" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -13792,13 +13861,11 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-04; 5</p>
+              <p>Legger van renten, cijnzen en pachten, met aantekeningen van ontvangsten en uitgaven, 1561 - 1562</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/01D322D32D7F44EAA525743734BE0340" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -13824,13 +13891,11 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-04; 6</p>
+              <p>Legger van renten, cijnzen en pachten, met aantekeningen van ontvangsten, 1561 - 1572&lt;br/&gt;Aangelegd door Erasmus de Vrome in 1566</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1452DE950245420F9B8FD3E23B59EC33" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -13851,6 +13916,14 @@
           <odd type="MATERIELE STAAT">
             <p>GERESTAUREERD 2017</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Legger van renten en pachten binnen Geertruidenberg, met aantekeningen van inkomsten en schulden, 1571</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/10899AADBC7749FDA2551CEE2BD51969" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844217">
@@ -13965,13 +14038,11 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-11; 1</p>
+              <p>Rekeningen, fragment, met bijlagen, 1568 - 1571</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D82F41F55FE3405E96C9A6A9AC5D0459" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -13990,6 +14061,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Bijlagen bij rekeningen, 16e eeuw</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/24013FD07019425ABEDF25B2FDC65B73" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844224">
@@ -14006,6 +14091,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844225">
@@ -14038,6 +14129,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844227">
@@ -14054,6 +14151,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844228">
@@ -14070,6 +14173,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844229">
@@ -14086,6 +14195,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844230">
@@ -14108,13 +14223,11 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-18; 2</p>
+              <p>Akte van kwijtschelding, door Marie, weduwe Rutger Moninks, aan kartuizers, van schuld (Asperen), kopie uit 16e eeuw, 1410</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7111F0A6D74245FDA5050ADCBF2E2EC6" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -14132,6 +14245,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844232">
@@ -14148,6 +14267,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844233">
@@ -14168,15 +14293,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-18; 5</p>
+              <p>Akte van schenking, door Wijtman Jan Huigenznzn, aan kartuizers, van erfcijns in Breda, 1436</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CD17B48EEFCF411B90909A222D5D9B87" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -14201,6 +14330,12 @@
           <odd type="OPMERKING SCANS">
             <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844235">
@@ -14217,6 +14352,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844236">
@@ -14233,6 +14374,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844237">
@@ -14249,6 +14396,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844238">
@@ -14265,6 +14418,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844239">
@@ -14281,6 +14440,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844240">
@@ -14297,6 +14462,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844241">
@@ -14317,15 +14488,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-22; 4</p>
+              <p>Akte van overdracht, door Dirk Aartszn, aan Klaas van Huesden, prior, van land onder Drongelen, 1478&lt;br/&gt;Tevens akte van vercijnzing door Klaas aan Dirk van dit land, 1478</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9F39457E658B45C38C2E7E1F673BA110" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -14347,15 +14522,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-22; 5</p>
+              <p>Akte van overdracht, door Gerit Mallantszn, aan Klaas van den Velde, lekebroeder, van land onder Drongelen, 1481&lt;br/&gt;Tevens akte van vercijnzing door Klaas aan Gerit van dit land, 1481</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C0D095AD1DBF4023ADDAC4F0CA64AF02" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -14377,12 +14556,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-25</p>
+              <p>Akte van overdracht, door Jan Klaaszn, aan Goyert Brivonc, rentmeester kartuizers, van land onder Eethen, 1459</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C26E493FCC584103AD01EB9F4B641FE2" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -14405,15 +14590,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-25; 1</p>
+              <p>Akte van overdracht, door Gerard Klaaszn van Mallant, van uitgewonnen land in Eethen, 1471</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6D36543131354160B3DC61A26128E1BB" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -14431,6 +14620,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844246">
@@ -14451,15 +14646,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-25; 3</p>
+              <p>Akte van belofte, door Jan Henrikszn, aan Klaas, prior, om erfcijns onder Eethen te betalen, 1481</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6DB3EDE5295642A68201BE7BC2F2C1D0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -14481,15 +14680,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-25; 4</p>
+              <p>Akte van overdracht, door Marike Zegersdr en Aart en Bayen Zegerszn, aan Ariaan Yewenszn, voor kartuizers, van land in Eethen, 1535</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3AF8846437D14A4CB44A753E7FBDF974" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -14511,15 +14714,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-25; 5</p>
+              <p>Akte van overdracht, door Jacob van der Dune, aan Robbrecht Bokelaar, priester, van land Dorenbosch onder Emmikhoven, 1408</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E52DA3F20A0B43EF872E732139D72456" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -14541,15 +14748,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-25; 6</p>
+              <p>Akte van overdracht, door Wouter van der Eike, aan Jacob van der Duin, van perceel land in Dorenbosch onder Emmikhoven, 1404</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A026B81A7E8946999B09F2D80CD6FCA0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -14567,6 +14778,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844251">
@@ -14587,15 +14804,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-08-29; 1</p>
+              <p>Akte van overdracht, door Catherine Robiin Bokelaarsdr, aan Jacoba van Beieren, gravin van Holland, voor kartuizers, van perceel land onder Emmikhoven, waarna kartuizers het in volle eigendom krijgen, 1418</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3829921739854A508874D83244F38422" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -14613,6 +14834,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844253">
@@ -14629,6 +14856,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844254">
@@ -14645,6 +14878,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844255">
@@ -14661,6 +14900,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844256">
@@ -14693,6 +14938,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844258">
@@ -14709,6 +14960,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844259">
@@ -14725,6 +14982,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844260">
@@ -14744,15 +15007,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-09-01; 5</p>
+              <p>Akte van oordeel, door Cornelis van Drongelen en Jan Doedijn, in geschil van inventarisnr 64, over betaling cijnzen, 1522</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/12A6EC71A59D46839912AAA774CCE62C" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -14770,6 +15037,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844262">
@@ -14790,12 +15063,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-09-05</p>
+              <p>Akte van kwijtschelding, door kapittel van Geertruidenberg, aan kartuizers, van tiend, in ruil voor deel erfcijns onder Geertruidenberg, 1402</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9E41888DBE124FE18D49FD57AE5C1E10" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -14814,6 +15093,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844264">
@@ -14830,6 +15115,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844265">
@@ -14846,6 +15137,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844266">
@@ -14866,15 +15163,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-09-05; 4</p>
+              <p>Akte van overdracht, door Hubrecht Meester Janszn, aan Godevaart Aartszn, voor kartuizers, van erfcijns onder Geertruidenberg, 1493</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/0958F94F1FE0400C941E85F37E5E10C9" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -14892,6 +15193,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844268">
@@ -14908,6 +15215,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844269">
@@ -14927,15 +15240,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-09-08; 2</p>
+              <p>Bevelschrift van stadhouder-generaal, president en raad keizer in Holland, aan 1e deurwaarder Hof van Holland, in geschil tussen kartuizers enerzijds, en stad en schutterij van Geertruidenberg anderzijds, over viswateren tussen Geertruidenberg en klooster, om kwestie te onderzoeken, kartuizers in hun rechten te handhaven en tegenpartij, indien nodig, te dagvaarden, 1527</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3797439CF5F645E4BD795BCE37EB8F68" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -14953,6 +15270,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844271">
@@ -14969,6 +15292,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844272">
@@ -14985,6 +15314,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844273">
@@ -15001,6 +15336,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844274">
@@ -15049,6 +15390,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844277">
@@ -15065,6 +15412,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844278">
@@ -15081,6 +15434,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844279">
@@ -15097,6 +15456,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844280">
@@ -15113,6 +15478,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844281">
@@ -15129,6 +15500,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844282">
@@ -15145,6 +15522,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844283">
@@ -15165,12 +15548,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-09-19</p>
+              <p>Vidimus van akten van overdracht uit 1452, door Bouden Govertszn, aan Wouter van Overhagen, voor kartuizers, van land onder Gorinchem, 1535</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C94BA809099B43C9A05A3195B1A33546" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -15193,15 +15582,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-09-19; 1</p>
+              <p>Akte van overdracht, door Alaart Janszn, aan Jan, rector kartuizers, van land onder Gorinchem, 1490&lt;br/&gt;Tevens akte van vercijnzing door Jan, aan Alaart, van dit land, 1490</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2DB726B1CB334B81AEF2124BCA877C80" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -15219,6 +15612,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844286">
@@ -15235,6 +15634,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844287">
@@ -15251,6 +15656,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844288">
@@ -15267,6 +15678,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844289">
@@ -15283,6 +15700,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844290">
@@ -15299,6 +15722,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844291">
@@ -15315,6 +15744,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844292">
@@ -15331,6 +15766,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844293">
@@ -15347,6 +15788,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844294">
@@ -15366,15 +15813,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-09-22; 6</p>
+              <p>Akte van afstand, door erfgenamen van Juten, weduwe Klaas van Best, ten gunste van zoon Heinrik, van hun erfrecht op goederen van Juten voornoemd onder 's Gravenmoer, 1413</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/75683747E68E444EB89C164073A0B3FE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -15392,6 +15843,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844296">
@@ -15408,6 +15865,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844297">
@@ -15424,6 +15887,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844298">
@@ -15440,6 +15909,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844299">
@@ -15475,12 +15950,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-09-29</p>
+              <p>Akte van schuldbekentenis, door Klaas Pieterszn, rechter, Adriaan Meliszn, Pieter Corneliszn en zijn broer Vas, aan Jan Gauenzn, procurator, 's Gravenmoer, 1526</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E9F6C5DD877C4BABBA6E73F17B0468EF" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -15503,15 +15984,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-09-29; 1</p>
+              <p>Akte van deling, tussen Jan Gauerszn, prior, erfgenamen van Jan Jacobszn en Pieter Ypelaar, van gemeenschappelijke moer onder 's Gravenmoer, 1539</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/FB30390653364C919529E3C73310B250" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -15529,6 +16014,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844303">
@@ -15545,6 +16036,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844304">
@@ -15561,6 +16058,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844305">
@@ -15577,6 +16080,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844306">
@@ -15597,15 +16106,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-09-29; 6</p>
+              <p>Akte van overdracht, door Han Wouter Gieliszn en zijn zoon Jan Janszn, aan Dirk, prior, van land onder 's-Grevelduin, 1509</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/24C38FEEB9034DD7B6823C6EB5998107" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -15627,15 +16140,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-09-29; 7</p>
+              <p>Vidimus van akte van vercijnzing uit 1453, door Jan Sceynken, prior, aan Jan Geritzn, van hofstad, 1532</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/14B1630F2F95480FA429FA136DD92902" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -15653,6 +16170,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Testament van Adriaan van Wijk, pastoor in Hardinxveld, over verwerving land, 1479</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/27A631F049A34AAD9108B1FCE37CBDCC" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844309">
@@ -15669,6 +16200,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van instemming, door Aarnt die Juede, met testament van Adrianus van Wijk, over verwerving land in Hardinxveld, kopie uit 16e eeuw, 1481</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A8FE82620D344F418BAF17E2918408DD" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844310">
@@ -15689,6 +16228,12 @@
           <odd type="MATERIELE STAAT">
             <p>GERESTAUREERD 2017</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844311">
@@ -15709,6 +16254,12 @@
           <odd type="MATERIELE STAAT">
             <p>GERESTAUREERD 2017</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844312">
@@ -15725,6 +16276,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, door Rutger Hillebrantszn, aan Gijsbrecht Quekell en Reijner Willemszn, van Spaans Enge in Kedichem, 1449</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/84C87E96EAFB404EA2CD61CDBC733221" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844313">
@@ -15744,15 +16309,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-10-03; 4</p>
+              <p>Akte van overdracht, door Dirk van der Merwede, ridder, aan Rutger Hillebrantszn, van Spaans Enge in Kedichem, 1428</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5B71BE04CE6946D3975A641E1CB56DC8" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -15773,12 +16342,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-10-06</p>
+              <p>Akte van overdracht, door Gerrit van Heerler, aan Dirk van der Merwede, van Spaans Enge in Kedichem, 1410</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/AC91FDDD9AAD417FB0C837A707191A6C" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -15797,6 +16372,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, door Otte, heer van Heukelum, aan Gerrit van Herlaer, van Spaans Enge in Kedichem, 1407</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7334D543CA0B48328DA5718E7EB3EF11" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844316">
@@ -15817,6 +16406,12 @@
           <odd type="MATERIELE STAAT">
             <p>GERESTAUREERD 2017</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844317">
@@ -15833,6 +16428,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, door Gielis Dirkszn, aan kartuizers, van hofstad in Kedichem, 1520</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/482230985C7247CFAC1876F660ED16F1" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844318">
@@ -15849,6 +16458,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van kwijtschelding, door Adriaan Dirkszn alias Smeerom, aan Erasmus de Vrome, procurator, van opbrengst uitgewonnen land in Kedichem, 1563</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6F279C2E33334C19841DEF17062A5C49" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844319">
@@ -15865,6 +16488,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verklaring, door secretaris van Gorinchem, dat alleen rente, beschreven in akte van 1561 april 19, rust op door kartuizers uit te winnen land in Kedichem, 1563</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/EDE687F80702419EA99BE547A5CE3F1A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844320">
@@ -15881,6 +16518,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verklaring, door schepenen van Gorinchem, dat allen die aanspraken hadden op land in Kedichem, wegens executie hiervan voor kartuizers, van hun rechten hierop vervallen zijn, behalve Aard Roelofszn, 1563</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/48925191A08C438281B5A03669E14E60" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844321">
@@ -15897,6 +16548,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844322">
@@ -15913,6 +16570,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844323">
@@ -15929,6 +16592,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844324">
@@ -15945,6 +16614,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844325">
@@ -15961,6 +16636,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844326">
@@ -15977,6 +16658,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844327">
@@ -15993,6 +16680,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844328">
@@ -16009,6 +16702,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844329">
@@ -16025,6 +16724,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844330">
@@ -16041,6 +16746,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844331">
@@ -16057,6 +16768,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844332">
@@ -16073,6 +16790,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844333">
@@ -16089,6 +16812,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844334">
@@ -16105,6 +16834,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844335">
@@ -16121,6 +16856,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844336">
@@ -16137,6 +16878,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844337">
@@ -16153,6 +16900,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844338">
@@ -16169,6 +16922,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844339">
@@ -16185,6 +16944,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844340">
@@ -16201,6 +16966,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844341">
@@ -16217,6 +16988,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844342">
@@ -16233,6 +17010,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844343">
@@ -16249,6 +17032,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844344">
@@ -16265,6 +17054,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844345">
@@ -16281,6 +17076,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844346">
@@ -16297,6 +17098,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844347">
@@ -16313,6 +17120,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844348">
@@ -16329,6 +17142,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844349">
@@ -16348,15 +17167,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-10-24; 2</p>
+              <p>Akte van verkoop, door Dirk Janszn, zoon van Dirk van Mattenesse, aan kartuizers, van land in Mattenesse, 1410</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6749CC7B0DA64C788F6B1A8E6D58D553" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -16374,6 +17197,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844351">
@@ -16390,6 +17219,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844352">
@@ -16406,6 +17241,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844353">
@@ -16422,6 +17263,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844354">
@@ -16442,15 +17289,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-10-27; 2</p>
+              <p>Akte van overdracht, door Zebrecht Eeraartszn, aan Jan Buis Janszn, voor kartuizers, van land in Meeuwen, tevens akte van vercijnzing, door Jan, aan Zebrecht, van dit land, 1411&lt;br/&gt;Authentieke kopie uit 15e eeuw?</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9E1020CDBDEE40B2A5F7F7431531B6FF" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -16472,15 +17323,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-10-27; 3</p>
+              <p>Akte van overeenkomst, tussen Ariaan, namens kartuizers, en Jan Gieliszn, om erfcijns van 1 gouden kroon in Meeuwen, die Jan jaarlijks aan kartuizers moet betalen, te rekenen voor 28 stuiver, 1524</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F2A38BF7A4974F85AF99AF735CEEBB7B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -16498,6 +17353,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844357">
@@ -16518,15 +17379,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-10-27; 5</p>
+              <p>Akte van uitwinning, door Godevaart Brievonk, pastoor van Doeveren, van hofstad met land in Meeuwen, 1464</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/480C1F8D488A4E76BAB7D5528A97AD16" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -16544,6 +17409,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844359">
@@ -16564,12 +17435,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-10-31</p>
+              <p>Akte van erkenning, door weduwe en kinderen van Lodewijk, heer van Moerkerken en van de Merwede, dat zij  perceel land in Mijnsheerenland verkocht hebben aan kartuizers,, 1442</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3F3983642DFC4F1FB6A5C9ABD7B0CA13" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -16592,6 +17469,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans aanwezig</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844361">
@@ -16608,6 +17491,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844362">
@@ -16624,6 +17513,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844363">
@@ -16640,6 +17535,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844364">
@@ -16656,6 +17557,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844365">
@@ -16672,6 +17579,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844366">
@@ -16688,6 +17601,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844367">
@@ -16704,6 +17623,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844368">
@@ -16720,6 +17645,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844369">
@@ -16736,6 +17667,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844370">
@@ -16752,6 +17689,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844371">
@@ -16771,12 +17714,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-11-07</p>
+              <p>Akte van verkoop, door Jacob Pieterzn, aan Heinrik Bernagie, voor Beatrix, dochter heer van Oosterhout, en Beatrix Willem Kentinksdr, van erfpacht in Oosterhout, 1372</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2D8CAD4032AC4245B3A111C638337384" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -16795,6 +17744,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844373">
@@ -16811,6 +17766,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van schuldbekentenis, door Hein Pijloker, aan Jacob Kamerlink, van erfpacht in Oosterhout, 1389&lt;br/&gt;Met (authentieke) kopie uit 16e eeuw</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DC5196BC5CF14E3A833634E4851D9E30" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844374">
@@ -16827,6 +17796,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844375">
@@ -16846,15 +17821,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-11-07; 4</p>
+              <p>Akte van overdracht, door Maas Heinriks Ydenzn, aan Korstiaan van Helmont en Heilwig, zijn vrouw, van erfpacht in Oosterhout, 1417&lt;br/&gt;Met eigendomsbewijs uit 16e eeuw</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F83D069C23C547EC82FA56ACC1BC721A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -16875,12 +17854,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-11-10</p>
+              <p>Akte van verkoop, door Heinrik Simoneszn, aan Maas Heinrik Ydenzn, van erfpacht in Oosterhout, 1409</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/EF7973A841B840E2A2D45DC88C9AE2D2" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -16899,6 +17884,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844378">
@@ -16915,6 +17906,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van uitwinning, door Janna van der Spout, van erfpacht in Oosterhout, 1474</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/35DE3E8C805544829147C3B369B43D5B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844379">
@@ -16934,15 +17939,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-11-10; 3</p>
+              <p>Akte van verklaring, door Melis van der Aalst en Ydeken Langbeens, dat zij van Johannes, zoon van Gijsbrecht, land in Oosterhout in erfpacht nemen, 1389</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/83FAF3FA26484E3B850AB7A08AA03C3C" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -16980,15 +17989,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-11-10; 5</p>
+              <p>Akte van overdracht, door erfgenamen Cornelia en Marike, dochters van Peter Henrik Timmermanszn, aan Jan Gauerszn, van hun rechten op door C. &amp; M. aan kartuizers geschonken goederen in Oosterhout, 1533</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1165CFFB1A9742D19A86E6B202ED68DC" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -17010,15 +18023,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-11-10; 6</p>
+              <p>Akte van schenking, door Jan Cornelis Lippen, aan kartuizers, van erfpacht in Oosterhout, 1530</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/956F5F460C7644E5B71543A53F70429E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -17040,6 +18057,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans aanwezig</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844384">
@@ -17060,6 +18083,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans aanwezig</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844385">
@@ -17076,6 +18105,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844386">
@@ -17092,6 +18127,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844387">
@@ -17125,12 +18166,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-11-17</p>
+              <p>Akte van schenking, door Willem, heer van Oosterhout, aan kartuizers, van erfpacht in Steloe in Oosterhout, 1399</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/58C0BEFB66EB44F2A2D366278BBAF831" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -17149,6 +18196,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844390">
@@ -17166,6 +18219,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844391">
@@ -17182,6 +18241,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van uitwinning, door Jacob, zoon heer van Oosterhout, voor kartuizers, van erfpacht  in Steloe in Oosterhout, 1416</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1CA331BA0AE146DDBE38FDF2D3F7297B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844392">
@@ -17201,15 +18274,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-11-17; 4</p>
+              <p>Vidimus door Jacob, zoon heer van Oosterhout, van akte van toestemming uit 1431, door Katelijn van Wilsdorp, dochter heer van Oosterhout, aan Heinrik van Best, prior, om land in Steloe in Oosterhout te vercijnzen, en akte van belening, door Jacob, namens Kathelijn, op verzoek prior, van genoemd land, aan Simon Damenzn, 1431</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CA058BFB9CDA4AE1B7052F55E215D7F4" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -17227,6 +18304,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844394">
@@ -17243,6 +18326,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844395">
@@ -17275,6 +18364,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844397">
@@ -17307,6 +18402,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844399">
@@ -17323,6 +18424,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844400">
@@ -17339,6 +18446,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844401">
@@ -17358,6 +18471,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>ontbreekt</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844402">
@@ -17377,6 +18496,12 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>ontbreekt</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844403">
@@ -17393,6 +18518,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844404">
@@ -17409,6 +18540,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844405">
@@ -17429,15 +18566,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-11-24; 1</p>
+              <p>Akte van overdracht, door Malin, deken kapittel van Geertruidenberg, aan Klaas van Hoesden, prior, van land  in Langdonk in Raamsdonk, 1475</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9C457F777E274946943811E4FF9CF98F" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -17459,15 +18600,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-11-24; 2</p>
+              <p>Akte van overdracht, door Jan Mengelen, priester, aan deken en kapittel van Geertruidenberg, van land  in Langdonk in Raamsdonk, 1394</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/030AE80F021F43DF92FE8FCECF1979B7" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -17489,15 +18634,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-11-24; 3</p>
+              <p>Akte van inbezitstelling, door Jacob Merceliszn, als gemachtigde kartuizers, van goederen  in Langdonk in Raamsdonk, 1508</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B297A990F6D8414CA08B4B69DE714370" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -17515,6 +18664,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verklaring, dat geschil tussen broeder Ysbrand, procurator, en Peter Jan Aartszn, over ligging sloot in Lutteldonk in Raamsdonk, opgelost is, met gelijktijdige kopie, 1534</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/61D58794B1224C3196412B7DF23FBFFC" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844409">
@@ -17531,6 +18694,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844410">
@@ -17547,6 +18716,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844411">
@@ -17563,6 +18738,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844412">
@@ -17579,6 +18760,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, door Wouter Peter Scaardsznszn, aan Bouden Michielszn, van land in Raamsdonk, 1411&lt;br/&gt;Tevens akte van verpachting van dit land door Bouden aan Wouter, 1411</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B6FBD7A8053F47DB8C5694793E7BBEBE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844413">
@@ -17595,6 +18790,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844414">
@@ -17611,6 +18812,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844415">
@@ -17627,6 +18834,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844416">
@@ -17649,15 +18862,19 @@
           <odd type="OPMERKING SCANS">
             <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-11-28; 1</p>
+              <p>Akte van verklaring, door rechter en heemraden van Raamsdonk, dat kartuizers 1 'weer' land in Raamsdonk in eigendom hebben, 1482&lt;br/&gt;Met kopie uit 16e eeuw</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F8C265A2400E4F33A5CD89266E078267" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -17679,15 +18896,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-11-28; 2</p>
+              <p>Akte van overdracht, door Adriaan Peters Busserszn, aan Peter van Diemen, prior, van land in Raamsdonk, 1485</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9D06EE8C6E2E4D5F8A1B80FC05BD3DFB" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -17705,6 +18926,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van vercijnzing, door procurator, aan Hubert Janszn, van land in Raamsdonk, 1529</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B810C7FDD69547E3A3A2DA2D18E6F9A4" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844419">
@@ -17721,6 +18956,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overeenkomst, tussen Jan Gaij, Drior en Clauwart Adriaanszn, en Pieter Corneliszn, ingezetenen van Raamsdonk, over gezamelijke eigendom van land in Raamsdonk, 1548</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/473D3A92118244BB9DE202082DEA4E5B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844420">
@@ -17737,6 +18986,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, door Jan die Bosscher Huybrechtszn, aan procurator, van land in Raamsdonk, 1560&lt;br/&gt;Tevens akte van vercijnzing van dat land door procurator aan Jan, 1560</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/26471660A01A4A06B2EE4B9FBEAEC2EA" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844421">
@@ -17753,6 +19016,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844422">
@@ -17769,6 +19038,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844423">
@@ -17785,6 +19060,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, door Lambrecht Gerritzn, aan Tielman, prior, van ½ en door Merten Goyaartszn, Berber Lambrechtsdr en Andries Willemszn, aan Tielman van andere ½ perceel land in Rijsbroek in Raamsdonk, 1502</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/965D49FA23394B78B4D1C55BBEE6F0F1" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844424">
@@ -17801,6 +19090,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, door Jan de Borggrave Janszn, aan Jan Aalbrechtszn, procurator, van land in Rijsbroek in Raamsdonk, 1503</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5936F1CF646F431BBCE3641517DD0ABA" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844425">
@@ -17817,6 +19120,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, door Klaas Meeuszn, aan kartuizers, van land in Rijsbroek in Raamsdonk, 1519</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/24971F503EDC46A9B67474A4A7ADCB3F" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844426">
@@ -17833,6 +19150,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844427">
@@ -17849,6 +19172,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844428">
@@ -17865,6 +19194,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844429">
@@ -17881,6 +19216,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844430">
@@ -17894,6 +19235,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844431">
@@ -17910,6 +19257,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844432">
@@ -17930,15 +19283,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-12-01; 10</p>
+              <p>Geschil tussen kartuizers en gasthuis van Geertruidenberg, over aanwassen in Sandoel aan kant van Geertruidenberg, en over visrechten in water tussen Sandoel en Geertruidenberg, kwitanties door gasthuismeesters gasthuis van Geertruidenberg aan kartuizers, 1515 - 1516</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/4454731DE16D4A5DA47EA2EA4BA8FAB4" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -17957,6 +19314,14 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verpachting door kartuizers, aan Jan Meeusen, van hoeve met grond in Sandoel in Raamsdonk, vóór 1557</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/4ECB2B9D6F93452A835277E01B0C148E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844434">
@@ -17973,6 +19338,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844435">
@@ -17989,6 +19360,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844436">
@@ -18005,6 +19382,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844437">
@@ -18021,6 +19404,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844438">
@@ -18037,6 +19426,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844439">
@@ -18053,6 +19448,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844440">
@@ -18069,6 +19470,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844441">
@@ -18085,6 +19492,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844442">
@@ -18101,6 +19514,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844443">
@@ -18117,6 +19536,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844444">
@@ -18133,6 +19558,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844445">
@@ -18149,6 +19580,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844446">
@@ -18165,6 +19602,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844447">
@@ -18181,6 +19624,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844448">
@@ -18197,6 +19646,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844449">
@@ -18213,6 +19668,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844450">
@@ -18229,6 +19690,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844451">
@@ -18249,15 +19716,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-12-15; 1</p>
+              <p>Akte van overdracht, door Jan Doedijn / Geraat en Godevaart, zijn kinderen /  Wouter van Klootwijk Aarnt Roelofszn, echtgenoot van Liesbeth Jan Doedijnsdr, aan Klaas Geraat, van land in Woudrichem, 1393</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F3D10092F8F449559C8862C24F38EBF0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -18275,6 +19746,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844453">
@@ -18291,6 +19768,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844454">
@@ -18307,6 +19790,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844455">
@@ -18323,6 +19812,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844456">
@@ -18343,15 +19838,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-12-15; 6</p>
+              <p>Akte van overdracht, door Jacob Zasse, echtgenoot van Zegerade Albrecht Zegerszndr, aan Gisebrecht van Riede Gisebrechtszn, van land in Woudrichem, 1399</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C9BA8CF1644B4C3D9DDE9AB381B31B60" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -18369,6 +19868,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844458">
@@ -18385,6 +19890,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844459">
@@ -18409,13 +19920,11 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-12-19; 2</p>
+              <p>Akte van verpachting, door heemraden van Schieland, van dijkboeting in Oud-Matenesse, aan Wouter van Matenesse, 1396</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7EA00AB2838746F9BF8D44369DB0E6BC" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -18441,13 +19950,11 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-12-19; 3</p>
+              <p>Akte van overdracht, door Adriaan Dirksz, van 7 gulden jaarlijks op huis en 2½ morgen in Kedichem aan Aart Rudolfs, 1561</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/AA3F7960AFC941D2BFF4464BD00F5174" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -18548,12 +20055,18 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-12-22</p>
+              <p>Akte van verkoop, door Klaas, zoon van Danel van Mattenesse, van goederen die hij van Wouter van Mattenesse in leen houdt, aan zijn broers Jan en Pieter en aan zijn neef Jan Danel Frederikszn, 1398</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/235/" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/04B886978F7B423EB7950ABD2BCDE0FE" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
@@ -18572,6 +20085,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844464">
@@ -18588,6 +20107,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Vidimus en akte van bevestiging, door hertog Philips van Bourgondië, van schenking in 1420 door hertog Jan van Beieren aan Willem, heer van Ysendoren, van waard en buitendijks gelegen grond in Kedichem, 1426</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/13003F9584BC4B29AC733806E7CC525E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844465">
@@ -18608,15 +20141,19 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-12-22; 3</p>
+              <p>Akte van verkoop, door Jan Scaart Jan Scaartszn, aan Danel Pouwels Scaartszn, zijn neef, van perceel land in Raamsdonk, 1437</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/B9943F4038C84D4FBE7EC9AE419625D9" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
@@ -18634,6 +20171,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844467">
@@ -18650,6 +20193,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Vidimus van kwitantie uit 1454, door Godschalk van Rosendaal Aarntszn /  Jacob Damaaszn / Cornelis Damaaszn /  Philips die Biede /  Jan Tater Meuszn, ten gunste van Frank, heer van Moerkerken en van de Merwede, zoon van Lodewijk, 1454</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5B5945506AA244FD91EF9A6A0464D46B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844468">
@@ -18666,6 +20223,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Vidimus van akte van schenking uit 1333, door Willem, graaf van Holland, aan kapittel van Geertruidenberg, van alle tienden in Made, 1470</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5A31F4D194D74570ABBB7DA721736B54" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844469">
@@ -18682,6 +20253,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844470">
@@ -18698,6 +20275,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van vercijnzing, door Jan van Wisstel, aan Jacop, natuurlijke zoon heer van Oosterhout, van moer in Dongen, 1407</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/4507FCA262514E2B9D9AB8CC40A87B1E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844471">
@@ -18714,6 +20305,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop, door Ariaan Jan Boot Klaaszn, aan Jacop Mathijs Heijszn, van land in Drimmelen, 1473</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/28063587274840D29D4E3646D41C788E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844472">
@@ -18730,6 +20335,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, door Meeus Matheeuszn en Cornelis Reijnierszn, aan Adriaan Willem Hugezn, van land in Kijfhoek, 1478</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C6540F04CB1442D0A2182C3D9EADCDB5" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844473">
@@ -18746,6 +20365,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van uitwinning, door Joos Jan Vemmanszn, van moer, 1493</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/60DE0EF8B11E46A4961663180A77ACCA" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844474">
@@ -18762,6 +20395,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, door Ceel aen Ceelen, aan Willem Hugenzn en Liesbeth, weduwe Klaas Willemszn, van land in Kijffhoek, 1499</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/266EE1AFDB4843F1818BBDBA9D227455" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844475">
@@ -18778,6 +20425,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844476">
@@ -18794,6 +20447,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844477">
@@ -18810,6 +20469,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844478">
@@ -18826,6 +20491,20 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht, door  Willem Huimanszn, priester, aan Wouter Heis,van land in Kijfhoek in Drimmelen, 1531</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/8C78DE84EA5A4904B143AA5266D4DF0E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF844479">
@@ -18842,6 +20521,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844480">
@@ -18858,6 +20543,12 @@
           <odd type="VINDPLAATS ORIGINEEL">
             <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
         </c02>
         <c02 level="file">
           <did id="MF844481">
@@ -18882,13 +20573,11 @@
           </odd>
           <daogrp xlink:type="extended">
             <daodesc>
-              <p>De Echo, 1939-12-29; 8</p>
+              <p>Brief van hertog Albert van Beieren, aan die van de Grote Waard, om vrijdom kartuizers in Geertruidenberg van bijdrage in bedijking waard, voor wat betreft hun fundatiegoed te eerbiedigen, vidimus, 1402</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/thumb/235/" xlink:type="locator" xlink:label="thumb" xlink:role="thumbnail"/>
-            <daoloc xlink:href="https://proxy.archieven.nl/embed/235/" xlink:type="locator" xlink:label="reference"/>
-            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="thumb"/>
-            <arc xlink:type="arc" xlink:show="new" xlink:actuate="onRequest" xlink:from="thumb" xlink:to="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/09F08D91AA2349CCB038DA09150574D4" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">

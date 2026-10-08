@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>EF0603465AD948C89B31219BF94C5C56</identifier>
-    <datestamp>2026-09-02</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -29,15 +29,18 @@
     <did id="MF730136">
       <unittitle>Philips en Rogier van Leefdael, 1172 - 1686</unittitle>
       <unitid countrycode="NL" repositorycode="NL-HtBHIC">350</unitid>
-      <note label="#guid">
-        <p>EF0603465AD948C89B31219BF94C5C56</p>
-      </note>
+      <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EF0603465AD948C89B31219BF94C5C56</unitid>
       <unitdate calendar="gregorian" era="ce" normal="1172/1686">17E EEUW</unitdate>
       <note label="Vindplaats origineel">
         <p>BHIC 's-Hertogenbosch</p>
       </note>
     </did>
     <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
       <controlaccess>
         <head>Categorie</head>
         <subject>Families en Personen</subject>
@@ -2035,16 +2038,16 @@
     <dsc type="combined">
       <c01 level="series">
         <did id="MF758083">
-          <unitid type="series_code"/>
           <unitid type="guid">A0BE45913A9B4274B17FA5F43003F28B</unitid>
+          <unitid type="series_code"/>
           <unittitle>Van Leefdael, 1172 - 1686</unittitle>
           <unitdate calendar="gregorian" era="ce" normal="1172/1686"/>
         </did>
         <c02 level="file">
           <did id="MF758084">
-            <unitid>1</unitid>
-            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758084&amp;miview=inv2</unitid>
             <unitid type="guid">DFD964BA4C81480083AB4BD22A0A8CE2</unitid>
+            <unitid>1</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DFD964BA4C81480083AB4BD22A0A8CE2</unitid>
             <unittitle>Kwartierstaten en genealogische aantekeningen, met korte inleiding in genealogie en heraldiek, 1654</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1654">1654</unitdate>
           </did>
@@ -2059,15 +2062,15 @@
               <p>Kwartierstaten en genealogische aantekeningen, met korte inleiding in genealogie en heraldiek, 1654</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758084&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DFD964BA4C81480083AB4BD22A0A8CE2" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF758085">
-            <unitid>2</unitid>
-            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758085&amp;miview=inv2</unitid>
             <unitid type="guid">ABC6EF0CDFE44739ABDE57155EAE13EE</unitid>
+            <unitid>2</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/ABC6EF0CDFE44739ABDE57155EAE13EE</unitid>
             <unittitle>Kwartierstaten van in hoofdzaak vrouwelijke kloostergeestelijken, aangevuld met aantekeningen over geschiedenis vrouwenkloosters, midden 17e eeuw</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1640/1660">midden 17e eeuw</unitdate>
           </did>
@@ -2082,15 +2085,15 @@
               <p>Kwartierstaten van in hoofdzaak vrouwelijke kloostergeestelijken, aangevuld met aantekeningen over geschiedenis vrouwenkloosters, midden 17e eeuw</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758085&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/ABC6EF0CDFE44739ABDE57155EAE13EE" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF758086">
-            <unitid>3</unitid>
-            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758086&amp;miview=inv2</unitid>
             <unitid type="guid">18A87243905F490A87008572B971FF0A</unitid>
+            <unitid>3</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/18A87243905F490A87008572B971FF0A</unitid>
             <unittitle>Hoofdzakelijk huwelijkscontracten en testamenten adellijke geslachten, met index op familienamen, 15e - 17e eeuw</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1400/1700">15e - 17e eeuw</unitdate>
           </did>
@@ -2108,15 +2111,15 @@
               <p>Hoofdzakelijk huwelijkscontracten en testamenten adellijke geslachten, met index op familienamen, 15e - 17e eeuw</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758086&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/18A87243905F490A87008572B971FF0A" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF758087">
-            <unitid>4</unitid>
-            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758087&amp;miview=inv2</unitid>
             <unitid type="guid">F1B02A2F2A5A4AE7BC33FA3AE1F6C236</unitid>
+            <unitid>4</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F1B02A2F2A5A4AE7BC33FA3AE1F6C236</unitid>
             <unittitle>Hoofdzakelijk testamenten adellijke geslachten, met index op familienamen, 1261 - circa 1650</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1261/1660">1261 - circa 1650</unitdate>
           </did>
@@ -2134,15 +2137,15 @@
               <p>Hoofdzakelijk testamenten adellijke geslachten, met index op familienamen, 1261 - circa 1650</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758087&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F1B02A2F2A5A4AE7BC33FA3AE1F6C236" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF758088">
-            <unitid>5</unitid>
-            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758088&amp;miview=inv2</unitid>
             <unitid type="guid">C634D27DCF544FF98F50064F7C6F623F</unitid>
+            <unitid>5</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C634D27DCF544FF98F50064F7C6F623F</unitid>
             <unittitle>Genealogiën, aantekeningen over leven en fundatie kerk Sint-Oda in Sint-Oedenrode en diversen, met index op familienamen, 1236 - circa 1650</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1236/1660">1236 - circa 1650</unitdate>
           </did>
@@ -2160,15 +2163,15 @@
               <p>Genealogiën, aantekeningen over leven en fundatie kerk Sint-Oda in Sint-Oedenrode en diversen, met index op familienamen, 1236 - circa 1650</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758088&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C634D27DCF544FF98F50064F7C6F623F" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF758089">
-            <unitid>6</unitid>
-            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758089&amp;miview=inv2</unitid>
             <unitid type="guid">EE8C9A672D41447FBBD075FD024DDD24</unitid>
+            <unitid>6</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/EE8C9A672D41447FBBD075FD024DDD24</unitid>
             <unittitle>Heerlijkheden en plaatsen in hoofdzaak in Brabant gelegen, 1172 - 1645</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1172/1645">1172 - 1645</unitdate>
           </did>
@@ -2181,20 +2184,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Heerlijkheden en plaatsen in hoofdzaak in Brabant gelegen, 1172 - 1645</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758089&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/EE8C9A672D41447FBBD075FD024DDD24" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF758090">
-            <unitid>7</unitid>
-            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758090&amp;miview=inv2</unitid>
             <unitid type="guid">D3D7E37BB84D495EBEA59DA97432DDC4</unitid>
+            <unitid>7</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D3D7E37BB84D495EBEA59DA97432DDC4</unitid>
             <unittitle>Hertogdommen Brabant en hertogdom Gelre, graafschappen Holland, Vlaanderen en Henegouwen en prinsbisdom Luik, 1275 - circa 1650</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1275/1660">1275 - circa 1650</unitdate>
           </did>
@@ -2207,20 +2216,26 @@
           <odd type="REDEN GEEN UITLEEN">
             <p>Scans beschikbaar</p>
           </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
           <daogrp xlink:type="extended">
             <daodesc>
               <p>Hertogdommen Brabant en hertogdom Gelre, graafschappen Holland, Vlaanderen en Henegouwen en prinsbisdom Luik, 1275 - circa 1650</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758090&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D3D7E37BB84D495EBEA59DA97432DDC4" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF758091">
-            <unitid>8</unitid>
-            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758091&amp;miview=inv2</unitid>
             <unitid type="guid">DC1D0687B1F8464483A6A28F2917E0AB</unitid>
+            <unitid>8</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DC1D0687B1F8464483A6A28F2917E0AB</unitid>
             <unittitle>Heerlijkheid Waalwijk, meest kerkelijke en politieke zaken, 16e - 17e eeuw</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1500/1700">16e - 17e eeuw</unitdate>
           </did>
@@ -2235,15 +2250,15 @@
               <p>Heerlijkheid Waalwijk, meest kerkelijke en politieke zaken, 16e - 17e eeuw</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758091&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DC1D0687B1F8464483A6A28F2917E0AB" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF758092">
-            <unitid>9</unitid>
-            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758092&amp;miview=inv2</unitid>
             <unitid type="guid">215F84376F594C97A7C17A0EA9D2C3A0</unitid>
+            <unitid>9</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/215F84376F594C97A7C17A0EA9D2C3A0</unitid>
             <unittitle>Informatie Rogier van Leefdael voor Prins van Oranje als heer van Breda over handhaving van hertogs-, heerlijke- en feodale rechten in Brabant, gelijktijdige kopie, 1679 april 26</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1679">1679 april 26</unitdate>
           </did>
@@ -2261,15 +2276,15 @@
               <p>Informatie Rogier van Leefdael voor Prins van Oranje als heer van Breda over handhaving van hertogs-, heerlijke- en feodale rechten in Brabant, gelijktijdige kopie, 1679 april 26</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758092&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/215F84376F594C97A7C17A0EA9D2C3A0" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF758093">
-            <unitid>10</unitid>
-            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758093&amp;miview=inv2</unitid>
             <unitid type="guid">1809710A0FEB46FE8F5A5182DBC187D6</unitid>
+            <unitid>10</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1809710A0FEB46FE8F5A5182DBC187D6</unitid>
             <unittitle>Informatie Rogier van Leefdael voor Raad van State over handhaving van hertogs-, heerlijke- en feodale rechten in Brabant en misbruiken Raad van Brabant van 16 juni 1679 Lastgeving Raad van State aan genoemde Rogier als rentmeester episcopale goederen in Stad en Meierij van 's-Hertogenbosch voor zijn actie tegen koopster heerlijkheid Heeswijk tot executie achterstallige domeinrechten uit genoemde heerlijkheid van 18 juli 1679, gelijktijdige kopie, 1679</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1679">1679</unitdate>
           </did>
@@ -2284,15 +2299,15 @@
               <p>Informatie Rogier van Leefdael voor Raad van State over handhaving van hertogs-, heerlijke- en feodale rechten in Brabant en misbruiken Raad van Brabant van 16 juni 1679 Lastgeving Raad van State aan genoemde Rogier als rentmeester episcopale goederen in Stad en Meierij van 's-Hertogenbosch voor zijn actie tegen koopster heerlijkheid Heeswijk tot executie achterstallige domeinrechten uit genoemde heerlijkheid van 18 juli 1679, gelijktijdige kopie, 1679</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758093&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1809710A0FEB46FE8F5A5182DBC187D6" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>
         <c02 level="file">
           <did id="MF758094">
-            <unitid>11</unitid>
-            <unitid audience="internal" type="handle">http://www.bhic.nl/integrated?mivast=235&amp;mizig=210&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758094&amp;miview=inv2</unitid>
             <unitid type="guid">7DD23217C9C24EC4830F289972B1E7BD</unitid>
+            <unitid>11</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7DD23217C9C24EC4830F289972B1E7BD</unitid>
             <unittitle>Verhandeling van stad 's-Hertogenbosch voor Staten-Generaal tot bewijs dat stad en Land van Ravenstein gehorig zijn onder Brabant en mede begrepen onder Meierij van 's-Hertogenbosch /  als boven over stad en Land van Megen /  titelenen &amp; documenten dienende tot verificatie soevereiniteit graafschap en Landen van Megen /  resolutie Staten-Generaal over soevereiniteit Verenigde Nederlanden over Ravenstein en Megen, gelijktijdige kopieën,  1657, 1686 en 1677</unittitle>
             <unitdate calendar="gregorian" era="ce" normal="1657/1677">1686 en 1677</unitdate>
           </did>
@@ -2310,7 +2325,7 @@
               <p>Verhandeling van stad 's-Hertogenbosch voor Staten-Generaal tot bewijs dat stad en Land van Ravenstein gehorig zijn onder Brabant en mede begrepen onder Meierij van 's-Hertogenbosch /  als boven over stad en Land van Megen /  titelenen &amp; documenten dienende tot verificatie soevereiniteit graafschap en Landen van Megen /  resolutie Staten-Generaal over soevereiniteit Verenigde Nederlanden over Ravenstein en Megen, gelijktijdige kopieën,  1657, 1686 en 1677</p>
             </daodesc>
             <resource xlink:type="resource" xlink:label="start"/>
-            <daoloc xlink:href="http://www.bhic.nl/integrated?mivast=235&amp;miadt=235&amp;miaet=1&amp;micode=350&amp;minr=758094&amp;miview=ldt" xlink:type="locator" xlink:label="reference"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7DD23217C9C24EC4830F289972B1E7BD" xlink:type="locator" xlink:label="reference"/>
             <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
           </daogrp>
         </c02>

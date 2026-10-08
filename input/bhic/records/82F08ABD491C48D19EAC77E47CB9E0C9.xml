@@ -1,0 +1,2561 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <header>
+    <identifier>82F08ABD491C48D19EAC77E47CB9E0C9</identifier>
+    <datestamp>2026-09-14</datestamp>
+    <setSpec>MONASTERIUM</setSpec>
+    <setSpec>MONASTERIUM_235</setSpec>
+  </header>
+  <metadata>
+    <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-HtBHIC">2141</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Archief van de parochie Dinther, 1369-1711</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Brabants Historisch Informatie Centrum (BHIC)</publisher>
+        <date calendar="gregorian" era="ce" normal="2022">2022</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF17391292">
+      <unittitle>Archief van de parochie Dinther, 1369-1711</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-HtBHIC">2141</unitid>
+      <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/82F08ABD491C48D19EAC77E47CB9E0C9</unitid>
+      <unitdate calendar="gregorian" era="ce" normal="1369/1711">1369-1711</unitdate>
+      <note label="Vindplaats origineel">
+        <p>BHIC 's-Hertogenbosch</p>
+      </note>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Religie en Levensbeschouwing</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd>
+      <odd>
+        <head>Geschiedenis van het archief</head>
+        <p>Het oudste deel van het parochiearchief van Dinther werd aangetroffen bij het bisdom van Den Bosch. Het is onbekend hoe het daar terecht gekomen is. In de ‘Geschiedenis van het bisdom ’s Hertogenbosch’ (deel III St. Michiels-gestel 1872) p. 452-462 verwijst de schrijver, archivaris en kerkhistoricus Schutjes, naar het kerkarchief van Dinther zonder te vermelden dat dat bij het bisdom zou berusten. In 1870 heeft hij persoonlijk het archief ingedeeld  en geraadpleegd. Mogelijk heeft hij in leen gekregen in Den Bosch ten behoeve van zijn onderzoek en is het daarna niet meer teruggekeerd naar de parochie.
+          <lb/>Schutjes heeft het archief, blijkens zijn aantekening op omslagen, op 26 september 1870 ingedeeld in de volgende onderdelen:
+          <lb/>
+          <lb/>I Legaten aan het altaar van den H. Theobaldus in de kerk van Dinther 1413-1493.
+          <lb/>29 schepenbrieven van ’s-Bosch
+          <lb/>1 van de schepenbank van Dinther
+          <lb/>
+          <lb/>II (deze omslag is niet aangetroffen)
+          <lb/>
+          <lb/>III
+          <lb/>Cijnzen en pachten 1507-1587
+          <lb/>11 schepenbrieven van Dinther
+          <lb/>7 schepenbrieven van ’s Bosch
+          <lb/>1 1517 testamentum Nicolai filii Philippi Arnoldi incolae de Dinther
+          <lb/>
+          <lb/>IV
+          <lb/>1607-1689
+          <lb/>15 schepenbrieven van Dinther
+          <lb/>1 schepenbrief van ’s Bosch
+          <lb/>1607 27 oct. Vroegmis gefondeerd waarover vele brieven
+          <lb/>19 perkamenten
+          <lb/> 
+          <lb/>V
+          <lb/>Varia quadam absoleta. 1671 beneficie van St. Anna-altaar in de kerk van Uden
+          <lb/>(in andere hand: testament 1372 waarover een proces 1380 van Rodolphus de Dinther tegen Gerardus van Dijk die den cijns volgens het testament (later tussenvoegsel: van Walterus dictus coninc de Dynter) den armen verschuldigd weigert te betalen
+          <lb/>
+          <lb/>VI
+          <lb/>1 1626-1635 beneficien Sancti Theobaldi et Barbara
+          <lb/>2 Neocommunicantes 1764-1786 item sequentibus annis
+          <lb/>3 1709 erectum sodalitatium S. Rosarii – nomina
+          <lb/>4 1622 (doorgestreept: correspondentie over armengoederen met den predikant Herman Nicolaas) den h. Stok
+          <lb/>
+          <lb/>VII
+          <lb/>Reg. baptismale 1618-1642, 1793/4 (met potlood toegev
+        </p>
+        <p>In augustus 2018 werden naast deze zes losse omslagen zonder inhoud twee mappen aangetroffen die op 7 mei 1952 gevormd waren door bisdomsarchivaris H. Hens. Hij noteerde daarop:
+          <lb/>
+          <lb/>Dinther I
+          <lb/>Oude perkamenten, afkomstig uit het parochiearchief
+          <lb/>(De in deze map (door Schutjes?) bijeengebrachte stukken zaten in een portefeuille , waaraan ze via de ingeknipte gaatjes met touwtjes verbonden waren. Na nummering volgens de aantroffen volgorde zijn ze uit de versleten portefeuille losgemaakt en in deze map gevoegd.)
+          <lb/>
+          <lb/>Dinther II
+          <lb/>Oude perkamenten, afkomstig uit het parochiearchief
+          <lb/>(Deze stukken zaten los bij de onder I bijeengevoegde stukken)
+          <lb/>
+          <lb/>De stukken in Dinther I zijn met oranje stift zijn genummerd van 1 tot 38. Nummer 2 en 13 ontbreken in deze reeks. Omdat de omslagen genoemd onder III en IV dezelfde ingeknipte gaatje vertonen als de stukken onder Dinther I zullen zij ook in deze portefeuille ingebonden geweest zijn. De in 1607 gestichte vroegmis (nu inv.nr. 10) troffen we inderdaad onder Dinther I aan.
+          <lb/>
+          <lb/>In Dinther II zijn de ongenummerde, dus losse stukken opgeborgen. Daarvan vertonen er echter enkelen dezelfde ingeknipte gaatjes als de stukken van Dinther I. Vermoedelijk waren ze dus oorspronkelijk in de portefeuille Dinther I ingebonden. Dit is in ieder geval duidelijk voor het testament uit 1517 (nu inv.nr. 41). 
+          <lb/>
+          <lb/>In 1880-1881 beschreef pater Van den Elsen in zijn Geschiedenis van Heeswijk en Dinther (Archief Abdij van Berne, oude nummering handschrift S, huidig nummer 1031.1) de stukken van de map Dinther I. Al deze stukken zitten ook nu nog in Dinther I. Het tweede stuk dat hij beschreef vonden we niet meer in Dinther I, maar was verplaatst naar Dinther II. Het is nu inv.nr. 45 (1433-03-19). Zijn stuk nummer 13 troffen we ook niet meer aan in Dinther I, maar bleek in Dinther II te zijn ondergebracht (nu inv.nr. 48). Het testament van 1468 (inv.nr. 40) was toen in Dinther I geplaatst.
+          <lb/>
+          <lb/>
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>Verantwoording van de inventarisatie</head>
+        <p>Omdat onduidelijk is of de portefeuille nog gevormd is door Schutjes is de indeling in portefeuilles aangehouden door deze als rubrieken te gebruiken. In de eerste rubriek is ook de volgorde van de stukken volgens de nummering van Hens aangehouden. De tweede rubriek wordt gevormd door de stukken die niet genummerd zijn, maar blijkend de aangebrachte inkepingen wel tot de portefeuille Dinther I behoord hebben. De overige stukken vormden de derde rubriek, Dinther II, hoofdzakelijk bestaande uit stukken betreffende het Sint-Theobaldusaltaar. Hiervoor is een nieuwe indeling ontworpen. Een van de ingekeepte stukken van de map Dinther II  is daar gebleven, omdat deze blijkens de dorsale aantekening bij de stukken betreffende dit  altaar behoorde. Het betreft het testament van Jan Keesmeker uit 1468 (inv.nr. 40).
+          <lb/>Duidelijk is dat de oorspronkelijke structuur al lang geleden verstoord is. Omdat die niet meer met voldoende zekerheid te reconstrueren is is ervoor gekozen de laat negentiende-eeuwse ordening als leidend aan te houden voor de map Dinther I en  een nieuwe indeling te maken voor Dinther II.
+          <lb/>
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>Aanwijzingen voor het gebruik</head>
+        <p>Het 19e en 20e –eeuwse deel van het parochiearchief berust nog bij de parochie van Dinther. De stukken die Schutjes noteerde onder VI onderdeel 2 en 3 en onder VII zijn aangetroffen in de collectie Doop-, trouw- en begraafboeken van het bisdom Den Bosch, nu berustend in het BHIC onder toegangsnummer 1892.
+          <lb/>
+          <lb/>Citeerinstructie:
+          <lb/>Verwijzing naar archiefstukken uit dit archief geschiedt door
+          <lb/>(volledig): 
+          <lb/>Brabants Historisch Informatie Centrum, toegangsnummer 2141 Archief van de parochie Dinther, 1369-1711, inv.nr. ...
+          <lb/>(verkort): 
+          <lb/>BHIC, 2140 Parochie Dinther, inv.nr. ...
+          <lb/>
+        </p>
+      </odd>
+    </odd>
+    <odd>
+      <odd>
+        <head>Regesten</head>
+        <odd type="regest">
+          <head>1369-05-28.
+            <lb/> Mechteldis, dochter van Lambertus van den Hoevel, heeft verkocht voor schepenen van 's-Hertogenbosch aan Johannes .... zoon van Arnoldus Smit de Middelrode, een morgen van 1000 morgen gemeint van de stad 's-Hertogenbosch op die Hoeghe Vliedert.
+          </head>
+          <p>origineel</p>
+          <p>feria secunda post octavas penthecostes</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1377-..-...
+            <lb/> Johannes Smedeken, zoon van Arnoldus Smit de Middelrode, heeft verkocht voor schepenen van 's-Hertogenbosch aan ...  een morgen van 1000 morgen gemeint van 's-Hertogenbosch op Hoghevliedert.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1380-06-28(?).
+            <lb/> De officiaal van Luik doet uitspraak in het geschil tussen Radolphus de Dynther, armiger, namens de armen van Dinther, en Johannes de Aggere de Buscoducis, armiger, betreffende het legaat van Walterus Spirinc de Dynter ten behoeve van de armen uit zijn geslacht en de andere armen van Dinther van een erfcijns van 4 mud rogge, 50 el wollen laken, 600 haringen en 25 paar schoenen. Ze zijn ruim 20 jaar na de dood van de testator betaald maar de laatste vier jaar niet mee. De officiaal geeft opdracht tot onderzoek en uitspraak in deze zaak aan Gerardus de Scantbroec, advocaat aan zijn hof. Krachtens notarieel instrument van 27 februari 1372 moet het legaat jaarlijks betaald worden door Joannes Spirinc en zijn zuster jonkvrouwe Theodorica. De officiaal bevestigt de armen in hun rechten.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1427-03-13.
+            <lb/> Rodolphus de Dynther heeft in erfpacht gegeven voor schepenen van 's-Hertogenbosch aan Hesselo, zoon van Everardus van der Pueteren, land in Dat Wyerschehecken en land geheten Den Wuestenbogart in Die Lammerhof, beide in Dinther.
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo quadringentesimo vicesimo sexto</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1432-05-08.
+            <lb/> Johannes, zoon van Johannes Aelbrechs soens soen, heeft verkocht voor schepenen van 's-Hertogenbosch aan Arnoldus de Zochel, zoon van Arnoldus, een erfpacht uit land, geheten Noppenecker, in Dinther aan Den Donckeren Dijck en uit een huis met toebehoren daar.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1433-03-19.
+            <lb/> Johannes, zoon van Johannes Aelbrechtssoen, heeft verkocht voor schepenen van 's-Hertogenbosch aan Arnoldus de Zochel, zoon van Arnoldus, een pacht uit een kamp geheten Noppenecker in Dinther aan Die Donckeren Dijck en uit een huis met toebehoren aan de hei.
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo CCCCmo tricesimo secundo</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1439-07-01.
+            <lb/> Johannes die Ridder, natuurlijke zoon van Willelmus die Ridder, heeft verkocht voor schepenen van 's-Hertogenbosch aan Arnoldus de Vaerlaer, zoon van Arnoldus, een erfpacht uit land en boomgaard in Dinther in Boege.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1446-03-21.
+            <lb/> Notaris Rutgerus Voss de Oorschot instrumenteert dat Arnoldus Zochelman en zijn vrouw Elizabeth hun testament maken waarbij ze geld legateren aan de kerkfabriek van Sint-Lambertus in Luik en aan die in Dinther, aan de priester daar, aan Johannes Keesmeker, aan de koster in Dinther, aan Onze Lieve Vrouw en aan Sint Theobald; aan de kerkfabriek van Dinther tot ondersteuning en bouw van het gebouw en voor licht tijdens zijn jaargetijde een erfpacht, aan de Tafel van de Heilige Geest in Dinther te betalen door Gerardus, de molenaar van Kilsdonk, uit te delen aan de armen van Dinther op hun jaargetijde, te vieren door de vicaris; bovendien voor twee weekmissen in Dinther op het Maria-altaar een roggepacht (bij nietnakoming waarvan deze moet toevallen aan het altaar van Sint-Theobaldus  wanneer het gedoteerd, gebouwd en gewijd is); aan de wettige kinderen van Johannes Johannis Koyters een huis met toebehoren in Den Pelshoevel in Dinther; en aan andere personen enkele legaten. Executeurs-testamentair zijn Emundus Carnificis, vicaris van Dinther, en Arnoldus Ruttensoen. Getuigen zijn naast de executeurs-testamentair priester Johannes Keesmeker en Arnoldus, zoon van Johannes Wouterssoen.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1447-04-14.
+            <lb/> Ludolphus van den Water, kanunnik in 's-Hertogenbosch, heeft verkocht voor schepenen van 's-Hertogenbosch aan Gerardus, zoon van Ricoldus zoon van Gerardus die Lepper,  land in de vrijdom van 's-Hertogenbosch in Hintham bij Die Gemeyn Vliedert in die Havercampen.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1448-06-03.
+            <lb/> Rodolphus, zoon van Petrus Scheers, heeft verkocht voor schepenen van 's-Hertogenbosch aan Johannes die Koyter, zoon van Johannes, een erfpacht uit een huis met toebehoren in Dinther aan Den Verren Bueghe.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1448-12-07.
+            <lb/> Henricus, zoon van Willelmus Donck, heeft overgedragen voor schepenen van 's-Hertogenbosch aan Gerardus, zoon van Ricoldus die Lepper, een morgen van 1000 morgen gemeint van de stad 's-Hertogenbosch op Hogevliedert en een erfcijns.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1448-12-07.
+            <lb/> Beatrix, dochter van Willelmus Donck, heeft verklaard voor schepenen van 's-Hertogenbosch afstand te doen van haar rechten inzake de morgen en de erfcijns die Gerardus, zoon van Ricoldus die Lepper vandaag verworven heeft.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1449-02-03.
+            <lb/> Johannes de Spijck, zoon van Henricus, als echtgenoot van Hadewigis, heeft overgedragen voor schepenen van 's-Hertogenbosch aan Lambertus de Doerne land in Dinther int Reytsel.
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo quadringentesimo quadragesimo octavo</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1449-04-22.
+            <lb/> Willelmus Donc, weduwnaar van Katherina dochter van Jacobus van den Hoeve, heeft overgedragen voor schepenen van 's-Hertogenbosch aan Henricus, zoon van Willelmus en Katherina, het vruchtgebruik van een morgen in 1000 morgen gemeint van de stad 's-Hertogenbosch op Hogevliedert.
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo quadringentesimo quadragesimo octavo</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1451-05-04.
+            <lb/> Johannes van der Heyden, zoon van Johannes, heeft verkocht voor schepenen van 's-Hertogenbosch aan Arnoldus, zoon van Johannes Matheeussoen, een erfpacht uit een huis met toebehoren in Dinther aent Venne.
+          </head>
+          <p>origineel</p>
+          <p>met fragment van het zegel van Everardus van den Water</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1453-01-30.
+            <lb/> Dochters van Godefridus, zoon van Johannes Witcop, hebben overgedragen voor schepenen van 's-Hertogenbosch aan zonen van Henricus, zoon van Johannes Witcop, en aan Jordanus de Zonne, zoon van Petrus, een erfpacht uit een huis met toebehoren in Dinther aent  Boeghemeer(?).
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo quadringentesimo quinquagesimo secundo</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1454-09-25.
+            <lb/> Arnoldus, zoon van Johannes Matheus soen, heeft overgedragen voor schepenen van 's-Hertogenbosch aan Johannes, zoon van Constantinus, geheten Cost Willemssoen, en Michael, zoon van Michael Deenkens soen, mede ten behoeve van Johannes de Zochel een erfpacht uit een huis met toebehoren in Dinther aent Venne.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1454-09-25.
+            <lb/> Arnoldus, zoon van Johannes Theeus soen, heeft overgedragen voor schepenen van 's-Hertogenbosch aan Johannes, zoon van Constantinus, geheten Cost Willems soen, en Michael, zoon van Michael Deenkens soen, mede ten behoeve van Johannes de Zochel, zoon van Johannes, een erfpacht uit een kamp met opstallen in Dinther aent Venne.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1455-09-22.
+            <lb/> Johannes, zoon van Constantinus, geheten Cost Willems, Michael, zoon van Michael Deenkens soen, en Johannes de Zochel, zoon van Johannes, hebben overgedragen voor schepenen van 's-Hertogenbosch aan heer Emondus, priester, zoon van Johannes Carnificis, een erfpacht uit een huis met toebehoren in Dinther aent Venne en een erfcijns en -pacht hieruit.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1456-04-29.
+            <lb/> Willelmus, zoon van Arnoldus de Vairlair, heeft overgedragen voor schepenen van 's-Hertogenbosch aan Amisius, zoon van Henricus de Vairlair, een erfpacht uit land en boomgaard in Dinther in Boege.
+          </head>
+          <p>origineel</p>
+          <p>met het geschonden schepenzegel van Godefridus de Dommelen en het gave van Gerardus Boest</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1457-08-20.
+            <lb/> Notaris Theodericus Dommel(man)s de Helmont instrumenteert dat Emondus Carnificis, rector van de vicarie van de parochiekerk van Dinther, zijn testament maakt waarbij hij aangeeft begraven te willen worden in de kerk van Dinther, op de dag van zijn begrafenis een spinde te verlangen voor de armen van Dinther en 1 stuiver aan ieder die daar komt; hij legateert aan de kerkfabriek van Luik 1 stuiver; aan de kerkfabriek van Dinther 20 peter voor een retabel op het hoogaltaar en een gewelf boven het koor; voor zijn jaargetijde en inschrijving in het jaargetijdenboek een roggepacht met een gift voor de koster en voor licht; aan priester Arnoldus Goart soen een roggepacht als lijfrente en geld; aan zijn erfgenamen zijn goederen in Sint-Oedenrode; aan zijn broer Mathias zijn paard; aan zijn bloedverwant heer Johannes Keesmeker een roggepacht als lijfrente; aan zijn natuurlijke zoon Johannes jaarlijks geldbedragen en twee akkers leengoed gedurende diens leven op voorwaarde dat Johannes binnen twee jaar ongeveer priester wordt; na diens dood moeten ze verdeeld worden tussen de kerkfabriek van Dinther, de Tafel van de Heilige Geest en het Maria-altaar in de kerk van Dinther; hij bevestigt dat in de kerk een nieuw altaar gebouwd is, toegewijd aan God en Sint-Theobaldus (hierna ruimte open), maar nog niet gewijd en ingezegend, waarvoor hij een geldbedrag legateert; hij legateert twee zilveren "tasseas"(kommen?) en zes zilveren lepels om daarvan een kelk te laten maken voor dit altaar; een roggepacht voor de wijding van dit altaar met als last het opdragen van missen. Hij verzoekt deken en kapittel van Sint-Jan in 's-Hertogenbosch als investiet en patroon van de kerk van Dinther het altaar te wijden en zijn zoon Johannes als eerste rector ervan aan te stellen; aan koster Arnoldus geld; aan zijn huishoudster Ermgardis zijn (...) waarin hij placht te slapen, een kleine koe, door haar uit te kiezen uit zijn koeien en enkele andere zaken; aan ieder van de vier bedelo
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1457-11-08.
+            <lb/> Ludovicus de Bourbon, bevestigd elect van Luik, oorkondt op verzoek van de executeurs-testamentair van wijlen Emondus Carnificis dat hij goedkeuring geeft aan de stichting van het altaar van Sint-Theobaldus in de kerk van Dinther als een kerkelijk beneficie met 10 mud rogge als jaarinkomen en als last vier weekmissen en dat hij Johannes Carnificis, clericus, als eerste rector aanvaardt, waarna het presentatierecht aan deken en kapittel van Sint-Jan komt, waarin de parochiekerk van Dinther geïncorporeerd is. Hij draagt op dat Johannes als rector aangesteld wordt door de aartsdiaken van Kempenland en dat de executeurs-testamentair binnen drie maanden de roggepachten aan het altaar verbinden.
+          </head>
+          <p>origineel</p>
+          <p>met als transfix de aanstellingsakte van Johannes door de aartsdiaken van 1458-05-26</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1458-02-23.
+            <lb/> Amisius, zoon van Henricus de Vaerlair, heeft overgedragen voor schepenen van 's-Hertogenbosch aan Rutgerus de Arkel ten behoeve van Arnoldus de Wijck, investiet van Heeswijk, en Johannes Keesmeker, priesters, Mathias Carnificis en priester Theodericus Dommelmans, executeurs-testamentair van Emondus Carnificis, rector van de vicarie van Dinther, een erfpacht uit land en boomgaard in Dinther in Boege.
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo quadringentesimo quinquagesimo septimo</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1458-02-23.
+            <lb/> Johannes, zoon van Constantinus, geheten Stans Peters soen, heeft verkocht voor schepenen van 's-Hertogenbosch aan Rutgerus de Arkel ten behoeve van Arnoldus de Wijck, investiet van Heeswijk, en Johannes Keesmeker, priesters, Mathias Carnificis en priester Theodericus Dommelmans, executeurs-testamentair van Emondus Carnificis, rector van de vicarie van Dinther, een erfpacht uit wei in Schijndel int Waut en uit Den Auden Hoff in Schijndel.
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo quadringentesimo quinquagesimo septimo</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1458-05-26.
+            <lb/> De aartsdiaken van Kempenland oorkondt dat hij goedkeuring geeft aan de oprichting, stichting en dotatie van het nieuwe altaar in de kerk van Dinther, toegewijd aan Sint-Theobaldus, volgens het testament van wijlen Emondus Carnificis, stelt Johannes Carnificis als eerste rector ervan aan en geeft opdracht aan de dienstdoende priester in de kerk van Dinther hem als zodanig te installeren.
+          </head>
+          <p>origineel</p>
+          <p>met het geschonden zegel van de aartsdiaken</p>
+          <p>getransfigeerd met de bisschoppelijke goedkeuring van 1457-11-08</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1458-07-08.
+            <lb/> Henricus geheten Deyn de Vladeracken heeft verkocht voor schepenen van 's-Hertogenbosch aan Rutgerus de Arkel ten behoeve van het altaar van Sint-Theobaldus in de kerk van Dinther een erfpacht uit land in Dinther in Den Hulsacker en uit nog een stukje land, beide liggend bij de hoeve Ten Bogarde.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1459-02-09.
+            <lb/> Arnoldus, zoon van Johannes Theeus soen, heeft verkocht voor schepenen van 's-Hertogenbosch aan Rutgerus de Arkel ten behoeve van het altaar van Sint-Theobaldus in de kerk van Dinther een erfpacht uit een huis met toebehoren in Dinther aan de gemeint Die Pelshoevel en uit een wei in Veghel aan Den Kylsdonckstendijck.
+          </head>
+          <p>anno Domini millesimo quadringentesimo quinquagesimo octavo</p>
+          <p>origineel</p>
+          <p>met dienstaantekening van de Bossche schepenbank dat de akte overhandigd moet worden aan de pastoor van Heeswijk</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1459-02-09.
+            <lb/> Johannes, zoon van Rutgerus Jans soen, beroept zich voor schepenen van 's-Hertogenbosch op zijn naastingsrecht met betrekking tot een erfpacht die Rutgerus de Arkel ten behoeve van het altaar van Sint-Theobald in de kerk van Dinther gekocht heeft van Arnoldus, zoon van Johannes Theeussoen.
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo quadringentesimo quinquagesimo octavo</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1459-02-09.
+            <lb/> Johannes, zoon van Johannes zoon van Robbertus die Steepstael, heeft verkocht voor schepenen van 's-Hertogenbosch aan Rutgerus de Arkel ten behoeve van het altaar van Sint-Theobaldus in de kerk van Dinther een roggepacht uit een huis met toebehoren in Den Hulsacker,  uit land daar int Reetsel en uit een wei, alle in Dinther.
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo quadringentesimo quinquagesimo octavo</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1460-03-07.
+            <lb/> Willelmus, zoon van Willelmus van der Voert, heeft verkocht voor schepenen van 's-Hertogenbosch aan Rutgerus de Arkel ten behoeve van de executeurs-testamentair van Emondus Carnificis, vroeger rector van de vicarie van de parochie Dinther, een roggepacht uit een huis met toebehoren in Schijndel.
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo quadingentesimo quinquagesimo nono</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1465-11-12.
+            <lb/> Schepenen van Dinther oorkonden dat ...melt en Matheus, kinderen van Matheus zoon van Henric Mathijs soen van ..., en ...  verkocht hebben land in Dinther, met als last een erfcijns voor het Barbara-altaar in (Veghel?) en een roggepacht voor de armen van Dinther.
+          </head>
+          <p>origineel</p>
+          <p>met het licht geschonden schependomszegel van Dinther</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1466-02-14.
+            <lb/> Henricus Gheck, zoon van Johannes Gheck, heeft verkocht voor schepenen van 's-Hertogenbosch aan Willelmus, zoon van Arnoldus Vaerlaer, land, geheten Dat Rullen, in Dinther in Dat Kercvelt aan Den Dynthersche Beemde.
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo quadringentesimo sexagesimo quinto</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1468-12-25.
+            <lb/> Notaris Johannes Carnificis, priester van Luik, instrumenteert dat Johannes Keesmeker, rector van de kapel van Sint-Sebastiaan en Anthonius in Loosbroek, parochie Dinther, zijn testament maakt waarbij hij legateert aan de kerkfabriek van Dinther en aan de Maagd Maria daar een waskaars; aan de kapelfabriek van Loosbroek en aan die van de Drie Koningen in de Bogaard ieder een kaars; aan de kerkfabriek van Dinther voor verlichting op de dag van zijn jaargetijde een pond, te ontvangen door de kerkmeesters die daarvan anderhalve stuiver moeten betalen aan de rector van het altaar van Sint-Theobaldus en Barbara, die daarvoor de vigilies en de mis moet bijwonen op het jaargetijde van de testator en moet bidden voor diens zielenheil; aan zijn dienstmaagd Agatha de Rucven een pond erfelijk; met als getuigen Arnoldus de Weert, Hadewigis weduwe van Marcelius van der Erpt, zijn dochter Elizabeth en Agatha van Rucven.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1470-09-27.
+            <lb/> Heer Johannes Vleeshouwer, priester, zoon van Emondus, heeft verkocht voor schepenen van 's-Hertogenbosch aan Willelmus de Busco ten behoeve van Hillegondis, weduwe van Johannes Koyters, een erfpacht uit een huis met toebehoren in Dinther in Die Lammerhoeve.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1479-04-20.
+            <lb/> Gerardus, zoon van Reynerus zoon van Henri(cus) Deyn zoon van Willelmus de Vladeracken, heeft verkocht voor schepenen van 's-Hertogenbosch aan heer Johannes Carnificis, priester, land in Dinther in Die Hulsackeren met als last een roggepacht voor de rector van het altaar van Sint-Theobaldus en Barbara in de kerk van Dinther.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1479-04-22.
+            <lb/> Gerardus, zoon van Reynerus zoon van Henricus Deyn zoon van Willelmus de Vladeracken, heeft overgedragen voor schepenen van 's-Hertogenbosch aan heer Johannes Carnificis, priester, land geheten Die Regenhofstad in Dinther in Den Auden Hulsacker.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1480-05-31.
+            <lb/> Rodolphus, zoon van Wautgerus Scosters, als echtgenoot van Yda, dochter van Ghijsbertus Hels, heeft overgedragen voor schepenen van 's-Hertogenbosch aan Henricus Peregrini ten behoeve van Arnoldus en Daniel, onmondige kinderen van Laurentius de Weert, een erfrente uit wei in Die Beytelshorst, deels in Schijndel, deels in Veghel gelegen.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1481-04-26.
+            <lb/> Arnoldus de Vaerlaer, zoon van Arnoldus, weduwnaar van Margareta, dochter van Willelmus Jans soen, heeft overgedragen voor schepenen van 's-Hertogenbosch aan zijn kinderen het vruchtgebruik in een huis met toebehoren in Dinther in Die Pelshoevel.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1489-02-21.
+            <lb/> Hillegondis, dochter van Henricus zoon(?) van Johannes Jongers, heeft overgedragen voor schepenen van 's-Hertogenbosch aan Godefridus, zoon van Willelmus Goyarts, land in Dinther int Reytsel.
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo quadringentesimo octuagesimo octavo</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1489-02-21.
+            <lb/> Hillegondis, dochter van Henricus zoon van Johannes Jongers, heeft overgedragen voor schepenen van 's-Hertogenbosch aan Godefridus, zoon van Willelmus Goyarts, land in Dinther int Reytsel.
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo quadringentesimo octuagesimo octavo</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1493-03-21.
+            <lb/> Henricus Bredebaert heeft verkocht voor schepen van 's-Hertogenbosch aan heer Johannes Carnificis een kamp, geheten Den Noppenacker, in Dinther, opgewonnen door Johannes als rector van het altaar van Sint-Theobaldus in de kerk van Dinther, en een huis met toebehoren in Dinther beschreven in de schepenakte van 1432-05-08.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1507-12-15.
+            <lb/> Schepenen van Dinther oorkonden dat Gherit, zoon van Jan Stansen, verkocht heeft aan Jan, zoon van Machiel Janssen, en zijn zuster Agnes en de onmondige kinderen van Machiel een roggepacht uit land in Schijndel aan de Aa.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1512-07-26.
+            <lb/> Nadat Maria de Zevenbergen, Heeswijk, Dinther etc., weduwe van heer Cornelius de Bergen, en hun oudste zoon Maximilianus de Bergen goederen tussen Heeswijk en Dinther, vroeger toebehorend aan heer Johannes Carnifex, priester, natuurlijke zoon van heer Emondus Carnifex, verkocht hadden aan inwoners van Dinther en aangezien gemachtigden van deze inwoners heer Emonts Hofstadt en Die Hofstadt op die Cruysstraet in Dat Venne en land in het Retsel, in Hazenberch en enkele andere stukken land in Dinther verkocht hadden aan de Tafel van de Heilige Geest in 's-Hertogenbosch, droeg Johannes Kanapart als heiligegeestmeester voor schepenen van 's-Hertogenbosch heer Emonts Hofstadt over aan heer Daniel, zoon van Laurentius Arn(...)s de Weerdt, priester, met lasten voor de buren van Dinther, de rector van het Theobaldusaltaar in Dinther en de vicaris van de kerk.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1516-04-22.
+            <lb/> Schepenen van Dinther oorkonden dat kinderen van Machiel Jan Stansen verkocht hebben aan Daniel Laurens soen van Weert, priester, een erfpacht uit Den Ghemeynden Beempt aan de Aa in Schijndel.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1517-11-11.
+            <lb/> Daniel Laurentii de Weert, vice-cureit van Dinther, oorkondt dat Nicolaus, zoon van Philippus Arnoldi, inwoner van Dinther, zijn testament maakt waarin hij legateert aan de kerkfabriek van Luik 1 stuiver; aan de vier (bedel)orden rogge; aan de kerkfabriek van Dinther een stuiver; aan de dienstdoende priester daar een stuiver en aan de koster een halve; aan Johannes die Cleyn geheten Limbeeck en aan zijn broer Johannes geld; aan Johannes die Cleyn een huis met toebehoren in Vorstenbosch in Dinther en zijn overige goederen op voorwaarde dat hij Nicolaus' schulden vereffent; met als getuigen Henricus die Bever, Henricus zoon van Wilhelmus de Kilsdonck, Godefridus die Jongher en Theodricus Tomaessoen, inwoners van Dinther.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1518-06-25.
+            <lb/> Schepenen van Dinther oorkonden dat Jan die Cleyn, geheten Limbeeck, verkocht heeft aan heer Daniel Laurenssoen, rector van Sint-Ewoutsaltaar in de kerk van Dinther, ten behoeve van dit altaar en hulp bij twee missen, op dit altaar gesticht door Aert Zochellmans en zijn vrouw Lijsbeth, een erfpacht uit de helft van een huis met toebehoren in Vorstenbosch in Dinther, welke helft Claes Flipsen aan Jan vermaakt heeft, op voorwaarde dat de rector een van de twee missen altijd zondags op het altaar zal (laten) celebreren rond de hoogmis.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1526-02-03.
+            <lb/> Schepenen van Dinther oorkonden dat Arnt, zoon van Henrick van Weert, overgedragen heeft aan heer Danel Laurenss. van Weert, priester, een erfcijns uit goederen in Dinther in het Retsel.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1546-09-07.
+            <lb/> Schepenen van 's-Hertogenbosch oordelen in de zaak tussen Adriaen van Hommelheze, priester, gemachtigde van Daniel Laureynsen, rector van het altaar van Sint-Theobaldus in Dinther, en enkele ingezetenen van Dinther, 
+            <lb/>aangezien op 23 februari 1458 Jan, zoon van Stans Peterssen verkocht had aan Rutger van Arkel ten behoeve van heer Arnt van Wijck, cureit van Heeswijk, Jan Keesmakers, Mathijsen Vleeschouders en Dirck Dommelmans, priesters, executeurs-testamentair van Emond Vleeschouwer, rector van de vicarie van Dinther, verkocht hadden een erfpacht uit land in Schijndel int Waut en uit Den Ouden Hoff daar, welk laatstgenoemd onderpand echter in Dinther lag,
+            <lb/>dat de ingezetenen deze erfpacht inclusief de achterstallen moeten betalen.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1556-03-07.
+            <lb/> Johannes, zoon van Johannes Peterssen, heeft verkocht voor schepenen van 's-Hertogenbosch aan Johannes zoon van Theodericus Willemsz. een erfcijns uit een huis met toebehoren in Dinther aan de gemeint Heylaren en uit hooiland achter de kerk van Dinther in die Beempden.
+          </head>
+          <p>origineel</p>
+          <p>anno Domini millesimo quingentesimo quinquagesimo quinto</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1557-12-04.
+            <lb/> Schepenen van Dinther oorkonden dat Jan Dirck Janssen verkocht heeft aan Jan, zoon van Jan Peter Blaffarts, een huis met toebehoren en grond in Dinther.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1560-11-26.
+            <lb/> Schepenen van Dinther oorkonden dat Thomas Janssen van Uden verkocht heeft aan Getrid Hermanssen een erfcijns uit een huis en hof in Dinther opt Kerckvelt.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1563-08-28.
+            <lb/> Schepenen van Dinther oorkonden dat de kinderen van Jan Jan Peterssen en Marie, dochter van Wijn Hanrick Artsen, en die van Elyas Hanrick Elyassen en genoemde Marie overeengekomen zijn de door hen geërfde goederen te verdelen.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1564-02-08.
+            <lb/> Stephanus, zoon van Johannes Adriaenszoen, heeft beloofd voor schepenen van 's-Hertogenbosch te betalen aan Petrus Henricxzoen ten behoeve van Ermgardis, dochter van Ghijsbertus de Colonia, een lijfrente uit een huis met toebehoren in Sint-Oedenrode ter plaatse Bersselaer.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1565-10-08.
+            <lb/> Adrianus, zoon van Johannes Verdussen, heeft beloofd te betalen voor schepenen van 's-Hertogenbosch aan kinderen van Johannes Cuijlen 236 gulden.
+          </head>
+          <p>origineel</p>
+          <p>met het geschonden zegel van Zegerus Adriani</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1566-08-14.
+            <lb/> Schepenen van Dinther oorkonden dat Geerit Hermanssen verkocht heeft aan Ariaen Jan Celen land in Dinther int Kercvelt.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1567-0403.
+            <lb/> Schepenen van Dinther oorkonden dat Eell Henrick Eelensoon verkocht heeft aan Jacob Marcelis voor zijn lijftocht en aan zijn dochter Joostken erfelijk een erfcijns uit een huis met toebehoren in Dinther int Kerckvelt.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1580-05-06.
+            <lb/> Schepenen van Dinther oorkonden dat voogden van de kinderen van Elias Henrixzoen en zijn vrouw Merike verkocht hebben aan Henrick, zoon van Henrick Jan Mercelissen, een huis met toebehoren in Dinther aan de Heylaijren en een heibeemd, geheten De Horst, tussen Heeswijk en Dinther, met als last onder meer een erfcijns ten behoeve van 'provene' voor de pastoor en de koster.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1580-06-28.
+            <lb/> Henricus, zoon van Goesswinus zoon van Jacobus Gerartssen, heeft overgedragen voor schepenen van 's-Hertogenbosch aan kinderen van Cornelius Henricxssen een erfcijns uit een huis met toebehoren en land in Dinther in Die Heilaeren en uit hooiland achter de kerk in Die Beempden.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1587-01-05.
+            <lb/> Schepenen van Dinther oorkonden dat Aert Claes Aertssen namens zijn vrouw verkocht heeft aan Jan, zoon van Henrick Symons, een erfcijns uit een huis met toebehoren in Dinther int Kerckvelt.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1607-01-27.
+            <lb/> Schepenen van Dinther oorkonden dat kinderen van Henrick Henrick Ceelen en Henrick Henrick Jan Ceelen verkocht hebben aan Arnt Andriessen Beijssen, pastoor van Dinther, een huis met toebehoren in Dinther aan de Heylaeren, met als last onder andere twee provenbroden voor de pastoor en de koster.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1607-02-13.
+            <lb/> Schepenen van Dinther oorkonden dat erfgenamen van Henrick Lambertssen opt Daa en zijn tweede vrouw Lijsken verkocht hebben aan Claes Henrick Lambertssen een huis met toebehoren in Dinther in de Lammerhoeve, met als lasten onder andere een roggepacht aan de rector van het altaar van Theobaldus en Barbara in de kerk van Dinther en een roggepacht aan de vicaris van Dinther.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1607-10-27.
+            <lb/> Gijsbertus Masius, bisschop van 's-Hertogenbosch, oorkondt op verzoek van Arnoldus Beijs, vicaris van de kerk van Dinther, dat hij goedkeuring geeft aan de stichting van een vroegmis op de zon- en feestdagen op het altaar van Theobaldus en Barbara, ter collatie van deken en kapittel van Sint-Jan, waaraan Arnoldus goederen in Dinther verbonden heeft op voorwaarde dat de rector van dit beneficie resideert of zich laat vervangen.
+          </head>
+          <p>origineel</p>
+          <p>opgedrukt zegel van de bisschop</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1609-11-03.
+            <lb/> Schepenen van Dinther oorkonden dat jonker Willem van Hoengen genoemd Wassenbergh namens zijn echtgenote Joanna Vaeck verkocht heeft aan jonker Willem Suermonts een deel van een rente op het corpus van Dinther.
+          </head>
+          <p>origineel</p>
+          <p>met fragment van het schependomszegel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1610-07-08.
+            <lb/> Albert en Isabella, hertogen van Brabant, oorkonden dat ze op verzoek van Aerdt Andriessen Beijs, pastoor van Dinther, toestemming geven tot de stichting van een vroegmis in Dinther en de eraan verbonden goederen amortiseren onder voorwaarde dat de daartoe behorende twee kampen land belastingplichtig zullen blijven en aan de hertog als recognitie een erfcijns betaald zal worden.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1610-08-05.
+            <lb/> Schepenen van Dinther oorkonden dat heer Arndt Andriessen Beijs, pastoor van Dinther, beloofd heeft te betalen aan Marten Fierlants als raad en rentmeester van de domeinen een erfcijns uit een huis met toebehoren aan de Heylaren.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1614-08-12.
+            <lb/> Schepenen van Dinther oorkonden dat jonker Johan Vaeck verkocht heeft aan jonker Willem Suermonts een rente op het corpus van Dinther.
+          </head>
+          <p>origineel</p>
+          <p>met fragment van het schependomszegel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1616-03-07.
+            <lb/> Schepenen van Dinther oorkonden dat Henrick, zoon van Jan Henrick Cesen, overgedragen heeft aan heer Arnt Andriessen Beijs, pastoor, ten behoeve van de zondagse vroegmis van Dinther twee erfcijnzen
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1619-09-28.
+            <lb/> Omdat de ingestelde zondagse vroegmis al vele jaren niet gehouden is, hebben schepenen, burgemeesters, kerk- en heiligegeestmeesters en jonker Bruno ter Herenhaeffve met meer notabelen, vertegenwoordigend het corpus van Dinther, beloofd aan de priester die deze vroegmis zal celebreren een erfcijns te geven onder nadere voorwaarden.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1620-05-02.
+            <lb/> Schepenen van Dinther oorkonden dat Willem Suermonts, zoon van Jacob, verkocht heeft aan heer Arnt Andries Beys, pastoor van Dinther, een schuldbrief op het corpus van Dinther, die opgemaakt is ten behoeve van de zondagse vroegmis in Dinther.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1625-11-03.
+            <lb/> Henrick, zoon van Cornelis Henricx, inwoner van Nistelrode, heeft overgedragen voor schepenen van 's-Hertogenbosch aan heer Arnt Beijs, pastoor van Dinther, een erfcijns uit een huis met toehoren in Dinther aan de Heylaren en uit land achter de kerk in De Beempden.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1651-09-06.
+            <lb/> President en raden van de Raad van Brabant dragen de deurwaarder op wegens verzoek van de vorster van Schijndel, gemachtigde van Jan Schenckels, vroeger kapelaan te Dinther, de hem achterstallige inkomsten bij zijn schuldenaren te manen.
+          </head>
+          <p>origineel</p>
+          <p>geschonden zegel van de raad</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1667-10-08.
+            <lb/> Schepenen van Dinther verklaren dat de kinderen van Roeloff Jan Jacobs ten deel is gevallen in een erfscheiding de Lintacker met land naast het Cluijtvelt met een kluitven.
+          </head>
+          <p>origineel</p>
+          <p>met fragment van het schependomszegel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1669-10-21.
+            <lb/> Schepenen van de grondheerlijkheid Dinther oorkonden dat Willem Everts namens zijn vrouw verkocht heeft aan Joost Jan Joosten land in de grondheerlijkheid Dinther in Lijs Peer Wijnnen acker.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1672-02-26.
+            <lb/> Schepenen van de grondheerlijkheid Dinther oorkonden dat erfgenamen van Heijlke, dochter van Geerart Pennincx, weduwe van Jan Aerts van Goch, verkocht hebben aan Joost Jan Joosten Spierincx  land in Dinther in Den Nachtegael.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1673-03-14.
+            <lb/> Schepenen van de grondheerlijkheid Dinther oorkonden dat Niclaes Pauwels van Goch en Joost Jan Joosten Spierincx een erfdeling aangegaan zijn van de door hen gekochte goederen in Dinther. Joost krijgt een deel van een hooikamp, geheten Die Bulten, de helft van Jan Pauwelssen Velt en de helft van een akker geheten Den Nachtegael.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1675-08-19.
+            <lb/> Schepenen, kerk- en heiligegeestmeesters, vertegenwoordigend het corpus van de grondheerlijkheid Dinther, verklaren schuldig te zijn aan Aelbert Joosten, Geurt Joosten en Anthonij Joost Spierincx een kapitaal van 750 gulden, dat ze al ontvangen hebben ten behoeve van het dorp.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1682-01-02.
+            <lb/> Schepenen van de grondheerlijkheid Heeswijk oorkonden dat Jan Rutten, inwoner van Den Dungen, als echtgenoot van Jenneke, weduwe van Peter Hendrickx van der Donck, overgegeven heeft aan Anthonij Joosten Spierincx een erfrente op het dorp Heeswijk.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1689-02-22.
+            <lb/> Schepenen, kerk- en armmeesters en gezworenen van Dinther zijn ten behoeve van het dorp een geldlening aangegaan bij Thunus Joosten Spierincx.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+        <odd type="regest">
+          <head>1711-06-27.
+            <lb/> Schepenen van Moergestel oorkonden dat Cornelia van Hulten, weduwe van Adriaan Vrients, overgedragen heeft aan Jan Jans Vrients een deel van het Heijvelt, gelegen omtrent Den Bloemendael in Moergestel.
+          </head>
+          <p>origineel</p>
+          <p/>
+        </odd>
+      </odd>
+    </odd>
+    <dsc type="combined">
+      <c01 level="series">
+        <did id="MF17391921">
+          <unitid type="guid">089D14DE451C4159B502062D6E56A1E2</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Map Dinther I</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1369/1711"/>
+        </did>
+        <c02 level="file">
+          <did id="MF17391922">
+            <unitid type="guid">C56FFCA4296346B381DFA4F954ED4AC0</unitid>
+            <unitid>1</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C56FFCA4296346B381DFA4F954ED4AC0</unitid>
+            <unittitle>Akte van overdracht van goederen in Dinther, 1512</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1512">1512</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van goederen in Dinther, 1512</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C56FFCA4296346B381DFA4F954ED4AC0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17391926">
+            <unitid type="guid">4943E6F6DC484E44B28A9E6E9CC20D09</unitid>
+            <unitid>2</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4943E6F6DC484E44B28A9E6E9CC20D09</unitid>
+            <unittitle>verplaatst</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1369/1711"/>
+          </did>
+          <scopecontent>
+            <p>Dit stuk is in het verleden al verplaatst naar Dinther II. Nu inv.nr. 45 (1433-03-19).</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did id="MF17391927">
+            <unitid type="guid">7F22D985972B418EA26092883A84D98D</unitid>
+            <unitid>3</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7F22D985972B418EA26092883A84D98D</unitid>
+            <unittitle>Akte van overdracht van een erfcijns in Dinther, 1556</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1556">1556</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van een erfcijns in Dinther, 1556</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/7F22D985972B418EA26092883A84D98D" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17391930">
+            <unitid type="guid">29DAE870432F47F1ACE622AC1B0D5370</unitid>
+            <unitid>4</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/29DAE870432F47F1ACE622AC1B0D5370</unitid>
+            <unittitle>Stukken betreffende een morgen in de gemeint van 's-Hertogenbosch, 1369-1449</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1369/1449">1369-1449</unitdate>
+            <physdesc>6 charters</physdesc>
+          </did>
+          <scopecontent>
+            <p>voorheen verbonden</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Stukken betreffende een morgen in de gemeint van 's-Hertogenbosch, 1369-1449</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/29DAE870432F47F1ACE622AC1B0D5370" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17391942">
+            <unitid type="guid">A8F7E2DE6EC948A7A9DAC0FE9CA20DBA</unitid>
+            <unitid>5</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A8F7E2DE6EC948A7A9DAC0FE9CA20DBA</unitid>
+            <unittitle>Akte van verkoop van een erfcijns in Dinther, 1560</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1560">1560</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een erfcijns in Dinther, 1560</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A8F7E2DE6EC948A7A9DAC0FE9CA20DBA" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17391944">
+            <unitid type="guid">134A8BBA23544B81AFD89425A3A593CB</unitid>
+            <unitid>6</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/134A8BBA23544B81AFD89425A3A593CB</unitid>
+            <unittitle>Akte van overdracht van een erfcijns in Dinther, 1526</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1526">1526</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van een erfcijns in Dinther, 1526</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/134A8BBA23544B81AFD89425A3A593CB" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392138">
+            <unitid type="guid">1B272666DC644932B50E818FBE7B37D5</unitid>
+            <unitid>7</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1B272666DC644932B50E818FBE7B37D5</unitid>
+            <unittitle>Akte van overdracht van land in Dinther, 1669</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1669">1669</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van land in Dinther, 1669</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1B272666DC644932B50E818FBE7B37D5" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392140">
+            <unitid type="guid">A08535B804A6445B8C9A82E93818BE53</unitid>
+            <unitid>8</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A08535B804A6445B8C9A82E93818BE53</unitid>
+            <unittitle>Betalingsbelofte, 1565</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1565">1565</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Betalingsbelofte, 1565</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A08535B804A6445B8C9A82E93818BE53" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392142">
+            <unitid type="guid">A2113454E44149799AA54FC418D5047D</unitid>
+            <unitid>9</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A2113454E44149799AA54FC418D5047D</unitid>
+            <unittitle>Akte van verkoop van een huis en grond in Dinther, 1557</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1557">1557</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een huis en grond in Dinther, 1557</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A2113454E44149799AA54FC418D5047D" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392146">
+            <unitid type="guid">437F7E06829A4941AA5B11A3D63EB740</unitid>
+            <unitid>10</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/437F7E06829A4941AA5B11A3D63EB740</unitid>
+            <unittitle>Akte van goedkeuring door de bisschop van 's-Hertogenbosch van een zondagse vroegmis in Dinther, 1607</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1607">1607</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van goedkeuring door de bisschop van 's-Hertogenbosch van een zondagse vroegmis in Dinther, 1607</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/437F7E06829A4941AA5B11A3D63EB740" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392316">
+            <unitid type="guid">C465881F1A2D43F4B89EC4BBB8AC5CD7</unitid>
+            <unitid>11</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C465881F1A2D43F4B89EC4BBB8AC5CD7</unitid>
+            <unittitle>Lening door het corpus van Dinther van een geldbedrag, 1675</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1675">1675</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Lening door het corpus van Dinther van een geldbedrag, 1675</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C465881F1A2D43F4B89EC4BBB8AC5CD7" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392319">
+            <unitid type="guid">DE835AE07E2C4DD2866A591238694115</unitid>
+            <unitid>12</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DE835AE07E2C4DD2866A591238694115</unitid>
+            <unittitle>Akte van goedkeuring door de hertogen van Brabant van een zondagse vroegmis in Dinther, 1610</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1610">1610</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van goedkeuring door de hertogen van Brabant van een zondagse vroegmis in Dinther, 1610</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DE835AE07E2C4DD2866A591238694115" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392320">
+            <unitid type="guid">2FEB6818EDF747E187167C93BD48F234</unitid>
+            <unitid>13</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2FEB6818EDF747E187167C93BD48F234</unitid>
+            <unittitle>verplaatst</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1369/1711"/>
+          </did>
+          <scopecontent>
+            <p>Dit stuk is in het verleden al verplaatst naar Dinther II. Nu inv.nr. 48.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392346">
+            <unitid type="guid">9838E4595C4A48DE83F5CA8E0FA90E59</unitid>
+            <unitid>14</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/9838E4595C4A48DE83F5CA8E0FA90E59</unitid>
+            <unittitle>Akte van scheiding van aangekochte gronden in Dinther, 1673</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1673">1673</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van scheiding van aangekochte gronden in Dinther, 1673</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/9838E4595C4A48DE83F5CA8E0FA90E59" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392334">
+            <unitid type="guid">E967797DBBDB4A94B808BC9B6C1CC9D0</unitid>
+            <unitid>15</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E967797DBBDB4A94B808BC9B6C1CC9D0</unitid>
+            <unittitle>Akte van verkoop van een rente, 1609</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1609">1609</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een rente, 1609</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E967797DBBDB4A94B808BC9B6C1CC9D0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392347">
+            <unitid type="guid">CB232CEE79D74CB98932BEDC4C4CD5D9</unitid>
+            <unitid>16</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/CB232CEE79D74CB98932BEDC4C4CD5D9</unitid>
+            <unittitle>Akte waarbij onder voorwaarden een erfcijns wordt toegevoegd aan de gestichte zondagse vroegmis in Dinther, 1619</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1619">1619</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte waarbij onder voorwaarden een erfcijns wordt toegevoegd aan de gestichte zondagse vroegmis in Dinther, 1619</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/CB232CEE79D74CB98932BEDC4C4CD5D9" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392362">
+            <unitid type="guid">1422BD976339493B9A1139E71D82D594</unitid>
+            <unitid>17</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1422BD976339493B9A1139E71D82D594</unitid>
+            <unittitle>Akte van vestiging van een erfcijns in Dinther, 1610</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1610">1610</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van vestiging van een erfcijns in Dinther, 1610</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1422BD976339493B9A1139E71D82D594" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392408">
+            <unitid type="guid">6F41CDF9433C4706867B42B45080835B</unitid>
+            <unitid>18</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/6F41CDF9433C4706867B42B45080835B</unitid>
+            <unittitle>Akte van verkoop van een huis in Dinther, 1607</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1607">1607</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een huis in Dinther, 1607</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/6F41CDF9433C4706867B42B45080835B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392419">
+            <unitid type="guid">3097CC22B7FC44DDB1DD1B7864E09078</unitid>
+            <unitid>19</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3097CC22B7FC44DDB1DD1B7864E09078</unitid>
+            <unittitle>Akte van verkoop van een huis en grond in Dinther en Heeswijk, 1580</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1580">1580</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een huis en grond in Dinther en Heeswijk, 1580</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3097CC22B7FC44DDB1DD1B7864E09078" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392421">
+            <unitid type="guid">58B958B5C0BE47C2B74F5011BA03D66B</unitid>
+            <unitid>20</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/58B958B5C0BE47C2B74F5011BA03D66B</unitid>
+            <unittitle>Akte van overdracht van twee erfcijnzen, 1616</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1616">1616</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van twee erfcijnzen, 1616</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/58B958B5C0BE47C2B74F5011BA03D66B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392423">
+            <unitid type="guid">2BF5B3766D60488C825F586165C11732</unitid>
+            <unitid>21</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/2BF5B3766D60488C825F586165C11732</unitid>
+            <unittitle>Akte van verkoop van een erfrente, 1614</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1614">1614</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een erfrente, 1614</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/2BF5B3766D60488C825F586165C11732" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392426">
+            <unitid type="guid">1B20A5EC00F0490FB7E9813311C59CD8</unitid>
+            <unitid>22</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1B20A5EC00F0490FB7E9813311C59CD8</unitid>
+            <unittitle>Akte van verkoop van een schuldbrief in Dinther, 1620</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1620">1620</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een schuldbrief in Dinther, 1620</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1B20A5EC00F0490FB7E9813311C59CD8" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392578">
+            <unitid type="guid">BF1EA4C5F9DD44B0AED9895815B2FD06</unitid>
+            <unitid>23</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BF1EA4C5F9DD44B0AED9895815B2FD06</unitid>
+            <unittitle>Akte van verkoop van een erfcijns in Dinther, 1567</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1567">1567</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een erfcijns in Dinther, 1567</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/BF1EA4C5F9DD44B0AED9895815B2FD06" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392582">
+            <unitid type="guid">E76756ADF4224747B66457FF9099E4E5</unitid>
+            <unitid>24</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/E76756ADF4224747B66457FF9099E4E5</unitid>
+            <unittitle>Akte van verkoop van land in Dinther, 1672</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1672">1672</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van land in Dinther, 1672</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/E76756ADF4224747B66457FF9099E4E5" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392584">
+            <unitid type="guid">8CD499D03B214D559DB5022A008DD70C</unitid>
+            <unitid>25</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/8CD499D03B214D559DB5022A008DD70C</unitid>
+            <unittitle>Akte van verkoop van een erfcijns, 1587</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1587">1587</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een erfcijns, 1587</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/8CD499D03B214D559DB5022A008DD70C" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392586">
+            <unitid type="guid">F40002588C394432BFBB4DE65CB213DE</unitid>
+            <unitid>26</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F40002588C394432BFBB4DE65CB213DE</unitid>
+            <unittitle>Vestiging van een lijfrente, 1564</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1564">1564</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Vestiging van een lijfrente, 1564</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F40002588C394432BFBB4DE65CB213DE" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392587">
+            <unitid type="guid">FEE5A8CF6FC845BAB1402065007D29C5</unitid>
+            <unitid>27</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/FEE5A8CF6FC845BAB1402065007D29C5</unitid>
+            <unittitle>Akte van overdracht van land in Moergestel, 1711</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1711">1711</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <scopecontent>
+            <p>afwijkend geperforeerd</p>
+          </scopecontent>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van land in Moergestel, 1711</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/FEE5A8CF6FC845BAB1402065007D29C5" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392595">
+            <unitid type="guid">63E1FF3B935046C09A9045EB06C34724</unitid>
+            <unitid>28</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/63E1FF3B935046C09A9045EB06C34724</unitid>
+            <unittitle>Uitspraak in het geschil tussen de rector van het Theobaldusaltaar in Dinther en enkele ingezetenen van Dinther, 1546</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1546">1546</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Uitspraak in het geschil tussen de rector van het Theobaldusaltaar in Dinther en enkele ingezetenen van Dinther, 1546</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/63E1FF3B935046C09A9045EB06C34724" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392597">
+            <unitid type="guid">23386D4E24D14126AB12E40763E32CF5</unitid>
+            <unitid>29</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/23386D4E24D14126AB12E40763E32CF5</unitid>
+            <unittitle>Akte van verkoop van een huis met toebehoren in Dinther, 1607</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1607">1607</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een huis met toebehoren in Dinther, 1607</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/23386D4E24D14126AB12E40763E32CF5" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392599">
+            <unitid type="guid">3305682398614300AA7A6722CB2424A0</unitid>
+            <unitid>30</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/3305682398614300AA7A6722CB2424A0</unitid>
+            <unittitle>Overeenkomst tussen kinderen uit verschillende huwelijken hun gezamenlijk aanbestorven goederen te verdelen, 1563</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1563">1563</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Overeenkomst tussen kinderen uit verschillende huwelijken hun gezamenlijk aanbestorven goederen te verdelen, 1563</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/3305682398614300AA7A6722CB2424A0" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392601">
+            <unitid type="guid">A0E68B35372947F9A57336FD18BB6607</unitid>
+            <unitid>31</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A0E68B35372947F9A57336FD18BB6607</unitid>
+            <unittitle>Opdracht aan de deurwaarder tot aanmaning van schuldenaren, 1651</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1651">1651</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Opdracht aan de deurwaarder tot aanmaning van schuldenaren, 1651</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/A0E68B35372947F9A57336FD18BB6607" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392605">
+            <unitid type="guid">1D9500ECAA1742C1B621C9DC84F0A69E</unitid>
+            <unitid>32</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1D9500ECAA1742C1B621C9DC84F0A69E</unitid>
+            <unittitle>Eigendomsbewijs van land in Dinther wegens een erfdeling, 1667</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1667">1667</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Eigendomsbewijs van land in Dinther wegens een erfdeling, 1667</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/1D9500ECAA1742C1B621C9DC84F0A69E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392607">
+            <unitid type="guid">62BDE482E19D4423A6734FF64F4E918B</unitid>
+            <unitid>33</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/62BDE482E19D4423A6734FF64F4E918B</unitid>
+            <unittitle>Akte van verkoop van een erfpacht in Schijndel, 1516</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1516">1516</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een erfpacht in Schijndel, 1516</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/62BDE482E19D4423A6734FF64F4E918B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392610">
+            <unitid type="guid">072DAE5076EC4DD293FAAA9FE4E0B64E</unitid>
+            <unitid>34</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/072DAE5076EC4DD293FAAA9FE4E0B64E</unitid>
+            <unittitle>Akte van overdracht van een erfcijns in Dinther, 1625</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1625">1625</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van een erfcijns in Dinther, 1625</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/072DAE5076EC4DD293FAAA9FE4E0B64E" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392612">
+            <unitid type="guid">67AB17BB65CD4DD4A58AA1E26A137F92</unitid>
+            <unitid>35</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/67AB17BB65CD4DD4A58AA1E26A137F92</unitid>
+            <unittitle>Akte van overdracht van een erfrente, 1682</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1682">1682</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van een erfrente, 1682</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/67AB17BB65CD4DD4A58AA1E26A137F92" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392614">
+            <unitid type="guid">DC9234CC9FF54E59A44680BA7DDA5D20</unitid>
+            <unitid>36</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DC9234CC9FF54E59A44680BA7DDA5D20</unitid>
+            <unittitle>Akte van overdracht van een erfpacht in Schijndel, 1507</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1507">1507</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van een erfpacht in Schijndel, 1507</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/DC9234CC9FF54E59A44680BA7DDA5D20" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392617">
+            <unitid type="guid">09FF73741C2E455FA794364F5C77DF47</unitid>
+            <unitid>37</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/09FF73741C2E455FA794364F5C77DF47</unitid>
+            <unittitle>Akte van verkoop van land in Dinther, 1566</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1566">1566</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van land in Dinther, 1566</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/09FF73741C2E455FA794364F5C77DF47" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392619">
+            <unitid type="guid">874F1CF465D04CD5B3C84746E91DEE53</unitid>
+            <unitid>38</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/874F1CF465D04CD5B3C84746E91DEE53</unitid>
+            <unittitle>Lening van geld door het dorp Dinther, 1698</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1698">1698</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Lening van geld door het dorp Dinther, 1698</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/874F1CF465D04CD5B3C84746E91DEE53" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF17392621">
+          <unitid type="guid">D5C508C08B6847A2A05D7DEDFB8147CB</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Dinther, met perforaties zoals in map Dinther I</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1369/1711"/>
+        </did>
+        <c02 level="file">
+          <did id="MF17392624">
+            <unitid type="guid">D2CAAE0191474B309549C6B939E0122A</unitid>
+            <unitid>39</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D2CAAE0191474B309549C6B939E0122A</unitid>
+            <unittitle>Akte van verkoop van land in Hintham, 1447</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1447">1447</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van land in Hintham, 1447</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/D2CAAE0191474B309549C6B939E0122A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392629">
+            <unitid type="guid">5D5EF8B48D3D46AD8AEB569C45CA4154</unitid>
+            <unitid>40</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5D5EF8B48D3D46AD8AEB569C45CA4154</unitid>
+            <unittitle>Testament van Claes Flipsen Arnoldszoon, 1517</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1517">1517</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Testament van Claes Flipsen Arnoldszoon, 1517</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/5D5EF8B48D3D46AD8AEB569C45CA4154" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392631">
+            <unitid type="guid">F80351D836FE438D8C5709774A49786B</unitid>
+            <unitid>41</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F80351D836FE438D8C5709774A49786B</unitid>
+            <unittitle>Akte van verkoop van een erfpacht in Dinther, 1518</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1518">1518</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van verkoop van een erfpacht in Dinther, 1518</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/F80351D836FE438D8C5709774A49786B" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+        <c02 level="file">
+          <did id="MF17392633">
+            <unitid type="guid">C36B679C577A418D9D000CAF5E513C28</unitid>
+            <unitid>42</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/C36B679C577A418D9D000CAF5E513C28</unitid>
+            <unittitle>Akte van overdracht van een erfcijns in Dinther, 1580</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1580">1580</unitdate>
+            <physdesc>1 charter</physdesc>
+          </did>
+          <odd type="VINDPLAATS ORIGINEEL">
+            <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+          </odd>
+          <controlaccess>
+            <controlaccess>
+              <head>OAI-PMH set</head>
+              <subject>MONASTERIUM</subject>
+            </controlaccess>
+          </controlaccess>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Akte van overdracht van een erfcijns in Dinther, 1580</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/C36B679C577A418D9D000CAF5E513C28" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF17392644">
+          <unitid type="guid">7D70B3ABB26649819DBD8B9CAFFA3F52</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Map Dinther II</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1369/1711"/>
+        </did>
+        <c02 level="subseries">
+          <did id="MF17392940">
+            <unitid type="guid">D343AE4D2DAB44138BECFAB943B85FFD</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Sint-Theobaldusaltaar in de kerk van Dinther</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1369/1711"/>
+          </did>
+          <c03 level="subseries">
+            <did id="MF17392942">
+              <unitid type="guid">8AA8B4465F564D14A772F1092DF31E33</unitid>
+              <unitid type="series_code"/>
+              <unittitle>Stichting</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1369/1711"/>
+            </did>
+            <c04 level="file">
+              <did id="MF17392947">
+                <unitid type="guid">5EE56F582AB848FEA318328F5FAC696C</unitid>
+                <unitid>43</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5EE56F582AB848FEA318328F5FAC696C</unitid>
+                <unittitle>Testament van heer Emond Vleeshouwers, pastoor van Dinther, waarbij hij een altaar wenst te stichten, 1457</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1457">1457</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Testament van heer Emond Vleeshouwers, pastoor van Dinther, waarbij hij een altaar wenst te stichten, 1457</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/5EE56F582AB848FEA318328F5FAC696C" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+            <c04 level="file">
+              <did id="MF17392948">
+                <unitid type="guid">A467B95AC5F64B9483FE39A27974DA2B</unitid>
+                <unitid>44</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/A467B95AC5F64B9483FE39A27974DA2B</unitid>
+                <unittitle>Goedkeuring van de stichting van het Sint-Theobaldusaltaar, 1457-1458</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1457/1458">1457-1458</unitdate>
+                <physdesc>2 charters</physdesc>
+              </did>
+              <scopecontent>
+                <p>getransfigeerd</p>
+              </scopecontent>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Goedkeuring van de stichting van het Sint-Theobaldusaltaar, 1457-1458</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/A467B95AC5F64B9483FE39A27974DA2B" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did id="MF17392943">
+              <unitid type="guid">EED0B1087CA1442DAA68870C93143C8D</unitid>
+              <unitid type="series_code"/>
+              <unittitle>Bij de stichting ingebrachte goederen</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1369/1711"/>
+            </did>
+            <c04 level="file">
+              <did id="MF17392949">
+                <unitid type="guid">475494B5B22E45B2B0E2510A3B8B7132</unitid>
+                <unitid>45</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/475494B5B22E45B2B0E2510A3B8B7132</unitid>
+                <unittitle>Testament van Aert van Zochel, 1446, met retroacta, 1432-1433</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1432/1446">1432-1433</unitdate>
+                <physdesc>3 charters</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Testament van Aert van Zochel, 1446, met retroacta, 1432-1433</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/475494B5B22E45B2B0E2510A3B8B7132" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+            <c04 level="file">
+              <did id="MF17392950">
+                <unitid type="guid">7163F951D28545D194290A6BDCF376EE</unitid>
+                <unitid>46</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/7163F951D28545D194290A6BDCF376EE</unitid>
+                <unittitle>Eigendomsbewijs van de stichter, Emond Vleeshouwers, van een erfpacht in Dinther, 1455, met retroacta, 1451-1454</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1451/1455">1451-1454</unitdate>
+                <physdesc>4 charters</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Eigendomsbewijs van de stichter, Emond Vleeshouwers, van een erfpacht in Dinther, 1455, met retroacta, 1451-1454</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/7163F951D28545D194290A6BDCF376EE" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did id="MF17392944">
+              <unitid type="guid">40A2BE0516904F2CB1508B356D525207</unitid>
+              <unitid type="series_code"/>
+              <unittitle>Ten behoeve van de stichting aangekochte goederen</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1369/1711"/>
+            </did>
+            <c04 level="file">
+              <did id="MF17392951">
+                <unitid type="guid">11BD99637B7B41F78C3EFF6298775FB3</unitid>
+                <unitid>47</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/11BD99637B7B41F78C3EFF6298775FB3</unitid>
+                <unittitle>Koopakte van een erfpacht in Beugt, 1458, met retroacta, 1439 en 1456</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1439/1458">1439 en 1456</unitdate>
+                <physdesc>3 charters</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Koopakte van een erfpacht in Beugt, 1458, met retroacta, 1439 en 1456</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/11BD99637B7B41F78C3EFF6298775FB3" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+            <c04 level="file">
+              <did id="MF17392952">
+                <unitid type="guid">DAAE3F5FBF434122B12B427EF8E8944F</unitid>
+                <unitid>48</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/DAAE3F5FBF434122B12B427EF8E8944F</unitid>
+                <unittitle>Koopakte van een erfpacht in Schijndel, 1458</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1458">1458</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Koopakte van een erfpacht in Schijndel, 1458</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/DAAE3F5FBF434122B12B427EF8E8944F" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+            <c04 level="file">
+              <did id="MF17392953">
+                <unitid type="guid">D08668AAC08C4211B761AF622F97D2E8</unitid>
+                <unitid>49</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/D08668AAC08C4211B761AF622F97D2E8</unitid>
+                <unittitle>Koopakte van een erfpacht in Dinther, 1458</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1458">1458</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Koopakte van een erfpacht in Dinther, 1458</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/D08668AAC08C4211B761AF622F97D2E8" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+            <c04 level="file">
+              <did id="MF17392954">
+                <unitid type="guid">1A1892C5549E40BEBA863A8929858D11</unitid>
+                <unitid>50</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/1A1892C5549E40BEBA863A8929858D11</unitid>
+                <unittitle>Koopakte van een erfpacht in Dinther, met bijlage, 1459</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1459">1459</unitdate>
+                <physdesc>2 charters</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Koopakte van een erfpacht in Dinther, met bijlage, 1459</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/1A1892C5549E40BEBA863A8929858D11" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+            <c04 level="file">
+              <did id="MF17392955">
+                <unitid type="guid">B316223220EC4A8DADDC78728F946F2E</unitid>
+                <unitid>51</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B316223220EC4A8DADDC78728F946F2E</unitid>
+                <unittitle>Koopakte van een erfpacht in Dinther, 1459</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1459">1459</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Koopakte van een erfpacht in Dinther, 1459</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/B316223220EC4A8DADDC78728F946F2E" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+            <c04 level="file">
+              <did id="MF17392956">
+                <unitid type="guid">B72AC5AB4C5E4CC38C1F2105CEDDC171</unitid>
+                <unitid>52</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B72AC5AB4C5E4CC38C1F2105CEDDC171</unitid>
+                <unittitle>Koopakte van een erfpacht in Schijndel, 1460</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1460">1460</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Koopakte van een erfpacht in Schijndel, 1460</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/B72AC5AB4C5E4CC38C1F2105CEDDC171" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did id="MF17392945">
+              <unitid type="guid">0F3A6D471C2448488B3C531F2CBAEE78</unitid>
+              <unitid type="series_code"/>
+              <unittitle>Later verworven goederen</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1369/1711"/>
+            </did>
+            <c04 level="file">
+              <did id="MF17392957">
+                <unitid type="guid">F2F3ABE89B944E74A3C53D84B3BC4D66</unitid>
+                <unitid>53</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/F2F3ABE89B944E74A3C53D84B3BC4D66</unitid>
+                <unittitle>Testament van Jan Keesmeker, rector van de kapel in Loosbroek, 1468</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1468">1468</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Testament van Jan Keesmeker, rector van de kapel in Loosbroek, 1468</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/F2F3ABE89B944E74A3C53D84B3BC4D66" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+            <c04 level="file">
+              <did id="MF17392958">
+                <unitid type="guid">61E9E4E003F84E7F8A911E14B5E2CFD9</unitid>
+                <unitid>54</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/61E9E4E003F84E7F8A911E14B5E2CFD9</unitid>
+                <unittitle>Koopakte van een erfpacht in Dinther, 1470</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1470">1470</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Koopakte van een erfpacht in Dinther, 1470</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/61E9E4E003F84E7F8A911E14B5E2CFD9" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+            <c04 level="file">
+              <did id="MF17392959">
+                <unitid type="guid">BA25FCFDD11142969B467B196FE80498</unitid>
+                <unitid>55</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/BA25FCFDD11142969B467B196FE80498</unitid>
+                <unittitle>Koopakten van een erfpacht en land in Dinther, 1479</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1479">1479</unitdate>
+                <physdesc>2 charters</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Koopakten van een erfpacht en land in Dinther, 1479</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/BA25FCFDD11142969B467B196FE80498" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+            <c04 level="file">
+              <did id="MF17392961">
+                <unitid type="guid">070B5C91822549A9908BC2C0D52C5F1D</unitid>
+                <unitid>56</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/070B5C91822549A9908BC2C0D52C5F1D</unitid>
+                <unittitle>Retroacte van een eigendomsbewijs van heer Jan Vleeshouwer, priester, van land in Dinther, 1481</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1481">1481</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Retroacte van een eigendomsbewijs van heer Jan Vleeshouwer, priester, van land in Dinther, 1481</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/070B5C91822549A9908BC2C0D52C5F1D" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+            <c04 level="file">
+              <did id="MF17392962">
+                <unitid type="guid">923FA703FD15421595F7AE5E6C9A08D5</unitid>
+                <unitid>57</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/923FA703FD15421595F7AE5E6C9A08D5</unitid>
+                <unittitle>Eigendomsbewijs voor heer Jan Vleeshouwer, priester, van land en een huis in Dinther, 1493, met retroacte, 1427</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1427/1493">1427</unitdate>
+                <physdesc>1 charter</physdesc>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Eigendomsbewijs voor heer Jan Vleeshouwer, priester, van land en een huis in Dinther, 1493, met retroacte, 1427</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/923FA703FD15421595F7AE5E6C9A08D5" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did id="MF21368951">
+              <unitid type="guid">6EC15655754D4DB6A3AD2E6999EEDAEC</unitid>
+              <unitid type="series_code"/>
+              <unittitle>Financieel beheer</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1369/1711"/>
+            </did>
+            <c04 level="file">
+              <did id="MF21368949">
+                <unitid type="guid">422E29A6758D4121BF379B2B1D504C58</unitid>
+                <unitid>66</unitid>
+                <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/422E29A6758D4121BF379B2B1D504C58</unitid>
+                <unittitle>Legger en aantekeningen van inkomsten en uitgaven, 1625-1648</unittitle>
+                <unitdate calendar="gregorian" era="ce" normal="1625/1648">1625-1648</unitdate>
+                <physdesc>1 deel</physdesc>
+                <unitid type="obsolete">Archief Kluis 32-6c</unitid>
+              </did>
+              <odd type="VINDPLAATS ORIGINEEL">
+                <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+              </odd>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Legger en aantekeningen van inkomsten en uitgaven, 1625-1648</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/422E29A6758D4121BF379B2B1D504C58" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did id="MF17392941">
+            <unitid type="guid">8DD39E8BFB694F62ABFF49327FEDCD0B</unitid>
+            <unitid type="series_code"/>
+            <unittitle>Overige stukken</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1369/1711"/>
+          </did>
+          <c03 level="file">
+            <did id="MF17392963">
+              <unitid type="guid">5278957E00BE40B9BF040D53650D5111</unitid>
+              <unitid>58</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5278957E00BE40B9BF040D53650D5111</unitid>
+              <unittitle>Uitspraak van de officiaal van Luik in het geschil tussen de armen van Dinther en Jan van Dijk van Den Bosch over het legaat van Wouter Spirinc van Dinther, 1380</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1380">1380</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Uitspraak van de officiaal van Luik in het geschil tussen de armen van Dinther en Jan van Dijk van Den Bosch over het legaat van Wouter Spirinc van Dinther, 1380</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/5278957E00BE40B9BF040D53650D5111" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF17392964">
+              <unitid type="guid">B8DAD0581A3C4C5D8AC8B8DC4B92ED48</unitid>
+              <unitid>59</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/B8DAD0581A3C4C5D8AC8B8DC4B92ED48</unitid>
+              <unittitle>Eigendomsbewijs van een erfpacht in Dinther, 1448</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1448">1448</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Eigendomsbewijs van een erfpacht in Dinther, 1448</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/B8DAD0581A3C4C5D8AC8B8DC4B92ED48" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF17392965">
+              <unitid type="guid">34913E49A54F4C85A1184505CB204E6E</unitid>
+              <unitid>60</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/34913E49A54F4C85A1184505CB204E6E</unitid>
+              <unittitle>Stukken betreffende land in het Retsel in Dinther, 1449 en 1489</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1449/1489">1449 en 1489</unitdate>
+              <physdesc>3 charters</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Stukken betreffende land in het Retsel in Dinther, 1449 en 1489</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/34913E49A54F4C85A1184505CB204E6E" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF17392973">
+              <unitid type="guid">5C88D804D5B54EB3863DE595265643CA</unitid>
+              <unitid>61</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/5C88D804D5B54EB3863DE595265643CA</unitid>
+              <unittitle>Eigendomsbewijs van een erfpacht in Dinther, 1453</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1453">1453</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Eigendomsbewijs van een erfpacht in Dinther, 1453</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/5C88D804D5B54EB3863DE595265643CA" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF17392966">
+              <unitid type="guid">4334034F99F245208E67ED1497F5EAD9</unitid>
+              <unitid>62</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/4334034F99F245208E67ED1497F5EAD9</unitid>
+              <unittitle>Eigendomsbewijs voor de armen van Dinther van een roggepacht, 1465</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1465">1465</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Eigendomsbewijs voor de armen van Dinther van een roggepacht, 1465</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/4334034F99F245208E67ED1497F5EAD9" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF17392978">
+              <unitid type="guid">76C85C66219941E29F557E0EEE856639</unitid>
+              <unitid>63</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/76C85C66219941E29F557E0EEE856639</unitid>
+              <unittitle>Eigendomsbewijs van land in Dinther, 1466</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1466">1466</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Eigendomsbewijs van land in Dinther, 1466</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/76C85C66219941E29F557E0EEE856639" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+          <c03 level="file">
+            <did id="MF17392979">
+              <unitid type="guid">AB0C26B97B7F464B9AC139C4EA5A5F13</unitid>
+              <unitid>64</unitid>
+              <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/AB0C26B97B7F464B9AC139C4EA5A5F13</unitid>
+              <unittitle>Eigendomsbewijs van een erfrente, deels in Schijndel, deels in Veghel, 1480</unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1480">1480</unitdate>
+              <physdesc>1 charter</physdesc>
+            </did>
+            <odd type="VINDPLAATS ORIGINEEL">
+              <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
+            </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Eigendomsbewijs van een erfrente, deels in Schijndel, deels in Veghel, 1480</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/AB0C26B97B7F464B9AC139C4EA5A5F13" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did id="MF17392980">
+          <unitid type="guid">B722C1AFC11441D78A3FE6EF43389C98</unitid>
+          <unitid type="series_code"/>
+          <unittitle>Documentatie</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1369/1711"/>
+        </did>
+        <c02 level="file">
+          <did id="MF17392981">
+            <unitid type="guid">531181B6023746BE8C5E1B934CAFF84A</unitid>
+            <unitid>65</unitid>
+            <unitid audience="internal" type="handle">https://proxy.archieven.nl/235/531181B6023746BE8C5E1B934CAFF84A</unitid>
+            <unittitle>Verpakkingsmateriaal met aantekeningen, 1870 en 1952</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1870/1952">1870 en 1952</unitdate>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <daogrp xlink:type="extended">
+            <daodesc>
+              <p>Verpakkingsmateriaal met aantekeningen, 1870 en 1952</p>
+            </daodesc>
+            <resource xlink:type="resource" xlink:label="start"/>
+            <daoloc xlink:href="https://proxy.archieven.nl/235/531181B6023746BE8C5E1B934CAFF84A" xlink:type="locator" xlink:label="reference"/>
+            <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+          </daogrp>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+  </metadata>
+  <!--oai_ead/NL-HtBHIC_2141/82F08ABD491C48D19EAC77E47CB9E0C9_oai_ead.xml-->
+</record>

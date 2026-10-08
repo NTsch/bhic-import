@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <header>
     <identifier>F61EFC2B0B0B4FA390DB37992BAFA5FE</identifier>
-    <datestamp>2026-09-04</datestamp>
+    <datestamp>2026-09-14</datestamp>
     <setSpec>MONASTERIUM</setSpec>
     <setSpec>MONASTERIUM_235</setSpec>
   </header>
@@ -36,6 +36,11 @@
       </note>
     </did>
     <controlaccess>
+      <controlaccess>
+        <head>OAI-PMH set</head>
+        <subject>APEX</subject>
+        <subject>MONASTERIUM</subject>
+      </controlaccess>
       <controlaccess>
         <head>Categorie</head>
         <subject>Algemeen bestuur en Politiek</subject>
@@ -1834,6 +1839,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071243">
@@ -1846,6 +1857,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071244">
@@ -1911,6 +1928,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="otherlevel" otherlevel="filegrp">
             <did id="MF10071249">
@@ -2579,6 +2602,14 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Naamlijsten van schepenen, burgemeesters, kerkmeesters, armmeesters en gezworenen, 1751-1790</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/059628490AF0452D8AC2AD8D52902830" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10071305">
@@ -2608,6 +2639,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10071307">
@@ -2657,6 +2694,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10071310">
@@ -2670,6 +2713,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10071311">
@@ -2683,6 +2732,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10071312">
@@ -2696,6 +2751,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10071313">
@@ -2712,6 +2773,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10071314">
@@ -2728,6 +2795,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10071315">
@@ -2757,6 +2830,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF12786859">
@@ -2884,6 +2963,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10071326">
@@ -2990,6 +3075,14 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Lijsten van doden en begraven personen te Helvoirt meestal getekend door de koster, met incidenteel aantekeningen over de nalatenschappen van doden , 1749-1816</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/E200B48220864F208165FB25DF019127" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF11818641">
@@ -3073,6 +3166,20 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Akte, waarbij Johannes Bisscop, rentmeester van Brabant, de verkoop van heide door zijn voorganger Henric Lumbaert aan de meester van het huis van Giersbergen bevestigt en de grenzen vaststelt. 28 december 1339. 17e eeuws afschrift. Met stukken betreffende de Giersbergse tienden, 17e eeuw</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/A95FEAB773F4464B81D6FBD35BA2A6A4" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
             </c04>
             <c04 level="file">
               <did id="MF10071335">
@@ -3092,6 +3199,12 @@
               <odd type="REDEN GEEN UITLEEN">
                 <p>Scans beschikbaar</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
               <daogrp xlink:type="extended">
                 <daodesc>
                   <p>Akte, waarbij Maximiliaan van Oostenrijk, rooms koning, en Philip, hertog van Bourgondië, aan de ingezetenen van Helvoirt het voorpootrecht verlenen. 20 april 1491. Authentiek afschrift in tweevoud, 1717, 1729</p>
@@ -3113,6 +3226,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071337">
@@ -3126,6 +3245,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071338">
@@ -3152,6 +3277,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071340">
@@ -3165,6 +3296,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071341">
@@ -3194,6 +3331,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071343">
@@ -3207,6 +3350,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071344">
@@ -3284,6 +3433,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071349">
@@ -3300,6 +3455,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071350">
@@ -3329,6 +3490,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071352">
@@ -3345,6 +3512,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
           </c03>
           <c03 level="subseries">
@@ -3369,6 +3542,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071355">
@@ -3385,6 +3564,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071356">
@@ -3401,6 +3586,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071357">
@@ -3430,6 +3621,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071359">
@@ -3446,6 +3643,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071360">
@@ -3472,6 +3675,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
           </c03>
           <c03 level="subseries">
@@ -3496,6 +3705,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071364">
@@ -3560,6 +3775,12 @@
               <odd type="REDEN GEEN UITLEEN">
                 <p>Scans beschikbaar</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
               <daogrp xlink:type="extended">
                 <daodesc>
                   <p>Aantekening op basis van drie afschriften van akten van 1396, 1417 en 1553, over de turfvaart van Loon op Zand naar 's-Hertogenbosch. Met tekening, z. j. (c. 1500)</p>
@@ -3584,6 +3805,20 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Geschil tussen de ingezetenen van Helvoirt en Herpt over het gebruiksrecht van het Herptse ven. Met afschrift van een akkoord d. d, 30 november 1510, 1553</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/95198EF5790B4E9B8B3291146B01B0BC" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
             </c04>
             <c04 level="file">
               <did id="MF10071369">
@@ -3606,6 +3841,12 @@
               <odd type="OPMERKING SCANS">
                 <p>Mogelijk is niet dit hele inventarisnummer gescand, maar slechts de charters. Bij twijfel: neem contact op met info@bhic.nl.</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
               <daogrp xlink:type="extended">
                 <daodesc>
                   <p>Verzoekschrift door het dorpsbestuur aan de kanselier van Brabant inzake een geschil met de inwoners van Haaren over aardhaling voor de dijk tussen Helvoirt, Haaren en Esch. Met besluit van 3 juni 1616 en een dagvaarding door Albert van Oostenrijk en Isabella van de regenten van Haaren voor de Raad van Brabant, 1616</p>
@@ -3630,6 +3871,12 @@
               <odd type="REDEN GEEN UITLEEN">
                 <p>Scans beschikbaar</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
               <daogrp xlink:type="extended">
                 <daodesc>
                   <p>Geschil tussen Cornelis van Grevenbroeck, heer van Helvoirt, en de ingezetenen van Vlijmen, over de grenzen van de Helvoirtse gemeint. Met afschrift van een grensbepaling uit 1356 tussen Den Bosch, Vught en Cromvoirt aan de ene zijde en Vlijmen en Engelen aan de andere zijde, 1641</p>
@@ -3667,6 +3914,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071373">
@@ -3683,6 +3936,20 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Geschil tussen Helvoirt, Vlijmen, Onsenoort en Nieuwkuijk aan de ene zijde en Drunen aan de andere zijde, over de grenzen van de Helvoirtse gemeint. Met afschrift van een getuigenverklaring d. d. 25 april 1509 over het schouwrecht van de ingezetenen van Nieuwkuijk en de plaats van de oude graft van Giersbergen, 1653-1657</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/544BAD5E13644ECF97A9539A3B0FECE6" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
             </c04>
             <c04 level="file">
               <did id="MF10071374">
@@ -3702,6 +3969,12 @@
               <odd type="REDEN GEEN UITLEEN">
                 <p>Scans beschikbaar</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
               <daogrp xlink:type="extended">
                 <daodesc>
                   <p>Geschil tussen Helvoirt en Haaren over de verkoop van gemeintsgronden door Haaren en over het heffen van belasting op huizen, gelegen in de Haarense gemeint, maar onder jurisdictie van Helvoirt. Met afschriften van privileges uit 1309-1597 over de Haarense gemeint, 1687-1698</p>
@@ -3817,6 +4090,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10071378">
@@ -3885,6 +4164,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10071383">
@@ -4365,6 +4650,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF10071423">
@@ -7004,6 +7295,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071627">
@@ -7020,6 +7317,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071628">
@@ -7049,6 +7352,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071630">
@@ -7152,6 +7461,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071636">
@@ -7168,6 +7483,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10071637">
@@ -7210,6 +7531,12 @@
               <odd type="REDEN GEEN UITLEEN">
                 <p>Scans beschikbaar</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
               <daogrp xlink:type="extended">
                 <daodesc>
                   <p>Quotisatie (berekening van ieders aandeel) in de heffing van drie millioen gulden, 1808</p>
@@ -7275,6 +7602,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="otherlevel" otherlevel="filegrp">
                 <did id="MF10071645">
@@ -8658,6 +8991,20 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Besluit door het dorpsbestuur over wie in de teruggave van de verponding over het jaar 1733 zullen delen, 1734</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/0C0B98AAAC204F699DCF043542084710" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF10071754">
@@ -8671,6 +9018,14 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Opneming van schade als gevolg van overstroming, ten behoeve van de teruggave van de verponding, 1757</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/1980B5DB25FD43B6A8AB706752928E95" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF10071755">
@@ -8687,6 +9042,20 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Opneming van schade als gevolg van hagelstorm, ten behoeve van de teruggave van de verponding, 1760-1767</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/B7D10BBFA9CB462DB29E4E7C7632DDA0" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF10071756">
@@ -8703,6 +9072,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF10071757">
@@ -8740,6 +9115,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF10071760">
@@ -8756,6 +9137,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF10071761">
@@ -8775,6 +9162,12 @@
                 <odd type="REDEN GEEN UITLEEN">
                   <p>Scans beschikbaar</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
                 <daogrp xlink:type="extended">
                   <daodesc>
                     <p>Geschil tussen Helvoirt en Cromvoirt over de vaststelling van het aandeel van enige landerijen in de verponding en de bede, 1649-1650</p>
@@ -8846,6 +9239,14 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <daogrp xlink:type="extended">
+                  <daodesc>
+                    <p>Staat van de haardsteden en ploegen in de heerlijkheid Helvoirt, 1620</p>
+                  </daodesc>
+                  <resource xlink:type="resource" xlink:label="start"/>
+                  <daoloc xlink:href="https://proxy.archieven.nl/235/402E85320E5341D1A69995704B77274A" xlink:type="locator" xlink:label="reference"/>
+                  <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+                </daogrp>
               </c05>
               <c05 level="file">
                 <did id="MF10071767">
@@ -9188,6 +9589,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF10071783">
@@ -9204,6 +9611,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF10071784">
@@ -9220,6 +9633,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF12786836">
@@ -9275,6 +9694,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF12785842">
@@ -9303,6 +9728,12 @@
                 <odd type="VINDPLAATS ORIGINEEL">
                   <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
                 </odd>
+                <controlaccess>
+                  <controlaccess>
+                    <head>OAI-PMH set</head>
+                    <subject>MONASTERIUM</subject>
+                  </controlaccess>
+                </controlaccess>
               </c05>
               <c05 level="file">
                 <did id="MF10071789">
@@ -9379,6 +9810,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF12786820">
@@ -9447,6 +9884,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10071798">
@@ -9463,6 +9906,20 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Publicatie van het dorpsbestuur met bevel aan alle huisgezinnen om zich te voorzien van een of meer goede snaphanen in verband met de toenemende landloperij, 1751</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/F7515DDF5AA240E6B48343B783EA2556" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10071799">
@@ -9479,6 +9936,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10071800">
@@ -9495,6 +9958,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10071801">
@@ -9511,6 +9980,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="otherlevel" otherlevel="filegrp">
             <did id="MF10071802">
@@ -9561,6 +10036,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF12786819">
@@ -9590,6 +10071,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
         </c02>
         <c02 level="subseries">
@@ -13347,6 +13834,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10072042">
@@ -13363,6 +13856,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10072043">
@@ -13379,6 +13878,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10072044">
@@ -13395,6 +13900,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10072045">
@@ -13411,6 +13922,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10072046">
@@ -13440,6 +13957,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10072048">
@@ -13456,6 +13979,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10072049">
@@ -13498,6 +14027,14 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <daogrp xlink:type="extended">
+              <daodesc>
+                <p>Publicatie van officier, predikant en schepenen van Helvoirt, houdende, dat alle kinderen, die van de Armen zijn uitbesteed of ondersteuning genieten, geregeld de school moeten bezoeken op straffe van inhouding der uitkering, 25 januari 1759</p>
+              </daodesc>
+              <resource xlink:type="resource" xlink:label="start"/>
+              <daoloc xlink:href="https://proxy.archieven.nl/235/058D06D811EE4F568257DB31808EF810" xlink:type="locator" xlink:label="reference"/>
+              <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+            </daogrp>
           </c03>
           <c03 level="file">
             <did id="MF10072052">
@@ -13514,6 +14051,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10072053">
@@ -13530,6 +14073,12 @@
             <odd type="VINDPLAATS ORIGINEEL">
               <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
             </odd>
+            <controlaccess>
+              <controlaccess>
+                <head>OAI-PMH set</head>
+                <subject>MONASTERIUM</subject>
+              </controlaccess>
+            </controlaccess>
           </c03>
           <c03 level="file">
             <did id="MF10072054">
@@ -13571,6 +14120,14 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <daogrp xlink:type="extended">
+                <daodesc>
+                  <p>Overzicht van weerplichtige ingezetenen, bewapend met roer of stok, opgesteld in verband met de onveiligheid der wegen, 1630</p>
+                </daodesc>
+                <resource xlink:type="resource" xlink:label="start"/>
+                <daoloc xlink:href="https://proxy.archieven.nl/235/F62D9F3084324A8AA780096D32078268" xlink:type="locator" xlink:label="reference"/>
+                <arc xlink:type="arc" xlink:show="embed" xlink:actuate="onLoad" xlink:from="start" xlink:to="reference"/>
+              </daogrp>
             </c04>
             <c04 level="file">
               <did id="MF10072058">
@@ -13587,6 +14144,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10072059">
@@ -13663,6 +14226,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="otherlevel" otherlevel="filegrp">
               <did id="MF10072065">
@@ -13710,6 +14279,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="otherlevel" otherlevel="filegrp">
               <did id="MF10072069">
@@ -13834,6 +14409,12 @@
               <odd type="VINDPLAATS ORIGINEEL">
                 <p>&lt;B&gt;Den Bosch&lt;/B&gt;</p>
               </odd>
+              <controlaccess>
+                <controlaccess>
+                  <head>OAI-PMH set</head>
+                  <subject>MONASTERIUM</subject>
+                </controlaccess>
+              </controlaccess>
             </c04>
             <c04 level="file">
               <did id="MF10072079">
