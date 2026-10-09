@@ -25,5 +25,5 @@ cites a witness.
 
 `cei.xsd` is the schema of `icaruseu/mom-ca`
 (`my/XRX/src/mom/app/cei/xsd/cei.xsd`), an XSD 1.1 schema. The script writes one CEI
-file per fond, skips a fond without charters, validates each file and writes
+file per fond, `cei_<input file name>` as the Oxygen scenario names it, skips a fond without charters, validates each file and writes
 `report.tsv`.

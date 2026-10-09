@@ -28,7 +28,7 @@ def main(argv=None):
     sources = sorted(Path(args.ead).glob("*.xml"))[: args.limit]
     if args.dry_run:
         for source in sources:
-            print(f"would write {Path(args.out) / source.name}")
+            print(f"would write {Path(args.out) / f'cei_{source.name}'}")
         return 0
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
@@ -37,7 +37,7 @@ def main(argv=None):
     with PySaxonProcessor(license=False) as processor:
         executable = processor.new_xslt30_processor().compile_stylesheet(stylesheet_file=args.xsl)
         for source in sources:
-            target = out / source.name
+            target = out / f"cei_{source.name}"
             executable.transform_to_file(source_file=str(source), output_file=str(target))
             if charter_count(target) == 0:
                 target.unlink()
@@ -49,7 +49,7 @@ def main(argv=None):
             rows.append([source.name, charter_count(target), len(errors), first])
             print(f"{source.name}: {rows[-1][1]} charters, {len(errors)} schema errors {first[:160]}")
     with (out / "report.tsv").open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.writer(handle, delimiter="\t")
+        writer = csv.writer(handle, delimiter="\t", lineterminator="\n")
         writer.writerow(["file", "charters", "schema_errors", "first_error"])
         writer.writerows(rows)
     written = [row for row in rows if row[1]]
