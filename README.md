@@ -4,6 +4,10 @@
 It reads EAD as `harvest-oaipmh normalize` writes it: valid EAD 2002 with regest fields
 in EAD elements and every citation of an inventory or regest number as `ref`.
 
+The input is the normalized EAD of a harvest run, shared outside the repository. Put
+its files into `input/bhic-ead/` (git-ignored); the Oxygen scenario `EAD2CEI` reads them
+there and writes `output/cei_<file>`.
+
 ## What becomes a charter
 
 - In a fond with regests, each regest is a charter. The inventory items its citations name

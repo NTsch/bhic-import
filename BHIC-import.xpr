@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>input/bhic/records/6B41E6FF9EF24E1991FCBF32501D2107.xml</String>
+                                    <String>input/bhic-ead/6B41E6FF9EF24E1991FCBF32501D2107.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -30,7 +30,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>input/bhic/records/1ECA53335BE3425D994147545764B42E.xml</String>
+                                    <String>input/bhic-ead/1ECA53335BE3425D994147545764B42E.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -117,7 +117,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputResource">
-                                    <String>../../../output/cei_${cfne}</String>
+                                    <String>../../output/cei_${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
