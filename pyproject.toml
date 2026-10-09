@@ -1,0 +1,9 @@
+[project]
+name = "bhic-import"
+version = "0.1.0"
+description = "EAD of the BHIC Monasterium set to CEI"
+requires-python = ">=3.12"
+dependencies = ["saxonche>=12.5", "xmlschema>=3.4"]
+
+[tool.setuptools]
+py-modules = []
